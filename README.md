@@ -11,7 +11,7 @@
 2. **MASc in Mechanical Engineering** – ONTARIO TECH UNIVERSITY – Ontario, Canada
 3. **MSc in International Marketing** – HERIOT-WATT UNIVERSITY – UK
 4. **MBA in Marketing** – LUTON – UK
-5. **BSc in Manufacturing Engineering** – DU - BD
+5. **BSc in Manufacturing Engineering** – DU (BUTex) - BD
 
 ### In-progress
 1. **Micro Masters in Statistics and Data Science**, Massachusetts Institute of Technology (MIT), USA
