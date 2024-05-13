@@ -4,10 +4,10 @@
 ## RESEARCH INTEREST
 **Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Security, Ethics in AI**
 
-<code style="color : green">## EDUCATION</code>
+<code style="color : green"> ## EDUCATION </code>
 
 ### Complete
-1. **Doctor of Philosophy (PhD) in Machine Learning** (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA<br>
+1. **Doctor of Philosophy (PhD) in Machine Learning** <code style="color : green">(Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA</code> <br>
    **Advisor:** Dr. Peter Sandborn<br>
    **Advisory Committee:** Dr. Peter A Sandborn (Advisor and Chair), Dr. William Regli (Dean’s Representative), Dr. Mohammad Modarres, Dr. F. Patrick 
    McCluskey, Dr. Abhijit Dasgupta<br>
