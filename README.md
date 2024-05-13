@@ -154,7 +154,8 @@
 
 ## PROFESSIONAL DEVELOPMENT
 
-### Languages Speak: English | Bengali | Hindi | Urdu | French- 101 |Arabic-Reading and Writing only.
+### Languages Speak: 
+<code style="color : black">English | Bengali | Hindi | Urdu | French- 101 |Arabic-Reading and Writing only.</code>
 
 ### Professional Training
 - <code style="color : black">6.419x: Certificate for Data Analysis: Statistical Modeling and Computation in Applications, MIT, MA</code>
