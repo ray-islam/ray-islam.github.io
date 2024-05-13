@@ -6,6 +6,9 @@
 - Years OF teaching experience in universities & adult education settings.
 - Associate editor and reviewer for high-impact journals.
 
+## RESEARCH INTEREST
+Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Security, Ethics in AI
+
 ## EDUCATION
 ### Complete
 - **Ph.D. in Machine Learning** (Department of Mechanical Engineering) - University of Maryland, College Park (ABET Accredited)	  									
