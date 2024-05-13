@@ -1,4 +1,4 @@
-'''
+```
 ## Education
 ### Complete
 - **Ph.D. in Machine Learning** (Department of Mechanical Engineering) - University of Maryland, College Park (ABET Accredited)	  									
@@ -13,4 +13,4 @@
 ### Transferred
 - **Ph. D. in Mechanical Engineering**, University of Toronto, Canada (Transferred to GW, USA)
 - **Ph.D. in Mechanical Engineering**, Geroge Washington University, DC, USA (Transferred to UMD, USA)
-'''
+```
