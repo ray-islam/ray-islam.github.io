@@ -1,10 +1,10 @@
 ## SKILLS
-- Worked as a Chief Data Scientist and AI Director at leading global firms, overseeing multimillion-dollar operations and technical sales.
-- Years of AI/ML research experience, crafting solutions for finance, healthcare, manufacturing, education, and others.
-- Architected and established a bootcamp, creating AI courses for data analysts and scientists.
-- Published books, journal papers, and white papers on AI.
-- Years OF teaching experience in universities & adult education settings.
-- Associate editor and reviewer for high-impact journals.
+- **Worked as a Chief Data Scientist and AI Director at leading global firms, overseeing multimillion-dollar operations and technical sales.**
+- **Years of AI/ML research experience, crafting solutions for finance, healthcare, manufacturing, education, and others.**
+- **Architected and established a bootcamp, creating AI courses for data analysts and scientists.**
+- **Published books, journal papers, and white papers on AI.**
+- **Years OF teaching experience in universities & adult education settings.**
+- **Associate editor and reviewer for high-impact journals.**
 
 ## RESEARCH INTEREST
 Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Security, Ethics in AI
