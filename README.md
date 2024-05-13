@@ -26,7 +26,7 @@
 
 ## Academic Experience
 
-- **Adjunct Professor**, <code style="color : black">Information Sciences and Technology, George Mason University, Fairfax, VA, USA</code> <bd>				        - <code style="color : black">AIT 526: Natural Language Processing (Generative AI) – Graduate course</code>				       
+- **Adjunct Professor**, <code style="color : black">Information Sciences and Technology, George Mason University, Fairfax, VA, USA</code> <bd>				   - <code style="color : black">AIT 526: Natural Language Processing (Generative AI) – Graduate course</code>				       
 
 - **Lecturer**, <code style="color : black">ACES Honors College, University of Maryland, College Park, MD, USA</code> 		               
 - <code style="color : black">HACS100 Foundations in Cybersecurity - Undergraduate Course</code>		             	         	       
@@ -46,7 +46,7 @@
 
 ### Industrial Experience
 
-- <code style="color : black">Advisory Specialist Leader ((VP/Director of Product Development Equivalent) , AI and Cybersecurity,</code>**DELOITTE, USA**
+- <code style="color : black">Advisory Specialist Leader (VP/Director of Product Development Equivalent) , AI and Cybersecurity,</code>**DELOITTE, USA**
 
 - <code style="color : black">Chief Data Scientist(AIML),</code>**RAYTHEON, USA** 						           
 
