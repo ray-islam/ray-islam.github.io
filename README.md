@@ -53,11 +53,11 @@
 
 - <code style="color : black">Lead Data Scientist (AIML),</code>**American Institutes for Research (AIR) – Washington, D.C.** 		         
 
-- <code style="color : black">Lead Associate, Generative AI,</code>**Booz Allen Hamilton**
+- <code style="color : black">Lead Associate, Generative AI,</code>**BOOZ ALLEN HAMILTON**
 
- - <code style="color : black">Manager,</code> **Euro Nassa Ltd., UK (Clients: Tesco and Walmart)** 
+ - <code style="color : black">Manager,</code> **Euro Nassa Ltd., UK (Clients: TESCO and WAL-MART)** 
 
-- <code style="color : black">Supply Chain Analyst,</code>**Carrefour, France (Indian-Subcontinental Office)** 
+- <code style="color : black">Supply Chain Analyst,</code>**CARREFOUR, France (Indian-Subcontinental Office)** 
 
 **Others**
 
