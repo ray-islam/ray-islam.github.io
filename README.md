@@ -62,18 +62,17 @@
 **Others**
 
 ### Clients Served
-<code style="color : black">
-- Berkshire Hathaway, USA
-- Capital One Bank, USA
-- U.S. Department of Commerce, USA
-- Royal Bank of Canada (RBC), Canada
-- The White House, USA
-- Centers for Medicare & Medicaid Services (CMS), USA
-- US Department of Education, USA
-- US Airforce (USAF), USA
-- The United States Marine Corps (USMC), USA
-- The United States Department of Justice (DOJ), USA
-- The National Aeronautics and Space Administration (NASA), USA </code>
+- <code style="color : black">Berkshire Hathaway, USA</code>
+- <code style="color : black">Capital One Bank, USA</code>
+- <code style="color : black">U.S. Department of Commerce, USA</code>
+- <code style="color : black">Royal Bank of Canada (RBC), Canada</code>
+- <code style="color : black">The White House, USA</code>
+- <code style="color : black">Centers for Medicare & Medicaid Services (CMS), USA</code>
+- <code style="color : black">US Department of Education, USA</code>
+- <code style="color : black">US Airforce (USAF), USA</code>
+- <code style="color : black">The United States Marine Corps (USMC), USA</code>
+- <code style="color : black">The United States Department of Justice (DOJ), USA</code>
+- <code style="color : black">The National Aeronautics and Space Administration (NASA), USA </code>
 
 ## PUBLICATIONS & AWARDS
 
