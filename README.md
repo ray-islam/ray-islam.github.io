@@ -56,7 +56,7 @@ Collaborated with clients on GSA projects to develop requirements and implement 
 **Lead Data Scientist, American Institutes for Research (AIR) – Washington, D.C.** 		          
 Developed deep learning solutions for fraud prevention & co-architected an AWS Cloud Analytics Platform for sale to CMS and the Department of Education. Led as a Technical Volume Lead and Pricing Volume Lead/Solution Architect on a $2M+ response for a Secure Data Fusion/Analytics Platform. Built big data-based hybrid AI models for resource allocation for Federal Emergency Management Agency (FEMA). 
 
-**Other Employers**
+### Other Employers
 **Association of American Medical Colleges (AAMC), USA -Technical Manager, Software Development**
 **Royal Bank of Canada (RBC), Canada - Quantitative Analyst**
 **Euro Nassa Ltd., UK (Clients: Tesco and Walmart) - Business Development Manager, Supply Chain**
