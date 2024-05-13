@@ -16,30 +16,30 @@
 6. **BSc in Manufacturing Engineering** – <code style="color : navy"> BUTex - BD</code>
 
 ### In-progress
-1. **Micro Masters in Statistics and Data Science**, Massachusetts Institute of Technology (MIT), USA
+1. **Micro Masters in Statistics and Data Science**, <code style="color : navy">Massachusetts Institute of Technology (MIT), USA</code>
 
 ### Transferred
-1. **Ph.D. in Mechanical Engineering**, University of Toronto, Canada (Transferred to GW, USA)
-2. **Ph.D. in Mechanical Engineering**, Geroge Washington University, DC, USA (Transferred to UMD, USA)
+1. **Ph.D. in Mechanical Engineering**, <code style="color : navy">University of Toronto, Canada (Transferred to GW, USA)</code>
+2. **Ph.D. in Mechanical Engineering**, <code style="color : navy">Geroge Washington University, DC, USA (Transferred to UMD, USA)</code>
 
 ## EXPERIENCE
 
 ### Academic Experience
 
-**Adjunct Professor**, Information Sciences and Technology, George Mason University, Fairfax, VA, USA				        
-- AIT 526: Natural Language Processing (Generative AI) – Graduate course				       
+**Adjunct Professor**, <code style="color : navy">Information Sciences and Technology, George Mason University, Fairfax, VA, USA</code>				        
+- <code style="color : navy">AIT 526: Natural Language Processing (Generative AI) – Graduate course</code>				       
 
-**Lecturer**, ACES Honors College, University of Maryland, College Park, MD, USA 		               
-- HACS100 Foundations in Cybersecurity - Undergraduate Course		             	         	       
-- HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course		    	         	       
+**Lecturer**, <code style="color : navy">ACES Honors College, University of Maryland, College Park, MD, USA</code> 		               
+- <code style="color : navy">HACS100 Foundations in Cybersecurity - Undergraduate Course</code>		             	         	       
+- <code style="color : navy">HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course	</code>	    	         	       
 
-**Founder/Course Director/Instructor**, Kindidata, VA (Boot Camp- https://kindideta.com/) 	                 
-- Data Visualization								
-- Natural Language Processing (NLP) 						
-- Big Data Engineering							         
+**Founder/Course Director/Instructor**, <code style="color : navy">Kindidata, VA (Boot Camp- https://kindideta.com/)</code> 	                 
+- <code style="color : navy">Data Visualization</code>								
+- <code style="color : navy">Natural Language Processing (NLP)</code> 						
+- <code style="color : navy">Big Data Engineering</code>							         
 
-**Teaching Assistant**, University of Toronto, Ontario, Canada					  
-- Advanced Manufacturing Technologies - Undergraduate Course	 								 
+**Teaching Assistant**, <code style="color : navy">University of Toronto, Ontario, Canada	</code>				  
+- <code style="color : navy">Advanced Manufacturing Technologies - Undergraduate Course</code>	 								 
 
 **Teaching Assistant**, Ontario Tech University, Ontario, Canada  				  
 - Statistics and Probability for Engineers - Undergraduate Course								    
