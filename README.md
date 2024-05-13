@@ -45,19 +45,19 @@
 
 ### Industrial Experience
 
-**Advisory Specialist Leader ((VP/Director of Product Development Equivalent) , AI and Cybersecurity, DELOITTE, USA**                                
+Advisory Specialist Leader ((VP/Director of Product Development Equivalent) , AI and Cybersecurity, **DELOITTE, USA**                                
 
-**Chief Data Scientist(AIML), RAYTHEON, Sterling, VA** 						           
+Chief Data Scientist(AIML), **RAYTHEON, USA** 						           
 
-**Senior Data Scientist (AIML), General Services Administration (GSA), Washington, D.C.**
+Senior Data Scientist (AIML), **General Services Administration (GSA), Washington, D.C.**
 
-**Lead Data Scientist (AIML), American Institutes for Research (AIR) – Washington, D.C.** 		         
+Lead Data Scientist (AIML), **American Institutes for Research (AIR) – Washington, D.C.** 		         
 
-**Lead Associate, Generative AI, Booz Allen Hamilton**
+Lead Associate, Generative AI, **Booz Allen Hamilton**
 
-**Manager, Euro Nassa Ltd., UK (Clients: Tesco and Walmart)** 
+Manager, **Euro Nassa Ltd., UK (Clients: Tesco and Walmart)** 
 
-**Supply Chain Analyst, Carrefour, France (Indian-Subcontinental Office)** 
+Supply Chain Analyst, **Carrefour, France (Indian-Subcontinental Office)** 
 
 **Others**
 
