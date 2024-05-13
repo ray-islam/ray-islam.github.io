@@ -85,7 +85,7 @@
 ### Book 
 - <code style="color : black">Islam, R, GenAI, Cybersecurity & Ethics, Initial draft completed, Contract signed with the publisher.</code>
 
-### Peer-Reviewed Research Journal Publications
+### Peer-Reviewed Research Journal
 - <code style="color : black">[J1]  Islam, R. and Sandborn, P., (2023), Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems, Journal of Prognostics and Health Management, 3(1), 9–36. February https://doi.org/10.22215/jphm.v3i1.3641. (Impact Score: 1.78)</code>
 - <code style="color : black">[J2]  Adhikary, K., Islam, R., Rizvi, G., Park, C., (2013), Effect of extrusion conditions on the surface quality, mechanical properties, and morphology of cellular wood flour/high-density polyethylene composite profiles, Journal of Thermoplastic Composite Materials, 26(8):1127-1144, September, DOI: 10.1177/0892705712439563. (Impact Score: 3.3)</code>
 - <code style="color : black">[J3]  Adhikary, K., Islam, R., Rizvi, G., Park, C., (2011), Effects of Lubricant Content on Extrusion Processing and Mechanical Properties of Wood Flour-High-density Polyethylene Composites, Journal of Thermoplastic Composite Materials, 24(2):155-17, March, DOI: 10.1177/0892705710388590. (Impact Score: 3.3)</code>
