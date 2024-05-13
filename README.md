@@ -7,7 +7,7 @@
 ## EDUCATION
 
 ### Complete
-1. **Doctor of Philosophy (PhD) in Machine Learning**– UNIVERSITY OF MARYLAND – College Park, MD
+1. **Doctor of Philosophy (PhD) in Machine Learning**– UNIVERSITY OF MARYLAND – College Park, MD, USA
 2. **MASc in Mechanical Engineering** – ONTARIO TECH UNIVERSITY – Ontario, Canada
 3. **MSc in International Marketing** – HERIOT-WATT UNIVERSITY – UK
 4. **MBA in Marketing** – LUTON – UK
