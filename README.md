@@ -17,7 +17,7 @@
 1. **Micro Masters in Statistics and Data Science**, Massachusetts Institute of Technology (MIT), USA
 
 ### Transferred
-1. **Ph. D. in Mechanical Engineering**, University of Toronto, Canada (Transferred to GW, USA)
+1. **Ph.D. in Mechanical Engineering**, University of Toronto, Canada (Transferred to GW, USA)
 2. **Ph.D. in Mechanical Engineering**, Geroge Washington University, DC, USA (Transferred to UMD, USA)
 
 ## EXPERIENCE
@@ -31,10 +31,10 @@
 - HACS100 Foundations in Cybersecurity - Undergraduate Course		             	         	       
 - HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course		    	         	       
 
-**Course Director/Instructor**, Kindidata, VA (Boot Camp- https://kindideta.com/) 	                 
+**Founder/Course Director/Instructor**, Kindidata, VA (Boot Camp- https://kindideta.com/) 	                 
 - Data Visualization								
 - Natural Language Processing (NLP) 						
-- Computer Vision 								         
+- Big Data Engineering							         
 
 **Teaching Assistant**, University of Toronto, Ontario, Canada					  
 - Advanced Manufacturing Technologies - Undergraduate Course	 								 
@@ -45,23 +45,21 @@
 
 ### Industrial Experience
 
-**Advisory Specialist Leader, AI and Cybersecurity, Deloitte, USA**                                
-As a technical lead, re-architected and deployed Generative AI solutions, and led the development of cutting-edge Large Language Models (LLMs) and computer vision solutions. Developed CNN-based anomaly detection algorithms for cybersecurity, reporting to C-suite with sales target up to $6.5M/year. Co-architecture of data hub on AWS enabled an additional $165M in business from government and private sectors.
+**Advisory Specialist Leader ((VP/Director of Product Development Equivalent) , AI and Cybersecurity, DELOITTE, USA**                                
 
-**Senior Principal Data Scientist(AIML), Raytheon – Sterling, VA** 						           
-Led Raytheon's Engineering Process Control team and transformed them in Analytics Team and developed Machine Learning and NLP capabilities, including ML models and pipelines using MLOps techniques.
+**Chief Data Scientist(AIML), RAYTHEON, Sterling, VA** 						           
 
 **Senior Data Scientist (AIML), General Services Administration (GSA), Washington, D.C.**
-Worked with clients and designed predictive models for cost analysis aiding White House decision-making and developed an Enterprise AI (EAI) framework for advanced cybersecurity solutions.
 
 **Lead Data Scientist (AIML), American Institutes for Research (AIR) – Washington, D.C.** 		         
-Led as a Technical Volume Lead and Pricing Volume Lead/Solution Architect on a $2M+ response for a Secure Data Fusion/Analytics Platform. Built big data-based hybrid AI models.
 
-### Other Employers
-- Association of American Medical Colleges (AAMC), USA 
-- Surescripts, USA 
-- Euro Nassa Ltd., UK (Clients: Tesco and Walmart) 
-- Carrefour, France (Indian-Subcontinental Office) 
+**Lead Associate, Generative AI, Booz Allen Hamilton**
+
+**Euro Nassa Ltd., UK (Clients: Tesco and Walmart)** 
+
+**Carrefour, France (Indian-Subcontinental Office)** 
+
+**Others**
 
 ### Clients Served
 - Berkshire Hathaway, USA
@@ -69,9 +67,7 @@ Led as a Technical Volume Lead and Pricing Volume Lead/Solution Architect on a $
 - U.S. Department of Commerce, USA
 - Royal Bank of Canada (RBC), Canada
 - The White House, USA
-- US Vaterans Affairs, USA
 - Centers for Medicare & Medicaid Services (CMS), USA
-- CVS, Wal-Mart, Walgreen, USA 
 - US Department of Education, USA
 - US Airforce (USAF), USA
 - The United States Marine Corps (USMC), USA
@@ -79,6 +75,9 @@ Led as a Technical Volume Lead and Pricing Volume Lead/Solution Architect on a $
 - The National Aeronautics and Space Administration (NASA), USA
 
 ## PUBLICATIONS & AWARDS
+
+### Book 
+- B1  Islam, R, GenAI, Cybersecurity & Ethics, Initial draft completed, Contract signed with the publisher.
 
 ### Peer-Reviewed Research Journal Publications
 - J1  Islam, R. and Sandborn, P., (2023), Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems, Journal of Prognostics and Health Management, 3(1), 9–36. February https://doi.org/10.22215/jphm.v3i1.3641. (Impact Score: 1.78)
@@ -89,9 +88,6 @@ Led as a Technical Volume Lead and Pricing Volume Lead/Solution Architect on a $
 - W1  Islam, R. and Pierre, D., (2023), Regression based scoring model for data quality assessment metrics.
 - W2  Islam, R., (2023), Optimum numbers of epochs and sample sizes to synthesize tabular data based on CTGAN.
 
-### Book 
-- B1  Islam, R, GenAI, Cybersecurity & Ethics, Initial draft completed, Contract signed with the publisher.
-
 ### eBooks: https://www.amazon.com/-/e/B0CP85GTJN
 - eBook1: Ray Islam, LangChain Unveiled: Navigating the Future of LLM, (Amazon, 2023)
 - eBook2: Ray lam, Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense, (Amazon, 2023)
@@ -100,8 +96,8 @@ Led as a Technical Volume Lead and Pricing Volume Lead/Solution Architect on a $
 ### Conference Papers & Poster Presentations
 - C1         Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508
 - C2         Islam, R. and Sandborn, P., (2023), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK – Accepted
-- C3-C11  - 9 other conference papers presented at reputable conferences in the USA and Canada
-- P1-P5   - 5 posters presented at reputable conferences in the USA and Canada
+- C3-C11   9 other conference papers presented at reputable conferences in the USA and Canada
+- P1-P5    5 posters presented at reputable conferences in the USA and Canada
 
 ### White Papers: https://rayislam.medium.com/
 - Islam, R., (2023), Prompt tuning for Large Language Models (LLMs)
