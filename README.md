@@ -105,8 +105,8 @@ Led as a Technical Volume Lead and Pricing Volume Lead/Solution Architect on a $
 ### Conference Papers & Poster Presentations
 - C1         Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508
 - C2         Islam, R. and Sandborn, P., (2023), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK – Accepted
-- C3-C11  9 other conference papers presented at reputable conferences in the USA and Canada
-- P1-P5     5 posters presented at reputable conferences in the USA and Canada
+- C3-C11  - 9 other conference papers presented at reputable conferences in the USA and Canada
+- P1-P5   - 5 posters presented at reputable conferences in the USA and Canada
 
 ### White Papers: https://rayislam.medium.com/
 - Islam, R., (2023), Prompt tuning for Large Language Models (LLMs)
