@@ -29,8 +29,8 @@ Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Secur
 - AIT 526: Natural Language Processing (Generative AI) – Graduate course				       
 
 **Lecturer**, ACES Honors College, University of Maryland, College Park 		               
-- HACS100 Foundations in Cybersecurity -Undergraduate Course		             	         	       
-- HACS 200 - Applied Cybersecurity Foundations II - Undergraduate Course		    	         	       
+- HACS100 Foundations in Cybersecurity - Undergraduate Course		             	         	       
+- HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course		    	         	       
 
 **Course Director/Instructor**, Kindidata, VA (Boot Camp- https://kindideta.com/) 	                 
 - Data Visualization								
@@ -38,11 +38,11 @@ Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Secur
 - Computer Vision 								         
 
 **Teaching Assistant**, University of Toronto, Ontario, Canada					  
-- Advanced Manufacturing Technologies 								 
+- Advanced Manufacturing Technologies - Undergraduate Course	 								 
 
 **Teaching Assistant**, Ontario Tech University, Ontario, Canada  				  
-- Statistics and Probability for Engineers							    
-- Engineering Design										    	
+- Statistics and Probability for Engineers - Undergraduate Course								    
+- Engineering Design - Undergraduate Course											    	
 
 ### Industrial Experience
 **Advisory Specialist Leader, AI and Cybersecurity, Deloitte, USA**                                
@@ -58,6 +58,21 @@ Collaborated with clients on GSA projects to develop requirements and implement 
 Developed deep learning solutions for fraud prevention & co-architected an AWS Cloud Analytics Platform for sale to CMS and the Department of Education. Led as a Technical Volume Lead and Pricing Volume Lead/Solution Architect on a $2M+ response for a Secure Data Fusion/Analytics Platform. Built big data-based hybrid AI models for resource allocation for Federal Emergency Management Agency (FEMA). 
 
 ### Other Employers
-- Association of American Medical Colleges (AAMC), USA -**Technical Manager**, Software Development
+- Association of American Medical Colleges (AAMC), USA - **Technical Manager**, Software Development
 - Euro Nassa Ltd., UK (Clients: Tesco and Walmart) - **Business Development Manager**, Supply Chain
 - Carrefour, France (Indian-Subcontinental Office) - **Supply Chain Analyst**
+
+## Clients Served
+- Berkshire Hathaway, USA
+- Capital One Bank, USA
+- US Department of Education, USA
+- US Airforce (USAF), USA
+- The United States Marine Corps (USMC), USA
+- The White House, USA
+- The United States Department of Justice (DOJ), USA
+- Centers for Medicare & Medicaid Services (CMS), USA
+- The National Aeronautics and Space Administration (NASA), USA
+- Royal Bank of Canada (RBC), Canada
+- Kawneer (Alcoa Corporation (Aluminum Company of America)), Canada
+- Tesco, UK
+- Walmart, UK
