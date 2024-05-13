@@ -91,8 +91,8 @@
 - <code style="color : black">[J3]  Adhikary, K., Islam, R., Rizvi, G., Park, C., (2011), Effects of Lubricant Content on Extrusion Processing and Mechanical Properties of Wood Flour-High-density Polyethylene Composites, Journal of Thermoplastic Composite Materials, 24(2):155-17, March, DOI: 10.1177/0892705710388590. (Impact Score: 3.3)</code>
 
 ### Conference Papers & Poster Presentations
+- <code style="color : black">[C2]       Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK – Accepted</code>
 - <code style="color : black">[C1]       Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508</code>
-- <code style="color : black">[C2]       Islam, R. and Sandborn, P., (2023), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK – Accepted</code>
 - <code style="color : black">[C3-C11]   9 other conference papers presented at reputable conferences in the USA and Canada</code>
 - <code style="color : black">[P1-P5]    5 posters presented at mainstream conferences in the USA and Canada</code>
 
@@ -186,6 +186,7 @@
 2.	<code style="color : black">Hackathon Judge - AI based models for Crypto Currency, 2022, by Deloitte at the University of Maryland.</code>
 
 **International**
+- <code style="color : black">Invited guest speaker, Green University, 2024 - Applications of AI in Manufacturing.(Online)</code>
 - <code style="color : black">Invited guest speaker, Bangladesh University of Textiles, 2020 - Applications of AI in Manufacturing.</code>
 - <code style="color : black">Invited Guest Speaker, North South University, Bangladesh, 2018 - AI and their applications. 
 
