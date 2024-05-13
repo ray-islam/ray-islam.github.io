@@ -4,7 +4,7 @@
 ## RESEARCH INTEREST
 **Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Security, Ethics in AI**
 
-##<code style="color : green">EDUCATION</code>
+<code style="color : green">##EDUCATION</code>
 
 ### Complete
 1. **Doctor of Philosophy (PhD) in Machine Learning** (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA<br>
