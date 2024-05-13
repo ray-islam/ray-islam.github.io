@@ -46,7 +46,8 @@
 
 ### Industrial Experience
 
-- <code style="color : black">Advisory Specialist Leader ((VP/Director of Product Development Equivalent) , AI and Cybersecurity,</code>**DELOITTE, USA** <br>                               
+- <code style="color : black">Advisory Specialist Leader ((VP/Director of Product Development Equivalent) , AI and Cybersecurity,</code>**DELOITTE, USA** <br>
+
 - <code style="color : black">Chief Data Scientist(AIML),</code>**RAYTHEON, USA** 						           
 
 - <code style="color : black">Senior Data Scientist (AIML),</code>**General Services Administration (GSA), Washington, D.C.**
