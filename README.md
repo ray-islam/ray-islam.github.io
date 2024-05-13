@@ -7,20 +7,20 @@
 ## EDUCATION 
 
 ### Complete
-1. **Doctor of Philosophy (PhD) in Machine Learning** <code style="color : navy">(Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA</code> <br>
-     **Advisory Committee:** <code style="color : green">Dr. Peter A Sandborn (Advisor and Chair), Dr. William Regli (Dean’s Representative), Dr. Mohammad Modarres, Dr. F. Patrick McCluskey, Dr. Abhijit Dasgupta</code><br>
+1. **Doctor of Philosophy (PhD) in Machine Learning** <code style="color : black">(Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA</code> <br>
+     **Advisory Committee:** <code style="color : black">Dr. Peter A Sandborn (Advisor and Chair), Dr. William Regli (Dean’s Representative), Dr. Mohammad Modarres, Dr. F. Patrick McCluskey, Dr. Abhijit Dasgupta</code><br>
    **Dissertation:** <code style="color : green">A novel methodology to estimate PHM based Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, clustering, and others</code><br>
-3. **MASc in Mechanical Engineering** <code style="color : navy">– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98</code>
-4. **MSc in International Marketing** <code style="color : navy">– HERIOT-WATT UNIVERSITY – UK</code>
-5. **MBA in Marketing** – <code style="color : navy">LUTON – UK</code>
-6. **BSc in Manufacturing Engineering** – <code style="color : navy"> BUTex - BD</code>
+3. **MASc in Mechanical Engineering** <code style="color : black">– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98</code>
+4. **MSc in International Marketing** <code style="color : black">– HERIOT-WATT UNIVERSITY – UK</code>
+5. **MBA in Marketing** – <code style="color : black">LUTON – UK</code>
+6. **BSc in Manufacturing Engineering** – <code style="color : black"> BUTex - BD</code>
 
 ### In-progress
-1. **Micro Masters in Statistics and Data Science**, <code style="color : navy">Massachusetts Institute of Technology (MIT), USA</code>
+1. **Micro Masters in Statistics and Data Science**, <code style="color : black">Massachusetts Institute of Technology (MIT), USA</code>
 
 ### Transferred
-1. **Ph.D. in Mechanical Engineering**, <code style="color : navy">University of Toronto, Canada (Transferred to GW, USA)</code>
-2. **Ph.D. in Mechanical Engineering**, <code style="color : navy">Geroge Washington University, DC, USA (Transferred to UMD, USA)</code>
+1. **Ph.D. in Mechanical Engineering**, <code style="color : black">University of Toronto, Canada (Transferred to GW, USA)</code>
+2. **Ph.D. in Mechanical Engineering**, <code style="color : black">Geroge Washington University, DC, USA (Transferred to UMD, USA)</code>
 
 ## EXPERIENCE
 
@@ -46,7 +46,7 @@
 
 ### Industrial Experience
 
-- <code style="color : black">Advisory Specialist Leader ((VP/Director of Product Development Equivalent) , AI and Cybersecurity,</code>**DELOITTE, USA** <br>
+- <code style="color : black">Advisory Specialist Leader ((VP/Director of Product Development Equivalent) , AI and Cybersecurity,</code>**DELOITTE, USA**
 
 - <code style="color : black">Chief Data Scientist(AIML),</code>**RAYTHEON, USA** 						           
 
