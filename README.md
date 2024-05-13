@@ -84,6 +84,12 @@
 - <code style="color : black">[J2]  Adhikary, K., Islam, R., Rizvi, G., Park, C., (2013), Effect of extrusion conditions on the surface quality, mechanical properties, and morphology of cellular wood flour/high-density polyethylene composite profiles, Journal of Thermoplastic Composite Materials, 26(8):1127-1144, September, DOI: 10.1177/0892705712439563. (Impact Score: 3.3)</code>
 - <code style="color : black">[J3]  Adhikary, K., Islam, R., Rizvi, G., Park, C., (2011), Effects of Lubricant Content on Extrusion Processing and Mechanical Properties of Wood Flour-High-density Polyethylene Composites, Journal of Thermoplastic Composite Materials, 24(2):155-17, March, DOI: 10.1177/0892705710388590. (Impact Score: 3.3)</code>
 
+### Conference Papers & Poster Presentations
+- <code style="color : black">[C1]       Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508</code>
+- <code style="color : black">[C2]       Islam, R. and Sandborn, P., (2023), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK – Accepted</code>
+- <code style="color : black">[C3-C11]   9 other conference papers presented at reputable conferences in the USA and Canada</code>
+- <code style="color : black">[P1-P5]    5 posters presented at mainstream conferences in the USA and Canada</code>
+
 ### Working Journal Papers
 - <code style="color : black">[W1]  Islam, R. and Pierre, D., (2023), Regression based scoring model for data quality assessment metrics.</code>
 - <code style="color : black">[W2]  Islam, R., (2023), Optimum numbers of epochs and sample sizes to synthesize tabular data based on CTGAN.</code>
@@ -92,12 +98,6 @@
 - <code style="color : black">eBook1: Ray Islam, LangChain Unveiled: Navigating the Future of LLM, (Amazon, 2023)</code>
 - <code style="color : black">eBook2: Ray lam, Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense, (Amazon, 2023)</code>
 - <code style="color : black">eBook3: Ray Islam, Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs), (Amazon 2023)</code>
-
-### Conference Papers & Poster Presentations
-- <code style="color : black">[C1]       Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508</code>
-- <code style="color : black">[C2]       Islam, R. and Sandborn, P., (2023), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK – Accepted</code>
-- <code style="color : black">[C3-C11]   9 other conference papers presented at reputable conferences in the USA and Canada</code>
-- <code style="color : black">[P1-P5]    5 posters presented at mainstream conferences in the USA and Canada</code>
 
 ### White Papers: https://rayislam.medium.com/
 - <code style="color : black">Islam, R., (2023), Prompt tuning for Large Language Models (LLMs)</code>
