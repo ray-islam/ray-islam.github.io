@@ -52,7 +52,7 @@
 
 - <code style="color : black">Senior Data Scientist (AIML),</code>**General Services Administration (GSA), Washington, D.C.**
 
-- <code style="color : black">Lead Data Scientist (AIML),</code>**American Institutes for Research (AIR) – Washington, D.C.** 		         
+- <code style="color : black">Lead Data Scientist (AIML),</code>**American Institutes for Research (AIR), Washington, D.C.** 		         
 
 - <code style="color : black">Lead Associate, Generative AI,</code>**BOOZ ALLEN HAMILTON**
 
@@ -60,7 +60,7 @@
 
 - <code style="color : black">Supply Chain Analyst,</code>**CARREFOUR, France (Indian-Subcontinental Office)** 
 
-- **Other Employers**
+- **Others**
 
 ### Clients Served
 - <code style="color : black">Berkshire Hathaway, USA</code>
