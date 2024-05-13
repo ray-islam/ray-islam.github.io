@@ -8,10 +8,17 @@
 
 ### Complete
 1. **Doctor of Philosophy (PhD) in Machine Learning** (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA
-2. **MASc in Mechanical Engineering** – ONTARIO TECH UNIVERSITY – Ontario, Canada
-3. **MSc in International Marketing** – HERIOT-WATT UNIVERSITY – UK
-4. **MBA in Marketing** – LUTON – UK
-5. **BSc in Manufacturing Engineering** – DU (BUTex) - BD
+   Advisor: Dr. Peter Sandborn
+   Advisory Committee:
+   - Dr. Peter A Sandborn, Advisor and Chair
+   - Dr. William Regli, Dean’s Representative
+   - Dr. Mohammad Modarres
+   - Dr. F. Patrick McCluskey
+   - Dr. Abhijit Dasgupta
+3. **MASc in Mechanical Engineering** – ONTARIO TECH UNIVERSITY – Ontario, Canada
+4. **MSc in International Marketing** – HERIOT-WATT UNIVERSITY – UK
+5. **MBA in Marketing** – LUTON – UK
+6. **BSc in Manufacturing Engineering** – DU (BUTex) - BD
 
 ### In-progress
 1. **Micro Masters in Statistics and Data Science**, Massachusetts Institute of Technology (MIT), USA
