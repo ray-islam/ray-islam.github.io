@@ -54,7 +54,7 @@ Led Raytheon's Engineering Process Control team, developing Machine Learning and
 **Senior Data Scientist, General Services Administration (GSA), Washington, D.C.**
 Collaborated with clients on GSA projects to develop requirements and implement predictive models, enhancing scope for improvements. Designed predictive models for cost analysis aiding White House decision-making and developed an Enterprise AI (EAI) framework for advanced cybersecurity solutions.
 
-**Lead Data Scientist, American Institutes for Research (AIR) – Washington, D.C.** 		          
+**Lead Data Scientist, American Institutes for Research (AIR) – Washington, D.C.** 		         
 Developed deep learning solutions for fraud prevention & co-architected an AWS Cloud Analytics Platform for sale to CMS and the Department of Education. Led as a Technical Volume Lead and Pricing Volume Lead/Solution Architect on a $2M+ response for a Secure Data Fusion/Analytics Platform. Built big data-based hybrid AI models for resource allocation for Federal Emergency Management Agency (FEMA). 
 
 ### Other Employers
