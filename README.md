@@ -26,43 +26,43 @@
 
 ## Academic Experience
 
-**Adjunct Professor**, <code style="color : black">Information Sciences and Technology, George Mason University, Fairfax, VA, USA</code>				        - <code style="color : black">AIT 526: Natural Language Processing (Generative AI) – Graduate course</code>				       
+**Adjunct Professor**, <code style="color : black">Information Sciences and Technology, George Mason University, Fairfax, VA, USA</code> <bd>				        - <code style="color : black">AIT 526: Natural Language Processing (Generative AI) – Graduate course</code>				       
 
 **Lecturer**, <code style="color : black">ACES Honors College, University of Maryland, College Park, MD, USA</code> 		               
 - <code style="color : black">HACS100 Foundations in Cybersecurity - Undergraduate Course</code>		             	         	       
 - <code style="color : black">HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course	</code>	    	         	       
 
-**Founder/Course Director/Instructor**, <code style="color : navy">Kindidata, VA (Boot Camp- https://kindideta.com/)</code> 	                 
+**Founder/Course Director/Instructor**, <code style="color : black">Kindidata, VA (Boot Camp- https://kindideta.com/)</code> 	                 
 - <code style="color : black">Data Visualization</code>								
 - <code style="color : black">Natural Language Processing (NLP)</code> 						
 - <code style="color : black">Big Data Engineering</code>							         
 
-**Teaching Assistant**, <code style="color : navy">University of Toronto, Ontario, Canada	</code>				  
+**Teaching Assistant**, <code style="color : black">University of Toronto, Ontario, Canada	</code>				  
 - <code style="color : black">Advanced Manufacturing Technologies - Undergraduate Course</code>	 								 
 
-**Teaching Assistant**, Ontario Tech University, Ontario, Canada  				  
-- Statistics and Probability for Engineers - Undergraduate Course								    
-- Engineering Design - Undergraduate Course											    	
+**Teaching Assistant**, <code style="color : black">Ontario Tech University, Ontario, Canada </code>	 				  
+- <code style="color : black">Statistics and Probability for Engineers - Undergraduate Course</code>									    
+- <code style="color : black">Engineering Design - Undergraduate Course											    	
 
 ### Industrial Experience
 
-Advisory Specialist Leader ((VP/Director of Product Development Equivalent) , AI and Cybersecurity, **DELOITTE, USA**                                
+<code style="color : black">Advisory Specialist Leader ((VP/Director of Product Development Equivalent) , AI and Cybersecurity,</code> **DELOITTE, USA**                                
+<code style="color : black">Chief Data Scientist(AIML),</code>	 **RAYTHEON, USA** 						           
 
-Chief Data Scientist(AIML), **RAYTHEON, USA** 						           
+<code style="color : black">Senior Data Scientist (AIML),</code>	 **General Services Administration (GSA), Washington, D.C.**
 
-Senior Data Scientist (AIML), **General Services Administration (GSA), Washington, D.C.**
+<code style="color : black">Lead Data Scientist (AIML),</code>	 **American Institutes for Research (AIR) – Washington, D.C.** 		         
 
-Lead Data Scientist (AIML), **American Institutes for Research (AIR) – Washington, D.C.** 		         
+<code style="color : black">Lead Associate, Generative AI,</code>	 **Booz Allen Hamilton**
 
-Lead Associate, Generative AI, **Booz Allen Hamilton**
+<code style="color : black">Manager,</code> **Euro Nassa Ltd., UK (Clients: Tesco and Walmart)** 
 
-Manager, **Euro Nassa Ltd., UK (Clients: Tesco and Walmart)** 
-
-Supply Chain Analyst, **Carrefour, France (Indian-Subcontinental Office)** 
+<code style="color : black">Supply Chain Analyst,</code> **Carrefour, France (Indian-Subcontinental Office)** 
 
 **Others**
 
 ### Clients Served
+<code style="color : black">
 - Berkshire Hathaway, USA
 - Capital One Bank, USA
 - U.S. Department of Commerce, USA
@@ -73,17 +73,17 @@ Supply Chain Analyst, **Carrefour, France (Indian-Subcontinental Office)**
 - US Airforce (USAF), USA
 - The United States Marine Corps (USMC), USA
 - The United States Department of Justice (DOJ), USA
-- The National Aeronautics and Space Administration (NASA), USA
+- The National Aeronautics and Space Administration (NASA), USA </code>
 
 ## PUBLICATIONS & AWARDS
 
 ### Book 
-- Islam, R, GenAI, Cybersecurity & Ethics, Initial draft completed, Contract signed with the publisher.
+- <code style="color : black">Islam, R, GenAI, Cybersecurity & Ethics, Initial draft completed, Contract signed with the publisher.</code>
 
 ### Peer-Reviewed Research Journal Publications
-- [J1]  Islam, R. and Sandborn, P., (2023), Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems, Journal of Prognostics and Health Management, 3(1), 9–36. February https://doi.org/10.22215/jphm.v3i1.3641. (Impact Score: 1.78)
+- <code style="color : black">[J1]  Islam, R. and Sandborn, P., (2023), Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems, Journal of Prognostics and Health Management, 3(1), 9–36. February https://doi.org/10.22215/jphm.v3i1.3641. (Impact Score: 1.78)
 - [J2]  Adhikary, K., Islam, R., Rizvi, G., Park, C., (2013), Effect of extrusion conditions on the surface quality, mechanical properties, and morphology of cellular wood flour/high-density polyethylene composite profiles, Journal of Thermoplastic Composite Materials, 26(8):1127-1144, September, DOI: 10.1177/0892705712439563. (Impact Score: 3.3)
-- [J3]  Adhikary, K., Islam, R., Rizvi, G., Park, C., (2011), Effects of Lubricant Content on Extrusion Processing and Mechanical Properties of Wood Flour-High-density Polyethylene Composites, Journal of Thermoplastic Composite Materials, 24(2):155-17, March, DOI: 10.1177/0892705710388590. (Impact Score: 3.3)
+- [J3]  Adhikary, K., Islam, R., Rizvi, G., Park, C., (2011), Effects of Lubricant Content on Extrusion Processing and Mechanical Properties of Wood Flour-High-density Polyethylene Composites, Journal of Thermoplastic Composite Materials, 24(2):155-17, March, DOI: 10.1177/0892705710388590. (Impact Score: 3.3)</code>
 
 ### Working Journal Papers
 - [W1]  Islam, R. and Pierre, D., (2023), Regression based scoring model for data quality assessment metrics.
