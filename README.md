@@ -10,19 +10,23 @@
 Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Security, Ethics in AI
 
 ## EDUCATION
+
 ### Complete
 - **Doctor of Philosophy (PhD) in Machine Learning**– UNIVERSITY OF MARYLAND – College Park, MD
 - **MASc in Mechanical Engineering** – ONTARIO TECH UNIVERSITY – Ontario, Canada
 - **MSc in International Marketing** – HERIOT-WATT UNIVERSITY – UK
 - **MBA in Marketing** – LUTON – UK
 - **BSc in Manufacturing Engineering** – DU - BD
+
 ### In-progress
 - **Micro Masters in Statistics and Data Science**, Massachusetts Institute of Technology (MIT), USA
+
 ### Transferred
 - **Ph. D. in Mechanical Engineering**, University of Toronto, Canada (Transferred to GW, USA)
 - **Ph.D. in Mechanical Engineering**, Geroge Washington University, DC, USA (Transferred to UMD, USA)
 
 ## EXPERIENCE
+
 ### Academic Experience
 
 **Adjunct Professor**, George Mason University, Fairfax				        
@@ -45,6 +49,7 @@ Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Secur
 - Engineering Design - Undergraduate Course											    	
 
 ### Industrial Experience
+
 **Advisory Specialist Leader, AI and Cybersecurity, Deloitte, USA**                                
 As a technical lead, I re-architected and deployed Generative AI solutions, including Kaleidoscope-based containers for microservices/APIs, and led the development of cutting-edge Large Language Models (LLMs) and computer vision solutions. Developed CNN-based anomaly detection algorithms for cybersecurity, reporting to C-suite executives on projects up to $6.5M/year. My co-architecting of the CIG data hub on AWS enabled an additional $165M in business from government and private sectors, including General Motors and Boeing.
 
