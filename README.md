@@ -14,7 +14,7 @@
 5. **BSc in Manufacturing Engineering** – DU - BD
 
 ### In-progress
-**Micro Masters in Statistics and Data Science**, Massachusetts Institute of Technology (MIT), USA
+1. **Micro Masters in Statistics and Data Science**, Massachusetts Institute of Technology (MIT), USA
 
 ### Transferred
 1. **Ph. D. in Mechanical Engineering**, University of Toronto, Canada (Transferred to GW, USA)
