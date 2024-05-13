@@ -1,10 +1,5 @@
 ## SKILLS
-- **Worked as a Chief Data Scientist and AI Director at leading global firms, overseeing multimillion-dollar operations and technical sales.**
-- **Years of AI/ML research experience, crafting solutions for finance, healthcare, manufacturing, education, and others.**
-- **Architected and established a bootcamp, creating AI courses for data analysts and scientists.**
-- **Published books, journal papers, and white papers on AI.**
-- **Years OF teaching experience in universities & adult education settings.**
-- **Associate editor and reviewer for high-impact journals.**
+**Dr. Ray Islam has held the positions of Chief Data Scientist and AI Director at prestigious global firms, managing multimillion-dollar Artificial Intelligence and Machine Learning (AIML) operations and spearheading technical sales efforts. His extensive background in AI and ML research has enabled him to develop innovative solutions across a variety of sectors such as finance, healthcare, manufacturing, and education. Dr. Islam also founded and designed a specialized bootcamp, where he created AI courses targeted at data analysts and scientists. His scholarly contributions are evident in his numerous publications, including books, journal papers, and white papers on artificial intelligence. Furthermore, Dr. Islam possesses a wealth of teaching experience in university settings and adult education. He also serves as an associate editor and reviewer for several high-impact academic journals.**
 
 ## RESEARCH INTEREST
 Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Security, Ethics in AI
