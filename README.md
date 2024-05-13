@@ -171,7 +171,6 @@
 ## OTHERS
 
 ### Knowledge Share: 
--  <code style="color : black">GitHub:@ray-islam</code>
 -	<code style="color : black">Youtube:@rayisl5382</code>
 -	<code style="color : black">ORCID:0000-0002-8263-7560</code>
 -	<code style="color : black">Medium:https://medium.com/@rayislam</code>
