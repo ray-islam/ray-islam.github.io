@@ -8,15 +8,13 @@
 
 ### Complete
 1. **Doctor of Philosophy (PhD) in Machine Learning** <code style="color : green">(Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA</code> <br>
-   **Advisor:** Dr. Peter Sandborn<br>
-   **Advisory Committee:** Dr. Peter A Sandborn (Advisor and Chair), Dr. William Regli (Dean’s Representative), Dr. Mohammad Modarres, Dr. F. Patrick 
-   McCluskey, Dr. Abhijit Dasgupta<br>
-   **Dissertation:** A novel methodology to estimate PHM based Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, 
-   clustering, and others
-3. **MASc in Mechanical Engineering** – ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98
-4. **MSc in International Marketing** – HERIOT-WATT UNIVERSITY – UK
-5. **MBA in Marketing** – LUTON – UK
-6. **BSc in Manufacturing Engineering** – DU (BUTex) - BD
+   **Advisor:** <code style="color : green">Dr. Peter Sandborn</code><br>
+   **Advisory Committee:** <code style="color : green">Dr. Peter A Sandborn (Advisor and Chair), Dr. William Regli (Dean’s Representative), Dr. Mohammad Modarres, Dr. F. Patrick McCluskey, Dr. Abhijit Dasgupta</code><br>
+   **Dissertation:** <code style="color : green">A novel methodology to estimate PHM based Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, clustering, and others</code><br>
+3. **MASc in Mechanical Engineering** <code style="color : green">– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98</code>
+4. **MSc in International Marketing** <code style="color : green">– HERIOT-WATT UNIVERSITY – UK</code>
+5. **MBA in Marketing** – <code style="color : green">LUTON – UK</code>
+6. **BSc in Manufacturing Engineering** – <code style="color : green"> BUTex - BD</code>
 
 ### In-progress
 1. **Micro Masters in Statistics and Data Science**, Massachusetts Institute of Technology (MIT), USA
