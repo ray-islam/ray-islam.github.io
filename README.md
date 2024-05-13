@@ -26,9 +26,9 @@
 
 ## Academic Experience
 
-**Adjunct Professor**, <code style="color : black">Information Sciences and Technology, George Mason University, Fairfax, VA, USA</code> <bd>				        - <code style="color : black">AIT 526: Natural Language Processing (Generative AI) – Graduate course</code>				       
+- **Adjunct Professor**, <code style="color : black">Information Sciences and Technology, George Mason University, Fairfax, VA, USA</code> <bd>				        - <code style="color : black">AIT 526: Natural Language Processing (Generative AI) – Graduate course</code>				       
 
-**Lecturer**, <code style="color : black">ACES Honors College, University of Maryland, College Park, MD, USA</code> 		               
+- **Lecturer**, <code style="color : black">ACES Honors College, University of Maryland, College Park, MD, USA</code> 		               
 - <code style="color : black">HACS100 Foundations in Cybersecurity - Undergraduate Course</code>		             	         	       
 - <code style="color : black">HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course	</code>	    	         	       
 
@@ -46,18 +46,18 @@
 
 ### Industrial Experience
 
-<code style="color : black">Advisory Specialist Leader ((VP/Director of Product Development Equivalent) , AI and Cybersecurity,</code> **DELOITTE, USA**                                
-<code style="color : black">Chief Data Scientist(AIML),</code>	 **RAYTHEON, USA** 						           
+- <code style="color : black">Advisory Specialist Leader ((VP/Director of Product Development Equivalent) , AI and Cybersecurity,</code> **DELOITTE, USA**                                
+- <code style="color : black">Chief Data Scientist(AIML),</code>	 **RAYTHEON, USA** 						           
 
-<code style="color : black">Senior Data Scientist (AIML),</code>	 **General Services Administration (GSA), Washington, D.C.**
+- <code style="color : black">Senior Data Scientist (AIML),</code>	 **General Services Administration (GSA), Washington, D.C.**
 
-<code style="color : black">Lead Data Scientist (AIML),</code>	 **American Institutes for Research (AIR) – Washington, D.C.** 		         
+- <code style="color : black">Lead Data Scientist (AIML),</code>	 **American Institutes for Research (AIR) – Washington, D.C.** 		         
 
-<code style="color : black">Lead Associate, Generative AI,</code>	 **Booz Allen Hamilton**
+- <code style="color : black">Lead Associate, Generative AI,</code>	 **Booz Allen Hamilton**
 
-<code style="color : black">Manager,</code> **Euro Nassa Ltd., UK (Clients: Tesco and Walmart)** 
+ - <code style="color : black">Manager,</code> **Euro Nassa Ltd., UK (Clients: Tesco and Walmart)** 
 
-<code style="color : black">Supply Chain Analyst,</code> **Carrefour, France (Indian-Subcontinental Office)** 
+- <code style="color : black">Supply Chain Analyst,</code> **Carrefour, France (Indian-Subcontinental Office)** 
 
 **Others**
 
