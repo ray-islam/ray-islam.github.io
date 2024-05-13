@@ -1,4 +1,4 @@
-## Education
+## EDUCATION
 ### Complete
 - **Ph.D. in Machine Learning** (Department of Mechanical Engineering) - University of Maryland, College Park (ABET Accredited)	  									
 - **MASc in Mechanical Engineering** - Ontario Tech University, Ontario, Canada (CEAB Accredited)
