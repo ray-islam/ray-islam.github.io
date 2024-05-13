@@ -1,5 +1,5 @@
 ## ABOUT
-**Dr. Ray Islam (M. Rubyet Islam) has served as a Chief Data Scientist and AI Director at leading global firms, overseeing significant operations and leading technical sales. He has extensive experience in AI and ML research across various industries and has founded a bootcamp to develop AI courses for data analysts and scientists. Dr. Islam has published multiple works on artificial intelligence and has extensive teaching experience in both university and adult education settings. Additionally, he contributes as an associate editor and reviewer for high-impact academic journals.**
+**Dr. Ray Islam (M. Rubyet Islam) has served as a Chief Data Scientist and Technical Director (Artificial Intelligence and Machine Learning) at leading global firms. He has extensive experience in AI and ML research across various industries and has founded a bootcamp to develop AI courses for data analysts and scientists. Dr. Islam has published multiple works on artificial intelligence and possesses extensive teaching experience in both university and adult education settings. Additionally, he contributes as an associate editor and reviewer for high-impact international academic journals.**
 
 ## RESEARCH INTEREST
 **Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Security, Ethics in AI**
@@ -7,7 +7,7 @@
 ## EDUCATION
 
 ### Complete
-1. **Doctor of Philosophy (PhD) in Machine Learning**– UNIVERSITY OF MARYLAND – College Park, MD, USA
+1. **Doctor of Philosophy (PhD) in Machine Learning** (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA
 2. **MASc in Mechanical Engineering** – ONTARIO TECH UNIVERSITY – Ontario, Canada
 3. **MSc in International Marketing** – HERIOT-WATT UNIVERSITY – UK
 4. **MBA in Marketing** – LUTON – UK
