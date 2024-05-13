@@ -24,7 +24,7 @@
 
 ### Academic Experience
 
-**Adjunct Professor**, George Mason University, Fairfax, VA, USA				        
+**Adjunct Professor**, Information Sciences and Technology, George Mason University, Fairfax, VA, USA				        
 - AIT 526: Natural Language Processing (Generative AI) – Graduate course				       
 
 **Lecturer**, ACES Honors College, University of Maryland, College Park, MD, USA 		               
