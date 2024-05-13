@@ -36,17 +36,17 @@
   - <code style="color : black">HACS100 Foundations in Cybersecurity - Undergraduate Course</code>		             	         	       
   - <code style="color : black">HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course	</code>	    	         	       
 
-**Founder/Course Director/Instructor**, <code style="color : black">Kindidata, VA (Boot Camp- https://kindideta.com/)</code> 	                 
-- <code style="color : black">Data Visualization</code>								
-- <code style="color : black">Natural Language Processing (NLP)</code> 						
-- <code style="color : black">Big Data Engineering</code>							         
+- **Founder/Course Director/Instructor**, <code style="color : black">Kindidata, VA (Boot Camp- https://kindideta.com/)</code> 	                 
+  - <code style="color : black">Data Visualization</code>								
+  - <code style="color : black">Natural Language Processing (NLP)</code> 						
+  - <code style="color : black">Big Data Engineering</code>							         
 
-**Teaching Assistant**, <code style="color : black">University of Toronto, Ontario, Canada	</code>				  
-- <code style="color : black">Advanced Manufacturing Technologies - Undergraduate Course</code>	 								 
+- **Teaching Assistant**, <code style="color : black">University of Toronto, Ontario, Canada	</code>				  
+  - <code style="color : black">Advanced Manufacturing Technologies - Undergraduate Course</code>	 								 
 
-**Teaching Assistant**, <code style="color : black">Ontario Tech University, Ontario, Canada </code>	 				  
-- <code style="color : black">Statistics and Probability for Engineers - Undergraduate Course</code>									    
-- <code style="color : black">Engineering Design - Undergraduate Course											    	
+- **Teaching Assistant**, <code style="color : black">Ontario Tech University, Ontario, Canada </code>	 				  
+  - <code style="color : black">Statistics and Probability for Engineers - Undergraduate Course</code>									    
+  - <code style="color : black">Engineering Design - Undergraduate Course											    	
 
 ## Industrial Experience
 
