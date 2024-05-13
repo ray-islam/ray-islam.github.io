@@ -59,7 +59,7 @@
 
 - <code style="color : black">Supply Chain Analyst,</code>**CARREFOUR, France (Indian-Subcontinental Office)** 
 
-**Others**
+- **Other Employers**
 
 ### Clients Served
 - <code style="color : black">Berkshire Hathaway, USA</code>
