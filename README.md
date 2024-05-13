@@ -8,7 +8,7 @@
 
 ### Complete
 1. **Doctor of Philosophy (PhD) in Machine Learning** (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA<br>
-   **Advisor:** Dr. Peter Sandborn `#f03c15`<br> 
+   **Advisor:** Dr. Peter Sandborn <br> `#f03c15`
    **Advisory Committee:** Dr. Peter A Sandborn (Advisor and Chair), Dr. William Regli (Dean’s Representative), Dr. Mohammad Modarres, Dr. F. Patrick 
    McCluskey, Dr. Abhijit Dasgupta<br>
    **Dissertation:** A novel methodology to estimate PHM based Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, 
