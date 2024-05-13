@@ -13,7 +13,7 @@
    Dr. Abhijit Dasgupta<br>
    Dissertation: A novel methodology to estimate PHM based Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, 
    clustering, and others
-3. **MASc in Mechanical Engineering** – ONTARIO TECH UNIVERSITY – Ontario, Canada
+3. **MASc in Mechanical Engineering** – ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98
 4. **MSc in International Marketing** – HERIOT-WATT UNIVERSITY – UK
 5. **MBA in Marketing** – LUTON – UK
 6. **BSc in Manufacturing Engineering** – DU (BUTex) - BD
