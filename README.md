@@ -1,5 +1,5 @@
 ## SKILLS
-- Worked as Chief Data Scientist and AI Director at leading global firms, overseeing multimillion-dollar technical sales and operations.
+- Worked as a Chief Data Scientist and AI Director at leading global firms, overseeing multimillion-dollar technical sales and operations.
 - Years of AI/ML research experience, crafting solutions for healthcare, finance, manufacturing, education, and others.
 - Architected and established a bootcamp, creating AI courses for data analysts and scientists.
 - Published books, journal papers, and white papers on AI; fluent in technical terminology.
@@ -51,16 +51,16 @@ Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Secur
 ### Industrial Experience
 
 **Advisory Specialist Leader, AI and Cybersecurity, Deloitte, USA**                                
-As a technical lead, I re-architected and deployed Generative AI solutions, including Kaleidoscope-based containers for microservices/APIs, and led the development of cutting-edge Large Language Models (LLMs) and computer vision solutions. Developed CNN-based anomaly detection algorithms for cybersecurity, reporting to C-suite executives on projects up to $6.5M/year. My co-architecting of the CIG data hub on AWS enabled an additional $165M in business from government and private sectors, including General Motors and Boeing.
+As a technical lead, re-architected and deployed Generative AI solutions, including Kaleidoscope-based containers for microservices/APIs, and led the development of cutting-edge Large Language Models (LLMs) and computer vision solutions. Developed CNN-based anomaly detection algorithms for cybersecurity, reporting to C-suite executives on projects up to $6.5M/year. Co-architecture of data hub on AWS enabled an additional $165M in business from government and private sectors.
 
 **Senior Principal Data Scientist(AIML), Raytheon – Sterling, VA** 						           
-Led Raytheon's Engineering Process Control team, developing Machine Learning and NLP capabilities, including ML models and pipelines using MLOps techniques. Directed data analysts/scientists and visualization engineers in deploying analytics and ML practices for clients like NASA. Managed annual budgets up to ~$4M.
+Led Raytheon's Engineering Process Control team and transformed them in Analytics Team, developed Machine Learning and NLP capabilities, including ML models and pipelines using MLOps techniques. Directed data analysts/scientists and visualization engineers in deploying analytics and ML practices for clients. 
 
 **Senior Data Scientist (AIML), General Services Administration (GSA), Washington, D.C.**
-Collaborated with clients on GSA projects to develop requirements and implement predictive models, enhancing scope for improvements. Designed predictive models for cost analysis aiding White House decision-making and developed an Enterprise AI (EAI) framework for advanced cybersecurity solutions.
+Worked with clients to develop technical requirements and implement predictive models, enhancing scope for improvements. Designed predictive models for cost analysis aiding White House decision-making and developed an Enterprise AI (EAI) framework for advanced cybersecurity solutions.
 
 **Lead Data Scientist (AIML), American Institutes for Research (AIR) – Washington, D.C.** 		         
-Developed deep learning solutions for fraud prevention & co-architected an AWS Cloud Analytics Platform for sale to CMS and the Department of Education. Led as a Technical Volume Lead and Pricing Volume Lead/Solution Architect on a $2M+ response for a Secure Data Fusion/Analytics Platform. Built big data-based hybrid AI models for resource allocation for Federal Emergency Management Agency (FEMA). 
+Led as a Technical Volume Lead and Pricing Volume Lead/Solution Architect on a $2M+ response for a Secure Data Fusion/Analytics Platform. Built big data-based hybrid AI models.
 
 ### Other Employers
 - Association of American Medical Colleges (AAMC), USA - **Technical Manager**, Software Development
