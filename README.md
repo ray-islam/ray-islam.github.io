@@ -47,7 +47,7 @@
 - <code style="color : black">Statistics and Probability for Engineers - Undergraduate Course</code>									    
 - <code style="color : black">Engineering Design - Undergraduate Course											    	
 
-### Industrial Experience
+## Industrial Experience
 
 - <code style="color : black">Advisory Specialist Leader (VP/Director of Product Development Equivalent), AI and Cybersecurity, </code>**DELOITTE, USA**
 
