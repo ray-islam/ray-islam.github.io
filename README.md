@@ -1,10 +1,10 @@
 ## ABOUT
 **Dr. Ray Islam (M. Rubyet Islam) has served as a Chief Data Scientist and Technical Director (Artificial Intelligence and Machine Learning) at leading global firms. He has extensive research experience in AI and ML across various industries and has founded a bootcamp to develop AI courses for data analysts and scientists. Dr. Islam has published multiple works on artificial intelligence and possesses extensive teaching experience in both university and adult education settings. Additionally, he contributes as an associate editor and reviewer for high-impact international academic journals.**
-
 <hr>
 
 ## RESEARCH INTEREST
 **Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Security, Ethics in AI**
+<hr>
 
 ## EDUCATION 
 
@@ -23,6 +23,7 @@
 ### Transferred
 1. **Ph.D. in Mechanical Engineering**, <code style="color : black">University of Toronto, Canada (Transferred to GW, USA)</code>
 2. **Ph.D. in Mechanical Engineering**, <code style="color : black">Geroge Washington University, DC, USA (Transferred to UMD, USA)</code>
+<hr>
 
 ## EXPERIENCE
 
@@ -76,6 +77,7 @@
 - <code style="color : black">The United States Marine Corps (USMC), USA</code>
 - <code style="color : black">The United States Department of Justice (DOJ), USA</code>
 - <code style="color : black">The National Aeronautics and Space Administration (NASA), USA </code>
+<hr>
 
 ## PUBLICATIONS & AWARDS
 
@@ -148,6 +150,7 @@
 24.	<code style="color : black">Can Artificial Intelligence (AI) really steal our jobs? Originally published in March 15</code>
 25.	<code style="color : black">Synthetic Data for Cyber Security, originally published in July 15</code>
 26.	<code style="color : black">What is the best algorithm to summarize reports? originally published in June 15</code>
+<hr>
 
 ## PROFESSIONAL DEVELOPMENT
 
@@ -161,6 +164,7 @@
 - <code style="color : black">200-A - FedRAMP System Security Plan (SSP) Required Documents</code>
 - <code style="color : black">AWS Security Fundamentals (Second Edition)</code>
 - <code style="color : black">Certified Scrum Master (CSM) (Expired)</code>
+<hr>
 
 ## OTHERS
 
