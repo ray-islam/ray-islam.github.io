@@ -22,6 +22,7 @@
 
 ### Transferred
 1.**Ph. D. in Mechanical Engineering**, University of Toronto, Canada (Transferred to GW, USA)
+
 2.**Ph.D. in Mechanical Engineering**, Geroge Washington University, DC, USA (Transferred to UMD, USA)
 
 ## EXPERIENCE
