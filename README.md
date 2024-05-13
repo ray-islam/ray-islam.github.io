@@ -69,14 +69,12 @@ Developed deep learning solutions for fraud prevention & co-architected an AWS C
 - U.S. Department of Commerce, USA
 - Royal Bank of Canada (RBC), Canada
 - The White House, USA
-- US Vaterans Affairs, USA 
+- US Vaterans Affairs, USA
+- Centers for Medicare & Medicaid Services (CMS), USA
 - CVS, Wal-Mart, Walgreen, USA 
 - US Department of Education, USA
 - US Airforce (USAF), USA
 - The United States Marine Corps (USMC), USA
 - The United States Department of Justice (DOJ), USA
-- Centers for Medicare & Medicaid Services (CMS), USA
 - The National Aeronautics and Space Administration (NASA), USA
-- Kawneer (Alcoa Corporation-Aluminum Company of America), Canada
-- Tesco, UK
-- Walmart, UK
+
