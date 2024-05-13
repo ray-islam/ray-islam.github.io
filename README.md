@@ -1,11 +1,10 @@
 ## Education
 ### Complete
 - Ph.D. in Machine Learning (Department of Mechanical Engineering) - University of Maryland, College Park (ABET Accredited)	  									
--- Dissertation: A novel methodology to estimate PHM based Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, clustering, and others
 - MASc in Mechanical Engineering - Ontario Tech University, Ontario, Canada (CEAB Accredited)
 - MSc in International Marketing - Heriot-Watt University, Scotland, UK
 - MBA in Marketing - Luton, England, UK
-- Bachelor of Technology in Manufacturing Engineering – University of Dhaka, BD
+- Bachelor of Technology in Manufacturing Engineering (Textile Technology) – University of Dhaka, BD
 ### In-progress
 - Micro Masters in Statistics and Data Science, Massachusetts Institute of Technology (MIT), USA
 ### Transferred
