@@ -46,13 +46,13 @@
 ### Industrial Experience
 
 **Advisory Specialist Leader, AI and Cybersecurity, Deloitte, USA**                                
-As a technical lead, re-architected and deployed Generative AI solutions, including Kaleidoscope-based containers for microservices/APIs, and led the development of cutting-edge Large Language Models (LLMs) and computer vision solutions. Developed CNN-based anomaly detection algorithms for cybersecurity, reporting to C-suite executives on projects up to $6.5M/year. Co-architecture of data hub on AWS enabled an additional $165M in business from government and private sectors.
+As a technical lead, re-architected and deployed Generative AI solutions, and led the development of cutting-edge Large Language Models (LLMs) and computer vision solutions. Developed CNN-based anomaly detection algorithms for cybersecurity, reporting to C-suite with sales target up to $6.5M/year. Co-architecture of data hub on AWS enabled an additional $165M in business from government and private sectors.
 
 **Senior Principal Data Scientist(AIML), Raytheon – Sterling, VA** 						           
-Led Raytheon's Engineering Process Control team and transformed them in Analytics Team, developed Machine Learning and NLP capabilities, including ML models and pipelines using MLOps techniques. Directed data analysts/scientists and visualization engineers in deploying analytics and ML practices for clients. 
+Led Raytheon's Engineering Process Control team and transformed them in Analytics Team and developed Machine Learning and NLP capabilities, including ML models and pipelines using MLOps techniques.
 
 **Senior Data Scientist (AIML), General Services Administration (GSA), Washington, D.C.**
-Worked with clients to develop technical requirements and implement predictive models, enhancing scope for improvements. Designed predictive models for cost analysis aiding White House decision-making and developed an Enterprise AI (EAI) framework for advanced cybersecurity solutions.
+Worked with clients and designed predictive models for cost analysis aiding White House decision-making and developed an Enterprise AI (EAI) framework for advanced cybersecurity solutions.
 
 **Lead Data Scientist (AIML), American Institutes for Research (AIR) – Washington, D.C.** 		         
 Led as a Technical Volume Lead and Pricing Volume Lead/Solution Architect on a $2M+ response for a Secure Data Fusion/Analytics Platform. Built big data-based hybrid AI models.
