@@ -171,13 +171,13 @@
 ## OTHERS
 
 ### Knowledge Share: 
--  <code style="color : black">GitHub:               @drrayislam</code>
--	<code style="color : black">Youtube:             @rayisl5382</code>
--	<code style="color : black">ORCID:	             0000-0002-8263-7560</code>
--	<code style="color : black">Medium:              https://medium.com/@rayislam</code>
--	<code style="color : black">Research Gate:       https://www.researchgate.net/profile/Rubyet-Islam</code>
--	<code style="color : black">KDNuggets:           Unveiling the Potential of CTGAN: Harnessing Generative AI for Synthetic Data </code>
--	<code style="color : black">Google Scholar:      https://scholar.google.com/citations?hl=en&authuser=1&user=nqqVzFsAAAAJ</code>
+-  <code style="color : black">GitHub:@ray-islam</code>
+-	<code style="color : black">Youtube:@rayisl5382</code>
+-	<code style="color : black">ORCID:0000-0002-8263-7560</code>
+-	<code style="color : black">Medium:https://medium.com/@rayislam</code>
+-	<code style="color : black">Research Gate:https://www.researchgate.net/profile/Rubyet-Islam</code>
+-	<code style="color : black">KDNuggets:Unveiling the Potential of CTGAN: Harnessing Generative AI for Synthetic Data </code>
+-	<code style="color : black">Google Scholar:https://scholar.google.com/citations?hl=en&authuser=1&user=nqqVzFsAAAAJ</code>
 
 ### Invited Panels and Guest Speaker
 
