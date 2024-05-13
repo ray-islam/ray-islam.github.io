@@ -46,18 +46,18 @@
 
 ### Industrial Experience
 
-- <code style="color : black">Advisory Specialist Leader ((VP/Director of Product Development Equivalent) , AI and Cybersecurity,</code> **DELOITTE, USA**                                
-- <code style="color : black">Chief Data Scientist(AIML),</code>	 **RAYTHEON, USA** 						           
+- <code style="color : black">Advisory Specialist Leader ((VP/Director of Product Development Equivalent) , AI and Cybersecurity,</code>**DELOITTE, USA**                                
+- <code style="color : black">Chief Data Scientist(AIML),</code>**RAYTHEON, USA** 						           
 
-- <code style="color : black">Senior Data Scientist (AIML),</code>	 **General Services Administration (GSA), Washington, D.C.**
+- <code style="color : black">Senior Data Scientist (AIML),</code>**General Services Administration (GSA), Washington, D.C.**
 
-- <code style="color : black">Lead Data Scientist (AIML),</code>	 **American Institutes for Research (AIR) – Washington, D.C.** 		         
+- <code style="color : black">Lead Data Scientist (AIML),</code>**American Institutes for Research (AIR) – Washington, D.C.** 		         
 
-- <code style="color : black">Lead Associate, Generative AI,</code>	 **Booz Allen Hamilton**
+- <code style="color : black">Lead Associate, Generative AI,</code>**Booz Allen Hamilton**
 
  - <code style="color : black">Manager,</code> **Euro Nassa Ltd., UK (Clients: Tesco and Walmart)** 
 
-- <code style="color : black">Supply Chain Analyst,</code> **Carrefour, France (Indian-Subcontinental Office)** 
+- <code style="color : black">Supply Chain Analyst,</code>**Carrefour, France (Indian-Subcontinental Office)** 
 
 **Others**
 
