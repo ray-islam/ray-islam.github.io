@@ -8,6 +8,7 @@
 
 ### In-progress
 - Micro Masters in Statistics and Data Science, Massachusetts Institute of Technology (MIT), USA
+
 ### Transferred
 - Ph. D. in Mechanical Engineering, University of Toronto, Canada (Transferred to GW, USA)
 - Ph.D. in Mechanical Engineering, Geroge Washington University, DC, USA (Transferred to UMD, USA)
