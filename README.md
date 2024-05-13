@@ -24,22 +24,21 @@
 
 ## EXPERIENCE
 
-### Academic Experience
+## Academic Experience
 
-**Adjunct Professor**, <code style="color : navy">Information Sciences and Technology, George Mason University, Fairfax, VA, USA</code>				        
-- <code style="color : navy">AIT 526: Natural Language Processing (Generative AI) – Graduate course</code>				       
+**Adjunct Professor**, <code style="color : black">Information Sciences and Technology, George Mason University, Fairfax, VA, USA</code>				        - <code style="color : black">AIT 526: Natural Language Processing (Generative AI) – Graduate course</code>				       
 
-**Lecturer**, <code style="color : navy">ACES Honors College, University of Maryland, College Park, MD, USA</code> 		               
-- <code style="color : navy">HACS100 Foundations in Cybersecurity - Undergraduate Course</code>		             	         	       
-- <code style="color : navy">HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course	</code>	    	         	       
+**Lecturer**, <code style="color : black">ACES Honors College, University of Maryland, College Park, MD, USA</code> 		               
+- <code style="color : black">HACS100 Foundations in Cybersecurity - Undergraduate Course</code>		             	         	       
+- <code style="color : black">HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course	</code>	    	         	       
 
 **Founder/Course Director/Instructor**, <code style="color : navy">Kindidata, VA (Boot Camp- https://kindideta.com/)</code> 	                 
-- <code style="color : navy">Data Visualization</code>								
-- <code style="color : navy">Natural Language Processing (NLP)</code> 						
-- <code style="color : navy">Big Data Engineering</code>							         
+- <code style="color : black">Data Visualization</code>								
+- <code style="color : black">Natural Language Processing (NLP)</code> 						
+- <code style="color : black">Big Data Engineering</code>							         
 
 **Teaching Assistant**, <code style="color : navy">University of Toronto, Ontario, Canada	</code>				  
-- <code style="color : navy">Advanced Manufacturing Technologies - Undergraduate Course</code>	 								 
+- <code style="color : black">Advanced Manufacturing Technologies - Undergraduate Course</code>	 								 
 
 **Teaching Assistant**, Ontario Tech University, Ontario, Canada  				  
 - Statistics and Probability for Engineers - Undergraduate Course								    
