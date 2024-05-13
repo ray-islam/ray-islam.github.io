@@ -16,10 +16,8 @@ Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Secur
 - **MSc in International Marketing** - Heriot-Watt University, Scotland, UK
 - **MBA in Marketing** - Luton, England, UK
 - **Bachelor of Technology in Manufacturing Engineering** (Textile Technology) – University of Dhaka (Current BUTex), BD
-
 ### In-progress
 - **Micro Masters in Statistics and Data Science**, Massachusetts Institute of Technology (MIT), USA
-
 ### Transferred
 - **Ph. D. in Mechanical Engineering**, University of Toronto, Canada (Transferred to GW, USA)
 - **Ph.D. in Mechanical Engineering**, Geroge Washington University, DC, USA (Transferred to UMD, USA)
