@@ -63,7 +63,7 @@ Developed deep learning solutions for fraud prevention & co-architected an AWS C
 - Euro Nassa Ltd., UK (Clients: Tesco and Walmart) - **Business Development Manager**, Supply Chain
 - Carrefour, France (Indian-Subcontinental Office) - **Supply Chain Analyst**
 
-## Clients Served
+### Clients Served
 - Berkshire Hathaway, USA
 - Capital One Bank, USA
 - U.S. Department of Commerce, USA
