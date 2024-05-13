@@ -7,7 +7,7 @@
 ## EDUCATION
 
 ### Complete
-1. **Doctor of Philosophy (PhD) in Machine Learning** (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA
+1. **Doctor of Philosophy (PhD) in Machine Learning** (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA<br>
    Advisor: Dr. Peter Sandborn
    Advisory Committee:
    - Dr. Peter A Sandborn, Advisor and Chair
