@@ -42,10 +42,15 @@
 ## EXPERIENCE
 
 ## Academic Experience
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<b>Adjunct Professor <b/> , Information Sciences and Technology, George Mason University, Fairfax, VA, USA
-    - AIT 526: Natural Language Processing (Generative AI) – Graduate course			       
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<li>
+  <b>Adjunct Professor </b>> , Information Sciences and Technology, George Mason University, Fairfax, VA, USA
+    <ul> AIT 526: Natural Language Processing (Generative AI) – Graduate course
+    </ul>
+</li>
+  
 <br>
+<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 - <b>Lecturer</b>, ACES Honors College, University of Maryland, College Park, MD, USA 		               
   - HACS100 Foundations in Cybersecurity - Undergraduate Course	             	         	       
   - HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course   	         	       
