@@ -11,12 +11,17 @@
 ### Complete
 1. **Doctor of Philosophy (PhD) in Machine Learning** <code style="color : black">(Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA</code>
 <br>
-   **Advisory Committee:** <code style="color : black">Dr. Peter A Sandborn (Advisor and Chair), Dr. William Regli (Dean’s Representative), Dr. Mohammad Modarres, Dr. F. Patrick McCluskey, Dr. Abhijit Dasgupta.</code><br>
+  <p style="color: blue; font-family: Arial, sans-serif; font-size: 16px;">
+    This is a paragraph with color blue, Arial font, and font size 16px with <b>localized bold</b> text.
+</p>
+   <p style="color: blue; font-family: Arial, sans-serif; font-size: 16px;">
+   <b>Advisory Committee:</b> Dr. Peter A Sandborn (Advisor and Chair), Dr. William Regli (Dean’s Representative), Dr. Mohammad Modarres, Dr. F. Patrick McCluskey, Dr. Abhijit Dasgupta.</p>
+   <br>
    **Dissertation:** <code style="color : black">A novel methodology to estimate PHM based Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, clustering, and others</code><br>
-2. **MASc in Mechanical Engineering** <code style="color : black">– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98</code>
-3. **MSc in International Marketing** <code style="color : black">– HERIOT-WATT UNIVERSITY – UK</code>
-4. **MBA in Marketing** – <code style="color : black">LUTON – UK</code>
-5. **BSc in Manufacturing Engineering** – <code style="color : black"> BUTex - BD</code>
+3. **MASc in Mechanical Engineering** <code style="color : black">– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98</code>
+4. **MSc in International Marketing** <code style="color : black">– HERIOT-WATT UNIVERSITY – UK</code>
+5. **MBA in Marketing** – <code style="color : black">LUTON – UK</code>
+6. **BSc in Manufacturing Engineering** – <code style="color : black"> BUTex - BD</code>
 
 ### In-progress
 1. **Micro Masters in Statistics and Data Science**, <code style="color : black">Massachusetts Institute of Technology (MIT), USA</code>
