@@ -16,13 +16,13 @@
     <br>
       <b>Dissertation:</b> A novel methodology to estimate PHM based Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, clustering, and others.
     <br>
-3. <b>MASc in Mechanical Engineering </b>– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98
+2. <b>MASc in Mechanical Engineering </b>– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98
     <br>
-4. <b>MSc in International Marketing</b>– HERIOT-WATT UNIVERSITY – UK
+3. <b>MSc in International Marketing</b>– HERIOT-WATT UNIVERSITY – UK
     <br>
-5. <b>MBA in Marketing </b>– LUTON – UK
+4. <b>MBA in Marketing </b>– LUTON – UK
     <br>
-6. <b>BSc in Manufacturing Engineering</b>– BUTex - BD, GPA: First Class
+5. <b>BSc in Manufacturing Engineering</b>– BUTex - BD, GPA: First Class
 </p>
 ### In-progress
 1. **Micro Masters in Statistics and Data Science**, <code style="color : black">Massachusetts Institute of Technology (MIT), USA</code>
