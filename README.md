@@ -97,41 +97,55 @@
 ## PUBLICATIONS & AWARDS
 
 ### Book 
-- <code style="color : black">Islam, R, GenAI, Cybersecurity & Ethics, Initial draft completed, Contract signed with the publisher.</code>
+<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
+- Islam, R; GenAI, <b>Cybersecurity & Ethics</b>; Initial draft completed, Contract signed with the publisher.
+</p>
 
 ### Peer-Reviewed Research Journal
-- <code style="color : black">[J1]  Islam, R. and Sandborn, P., (2023), Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems, Journal of Prognostics and Health Management, 3(1), 9–36. February https://doi.org/10.22215/jphm.v3i1.3641. (Impact Score: 1.78)</code>
-- <code style="color : black">[J2]  Adhikary, K., Islam, R., Rizvi, G., Park, C., (2013), Effect of extrusion conditions on the surface quality, mechanical properties, and morphology of cellular wood flour/high-density polyethylene composite profiles, Journal of Thermoplastic Composite Materials, 26(8):1127-1144, September, DOI: 10.1177/0892705712439563. (Impact Score: 3.3)</code>
-- <code style="color : black">[J3]  Adhikary, K., Islam, R., Rizvi, G., Park, C., (2011), Effects of Lubricant Content on Extrusion Processing and Mechanical Properties of Wood Flour-High-density Polyethylene Composites, Journal of Thermoplastic Composite Materials, 24(2):155-17, March, DOI: 10.1177/0892705710388590. (Impact Score: 3.3)</code>
+<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
+- [J1]  Islam, R. and Sandborn, P., (2023), Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems, Journal of Prognostics and Health Management, 3(1), 9–36. February https://doi.org/10.22215/jphm.v3i1.3641. (Impact Score: 1.78)
+- [J2]  Adhikary, K., Islam, R., Rizvi, G., Park, C., (2013), Effect of extrusion conditions on the surface quality, mechanical properties, and morphology of cellular wood flour/high-density polyethylene composite profiles, Journal of Thermoplastic Composite Materials, 26(8):1127-1144, September, DOI: 10.1177/0892705712439563. (Impact Score: 3.3)
+- [J3]  Adhikary, K., Islam, R., Rizvi, G., Park, C., (2011), Effects of Lubricant Content on Extrusion Processing and Mechanical Properties of Wood Flour-High-density Polyethylene Composites, Journal of Thermoplastic Composite Materials, 24(2):155-17, March, DOI: 10.1177/0892705710388590. (Impact Score: 3.3)
+</p>
 
 ### Conference Papers & Poster Presentations
-- <code style="color : black">[C2]       Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK – Accepted</code>
-- <code style="color : black">[C1]       Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508</code>
-- <code style="color : black">[C3-C11]   9 other conference papers presented at reputable conferences in the USA and Canada</code>
-- <code style="color : black">[P1-P5]    5 posters presented at mainstream conferences in the USA and Canada</code>
+<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
+- [C1]       Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK – Accepted
+- [C2]       Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508
+- [C3-C11]   9 other conference papers presented at reputable conferences in the USA and Canada
+- [P1-P5]    5 posters presented at mainstream conferences in the USA and Canada
+</p>
 
 ### Working Journal Papers
-- <code style="color : black">[W1]  Islam, R. and Pierre, D., (2023), Regression based scoring model for data quality assessment metrics.</code>
-- <code style="color : black">[W2]  Islam, R., (2023), Optimum numbers of epochs and sample sizes to synthesize tabular data based on CTGAN.</code>
+<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
+- [W1]  Islam, R. and Pierre, D., (2023), Regression based scoring model for data quality assessment metrics.
+- [W2]  Islam, R., (2023), Optimum numbers of epochs and sample sizes to synthesize tabular data based on CTGAN.
+</p>p>
 
 ### eBooks: https://www.amazon.com/-/e/B0CP85GTJN
-- <code style="color : black">eBook1: Ray Islam, LangChain Unveiled: Navigating the Future of LLM, (Amazon, 2023)</code>
-- <code style="color : black">eBook2: Ray lam, Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense, (Amazon, 2023)</code>
-- <code style="color : black">eBook3: Ray Islam, Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs), (Amazon 2023)</code>
+<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
+- eBook1: Ray Islam, LangChain Unveiled: Navigating the Future of LLM, (Amazon, 2023)
+- eBook2: Ray lam, Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense, (Amazon, 2023)
+- eBook3: Ray Islam, Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs), (Amazon 2023)
+</p>
 
 ### White Papers: https://rayislam.medium.com/
-- <code style="color : black">Islam, R., (2023), Prompt tuning for Large Language Models (LLMs)</code>
-- <code style="color : black">Islam, R., (2023), Analytics Operating Eco (OE) System </code>
-- <code style="color : black">Islam, R. (2023), AI for C-Suite Decision Making</code>
-- <code style="color : black">Islam, R., (2023), CTGAN for Credit Card Analysis Synthetic Data</code>
-- <code style="color : black">Islam, R., (2023), Unveiling the Potential of CTGAN: Harnessing Generative AI and 50K Synthetic IRIS Dataset</code>
-  
+<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
+- Islam, R., (2023), Prompt tuning for Large Language Models (LLMs)
+- Islam, R., (2023), Analytics Operating Eco (OE) System
+- Islam, R. (2023), AI for C-Suite Decision Making
+- Islam, R., (2023), CTGAN for Credit Card Analysis Synthetic Data
+- Islam, R., (2023), Unveiling the Potential of CTGAN: Harnessing Generative AI and 50K Synthetic IRIS Dataset
+</p>
+
 ### Awards & Honors
-1.	<code style="color : black">Nathan and Marvin Goldman/Durham Homes Graduate Award for reducing environmental impact of residential construction/maintenance and improving building energy technologies, Canada.</code>
-2.	<code style="color : black">1st prize, Highly Qualified Personnel (HQP) poster competition award, governed by the Natural Sciences and Engineering Research Council of Canada (NSERC).</code>
-3.	<code style="color : black">The NSERC Strategic Network Grant for PhD research, Canada.</code>
-4.	<code style="color : black">Fellowship funded by the US Department of Energy for PhD research on Nanocomposites, USA.</code>
-5.	<code style="color : black">Post Graduate Merit Award, Heriot-Watt University, UK</code>
+<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
+1.	Nathan and Marvin Goldman/Durham Homes Graduate Award for reducing environmental impact of residential construction/maintenance and improving building energy technologies, Canada.
+2.	1st prize, Highly Qualified Personnel (HQP) poster competition award, governed by the Natural Sciences and Engineering Research Council of Canada (NSERC).
+3.	The NSERC Strategic Network Grant for PhD research, Canada.
+4.	Fellowship funded by the US Department of Energy for PhD research on Nanocomposites, USA.
+5.	Post Graduate Merit Award, Heriot-Watt University, UK
+</p>
 
 ### Editorial Services
 - <code style="color : black">Reviewer: Journal: Reliability Engineering & System Safety, Published by Elsevier - Impact Score: 8.1</code>
