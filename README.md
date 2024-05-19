@@ -59,9 +59,10 @@
    <li>HACS100 Foundations in Cybersecurity - Undergraduate Course</li>  	         	       
    <li>HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course</li>   
   </ul>
-</li>    	         	       
+</li>
 </ul>
 
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>
   <b>Founder/Course Designer/Instructor</b>,Kindidata, VA (Boot Camp- https://kindideta.com/)
   <ul>Courses Taught:<br>
@@ -70,13 +71,17 @@
     <li>Big Data Engineering</li>
   </ul>
 </li>
+</ul>
 
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li><b>Teaching Assistant</b>, University of Toronto, Ontario, Canada				  
   <ul>Courses Taught:<br>
     <li>Advanced Manufacturing Technologies - Undergraduate Course</li>
   </ul>
 </li>
+</ul>
 
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>
   <b>Teaching Assistant</b>, Ontario Tech University, Ontario, Canada
   <ul>Courses Taught:<br>
@@ -84,6 +89,7 @@
     <li>Engineering Design - Undergraduate Course</li>
   </ul>
 </li>
+</ul>
     
 ## Industrial Experience
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
