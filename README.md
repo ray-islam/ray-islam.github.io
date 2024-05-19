@@ -87,19 +87,20 @@
     
 ## Industrial Experience
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<ul>Advisory Specialist Leader (VP/Director of Product Development Equivalent), AI and Cybersecurity, <b>DELOITTE, USA</b></ul>
+I have held leadership and AI/ML Scientist positions (Inlcuding in Cyber Security) at the following organizations:
+<ul> <b>DELOITTE, USA</b></ul>
 
-<ul>Chief Data Scientist(AIML),<b>RAYTHEON, USA</b></ul> 						           
+<ul><b>RAYTHEON, USA</b></ul> 						           
 
-<ul>Senior Data Scientist (AIML),<b>General Services Administration (GSA), Washington, D.C.</b></ul>
+<ul><b>General Services Administration (GSA), Washington, D.C.</b></ul>
 
-<ul>Lead Data Scientist (AIML),<b>American Institutes for Research (AIR), Washington, D.C.</b></ul>	         
+<ul><b>American Institutes for Research (AIR), Washington, D.C.</b></ul>	         
 
-<ul>Lead Associate, Generative AI,<b>BOOZ ALLEN HAMILTON</b></ul>
+<ul><b>BOOZ ALLEN HAMILTON</b></ul>
 
-<ul>Business Development Manager,<b>Euro Nassa Ltd., UK (Clients: TESCO and WAL-MART)</b> </ul>
+<ul><b>Euro Nassa Ltd., UK (Clients: TESCO and WAL-MART)</b> </ul>
 
-<ul>Supply Chain Analyst,<b>CARREFOUR, France (Indian-Subcontinental Office)</b> </ul>
+<ul><b>CARREFOUR, France (Indian-Subcontinental Office)</b> </ul>
 
 <ul><b>Others</b><ul>
 </p>
