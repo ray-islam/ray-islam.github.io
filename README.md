@@ -1,5 +1,7 @@
 ## ABOUT
+<p style="font-family:verdana">
 **<code style="color : dark green">Dr. Ray Islam (M. Rubyet Islam) has distinguished himself as a Chief Data Scientist and Technical Director for Artificial Intelligence and Machine Learning at top global firms. He brings a deep research background in AI and ML, having applied his expertise across various industries. Dr. Islam is also an accomplished author with numerous publications in artificial intelligence and serves as an associate editor and reviewer for prestigious international academic journals. His professional experience extends to managing high-stakes AI and cybersecurity projects, involving strategy development, big data infrastructure, and overseeing multimillion-dollar initiatives for both U.S. government agencies and international corporations. Dr. Islam has directed diverse teams of academics, scientists, and developers on three continents. Moreover, Dr. Islam has extensive teaching experience in university settings and adult education, providing him with unique insights into the intersection of academia and industry. Holding five degrees from five different countries, he possesses a broad understanding of various educational systems, enhancing his global adaptability and versatility.</code>**
+  </p>
 <hr>
 
 ## RESEARCH INTEREST
