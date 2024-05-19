@@ -52,8 +52,8 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>
   <b>Lecturer</b>, ACES Honors College, University of Maryland, College Park, MD, USA
-  <ul> Courses Taught:
-   HACS100 Foundations in Cybersecurity - Undergraduate Course	             	         	       
+  <ul> Courses Taught: <br>
+   HACS100 Foundations in Cybersecurity - Undergraduate Course <br>	             	         	       
    HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course  
   </ul>
 </li>  
