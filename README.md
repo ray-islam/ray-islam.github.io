@@ -93,22 +93,14 @@
     
 ## Industrial Experience
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-I have held leadership, AI/ML Scientist and Analyst positions (Inlcuding Cyber Security) at the following organizations:<br>
+Held leadership, AI/ML Scientist and Analyst positions (Inlcuding Cyber Security) at the following organizations:<br>
   
-<li><b>DELOITTE, USA</b></li>
-
-<li><b>RAYTHEON, USA</b></li> 						           
-
+<li><b>Delloite, USA</b></li>
+<li><b>Raytheon, USA</b></li> 						           
 <li><b>General Services Administration (GSA), Washington, D.C.</b></li>
-
 <li><b>American Institutes for Research (AIR), Washington, D.C.</b></li>	         
-
-<li><b>BOOZ ALLEN HAMILTON</b></li>
-
-<li><b>Euro Nassa Ltd., UK (Clients: TESCO and WAL-MART)</b> </li>
-
-<li><b>CARREFOUR, France (Indian-Subcontinental Office)</b> </li>
-
+<li><b>Euro Nassa Ltd., UK (Clients: Tesco and Wal-Mart)</b> </li>
+<li><b>Carrefour, France (Indian-Subcontinental Office)</b> </li>
 <li><b>Others</b><li>
 <br>
 
@@ -125,6 +117,7 @@ I have held leadership, AI/ML Scientist and Analyst positions (Inlcuding Cyber S
 <li> The United States Marine Corps (USMC), USA</li>
 <li> The United States Department of Justice (DOJ), USA</li>
 <li> The National Aeronautics and Space Administration (NASA), USA</li>
+</ul>
 <hr>
 
 ## PUBLICATIONS & AWARDS
