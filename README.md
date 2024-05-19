@@ -18,11 +18,8 @@
 </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 2. <b>MASc in Mechanical Engineering</b>– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98
-    <br>
 3. <b>MSc in International Marketing</b>– HERIOT-WATT UNIVERSITY – UK
-    <br>
 4. <b>MBA in Marketing </b>– LUTON – UK
-    <br>
 5. <b>BSc in Manufacturing Engineering</b>– BUTex - BD, GPA: First Class
 </p>
 
