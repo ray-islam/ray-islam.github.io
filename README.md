@@ -17,7 +17,7 @@
 <b>Dissertation:</b> A novel methodology to estimate PHM based Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, clustering, and others.
 </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-2. <b>MASc in Mechanical Engineering </b>– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98
+2. <b>MASc in Mechanical Engineering</b>– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98
     <br>
     <br>
 3. <b>MSc in International Marketing</b>– HERIOT-WATT UNIVERSITY – UK
@@ -37,6 +37,7 @@
 ### Transferred
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 1. <b>Ph.D. in Mechanical Engineering </b>- University of Toronto, Canada (Transferred to GW, USA)
+<br>
 2. <b>Ph.D. in Mechanical Engineering </b>- Geroge Washington University, DC, USA (Transferred to UMD, USA)
 </p>
 <hr>
