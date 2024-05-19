@@ -88,7 +88,7 @@
 ## Industrial Experience
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 I have held leadership and AI/ML Scientist positions (Inlcuding in Cyber Security) at the following organizations:
-<li> <b>DELOITTE, USA</b></li>
+<li><b>DELOITTE, USA</b></li>
 
 <ul><b>RAYTHEON, USA</b></ul> 						           
 
@@ -104,7 +104,7 @@ I have held leadership and AI/ML Scientist positions (Inlcuding in Cyber Securit
 
 <ul><b>Others</b><ul>
 </p>
-
+<br>
 ### Clients Served
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 - Berkshire Hathaway, USA
