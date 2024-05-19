@@ -30,11 +30,15 @@
 </p>
 
 ### In-progress
-1. **Micro Masters in Statistics and Data Science**, <code style="color : black">Massachusetts Institute of Technology (MIT), USA</code>
+<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+1. <b>Micro Masters in Statistics and Data Science</b>- Massachusetts Institute of Technology (MIT), USA
+</p>
 
 ### Transferred
-1. **Ph.D. in Mechanical Engineering**, <code style="color : black">University of Toronto, Canada (Transferred to GW, USA)</code>
-2. **Ph.D. in Mechanical Engineering**, <code style="color : black">Geroge Washington University, DC, USA (Transferred to UMD, USA)</code>
+<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+1. <b>Ph.D. in Mechanical Engineering </b>- University of Toronto, Canada (Transferred to GW, USA)
+2. <b>Ph.D. in Mechanical Engineering </b>- Geroge Washington University, DC, USA (Transferred to UMD, USA)
+</p>
 <hr>
 
 ## EXPERIENCE
