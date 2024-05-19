@@ -42,6 +42,36 @@
 
 ## EXPERIENCE
 
+## Industrial Experience
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+Leadership & Scientist roles in:
+  <br>
+  <br>
+  <li>Delloite, USA</li>
+  <li>Raytheon, USA</li> 						           
+  <li>General Services Administration (GSA), Washington, D.C.</li>
+  <li>American Institutes for Research (AIR), Washington, D.C.</li>	         
+  <li>Euro Nassa Ltd., UK (Clients: Tesco and Wal-Mart)</li>
+  <li>Carrefour, France (Indian-Subcontinental Office)</li>
+  <li>Others</li>
+</ul>
+
+### Clients Served
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<li> Berkshire Hathaway, USA</li>
+<li> Capital One Bank, USA</li>
+<li> U.S. Department of Commerce, USA</li>
+<li> Royal Bank of Canada (RBC), Canada</li>
+<li> The White House, USA</li>
+<li> Centers for Medicare & Medicaid Services (CMS), USA</li>
+<li> US Department of Education, USA</li>
+<li> US Airforce (USAF), USA</li>
+<li> The United States Marine Corps (USMC), USA</li>
+<li> The United States Department of Justice (DOJ), USA</li>
+<li> The National Aeronautics and Space Administration (NASA), USA</li>
+</ul>
+<hr>
+
 ## Academic Experience
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>
@@ -91,36 +121,6 @@
 </li>
 </ul>
     
-## Industrial Experience
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-Leadership & Scientist roles in:
-  <br>
-  <br>
-  <li>Delloite, USA</li>
-  <li>Raytheon, USA</li> 						           
-  <li>General Services Administration (GSA), Washington, D.C.</li>
-  <li>American Institutes for Research (AIR), Washington, D.C.</li>	         
-  <li>Euro Nassa Ltd., UK (Clients: Tesco and Wal-Mart)</li>
-  <li>Carrefour, France (Indian-Subcontinental Office)</li>
-  <li>Others</li>
-</ul>
-
-### Clients Served
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li> Berkshire Hathaway, USA</li>
-<li> Capital One Bank, USA</li>
-<li> U.S. Department of Commerce, USA</li>
-<li> Royal Bank of Canada (RBC), Canada</li>
-<li> The White House, USA</li>
-<li> Centers for Medicare & Medicaid Services (CMS), USA</li>
-<li> US Department of Education, USA</li>
-<li> US Airforce (USAF), USA</li>
-<li> The United States Marine Corps (USMC), USA</li>
-<li> The United States Department of Justice (DOJ), USA</li>
-<li> The National Aeronautics and Space Administration (NASA), USA</li>
-</ul>
-<hr>
-
 ## PUBLICATIONS & AWARDS
 
 ### Book 
