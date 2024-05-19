@@ -112,20 +112,20 @@ I have held leadership, AI/ML Scientist and Analyst positions (Inlcuding Cyber S
 <li><b>Others</b><li>
 </li>
 <br>
+
 ### Clients Served
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-- Berkshire Hathaway, USA
-- Capital One Bank, USA
-- U.S. Department of Commerce, USA
-- Royal Bank of Canada (RBC), Canada
-- The White House, USA
-- Centers for Medicare & Medicaid Services (CMS), USA
-- US Department of Education, USA
-- US Airforce (USAF), USA
-- The United States Marine Corps (USMC), USA
-- The United States Department of Justice (DOJ), USA
-- The National Aeronautics and Space Administration (NASA), USA
-</p>
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<li> Berkshire Hathaway, USA</li>
+<li> Capital One Bank, USA</li>
+<li> U.S. Department of Commerce, USA</li>
+<li> Royal Bank of Canada (RBC), Canada</li>
+<li> The White House, USA</li>
+<li> Centers for Medicare & Medicaid Services (CMS), USA</li>
+<li> US Department of Education, USA</li>
+<li> US Airforce (USAF), USA</li>
+<li> The United States Marine Corps (USMC), USA</li>
+<li> The United States Department of Justice (DOJ), USA</li>
+<li> The National Aeronautics and Space Administration (NASA), USA</li>
 <hr>
 
 ## PUBLICATIONS & AWARDS
