@@ -61,7 +61,7 @@
 
 ## Industrial Experience
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-- Advisory Specialist Leader (VP/Director of Product Development Equivalent), AI and Cybersecurity, <b>DELOITTE</b>, USA**
+- Advisory Specialist Leader (VP/Director of Product Development Equivalent), AI and Cybersecurity, <b>DELOITTE, USA</b>
 
 - Chief Data Scientist(AIML),<b>RAYTHEON, USA</b> 						           
 
@@ -77,6 +77,7 @@
 
 - <b>Others</b>
 </p>
+
 ### Clients Served
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 - Berkshire Hathaway, USA
