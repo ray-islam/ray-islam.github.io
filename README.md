@@ -93,7 +93,7 @@
     
 ## Industrial Experience
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-I have held leadership, AI/ML Scientist and Analyst positions (Inlcuding Cyber Security) at the following organizations:
+I have held leadership, AI/ML Scientist and Analyst positions (Inlcuding Cyber Security) at the following organizations:<br>
   
 <li><b>DELOITTE, USA</b></li>
 
@@ -110,7 +110,6 @@ I have held leadership, AI/ML Scientist and Analyst positions (Inlcuding Cyber S
 <li><b>CARREFOUR, France (Indian-Subcontinental Office)</b> </li>
 
 <li><b>Others</b><li>
-</li>
 <br>
 
 ### Clients Served
