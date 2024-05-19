@@ -55,19 +55,30 @@
    HACS100 Foundations in Cybersecurity - Undergraduate Course <br>	             	         	       
    HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course  
   </ul>
-</li>  
-  	         	       
+</li>    	         	       
 <br>
-- <b>Founder/Course Director/Instructor</b>,Kindidata, VA (Boot Camp- https://kindideta.com/)	                  - Data Visualization							
+<li>
+  <b>Founder/Course Designer/Instructor</b>,Kindidata, VA (Boot Camp- https://kindideta.com/)
+  <ul>Courses Taught:<br>
+  - Data Visualization							
   - Natural Language Processing (NLP)						
-  - Big Data Engineering						         
+  - Big Data Engineering
+  </ul>
+</li>
 <br>
-- <b>Teaching Assistant</b>, University of Toronto, Ontario, Canada				  
-  - Advanced Manufacturing Technologies - Undergraduate Course							 
+<li><b>Teaching Assistant</b>, University of Toronto, Ontario, Canada				  
+  <ul>Courses Taught:<br>
+    - Advanced Manufacturing Technologies - Undergraduate Course
+  </ul>
+</li>
 <br>
-- <b>Teaching Assistant</b>, Ontario Tech University, Ontario, Canada 				  
+<li>
+  <b>Teaching Assistant</b>, Ontario Tech University, Ontario, Canada
+  <ul>Courses Taught:<br>
   - Statistics and Probability for Engineers - Undergraduate Course									    
   - Engineering Design - Undergraduate Course
+  </ul>
+</li>
 </p>
 <br>
     
