@@ -95,6 +95,7 @@
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 Leadership & Scientist roles in:
   <br>
+  <br>
   <li><b>Delloite, USA</b></li>
   <li><b>Raytheon, USA</b></li> 						           
   <li><b>General Services Administration (GSA), Washington, D.C.</b></li>
