@@ -100,9 +100,10 @@ Leadership & Scientist roles in:
   <li><b>Raytheon, USA</b></li> 						           
   <li><b>General Services Administration (GSA), Washington, D.C.</b></li>
   <li><b>American Institutes for Research (AIR), Washington, D.C.</b></li>	         
-  <li><b>Euro Nassa Ltd., UK (Clients: Tesco and Wal-Mart)</b> </li>
-  <li><b>Carrefour, France (Indian-Subcontinental Office)</b> </li>
-  <li><b>Others</b><li> </ul>
+  <li><b>Euro Nassa Ltd., UK (Clients: Tesco and Wal-Mart)</b></li>
+  <li><b>Carrefour, France (Indian-Subcontinental Office)</b></li>
+  <li><b>Others</b><li> 
+</ul>
 <br>
 
 ### Clients Served
