@@ -96,13 +96,13 @@
 Leadership & Scientist roles in:
   <br>
   <br>
-  <li><b>Delloite, USA</b></li>
-  <li><b>Raytheon, USA</b></li> 						           
-  <li><b>General Services Administration (GSA), Washington, D.C.</b></li>
-  <li><b>American Institutes for Research (AIR), Washington, D.C.</b></li>	         
-  <li><b>Euro Nassa Ltd., UK (Clients: Tesco and Wal-Mart)</b></li>
-  <li><b>Carrefour, France (Indian-Subcontinental Office)</b></li>
-  <li><b>Others</b></li>
+  <li>Delloite, USA</li>
+  <li>Raytheon, USA</li> 						           
+  <li>General Services Administration (GSA), Washington, D.C.</li>
+  <li>American Institutes for Research (AIR), Washington, D.C.</li>	         
+  <li>Euro Nassa Ltd., UK (Clients: Tesco and Wal-Mart)</li>
+  <li>Carrefour, France (Indian-Subcontinental Office)</li>
+  <li>Others</li>
 </ul>
 
 ### Clients Served
