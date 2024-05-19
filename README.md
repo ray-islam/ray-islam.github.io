@@ -69,15 +69,15 @@
 
 <li><b>Teaching Assistant</b>, University of Toronto, Ontario, Canada				  
   <ul>Courses Taught:<br>
-    - Advanced Manufacturing Technologies - Undergraduate Course
+    <li>Advanced Manufacturing Technologies - Undergraduate Course</li>
   </ul>
 </li>
 
 <li>
   <b>Teaching Assistant</b>, Ontario Tech University, Ontario, Canada
   <ul>Courses Taught:<br>
-  - Statistics and Probability for Engineers - Undergraduate Course									    
-  - Engineering Design - Undergraduate Course
+    <li>Statistics and Probability for Engineers - Undergraduate Course</li>
+    <li>Engineering Design - Undergraduate Course</li>
   </ul>
 </li>
 </p>
