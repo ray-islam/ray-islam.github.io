@@ -67,7 +67,6 @@ Leadership & Scientist roles in:
 <li> Education: US Department of Education, USA</li>
 <li> The White House, USA</li>
 <li> US Airforce (USAF), USA</li>
-<li> The United States Marine Corps (USMC), USA</li>
 <li> The United States Department of Justice (DOJ), USA</li>
 <li> The National Aeronautics and Space Administration (NASA), USA</li>
 </ul>
