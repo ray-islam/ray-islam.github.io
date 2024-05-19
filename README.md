@@ -9,7 +9,7 @@
 ## EDUCATION 
 
 ### Complete
-1. **Doctor of Philosophy (PhD) in Machine Learning** <code style="color : black">(Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA</code>
+1. **Doctor of Philosophy (PhD) in Machine Learning** <code style="color : black">(Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA.</code>
 <br>
    <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
    <b>Advisory Committee:</b> Dr. Peter A Sandborn (Advisor and Chair), Dr. William Regli (Dean’s Representative), Dr. Mohammad Modarres, Dr. F. Patrick McCluskey, Dr. Abhijit Dasgupta.</p>
