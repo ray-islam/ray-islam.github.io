@@ -105,7 +105,6 @@ Leadership & Scientist roles in:
   <li><b>Others</b><li>
   </li>
 </ul>
-<br>
 
 ### Clients Served
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
