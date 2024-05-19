@@ -26,6 +26,7 @@
     <br>
 5. <b>BSc in Manufacturing Engineering</b>– BUTex - BD, GPA: First Class
 </p>
+
 ### In-progress
 1. **Micro Masters in Statistics and Data Science**, <code style="color : black">Massachusetts Institute of Technology (MIT), USA</code>
 
