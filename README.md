@@ -104,6 +104,7 @@ Leadership & Scientist roles in:
   <li><b>Carrefour, France (Indian-Subcontinental Office)</b></li>
   <li><b>Others</b><li>
 </ul>
+<br>
 
 ### Clients Served
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
