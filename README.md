@@ -45,7 +45,7 @@
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>
   <b>Adjunct Professor </b>> , Information Sciences and Technology, George Mason University, Fairfax, VA, USA
-    <ul> Course Taught: AIT 526: Natural Language Processing (Generative AI) – Graduate course
+    <ul> Course Taught: <br> AIT 526: Natural Language Processing (Generative AI) – Graduate course
     </ul>
 </li>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
@@ -56,22 +56,22 @@
    HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course  
   </ul>
 </li>    	         	       
-<br>
+  
 <li>
   <b>Founder/Course Designer/Instructor</b>,Kindidata, VA (Boot Camp- https://kindideta.com/)
   <ul>Courses Taught:<br>
-  - Data Visualization							
-  - Natural Language Processing (NLP)						
-  - Big Data Engineering
+   <li>Data Visualization</li>							
+   <li>Natural Language Processing (NLP)</li>						
+   <li>Big Data Engineering</li>
   </ul>
 </li>
-<br>
+
 <li><b>Teaching Assistant</b>, University of Toronto, Ontario, Canada				  
   <ul>Courses Taught:<br>
     - Advanced Manufacturing Technologies - Undergraduate Course
   </ul>
 </li>
-<br>
+
 <li>
   <b>Teaching Assistant</b>, Ontario Tech University, Ontario, Canada
   <ul>Courses Taught:<br>
@@ -80,7 +80,6 @@
   </ul>
 </li>
 </p>
-<br>
     
 ## Industrial Experience
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
