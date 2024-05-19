@@ -43,7 +43,7 @@
 
 ## Academic Experience
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-  - <b>Adjunct Professor<b/>, Information Sciences and Technology, George Mason University, Fairfax, VA, USA
+<b>Adjunct Professor <b/> , Information Sciences and Technology, George Mason University, Fairfax, VA, USA
     - AIT 526: Natural Language Processing (Generative AI) – Graduate course			       
 <br>
 - <b>Lecturer</b>, ACES Honors College, University of Maryland, College Park, MD, USA 		               
@@ -61,7 +61,8 @@
   - Statistics and Probability for Engineers - Undergraduate Course									    
   - Engineering Design - Undergraduate Course
 </p>
-
+<br>
+    
 ## Industrial Experience
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 - Advisory Specialist Leader (VP/Director of Product Development Equivalent), AI and Cybersecurity, <b>DELOITTE, USA</b>
