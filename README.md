@@ -43,12 +43,11 @@
 - <b>Adjunct Professor<b/>, Information Sciences and Technology, George Mason University, Fairfax, VA, USA
   - AIT 526: Natural Language Processing (Generative AI) – Graduate course			       
 
-- <b>Lecturer</b>, <code style="color : black">ACES Honors College, University of Maryland, College Park, MD, USA> 		               
+- <b>Lecturer</b>, ACES Honors College, University of Maryland, College Park, MD, USA 		               
   - HACS100 Foundations in Cybersecurity - Undergraduate Course	             	         	       
   - HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course   	         	       
 
-- <b>Founder/Course Director/Instructor</b>,Kindidata, VA (Boot Camp- https://kindideta.com/)	                 
-  - Data Visualization							
+- <b>Founder/Course Director/Instructor</b>,Kindidata, VA (Boot Camp- https://kindideta.com/)	                  - Data Visualization							
   - Natural Language Processing (NLP)						
   - Big Data Engineering						         
 
@@ -58,7 +57,7 @@
 - <b>Teaching Assistant</b>, Ontario Tech University, Ontario, Canada 				  
   - Statistics and Probability for Engineers - Undergraduate Course									    
   - Engineering Design - Undergraduate Course
-  </p>    	
+</p>    	
 
 ## Industrial Experience
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
