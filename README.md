@@ -24,7 +24,9 @@
     <br>
 3. <b>MSc in International Marketing</b>– HERIOT-WATT UNIVERSITY – UK
     <br>
+    <br>
 4. <b>MBA in Marketing </b>– LUTON – UK
+    <br>
     <br>
 5. <b>BSc in Manufacturing Engineering</b>– BUTex - BD, GPA: First Class
 </p>
