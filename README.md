@@ -1,5 +1,6 @@
 ## ABOUT
-<p style="color: green; font-family: 'Futura', serif; font-size: 17px;"><b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself as a Chief Data Scientist and Technical Director for Artificial Intelligence and Machine Learning (AIML) at top global firms. He brings a deep research background applied across various industries. Dr. Islam is an accomplished author with numerous publications and serves as an associate editor and reviewer for prestigious international journals. His experience includes managing high-stakes AI and cybersecurity projects, developing strategies, architecting solutions, and overseeing multimillion-dollar initiatives for U.S. government agencies and international corporations. Dr. Islam has directed teams of academics, scientists, and developers on three continents. He also has extensive teaching experience in universities and adult education, providing unique insights into academia and industry. With five degrees from five countries, he has a broad understanding of various educational systems, enhancing his global adaptability and versatility. </b></p>
+<p style="color: green; font-family: 'Futura', serif; font-size: 17px;"><b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself as a Chief Data Scientist and Technical Director for Artificial Intelligence and Machine Learning (AIML) at top global firms. He brings a deep research background applied across various industries. Dr. Islam is an accomplished author with numerous publications and serves as an associate editor and reviewer for prestigious international journals. His experience includes managing high-stakes AI and cybersecurity projects, developing strategies, architecting solutions, and overseeing multimillion-dollar initiatives for U.S. government agencies and international corporations. Dr. Islam has directed teams of academics, scientists, and developers on three continents. He also has extensive teaching experience in universities and adult education, providing unique insights into academia and industry. With five degrees from five countries, he has a broad understanding of various educational systems, enhancing his global adaptability and versatility. </b>
+</p>
 <hr>
 
 ## RESEARCH INTEREST
@@ -49,7 +50,9 @@
       <li>AIT 526: Natural Language Processing (Generative AI) – Graduate course</li>
     </ul>
 </li>
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+</ul>
+
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>
   <b>Lecturer</b>, ACES Honors College, University of Maryland, College Park, MD, USA
   <ul> Courses Taught: <br>
@@ -57,7 +60,8 @@
    <li>HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course</li>   
   </ul>
 </li>    	         	       
-  
+</ul>
+
 <li>
   <b>Founder/Course Designer/Instructor</b>,Kindidata, VA (Boot Camp- https://kindideta.com/)
   <ul>Courses Taught:<br>
@@ -80,7 +84,6 @@
     <li>Engineering Design - Undergraduate Course</li>
   </ul>
 </li>
-</p>
     
 ## Industrial Experience
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
