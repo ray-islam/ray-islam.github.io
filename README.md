@@ -92,24 +92,25 @@
 </ul>
     
 ## Industrial Experience
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-I have held leadership and AI/ML Scientist positions (Inlcuding in Cyber Security) at the following organizations:
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+I have held leadership, AI/ML Scientist and Analyst positions (Inlcuding Cyber Security) at the following organizations:
+  
 <li><b>DELOITTE, USA</b></li>
 
-<ul><b>RAYTHEON, USA</b></ul> 						           
+<li><b>RAYTHEON, USA</b></li> 						           
 
-<ul><b>General Services Administration (GSA), Washington, D.C.</b></ul>
+<li><b>General Services Administration (GSA), Washington, D.C.</b></li>
 
-<ul><b>American Institutes for Research (AIR), Washington, D.C.</b></ul>	         
+<li><b>American Institutes for Research (AIR), Washington, D.C.</b></li>	         
 
-<ul><b>BOOZ ALLEN HAMILTON</b></ul>
+<li><b>BOOZ ALLEN HAMILTON</b></li>
 
-<ul><b>Euro Nassa Ltd., UK (Clients: TESCO and WAL-MART)</b> </ul>
+<li><b>Euro Nassa Ltd., UK (Clients: TESCO and WAL-MART)</b> </li>
 
-<ul><b>CARREFOUR, France (Indian-Subcontinental Office)</b> </ul>
+<li><b>CARREFOUR, France (Indian-Subcontinental Office)</b> </li>
 
-<ul><b>Others</b><ul>
-</p>
+<li><b>Others</b><li>
+</li>
 <br>
 ### Clients Served
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
