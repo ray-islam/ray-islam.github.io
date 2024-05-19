@@ -12,13 +12,12 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 1. <b>Doctor of Philosophy (PhD) in Machine Learning</b> (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA.
 </p>
-<br>
-<p style="color: black; font-family: 'Times New Roman', serif; font-size: 16px; padding-left: 20px;">
-<b>Advisory Committee:</b> Dr. Peter A Sandborn (Advisor and Chair), Dr. William Regli (Dean’s Representative), Dr. Mohammad Modarres, Dr. F. Patrick McCluskey, Dr. Abhijit Dasgupta.</span>
-</p>
-<br>
-<span style="padding-left: 20px;"><b>Dissertation:</b> A novel methodology to estimate PHM based Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, clustering, and others. </span>
-    <br>    
+        <p style="color: black; font-family: 'Times New Roman', serif; font-size: 16px; padding-left: 20px;">
+        <b>Advisory Committee:</b> Dr. Peter A Sandborn (Advisor and Chair), Dr. William Regli (Dean’s Representative), Dr. Mohammad Modarres, Dr. F. Patrick McCluskey, Dr. Abhijit Dasgupta.
+        <br>
+        <b>Dissertation:</b> A novel methodology to estimate PHM based Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, clustering, and others.
+        </p>
+        <br>    
 2. <b>MASc in Mechanical Engineering </b>– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98
     <br>
 3. <b>MSc in International Marketing</b>– HERIOT-WATT UNIVERSITY – UK
