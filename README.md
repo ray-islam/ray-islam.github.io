@@ -58,13 +58,14 @@ Leadership & Scientist roles in:
 
 ### Clients Served
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li> Berkshire Hathaway, USA</li>
-<li> Capital One Bank, USA</li>
-<li> U.S. Department of Commerce, USA</li>
-<li> Royal Bank of Canada (RBC), Canada</li>
+<li> Finance: Berkshire Hathaway, USA</li>
+<li> Finance: Capital One Bank, USA</li>
+<li> Finance: U.S. Department of Commerce, USA</li>
+<li> Finance: Royal Bank of Canada (RBC), Canada</li>
+<li> Health Care: Centers for Medicare & Medicaid Services (CMS), USA</li>
+<li> Health Care: US Department of Vaterans Affairs, USA</li>
+<li> Education: US Department of Education, USA</li>
 <li> The White House, USA</li>
-<li> Centers for Medicare & Medicaid Services (CMS), USA</li>
-<li> US Department of Education, USA</li>
 <li> US Airforce (USAF), USA</li>
 <li> The United States Marine Corps (USMC), USA</li>
 <li> The United States Department of Justice (DOJ), USA</li>
