@@ -93,15 +93,15 @@
     
 ## Industrial Experience
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-Held leadership, AI/ML Scientist and Analyst positions (Inlcuding Cyber Security) at the following organizations:<br>
-  
-<li><b>Delloite, USA</b></li>
-<li><b>Raytheon, USA</b></li> 						           
-<li><b>General Services Administration (GSA), Washington, D.C.</b></li>
-<li><b>American Institutes for Research (AIR), Washington, D.C.</b></li>	         
-<li><b>Euro Nassa Ltd., UK (Clients: Tesco and Wal-Mart)</b> </li>
-<li><b>Carrefour, France (Indian-Subcontinental Office)</b> </li>
-<li><b>Others</b><li>
+Leadership, AI/ML Scientist & Analyst positions (Inlcuding Cyber Security) at:<br>
+  <li><b>Delloite, USA</b></li>
+  <li><b>Raytheon, USA</b></li> 						           
+  <li><b>General Services Administration (GSA), Washington, D.C.</b></li>
+  <li><b>American Institutes for Research (AIR), Washington, D.C.</b></li>	         
+  <li><b>Euro Nassa Ltd., UK (Clients: Tesco and Wal-Mart)</b> </li>
+  <li><b>Carrefour, France (Indian-Subcontinental Office)</b> </li>
+  <li><b>Others</b><li>
+ </ul>
 <br>
 
 ### Clients Served
