@@ -88,7 +88,7 @@
 ## Industrial Experience
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 I have held leadership and AI/ML Scientist positions (Inlcuding in Cyber Security) at the following organizations:
-<ul> <b>DELOITTE, USA</b></ul>
+<li> <b>DELOITTE, USA</b></li>
 
 <ul><b>RAYTHEON, USA</b></ul> 						           
 
