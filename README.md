@@ -45,15 +45,19 @@
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>
   <b>Adjunct Professor </b>> , Information Sciences and Technology, George Mason University, Fairfax, VA, USA
-    <ul> AIT 526: Natural Language Processing (Generative AI) – Graduate course
+    <ul> Course Taught: AIT 526: Natural Language Processing (Generative AI) – Graduate course
     </ul>
 </li>
-  
-<br>
+  <br>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-- <b>Lecturer</b>, ACES Honors College, University of Maryland, College Park, MD, USA 		               
-  - HACS100 Foundations in Cybersecurity - Undergraduate Course	             	         	       
-  - HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course   	         	       
+<li>
+  <b>Lecturer</b>, ACES Honors College, University of Maryland, College Park, MD, USA
+  <ul> Courses Taught:
+   HACS100 Foundations in Cybersecurity - Undergraduate Course	             	         	       
+   HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course  
+  </ul>
+</li>  
+  	         	       
 <br>
 - <b>Founder/Course Director/Instructor</b>,Kindidata, VA (Boot Camp- https://kindideta.com/)	                  - Data Visualization							
   - Natural Language Processing (NLP)						
