@@ -3,7 +3,7 @@
 <hr>
 
 ## RESEARCH INTEREST
-<p style="color: green; font-family: 'Futura', serif; font-size: 12px;"><b>Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Security, Ethics in AI</b></p>
+<p style="color: green; font-family: 'Futura', serif; font-size: 16px;"><b>Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Security, Ethics in AI</b></p>
 <hr>
 
 ## EDUCATION 
