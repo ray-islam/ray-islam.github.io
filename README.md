@@ -12,8 +12,9 @@
 1. **Doctor of Philosophy (PhD) in Machine Learning** <code style="color : black">(Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA.</code>
 <br>
    <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-   <b>Advisory Committee:</b> Dr. Peter A Sandborn (Advisor and Chair), Dr. William Regli (Dean’s Representative), Dr. Mohammad Modarres, Dr. F. Patrick McCluskey, Dr. Abhijit Dasgupta.</p>
+   <b>Advisory Committee:</b> Dr. Peter A Sandborn (Advisor and Chair), Dr. William Regli (Dean’s Representative), Dr. Mohammad Modarres, Dr. F. Patrick McCluskey, Dr. Abhijit Dasgupta.
     Dissertation: A novel methodology to estimate PHM based Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, clustering, and others.
+    </p>
     <br>
 3. **MASc in Mechanical Engineering** <code style="color : black">– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98</code>
 4. **MSc in International Marketing** <code style="color : black">– HERIOT-WATT UNIVERSITY – UK</code>
