@@ -48,7 +48,6 @@
     <ul> Course Taught: AIT 526: Natural Language Processing (Generative AI) – Graduate course
     </ul>
 </li>
-  <br>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>
   <b>Lecturer</b>, ACES Honors College, University of Maryland, College Park, MD, USA
