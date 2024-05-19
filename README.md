@@ -148,38 +148,42 @@
 </p>
 
 ### Editorial Services
-- <code style="color : black">Reviewer: Journal: Reliability Engineering & System Safety, Published by Elsevier - Impact Score: 8.1</code>
-- <code style="color : black">Associate Editor: Journal of Prognostics and Health Management (JPHM) - Impact Score: 1.78</code>
-- <code style="color : black">Editor-in-Chief: International Journal for Ethics & AI – To be launched.</code>
-
+<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
+- Reviewer: Journal: Reliability Engineering & System Safety, Published by Elsevier - Impact Score: 8.1
+- Associate Editor: Journal of Prognostics and Health Management (JPHM) - Impact Score: 1.78
+- Editor-in-Chief: International Journal for Ethics & AI – To be launched.
+</p>
+  
 ### Blogs
-1.	<code style="color : black">Prompt tuning for Large Language Models (LLMs), Dec 19</code>
-2.	<code style="color : black">High-Frequency Trading (HFT) Uncovered: Speed, Strategy, and Impact, Dec 15</code>
-3.	<code style="color : black">Algo-trading, Dec 23</code>
-4.	<code style="color : black">Navigating the Labyrinth: The Fivefold Challenge of Harnessing Generative AI for Financial Forecasting, Nov 2, 2023</code>
-5.	<code style="color : black">Creating a Chatbot with Generative AI: With ChatGPT(gpt-3.5-turbo) & User Defined Data for Project: DearDad, Oct 23</code>
-6.	<code style="color : black">Generative AI Use Cases, Oct 23</code>
-7.	<code style="color : black">Generative AI for NLP (RoBERTA vs. BERT vs. XLNet, Sept 23</code>
-8.	<code style="color : black">What is Generative AI? September 23</code>
-9.	<code style="color : black">Python Code for Text Mining> Keyword Frequency> From Webpages > Web Scrapping, Sept 23</code>
-10.	<code style="color : black">Generative AI for Supply Chain Decision Making, April 23</code>
-11.	<code style="color : black">Tabular GANs (Generative AI), April 23</code>
-12.	<code style="color : black">Generative AI: Validation Techniques for GANs, originally published in June 21</code>
-13.	<code style="color : black">Chat GPT…relax! originally published in June 2021</code>
-14.	<code style="color : black">Is ethics important for AI? originally published in June 20</code>
-15.	<code style="color : black">What is ethics for AI? originally published in June 20</code>
-16.	<code style="color : black">Graph Neural Network (GNN) for Cyber Security, originally published in June 20</code>
-17.	<code style="color : black">Stock-market/stocks-sentiment, originally published in June 20</code>
-18.	<code style="color : black">Stock-market/news-sentiment-analysis, originally published in June 20</code>
-19.	<code style="color : black">Ethical issues of the application of artificial intelligence in healthcare, originally published in Feb 20</code>
-20.	<code style="color : black">big_data~validate_existingmodel+innovate_new_statistics_n_functions, originally published in Oct 19</code>
-21.	<code style="color : black">over_analysis <= (kill~ confusion + blindness), originally published in June 19</code>
-22.	<code style="color : black">AI B.O.S.S, originally published, originally published in January 18</code>
-23.	<code style="color : black">Augmented reality in education? Originally published in May 17</code>
-24.	<code style="color : black">Can Artificial Intelligence (AI) really steal our jobs? Originally published in March 15</code>
-25.	<code style="color : black">Synthetic Data for Cyber Security, originally published in July 15</code>
-26.	<code style="color : black">What is the best algorithm to summarize reports? originally published in June 15</code>
+<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
+1.	Prompt tuning for Large Language Models (LLMs), Dec 19
+2.	High-Frequency Trading (HFT) Uncovered: Speed, Strategy, and Impact, Dec 15
+3.	Algo-trading, Dec 23
+4.	Navigating the Labyrinth: The Fivefold Challenge of Harnessing Generative AI for Financial Forecasting, Nov 2, 2023
+5.	Creating a Chatbot with Generative AI: With ChatGPT(gpt-3.5-turbo) & User Defined Data for Project: DearDad, Oct 23
+6.	Generative AI Use Cases, Oct 23
+7.	Generative AI for NLP (RoBERTA vs. BERT vs. XLNet, Sept 23
+8.	What is Generative AI? September 23
+9.	Python Code for Text Mining> Keyword Frequency> From Webpages > Web Scrapping, Sept 23
+10.	Generative AI for Supply Chain Decision Making, April 23
+11.	Tabular GANs (Generative AI), April 23
+12. Generative AI: Validation Techniques for GANs, originally published in June 21
+13.	Chat GPT…relax! originally published in June 2021
+14.	Is ethics important for AI? originally published in June 20
+15.	What is ethics for AI? originally published in June 20
+16.	Graph Neural Network (GNN) for Cyber Security, originally published in June 20
+17.	Stock-market/stocks-sentiment, originally published in June 20
+18.	Stock-market/news-sentiment-analysis, originally published in June 20
+19.	Ethical issues of the application of artificial intelligence in healthcare, originally published in Feb 20
+20.	big_data~validate_existingmodel+innovate_new_statistics_n_functions, originally published in Oct 19
+21.over_analysis <= (kill~ confusion + blindness), originally published in June 19
+22.	AI B.O.S.S, originally published, originally published in January 18
+23.	Augmented reality in education? Originally published in May 17
+24.	Can Artificial Intelligence (AI) really steal our jobs? Originally published in March 15
+25.	Synthetic Data for Cyber Security, originally published in July 15
+26.	What is the best algorithm to summarize reports? originally published in June 15
 <hr>
+</p>
 
 ## PROFESSIONAL DEVELOPMENT
 
