@@ -19,12 +19,9 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 2. <b>MASc in Mechanical Engineering</b>– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98
     <br>
-    <br>
 3. <b>MSc in International Marketing</b>– HERIOT-WATT UNIVERSITY – UK
     <br>
-    <br>
 4. <b>MBA in Marketing </b>– LUTON – UK
-    <br>
     <br>
 5. <b>BSc in Manufacturing Engineering</b>– BUTex - BD, GPA: First Class
 </p>
@@ -67,35 +64,37 @@
   </p>    	
 
 ## Industrial Experience
+<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+- Advisory Specialist Leader (VP/Director of Product Development Equivalent), AI and Cybersecurity, <b>DELOITTE</b>, USA**
 
-- <code style="color : black">Advisory Specialist Leader (VP/Director of Product Development Equivalent), AI and Cybersecurity, </code>**DELOITTE, USA**
+- Chief Data Scientist(AIML),<b>RAYTHEON, USA</b> 						           
 
-- <code style="color : black">Chief Data Scientist(AIML),</code>**RAYTHEON, USA** 						           
+- Senior Data Scientist (AIML),<b>General Services Administration (GSA), Washington, D.C.</b>
 
-- <code style="color : black">Senior Data Scientist (AIML),</code>**General Services Administration (GSA), Washington, D.C.**
+- Lead Data Scientist (AIML),<b>American Institutes for Research (AIR), Washington, D.C.</b>	         
 
-- <code style="color : black">Lead Data Scientist (AIML),</code>**American Institutes for Research (AIR), Washington, D.C.** 		         
+- Lead Associate, Generative AI,<b>BOOZ ALLEN HAMILTON</b>
 
-- <code style="color : black">Lead Associate, Generative AI,</code>**BOOZ ALLEN HAMILTON**
+ - Business Development Manager,<b>Euro Nassa Ltd., UK (Clients: TESCO and WAL-MART)</b> 
 
- - <code style="color : black">Manager,</code> **Euro Nassa Ltd., UK (Clients: TESCO and WAL-MART)** 
+- Supply Chain Analyst,<b>CARREFOUR, France (Indian-Subcontinental Office)</b> 
 
-- <code style="color : black">Supply Chain Analyst,</code>**CARREFOUR, France (Indian-Subcontinental Office)** 
-
-- **Others**
-
+- <b>Others</b>
+</p>
 ### Clients Served
-- <code style="color : black">Berkshire Hathaway, USA</code>
-- <code style="color : black">Capital One Bank, USA</code>
-- <code style="color : black">U.S. Department of Commerce, USA</code>
-- <code style="color : black">Royal Bank of Canada (RBC), Canada</code>
-- <code style="color : black">The White House, USA</code>
-- <code style="color : black">Centers for Medicare & Medicaid Services (CMS), USA</code>
-- <code style="color : black">US Department of Education, USA</code>
-- <code style="color : black">US Airforce (USAF), USA</code>
-- <code style="color : black">The United States Marine Corps (USMC), USA</code>
-- <code style="color : black">The United States Department of Justice (DOJ), USA</code>
-- <code style="color : black">The National Aeronautics and Space Administration (NASA), USA </code>
+<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+- Berkshire Hathaway, USA
+- Capital One Bank, USA
+- U.S. Department of Commerce, USA
+- Royal Bank of Canada (RBC), Canada
+- The White House, USA
+- Centers for Medicare & Medicaid Services (CMS), USA
+- US Department of Education, USA
+- US Airforce (USAF), USA
+- The United States Marine Corps (USMC), USA
+- The United States Department of Justice (DOJ), USA
+- The National Aeronautics and Space Administration (NASA), USA
+</p>
 <hr>
 
 ## PUBLICATIONS & AWARDS
