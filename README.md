@@ -49,14 +49,14 @@
 - <b>Lecturer</b>, ACES Honors College, University of Maryland, College Park, MD, USA 		               
   - HACS100 Foundations in Cybersecurity - Undergraduate Course	             	         	       
   - HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course   	         	       
-
+<br>
 - <b>Founder/Course Director/Instructor</b>,Kindidata, VA (Boot Camp- https://kindideta.com/)	                  - Data Visualization							
   - Natural Language Processing (NLP)						
   - Big Data Engineering						         
-
+<br>
 - <b>Teaching Assistant</b>, University of Toronto, Ontario, Canada				  
   - Advanced Manufacturing Technologies - Undergraduate Course							 
-
+<br>
 - <b>Teaching Assistant</b>, Ontario Tech University, Ontario, Canada 				  
   - Statistics and Probability for Engineers - Undergraduate Course									    
   - Engineering Design - Undergraduate Course
