@@ -188,42 +188,54 @@
 ## PROFESSIONAL DEVELOPMENT
 
 ### Languages Speak: 
-<code style="color : black">English | Bengali | Hindi | Urdu | French- 101 |Arabic-Reading and Writing only.</code>
+<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 16px;">
+English | Bengali | Hindi | Urdu | French- 101 |Arabic-Reading and Writing only.
+</p>
 
 ### Professional Training
-- <code style="color : black">6.419x: Certificate for Data Analysis: Statistical Modeling and Computation in Applications, MIT, MA</code>
-- <code style="color : black">Tackling the Challenges of Big Data – Massachusetts Institute of Technology (MIT), MA</code>
-- <code style="color : black">18.6501x: Fundamentals of Statistics, Massachusetts Institute of Technology (MIT), MA</code>
-- <code style="color : black">Teaching best practices training - University of Maryland, College Park, MD, USA</code>
-- <code style="color : black">200-A - FedRAMP System Security Plan (SSP) Required Documents</code>
-- <code style="color : black">AWS Security Fundamentals (Second Edition)</code>
-- <code style="color : black">Certified Scrum Master (CSM) (Expired)</code>
+<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 16px;">
+- 6.419x: Certificate for Data Analysis: Statistical Modeling and Computation in Applications, MIT, MA
+- Tackling the Challenges of Big Data – Massachusetts Institute of Technology (MIT), MA
+- 18.6501x: Fundamentals of Statistics, Massachusetts Institute of Technology (MIT), MA
+- Teaching best practices training - University of Maryland, College Park, MD, USA
+- 200-A - FedRAMP System Security Plan (SSP) Required Documents
+- AWS Security Fundamentals (Second Edition)
+- Certified Scrum Master (CSM) (Expired)
+</p>
 <hr>
 
 ## OTHERS
 
 ### Knowledge Share: 
--	<code style="color : black">Youtube:@rayisl5382</code>
--	<code style="color : black">ORCID:0000-0002-8263-7560</code>
--	<code style="color : black">Medium:https://medium.com/@rayislam</code>
--	<code style="color : black">Research Gate: https://www.researchgate.net/profile/Rubyet-Islam</code>
--	<code style="color : black">KDNuggets:Unveiling the Potential of CTGAN: Harnessing Generative AI for Synthetic Data </code>
--	<code style="color : black">Google Scholar:https://scholar.google.com/citations?hl=en&authuser=1&user=nqqVzFsAAAAJ</code>
+<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 16px;">
+-	Youtube:@rayisl5382
+-	ORCID:0000-0002-8263-7560
+-	Medium:https://medium.com/@rayislam
+-	Research Gate: https://www.researchgate.net/profile/Rubyet-Islam
+-	KDNuggets:Unveiling the Potential of CTGAN: Harnessing Generative AI for Synthetic Data 
+-	Google Scholar:https://scholar.google.com/citations?hl=en&authuser=1&user=nqqVzFsAAAAJ
+</p>
 
 ### Invited Panels and Guest Speaker
 
 **USA**
-1.	<code style="color : black">Invited Guest Speaker- Symposium: The trends of Cancer Research, and Dynamic Challenges of CyberSecurity, Nov 2023, Supported by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA</code>
-2.	<code style="color : black">Hackathon Judge - AI based models for Crypto Currency, 2022, by Deloitte at the University of Maryland.</code>
+<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 16px;">
+1.	Invited Guest Speaker- Symposium: The trends of Cancer Research, and Dynamic Challenges of CyberSecurity, Nov 2023, Supported by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA
+2.	Hackathon Judge - AI based models for Crypto Currency, 2022, by Deloitte at the University of Maryland.
+</p>
 
 **International**
-- <code style="color : black">Invited guest speaker, Green University, 2024 - Applications of AI in Manufacturing.(Online)</code>
-- <code style="color : black">Invited guest speaker, Bangladesh University of Textiles, 2020 - Applications of AI in Manufacturing.</code>
-- <code style="color : black">Invited Guest Speaker, North South University, Bangladesh, 2018 - AI and their applications. 
+<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 16px;">
+- Invited guest speaker, Green University, 2024 - Applications of AI in Manufacturing.(Online)
+- Invited guest speaker, Bangladesh University of Textiles, 2020 - Applications of AI in Manufacturing.
+- Invited Guest Speaker, North South University, Bangladesh, 2018 - AI and their applications. 
+</p>
 
 ### Other Activities and Social Contributions
--	<code style="color : black">Motivational speaker for the local South-East Asian community on How to become a data scientist.</code>
--	<code style="color : black">Featured in the most popular newspaper in Bangladesh (Daily Prothom Alo) to inspire the youth, 2020.</code>
--	<code style="color : black">Attended podcasts in Bangladesh on August 23rd, 2020, to inspire the younger generation.</code>
--	<code style="color : black">Published article on Data Science in the Daily Observer, another national newspaper in Bangladesh, on March 11th, 2018. Link https://www.observerbd.com/details.php?id=126845 </code>
--	<code style="color : black">Published two poetry books in Bengali.</code>
+<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 16px;">
+-	Motivational speaker for the local South-East Asian community on How to become a data scientist.
+-	Featured in the most popular newspaper in Bangladesh (Daily Prothom Alo) to inspire the youth, 2020.
+-	Attended podcasts in Bangladesh on August 23rd, 2020, to inspire the younger generation.
+-	Published article on Data Science in the Daily Observer, another national newspaper in Bangladesh, on March 11th, 2018. Link https://www.observerbd.com/details.php?id=126845 
+-	Published two poetry books in Bengali.
+</p>
