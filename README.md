@@ -11,9 +11,6 @@
 ### Complete
 1. **Doctor of Philosophy (PhD) in Machine Learning** <code style="color : black">(Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA</code>
 <br>
-  <p style="color: blue; font-family: Arial, sans-serif; font-size: 16px;">
-    This is a paragraph with color blue, Arial font, and font size 16px with <b>localized bold</b> text.
-</p>
    <p style="color: blue; font-family: Arial, sans-serif; font-size: 16px;">
    <b>Advisory Committee:</b> Dr. Peter A Sandborn (Advisor and Chair), Dr. William Regli (Dean’s Representative), Dr. Mohammad Modarres, Dr. F. Patrick McCluskey, Dr. Abhijit Dasgupta.</p>
    <br>
