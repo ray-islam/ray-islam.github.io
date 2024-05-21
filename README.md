@@ -246,7 +246,7 @@ English | Bengali | Hindi | Urdu | French- 101 |Arabic-Reading and Writing only.
 
 **USA**
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-1.	Invited Guest Speaker- Symposium: The trends of Cancer Research, and Dynamic Challenges of CyberSecurity, Nov 2023, Supported by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA
+1.	Invited Guest Speaker- Symposium: The trends of Cancer Research, and Dynamic Challenges of CyberSecurity, Nov 2023, Supported by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA<br>
 2.	Hackathon Judge - AI based models for Crypto Currency, 2022, by Deloitte at the University of Maryland.
 </ul>
 
