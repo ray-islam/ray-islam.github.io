@@ -146,27 +146,26 @@ Leadership & Scientist roles in:
 </ul>
 
 ### Working Journal Papers
-<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
-- [W1]  Islam, R. and Pierre, D., (2023), Regression based scoring model for data quality assessment metrics.
-- [W2]  Islam, R., (2023), Optimum numbers of epochs and sample sizes to synthesize tabular data based on CTGAN.
-</p>p>
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;"><br>
+<li>[W1]  Islam, R. and Pierre, D., (2023), Regression based scoring model for data quality assessment metrics.</li><br>
+<li> [W2]  Islam, R., (2023), Optimum numbers of epochs and sample sizes to synthesize tabular data based on CTGAN.</li><br>
+</ul>
 
 ### eBooks: https://www.amazon.com/-/e/B0CP85GTJN
-<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
-- eBook1: Ray Islam, LangChain Unveiled: Navigating the Future of LLM, (Amazon, 2023)
-- eBook2: Ray lam, Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense, (Amazon, 2023)
-- eBook3: Ray Islam, Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs), (Amazon 2023)
-</p>
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;"><br>
+<li>eBook1: Ray Islam, LangChain Unveiled: Navigating the Future of LLM, (Amazon, 2023)</li><br>
+<li>eBook2: Ray lam, Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense, (Amazon, 2023)</li><br>
+<li>eBook3: Ray Islam, Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs), (Amazon 2023)</li><br>
+</ul>
 
 ### White Papers: https://rayislam.medium.com/
-<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
-- Islam, R., (2023), Prompt tuning for Large Language Models (LLMs)
-- Islam, R., (2023), Analytics Operating Eco (OE) System
-- Islam, R. (2023), AI for C-Suite Decision Making
-- Islam, R., (2023), CTGAN for Credit Card Analysis Synthetic Data
-- Islam, R., (2023), Unveiling the Potential of CTGAN: Harnessing Generative AI and 50K Synthetic IRIS Dataset
-</p>
-
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<li> Islam, R., (2023), Prompt tuning for Large Language Models (LLMs)</li><br>
+<li> Islam, R., (2023), Analytics Operating Eco (OE) System</li><br>
+<li> Islam, R. (2023), AI for C-Suite Decision Making</li><br>
+<li> Islam, R., (2023), CTGAN for Credit Card Analysis Synthetic Data</li><br>
+<li> Islam, R., (2023), Unveiling the Potential of CTGAN: Harnessing Generative AI and 50K Synthetic IRIS Dataset</li><br>
+</ul>
 ### Awards & Honors
 <p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
 1.	Nathan and Marvin Goldman/Durham Homes Graduate Award for reducing environmental impact of residential construction/maintenance and improving building energy technologies, Canada.
