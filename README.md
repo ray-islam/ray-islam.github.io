@@ -169,10 +169,10 @@ Leadership & Scientist roles in:
 
 ### Awards & Honors
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-1.	Nathan and Marvin Goldman/Durham Homes Graduate Award for reducing environmental impact of residential construction/maintenance and improving building energy technologies, Canada.
-2.	1st prize, Highly Qualified Personnel (HQP) poster competition award, governed by the Natural Sciences and Engineering Research Council of Canada (NSERC).
-3.	The NSERC Strategic Network Grant for PhD research, Canada.
-4.	Fellowship funded by the US Department of Energy for PhD research on Nanocomposites, USA.
+1.	Nathan and Marvin Goldman/Durham Homes Graduate Award for reducing environmental impact of residential construction/maintenance and improving building energy technologies, Canada.<br>
+2.	1st prize, Highly Qualified Personnel (HQP) poster competition award, governed by the Natural Sciences and Engineering Research Council of Canada (NSERC).<br>
+3.	The NSERC Strategic Network Grant for PhD research, Canada.<br>
+4.	Fellowship funded by the US Department of Energy for PhD research on Nanocomposites, USA.<br>
 5.	Post Graduate Merit Award, Heriot-Watt University, UK
 </ul>
 
