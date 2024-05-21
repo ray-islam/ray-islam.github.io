@@ -271,9 +271,9 @@ English | Bengali | Hindi | Urdu | French- 101 |Arabic-Reading and Writing only.
 
 ### Other Activities and Social Contributions
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li>	Motivational speaker for the local South-East Asian community on How to become a data scientist.
-<li>  Featured in the most popular newspaper in Bangladesh (Daily Prothom Alo) to inspire the youth, 2020.
-<li>	Attended podcasts in Bangladesh on August 23rd, 2020, to inspire the younger generation.
-<li>	Published article on Data Science in the Daily Observer, another national newspaper in Bangladesh, on March 11th, 2018. Link https://www.observerbd.com/details.php?id=126845 
+<li>	Motivational speaker for the local South-East Asian community on How to become a data scientist.</li>
+<li>  Featured in the most popular newspaper in Bangladesh (Daily Prothom Alo) to inspire the youth, 2020.</li>
+<li>	Attended podcasts in Bangladesh on August 23rd, 2020, to inspire the younger generation.</li>
+<li>	Published article on Data Science in the Daily Observer, another national newspaper in Bangladesh, on March 11th, 2018. Link https://www.observerbd.com/details.php?id=126845 </li>
 <li>	Published two poetry books in Bengali.</li>
 </ul>
