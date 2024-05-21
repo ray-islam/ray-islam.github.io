@@ -7,6 +7,18 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"><b>Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Security, Ethics in AI</b></p>
 <hr>
 
+## RESEARCH PORTFOLIOS
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<li>Researched, developed, and deployed in production GenAI-based (ChatGPT) solutions and infrastructures for AI Agent(s) to assist decision-makers with sentiment analysis in the financial sector. These solutions generate financial trend analysis reports based on social science data, geopolitical movements, stock prices, and other factors, utilizing inputs from outreach and engagement teams..</li>
+<li>Developed a GenAI-based OCR solution to extract and analyze prescription text data from PDFs and images, converting it to JSON format for report summarization.</li>
+<li>Developed novel machine learning based methodologies (such as natural language processing and clustering algorithms, to estimate the remaining useful life (RUL) of software systems.</li>
+<li>Architected, built, and deployed in production AI and machine learning-based solution(s) to detect financial and medical (prescriotion) fraud for the financial and healthcare industries.</li>
+<li>Researched and architected solutions based on generative adversarial networks for image reconstruction. Developed additional AI-based computer vision solutions for edge detection, object identification, and other applications.</li>
+<li>Developed predictive models to forecast key performance indicators (KPIs) such as Schedule Compliance Index (SCI) and Cost Performance Index (CPI), as well as to predict the status of engineering programs categorized as red, yellow, or green.</li>
+<li>Architected and led the development of multiple big data infrastructures for security certifications, including FedRAMP and CMS.</li>
+<li>Developed an Enterprise AI (EAI) solution utilizing AI technologies such as CNNs and Auto-encoders for faster processing and analysis of large volumes (billions of observations) of cyber anomaly data. This solution diagnostically detects and prognostically predicts anomalies. Additionally, led the development of infrastructure and dashboards for cyber analysts and decision-makers.</li>
+
+
 ## EDUCATION 
 
 ### Complete
