@@ -18,6 +18,7 @@
 <li>Architected and led the development of multiple big data infrastructures for security certifications, including FedRAMP and CMS.</li>
 <li>Developed an Enterprise AI (EAI) solution utilizing AI technologies such as CNNs and Auto-encoders for faster processing and analysis of large volumes (billions of observations) of cyber anomaly data. This solution diagnostically detects and prognostically predicts anomalies related to cyber security. Additionally, led the development of infrastructures and dashboards for cyber analysts and decision-makers.</li>
 <li>Conducted data mining across all of the aforementioned projects, including pattern recognition for identifying trends and insights.</li>
+</ul>
 <hr>
 
 ## EDUCATION 
