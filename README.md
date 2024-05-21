@@ -55,7 +55,7 @@
 <hr>
 
 ## EXPERIENCE
-
+<br>
 ## Industrial Experience
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 Leadership & Scientist roles in:
