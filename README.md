@@ -146,7 +146,7 @@ Leadership & Scientist roles in:
 </ul>
 
 ### Working Journal Papers
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;"><br>
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>[W1]  Islam, R. and Pierre, D., (2023), Regression based scoring model for data quality assessment metrics.</li>
 <li> [W2]  Islam, R., (2023), Optimum numbers of epochs and sample sizes to synthesize tabular data based on CTGAN.</li>
 </ul>
