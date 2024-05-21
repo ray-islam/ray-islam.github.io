@@ -185,32 +185,29 @@ Leadership & Scientist roles in:
   
 ### Blogs
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-1.	Prompt tuning for Large Language Models (LLMs), Dec 19
-2.	High-Frequency Trading (HFT) Uncovered: Speed, Strategy, and Impact, Dec 15
-3.	Algo-trading, Dec 23
-4.	Navigating the Labyrinth: The Fivefold Challenge of Harnessing Generative AI for Financial Forecasting, Nov 2, 2023
-5.	Creating a Chatbot with Generative AI: With ChatGPT(gpt-3.5-turbo) & User Defined Data for Project: DearDad, Oct 23
-6.	Generative AI Use Cases, Oct 23
-7.	Generative AI for NLP (RoBERTA vs. BERT vs. XLNet, Sept 23
-8.	What is Generative AI? September 23
-9.	Python Code for Text Mining> Keyword Frequency> From Webpages > Web Scrapping, Sept 23
-10.	Generative AI for Supply Chain Decision Making, April 23
-11.	Tabular GANs (Generative AI), April 23
-12. Generative AI: Validation Techniques for GANs, originally published in June 21
-13.	Chat GPT…relax! originally published in June 2021
-14.	Is ethics important for AI? originally published in June 20
-15.	What is ethics for AI? originally published in June 20
-16.	Graph Neural Network (GNN) for Cyber Security, originally published in June 20
-17.	Stock-market/stocks-sentiment, originally published in June 20
-18.	Stock-market/news-sentiment-analysis, originally published in June 20
-19.	Ethical issues of the application of artificial intelligence in healthcare, originally published in Feb 20
-20.	big_data~validate_existingmodel+innovate_new_statistics_n_functions, originally published in Oct 19
-21.over_analysis <= (kill~ confusion + blindness), originally published in June 19
-22.	AI B.O.S.S, originally published, originally published in January 18
-23.	Augmented reality in education? Originally published in May 17
-24.	Can Artificial Intelligence (AI) really steal our jobs? Originally published in March 15
-25.	Synthetic Data for Cyber Security, originally published in July 15
-26.	What is the best algorithm to summarize reports? originally published in June 15
+1.	Prompt tuning for Large Language Models (LLMs), Dec 19<br>
+2.	High-Frequency Trading (HFT) Uncovered: Speed, Strategy, and Impact, Dec 15<br>
+3.	Algo-trading, Dec 23<br>
+4.	Navigating the Labyrinth: The Fivefold Challenge of Harnessing Generative AI for Financial Forecasting, Nov 2, 2023<br>
+5.	Creating a Chatbot with Generative AI: With ChatGPT(gpt-3.5-turbo) & User Defined Data for Project: DearDad, Oct 23<br>
+6.	Generative AI Use Cases, Oct 23<br>
+7.	Generative AI for NLP (RoBERTA vs. BERT vs. XLNet, Sept 23<br>
+8.	What is Generative AI? September 23<br>
+9.	Python Code for Text Mining> Keyword Frequency> From Webpages > Web Scrapping, Sept 23<br>
+10.	Generative AI for Supply Chain Decision Making, April 23<br>
+11.	Tabular GANs (Generative AI), April 23<br>
+12. Generative AI: Validation Techniques for GANs, originally published in June 21<br>
+13.	Chat GPT…relax! originally published in June 2021<br>
+14.	Is ethics important for AI? originally published in June 20<br><br>
+18.	Stock-market/news-sentiment-analysis, originally published in June 20<br>
+19.	Ethical issues of the application of artificial intelligence in healthcare, originally published in Feb 20<br>
+20.	big_data~validate_existingmodel+innovate_new_statistics_n_functions, originally published in Oct 19<br>
+21.over_analysis <= (kill~ confusion + blindness), originally published in June 19<br>
+22.	AI B.O.S.S, originally published, originally published in January 18<br>
+23.	Augmented reality in education? Originally published in May 17<br>
+24.	Can Artificial Intelligence (AI) really steal our jobs? Originally published in March 15<br>
+25.	Synthetic Data for Cyber Security, originally published in July 15<br>
+26.	What is the best algorithm to summarize reports? originally published in June 15<br>
 </ul>
 <hr>
   
