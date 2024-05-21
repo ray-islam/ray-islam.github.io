@@ -255,7 +255,7 @@ English | Bengali | Hindi | Urdu | French- 101 |Arabic-Reading and Writing only.
 <li>Invited guest speaker, Green University, 2024 - Applications of AI in Manufacturing(Online).</li>
 <li>Invited guest speaker, Bangladesh University of Textiles, 2020 - Applications of AI in Manufacturing.</li>
 <li>Invited Guest Speaker, North South University, Bangladesh, 2018 - AI and their applications. </li>
-</p>
+</ul>
 
 ### Other Activities and Social Contributions
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
