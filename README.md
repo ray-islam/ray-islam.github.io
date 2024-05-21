@@ -59,7 +59,6 @@
 ## Industrial Experience
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 Leadership & Scientist roles in:
-  <br>
   <li>Delloite, USA</li>
   <li>Surescripts, USA</li>
   <li>Raytheon, USA</li>
