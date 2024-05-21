@@ -220,13 +220,13 @@ English | Bengali | Hindi | Urdu | French- 101 |Arabic-Reading and Writing only.
 
 ### Professional Training
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-- 6.419x: Certificate for Data Analysis: Statistical Modeling and Computation in Applications, MIT, MA
-- Tackling the Challenges of Big Data – Massachusetts Institute of Technology (MIT), MA
-- 18.6501x: Fundamentals of Statistics, Massachusetts Institute of Technology (MIT), MA
-- Teaching best practices training - University of Maryland, College Park, MD, USA
-- 200-A - FedRAMP System Security Plan (SSP) Required Documents
-- AWS Security Fundamentals (Second Edition)
-- Certified Scrum Master (CSM) (Expired)
+<li> 6.419x: Certificate for Data Analysis: Statistical Modeling and Computation in Applications, MIT, MA</li>
+<li> Tackling the Challenges of Big Data – Massachusetts Institute of Technology (MIT), MA</li>
+<li> 18.6501x: Fundamentals of Statistics, Massachusetts Institute of Technology (MIT), MA</li>
+<li> Teaching best practices training - University of Maryland, College Park, MD, USA</li>
+<li> 200-A - FedRAMP System Security Plan (SSP) Required Documents</li>
+<li> AWS Security Fundamentals (Second Edition)</li>
+<li> Certified Scrum Master (CSM) (Expired)</li>
 </ul>
 <hr>
 
