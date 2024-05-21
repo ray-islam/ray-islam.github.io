@@ -210,16 +210,16 @@ Leadership & Scientist roles in:
 11.	Tabular GANs (Generative AI), April 23<br>
 12. Generative AI: Validation Techniques for GANs, originally published in June 21<br>
 13.	Chat GPT…relax! originally published in June 2021<br>
-14.	Is ethics important for AI? originally published in June 20<br><br>
-18.	Stock-market/news-sentiment-analysis, originally published in June 20<br>
-19.	Ethical issues of the application of artificial intelligence in healthcare, originally published in Feb 20<br>
-20.	big_data~validate_existingmodel+innovate_new_statistics_n_functions, originally published in Oct 19<br>
-21.over_analysis <= (kill~ confusion + blindness), originally published in June 19<br>
-22.	AI B.O.S.S, originally published, originally published in January 18<br>
-23.	Augmented reality in education? Originally published in May 17<br>
-24.	Can Artificial Intelligence (AI) really steal our jobs? Originally published in March 15<br>
-25.	Synthetic Data for Cyber Security, originally published in July 15<br>
-26.	What is the best algorithm to summarize reports? originally published in June 15<br>
+14.	Is ethics important for AI? originally published in June 20<br>
+15.	Stock-market/news-sentiment-analysis, originally published in June 20<br>
+16.	Ethical issues of the application of artificial intelligence in healthcare, originally published in Feb 20<br>
+17.	big_data~validate_existingmodel+innovate_new_statistics_n_functions, originally published in Oct 19<br>
+18.over_analysis <= (kill~ confusion + blindness), originally published in June 19<br>
+19.	AI B.O.S.S, originally published, originally published in January 18<br>
+20.	Augmented reality in education? Originally published in May 17<br>
+21.	Can Artificial Intelligence (AI) really steal our jobs? Originally published in March 15<br>
+22.	Synthetic Data for Cyber Security, originally published in July 15<br>
+23.	What is the best algorithm to summarize reports? originally published in June 15<br>
 </ul>
 <hr>
   
