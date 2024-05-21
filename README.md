@@ -53,9 +53,15 @@
 
 ### Transferred
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-1. <b>Ph.D. in Mechanical Engineering </b>- University of Toronto, Canada (Transferred to GW, USA)
-<br>
-2. <b>Ph.D. in Mechanical Engineering </b>- Geroge Washington University, DC, USA (Transferred to UMD,College Park, MD USA)
+1. <b>Ph.D. in Mechanical Engineering </b>- University of Toronto, Canada (Transferred to GW, USA)</p>
+<p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
+  <b>Advisor:</b> Dr. Chaul Park 
+</p>
+  <br>
+  <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+2. <b>Ph.D. in Mechanical Engineering </b>- Geroge Washington University, DC, USA (Transferred to UMD,College Park, MD USA)</p>
+<p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
+  <b>Advisor:</b> Dr. Stephen Hsu
 </p>
 <hr>
 
