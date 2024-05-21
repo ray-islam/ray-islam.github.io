@@ -166,24 +166,25 @@ Leadership & Scientist roles in:
 <li> Islam, R., (2023), CTGAN for Credit Card Analysis Synthetic Data</li><br>
 <li> Islam, R., (2023), Unveiling the Potential of CTGAN: Harnessing Generative AI and 50K Synthetic IRIS Dataset</li><br>
 </ul>
+
 ### Awards & Honors
-<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 1.	Nathan and Marvin Goldman/Durham Homes Graduate Award for reducing environmental impact of residential construction/maintenance and improving building energy technologies, Canada.
 2.	1st prize, Highly Qualified Personnel (HQP) poster competition award, governed by the Natural Sciences and Engineering Research Council of Canada (NSERC).
 3.	The NSERC Strategic Network Grant for PhD research, Canada.
 4.	Fellowship funded by the US Department of Energy for PhD research on Nanocomposites, USA.
 5.	Post Graduate Merit Award, Heriot-Watt University, UK
-</p>
+</ul>
 
 ### Editorial Services
-<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
-- Reviewer: Journal: Reliability Engineering & System Safety, Published by Elsevier - Impact Score: 8.1
-- Associate Editor: Journal of Prognostics and Health Management (JPHM) - Impact Score: 1.78
-- Editor-in-Chief: International Journal for Ethics & AI – To be launched.
-</p>
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<li>Reviewer: Journal: Reliability Engineering & System Safety, Published by Elsevier - Impact Score: 8.1</li>
+<li>Associate Editor: Journal of Prognostics and Health Management (JPHM) - Impact Score: 1.78</li>
+<li>Editor-in-Chief: International Journal for Ethics & AI – To be launched.</li>
+</ul>
   
 ### Blogs
-<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 1.	Prompt tuning for Large Language Models (LLMs), Dec 19
 2.	High-Frequency Trading (HFT) Uncovered: Speed, Strategy, and Impact, Dec 15
 3.	Algo-trading, Dec 23
@@ -210,18 +211,18 @@ Leadership & Scientist roles in:
 24.	Can Artificial Intelligence (AI) really steal our jobs? Originally published in March 15
 25.	Synthetic Data for Cyber Security, originally published in July 15
 26.	What is the best algorithm to summarize reports? originally published in June 15
+</ul>
 <hr>
-</p>
-
+  
 ## PROFESSIONAL DEVELOPMENT
 
 ### Languages Speak: 
-<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 English | Bengali | Hindi | Urdu | French- 101 |Arabic-Reading and Writing only.
-</p>
+</ul>
 
 ### Professional Training
-<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 - 6.419x: Certificate for Data Analysis: Statistical Modeling and Computation in Applications, MIT, MA
 - Tackling the Challenges of Big Data – Massachusetts Institute of Technology (MIT), MA
 - 18.6501x: Fundamentals of Statistics, Massachusetts Institute of Technology (MIT), MA
@@ -229,41 +230,41 @@ English | Bengali | Hindi | Urdu | French- 101 |Arabic-Reading and Writing only.
 - 200-A - FedRAMP System Security Plan (SSP) Required Documents
 - AWS Security Fundamentals (Second Edition)
 - Certified Scrum Master (CSM) (Expired)
-</p>
+</ul>
 <hr>
 
 ## OTHERS
 
 ### Knowledge Share: 
-<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 16px;">
--	Youtube:@rayisl5382
--	ORCID:0000-0002-8263-7560
--	Medium:https://medium.com/@rayislam
--	Research Gate: https://www.researchgate.net/profile/Rubyet-Islam
--	KDNuggets:Unveiling the Potential of CTGAN: Harnessing Generative AI for Synthetic Data 
--	Google Scholar:https://scholar.google.com/citations?hl=en&authuser=1&user=nqqVzFsAAAAJ
-</p>
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<li>Youtube:@rayisl5382 </li>
+<li>ORCID:0000-0002-8263-7560 </li>
+<li>Medium:https://medium.com/@rayislam</li>
+<li>Research Gate: https://www.researchgate.net/profile/Rubyet-Islam</li>
+<li>KDNuggets:Unveiling the Potential of CTGAN: Harnessing Generative AI for Synthetic Data </li>
+<li>Google Scholar:https://scholar.google.com/citations?hl=en&authuser=1&user=nqqVzFsAAAAJ</li>
+</ul>
 
 ### Invited Panels and Guest Speaker
 
 **USA**
-<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 1.	Invited Guest Speaker- Symposium: The trends of Cancer Research, and Dynamic Challenges of CyberSecurity, Nov 2023, Supported by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA
 2.	Hackathon Judge - AI based models for Crypto Currency, 2022, by Deloitte at the University of Maryland.
-</p>
+</ul>
 
 **International**
-<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 16px;">
-- Invited guest speaker, Green University, 2024 - Applications of AI in Manufacturing.(Online)
-- Invited guest speaker, Bangladesh University of Textiles, 2020 - Applications of AI in Manufacturing.
-- Invited Guest Speaker, North South University, Bangladesh, 2018 - AI and their applications. 
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<li>Invited guest speaker, Green University, 2024 - Applications of AI in Manufacturing(Online).</li>
+<li>Invited guest speaker, Bangladesh University of Textiles, 2020 - Applications of AI in Manufacturing.</li>
+<li>Invited Guest Speaker, North South University, Bangladesh, 2018 - AI and their applications. </li>
 </p>
 
 ### Other Activities and Social Contributions
-<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 16px;">
--	Motivational speaker for the local South-East Asian community on How to become a data scientist.
--	Featured in the most popular newspaper in Bangladesh (Daily Prothom Alo) to inspire the youth, 2020.
--	Attended podcasts in Bangladesh on August 23rd, 2020, to inspire the younger generation.
--	Published article on Data Science in the Daily Observer, another national newspaper in Bangladesh, on March 11th, 2018. Link https://www.observerbd.com/details.php?id=126845 
--	Published two poetry books in Bengali.
-</p>
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<li>	Motivational speaker for the local South-East Asian community on How to become a data scientist.
+<li>  Featured in the most popular newspaper in Bangladesh (Daily Prothom Alo) to inspire the youth, 2020.
+<li>	Attended podcasts in Bangladesh on August 23rd, 2020, to inspire the younger generation.
+<li>	Published article on Data Science in the Daily Observer, another national newspaper in Bangladesh, on March 11th, 2018. Link https://www.observerbd.com/details.php?id=126845 
+<li>	Published two poetry books in Bengali.
+</ul>
