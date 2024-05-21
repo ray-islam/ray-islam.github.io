@@ -57,8 +57,7 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
   <b>Advisor:</b> Dr. Chul B. Park 
 </p>
-  <br>
-  <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 2. <b>Ph.D. in Mechanical Engineering </b>- Geroge Washington University, DC, USA (Transferred to UMD,College Park, MD USA)</p>
 <hr>
 
