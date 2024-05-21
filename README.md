@@ -160,11 +160,11 @@ Leadership & Scientist roles in:
 
 ### White Papers: https://rayislam.medium.com/
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li> Islam, R., (2023), Prompt tuning for Large Language Models (LLMs)</li><br>
-<li> Islam, R., (2023), Analytics Operating Eco (OE) System</li><br>
-<li> Islam, R. (2023), AI for C-Suite Decision Making</li><br>
-<li> Islam, R., (2023), CTGAN for Credit Card Analysis Synthetic Data</li><br>
-<li> Islam, R., (2023), Unveiling the Potential of CTGAN: Harnessing Generative AI and 50K Synthetic IRIS Dataset</li><br>
+<li> Islam, R., (2023), Prompt tuning for Large Language Models (LLMs)</li>
+<li> Islam, R., (2023), Analytics Operating Eco (OE) System</li>
+<li> Islam, R. (2023), AI for C-Suite Decision Making</li>
+<li> Islam, R., (2023), CTGAN for Credit Card Analysis Synthetic Data</li>
+<li> Islam, R., (2023), Unveiling the Potential of CTGAN: Harnessing Generative AI and 50K Synthetic IRIS Dataset</li>
 </ul>
 
 ### Awards & Honors
