@@ -55,7 +55,6 @@ Leadership & Scientist roles in:
   <li>American Institutes for Research (AIR), Washington, D.C.</li>	         
   <li>Euro Nassa Ltd., UK (Clients: Tesco and Wal-Mart)</li>
   <li>Carrefour, France (Indian-Subcontinental Office)</li>
-  <li>Others</li>
 </ul>
 
 ### Clients Served
