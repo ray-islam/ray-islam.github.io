@@ -48,7 +48,9 @@ Leadership & Scientist roles in:
   <br>
   <br>
   <li>Delloite, USA</li>
-  <li>Raytheon, USA</li> 						           
+  <li>Surescripts, USA</li>
+  <li>Raytheon, USA</li>
+  <li>Lockheed Martin, USA</li> 		
   <li>General Services Administration (GSA), Washington, D.C.</li>
   <li>American Institutes for Research (AIR), Washington, D.C.</li>	         
   <li>Euro Nassa Ltd., UK (Clients: Tesco and Wal-Mart)</li>
@@ -64,6 +66,7 @@ Leadership & Scientist roles in:
 <li> Finance: Royal Bank of Canada (RBC), Canada</li>
 <li> Health Care: Centers for Medicare & Medicaid Services (CMS), USA</li>
 <li> Health Care: US Department of Vaterans Affairs, USA</li>
+<li> Health Care: Pharmacy (CVS, Walgreens, Walmart), USA</li>
 <li> Education: US Department of Education, USA</li>
 <li> The White House, USA</li>
 <li> US Airforce (USAF), USA</li>
