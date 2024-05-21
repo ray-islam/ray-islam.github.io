@@ -132,23 +132,23 @@ Leadership & Scientist roles in:
 
 ### Peer-Reviewed Research Journal
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li> [J1]  Islam, R. and Sandborn, P., (2023), Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems, Journal of Prognostics and Health Management, 3(1), 9–36. February https://doi.org/10.22215/jphm.v3i1.3641. (Impact Score: 1.78)</li><br>
-<li> [J2]  Adhikary, K., Islam, R., Rizvi, G., Park, C., (2013), Effect of extrusion conditions on the surface quality, mechanical properties, and morphology of cellular wood flour/high-density polyethylene composite profiles, Journal of Thermoplastic Composite Materials, 26(8):1127-1144, September, DOI: 10.1177/0892705712439563. (Impact Score: 3.3)</li><br>
-<li></li> [J3]  Adhikary, K., Islam, R., Rizvi, G., Park, C., (2011), Effects of Lubricant Content on Extrusion Processing and Mechanical Properties of Wood Flour-High-density Polyethylene Composites, Journal of Thermoplastic Composite Materials, 24(2):155-17, March, DOI: 10.1177/0892705710388590. (Impact Score: 3.3)</ul>
+<li> [J1]  Islam, R. and Sandborn, P., (2023), Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems, Journal of Prognostics and Health Management, 3(1), 9–36. February https://doi.org/10.22215/jphm.v3i1.3641. (Impact Score: 1.78)</li>
+<li> [J2]  Adhikary, K., Islam, R., Rizvi, G., Park, C., (2013), Effect of extrusion conditions on the surface quality, mechanical properties, and morphology of cellular wood flour/high-density polyethylene composite profiles, Journal of Thermoplastic Composite Materials, 26(8):1127-1144, September, DOI: 10.1177/0892705712439563. (Impact Score: 3.3)</li>
+<li> [J3]  Adhikary, K., Islam, R., Rizvi, G., Park, C., (2011), Effects of Lubricant Content on Extrusion Processing and Mechanical Properties of Wood Flour-High-density Polyethylene Composites, Journal of Thermoplastic Composite Materials, 24(2):155-17, March, DOI: 10.1177/0892705710388590. (Impact Score: 3.3)</li>
 </ul>
 
 ### Conference Papers & Poster Presentations
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li> [C1]       Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK – Accepted.</ul><br>
-<li> [C2]       Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508. </li><br>
-<li> [C3-C11]   9 other conference papers presented at reputable conferences in the USA and Canada. </li><br>
-<li> [P1-P5]    5 posters presented at mainstream conferences in the USA and Canada. </li><br>
+<li> [C1]       Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK – Accepted.</ul>
+<li> [C2]       Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508. </li>
+<li> [C3-C11]   9 other conference papers presented at reputable conferences in the USA and Canada. </li>
+<li> [P1-P5]    5 posters presented at mainstream conferences in the USA and Canada. </li>
 </ul>
 
 ### Working Journal Papers
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;"><br>
-<li>[W1]  Islam, R. and Pierre, D., (2023), Regression based scoring model for data quality assessment metrics.</li><br>
-<li> [W2]  Islam, R., (2023), Optimum numbers of epochs and sample sizes to synthesize tabular data based on CTGAN.</li><br>
+<li>[W1]  Islam, R. and Pierre, D., (2023), Regression based scoring model for data quality assessment metrics.</li>
+<li> [W2]  Islam, R., (2023), Optimum numbers of epochs and sample sizes to synthesize tabular data based on CTGAN.</li>
 </ul>
 
 ### eBooks: https://www.amazon.com/-/e/B0CP85GTJN
