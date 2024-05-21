@@ -126,9 +126,9 @@ Leadership & Scientist roles in:
 ## PUBLICATIONS & AWARDS
 
 ### Book 
-<p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 - Islam, R; GenAI, <b>Cybersecurity & Ethics</b>; Initial draft completed, Contract signed with the publisher.
-</p>
+</ul>
 
 ### Peer-Reviewed Research Journal
 <p style="color: Navy Blue; font-family: 'Futura', serif; font-size: 17px;">
