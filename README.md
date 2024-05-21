@@ -16,8 +16,9 @@
 <li>Researched and architected solutions based on generative adversarial networks for image reconstruction. Developed additional AI-based computer vision solutions for edge detection, object identification, and other applications.</li>
 <li>Developed predictive models to forecast key performance indicators (KPIs) such as Schedule Compliance Index (SCI) and Cost Performance Index (CPI), as well as to predict the status of engineering programs categorized as red, yellow, or green.</li>
 <li>Architected and led the development of multiple big data infrastructures for security certifications, including FedRAMP and CMS.</li>
-<li>Developed an Enterprise AI (EAI) solution utilizing AI technologies such as CNNs and Auto-encoders for faster processing and analysis of large volumes (billions of observations) of cyber anomaly data. This solution diagnostically detects and prognostically predicts anomalies. Additionally, led the development of infrastructure and dashboards for cyber analysts and decision-makers.</li>
-
+<li>Developed an Enterprise AI (EAI) solution utilizing AI technologies such as CNNs and Auto-encoders for faster processing and analysis of large volumes (billions of observations) of cyber anomaly data. This solution diagnostically detects and prognostically predicts anomalies related to cyber security. Additionally, led the development of infrastructures and dashboards for cyber analysts and decision-makers.</li>
+<li>Conducted data mining across all of the aforementioned projects, including pattern recognition for identifying trends and insights.</li>
+<hr>
 
 ## EDUCATION 
 
