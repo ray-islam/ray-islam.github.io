@@ -152,10 +152,10 @@ Leadership & Scientist roles in:
 </ul>
 
 ### eBooks: https://www.amazon.com/-/e/B0CP85GTJN
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;"><br>
-<li>eBook1: Ray Islam, LangChain Unveiled: Navigating the Future of LLM, (Amazon, 2023)</li><br>
-<li>eBook2: Ray lam, Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense, (Amazon, 2023)</li><br>
-<li>eBook3: Ray Islam, Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs), (Amazon 2023)</li><br>
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<li>eBook1: Ray Islam, LangChain Unveiled: Navigating the Future of LLM, (Amazon, 2023)</li>
+<li>eBook2: Ray lam, Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense, (Amazon, 2023)</li>
+<li>eBook3: Ray Islam, Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs), (Amazon 2023)</li>
 </ul>
 
 ### White Papers: https://rayislam.medium.com/
