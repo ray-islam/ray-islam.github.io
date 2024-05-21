@@ -36,6 +36,7 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
 <b>Advisory Committee:</b> Dr. Ghaus Rizvi (Advisor and Chair), Dr. Remon Pop-Iliev, Dr. Yuping He, Hani Naguib (External: Univeristy of Toronto).</p>
   <br>
+<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 3. <b>MSc in International Marketing</b>– HERIOT-WATT UNIVERSITY – UK
   <br>
 4. <b>MBA in Marketing </b>– LUTON – UK
