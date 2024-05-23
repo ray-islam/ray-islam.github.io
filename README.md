@@ -96,7 +96,7 @@ Leadership & Scientist roles in:
 ## Academic Experience
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>
-  <b>Adjunct Professor </b>> , Information Sciences and Technology, George Mason University, Fairfax, VA, USA
+  <b>Adjunct Professor</b>, Information Sciences and Technology, George Mason University, Fairfax, VA, USA
     <ul> Course Taught: <br> 
       <li>AIT 526: Natural Language Processing (Generative AI) – Graduate course</li>
     </ul>
@@ -115,7 +115,7 @@ Leadership & Scientist roles in:
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>
-  <b>Founder/Course Designer/Instructor</b>,Kindidata, VA (Boot Camp- https://kindideta.com/)
+  <b>Founder/Course Designer/Instructor</b>, Kindidata, VA (Adult Boot Camp- https://kindideta.com/)
   <ul>Courses Taught:<br>
     <li>Data Visualization</li>
     <li>Natural Language Processing (NLP)</li>
@@ -146,7 +146,7 @@ Leadership & Scientist roles in:
 
 ### Book 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
- <li> Islam, R; GenAI, <b>Cybersecurity & Ethics</b>; Initial draft completed, Contract signed with the publisher.</li>
+ <li> Islam, R; <b>GenAI, Cybersecurity & Ethics</b>; Initial draft completed, Contract signed with the publisher.</li>
 </ul>
 
 ### Peer-Reviewed Research Journal
