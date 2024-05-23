@@ -126,7 +126,7 @@ Leadership & Scientist roles in:
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li><b>Teaching Assistant</b>, University of Toronto, Ontario, Canada				  
-  <ul>Courses Taught:<br>
+  <ul>Course Taught:<br>
     <li>Advanced Manufacturing Technologies - Undergraduate Course</li>
   </ul>
 </li>
