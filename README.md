@@ -76,7 +76,7 @@ Leadership & Scientist roles in:
   <li>Carrefour, France (Indian-Subcontinental Office)</li>
 </ul>
 
-### Clients Served
+### Clients Worked For
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li> Finance: Berkshire Hathaway, USA</li>
 <li> Finance: Capital One Bank, USA</li>
