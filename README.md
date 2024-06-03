@@ -84,7 +84,7 @@ Leadership & AI Scientist roles in:
 <li> Finance: Royal Bank of Canada (RBC), Canada</li>
 <li> Health Care: Centers for Medicare & Medicaid Services (CMS), USA</li>
 <li> Health Care: US Department of Vaterans Affairs, USA</li>
-<li> Health Care: Pharmacy (CVS, Walgreens, Walmart), USA</li>
+<li> Health Care: Pharmacy Data Analysis (CVS, Walgreens, Walmart), USA</li>
 <li> Education: US Department of Education, USA</li>
 <li> The White House, USA</li>
 <li> US Airforce (USAF), USA</li>
