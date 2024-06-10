@@ -258,7 +258,7 @@ English | Bengali | Hindi | Urdu | French- 101 |Arabic-Reading and Writing only.
 <li>Medium:https://medium.com/@rayislam</li>
 <li>Research Gate: https://www.researchgate.net/profile/Rubyet-Islam</li>
 <li>KDNuggets:Unveiling the Potential of CTGAN: Harnessing Generative AI for Synthetic Data </li>
-<li>Google Scholar:https://scholar.google.com/citations?hl=en&authuser=1&user=nqqVzFsAAAAJ</li>
+<li>Google Scholar:https://scholar.google.com/citations?user=yeHFzdoAAAAJ&hl=en&authuser=1</li>
 </ul>
 
 ### Invited Panels and Guest Speaker
