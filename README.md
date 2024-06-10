@@ -66,11 +66,11 @@
 ## Industrial Experience
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 Leadership & AI Scientist roles in:
-  <li>Delloite, USA</li>
-  <li>Surescripts, USA</li>
+  <li>Deloitte, USA</li>
   <li>Raytheon, USA</li>
-  <li>Lockheed Martin, USA</li> 		
-  <li>General Services Administration (GSA), Washington, D.C.</li>
+  <li>Lockheed Martin, USA</li> 	
+  <li>Surescripts, USA</li>
+	<li>General Services Administration (GSA), Washington, D.C.</li>
   <li>American Institutes for Research (AIR), Washington, D.C.</li>	         
   <li>Euro Nassa Ltd., UK (Clients: Tesco and Wal-Mart)</li>
   <li>Carrefour, France (Indian-Subcontinental Office)</li>
