@@ -27,7 +27,14 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 1. <b>Doctor of Philosophy (PhD) in Machine Learning</b> (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA.</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
-<b>Advisory Committee:</b> Dr. Peter A Sandborn (Advisor and Chair)[PhD: Univeristy of Michigan, Ann Arbor, MI], Dr. William Regli (Dean’s Representative) [PhD: Univeristy of Maryland, College Park, MD], Dr. Mohammad Modarres [PhD: Massachusetts Institute of Technology, MA], Dr. Abhijit Dasgupta [PhD: University of Illinois], Dr. F. Patrick McCluskey [PhD: Lehigh University].</p>
+<b>Advisory Committee:</b> </p>
+ <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+   <li> Dr. Peter A Sandborn (Advisor and Chair)[PhD: Univeristy of Michigan, Ann Arbor, MI]</li> 
+   <li>Dr. William Regli (Dean’s Representative) [PhD: Univeristy of Maryland, College Park, MD] </li> 
+   <li>Dr. Mohammad Modarres [PhD: Massachusetts Institute of Technology, MA] </li> 
+   <li>Dr. Abhijit Dasgupta [PhD: University of Illinois] </li>
+   <li>Dr. F. Patrick McCluskey [PhD: Lehigh University]</li>
+ </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 20px;">
 <b>Dissertation:</b> A novel methodology to estimate PHM based Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, clustering, and others.
 </p>
