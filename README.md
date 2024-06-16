@@ -36,7 +36,7 @@
    <li>Dr. F. Patrick McCluskey [PhD: Lehigh University]</li>
  </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 20px;">
-<b>Dissertation:</b> A novel methodology to estimate PHM based Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, clustering, and others.
+<b>Dissertation:</b> A novel methodology to estimate Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, clustering, and others.
 </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 2. <b>MASc in Mechanical Engineering</b>– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98 [Research undertaken at Univesity of Toronto and Ontario Tech. Univeristy Canada] </p>
