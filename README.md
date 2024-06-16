@@ -27,14 +27,14 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 1. <b>Doctor of Philosophy (PhD) in Machine Learning</b> (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA.</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
-<b>Advisory Committee:</b> Dr. Peter A Sandborn (Advisor and Chair), Dr. William Regli (Dean’s Representative), Dr. Mohammad Modarres, Dr. Abhijit Dasgupta, Dr. F. Patrick McCluskey.</p>
+<b>Advisory Committee:</b> Dr. Peter A Sandborn (Advisor and Chair)[PhD: Univeristy of Michigan, Ann Arbor,MI], Dr. William Regli (Dean’s Representative)[PhD: Univeristy of Maryland, College Park,MD], Dr. Mohammad Modarres [PhD: Massachusetts Institute of Technology,MA], Dr. Abhijit Dasgupta [PhD: University of Illinois], Dr. F. Patrick McCluskey [PhD: Lehigh University].</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 20px;">
 <b>Dissertation:</b> A novel methodology to estimate PHM based Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, clustering, and others.
 </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 2. <b>MASc in Mechanical Engineering</b>– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98 </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
-<b>Advisory Committee:</b> Dr. Ghaus Rizvi (Advisor and Chair), Dr. Remon Pop-Iliev, Dr. Yuping He, Dr. Hani Naguib (External: Univeristy of Toronto).</p>
+<b>Advisory Committee:</b> Dr. Ghaus Rizvi (Advisor and Chair)[PhD: Univeristy pf Toronto, Canada], Dr. Remon Pop-IlievDr. Remon Pop-Iliev, Dr. Yuping He[PhD: University of Waterloo], Dr. Hani Naguib (External: Professor, Univeristy of Toronto)[PhD: Univeristy pf Toronto, Canada].</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 3. <b>MSc in International Marketing</b>– HERIOT-WATT UNIVERSITY – UK</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
@@ -55,7 +55,7 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 1. <b>Ph.D. in Mechanical Engineering </b>- University of Toronto, Canada (Transferred to GW, USA)</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
-  <b>Advisor:</b> Dr. Chul B. Park 
+  <b>Advisor:</b> Dr. Chul B. Park [PhD: Massachusetts Institute of Technology,MA]
 </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 2. <b>Ph.D. in Mechanical Engineering </b>- Geroge Washington University, DC, USA (Transferred to UMD,College Park, MD USA)</p>
@@ -70,7 +70,7 @@ Leadership & AI Scientist roles in:
   <li>Raytheon, USA</li>
   <li>Lockheed Martin, USA</li> 	
   <li>Surescripts, USA</li>
-	<li>General Services Administration (GSA), Washington, D.C.</li>
+  <li>General Services Administration (GSA), Washington, D.C.</li>
   <li>American Institutes for Research (AIR), Washington, D.C.</li>	         
   <li>Euro Nassa Ltd., UK (Clients: Tesco and Wal-Mart)</li>
   <li>Carrefour, France (Indian-Subcontinental Office)</li>
