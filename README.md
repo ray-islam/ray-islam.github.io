@@ -32,10 +32,12 @@
 <b>Dissertation:</b> A novel methodology to estimate PHM based Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, clustering, and others.
 </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-2. <b>MASc in Mechanical Engineering</b>– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98 </b> 
-Research undertaken at Univesity of Toronto and Ontario Tech. Univeristy Canada.</p>
+2. <b>MASc in Mechanical Engineering</b>– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98 [Research undertaken at Univesity of Toronto and Ontario Tech. Univeristy Canada] </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
-<b>Advisory Committee:</b> Dr. Ghaus Rizvi (Advisor and Chair)[PhD: Univeristy of Toronto, Canada], Dr. Remon Pop-IlievDr. Remon Pop-Iliev, Dr. Yuping He[PhD: University of Waterloo], Dr. Hani Naguib (External: Professor, Univeristy of Toronto)[PhD: Univeristy pf Toronto, Canada].</p>
+<b>Advisory Committee:</b> 
+  <li>Dr. Ghaus Rizvi (Advisor and Chair) [PhD: Univeristy of Toronto, Canada]</li>
+  <li>Dr. Remon Pop-Iliev [PhD: Univeristy of Toronto, Canada]</li>, 
+  <li>Dr. Yuping He [PhD: University of Waterloo, Canada]</li> Dr. Hani Naguib (External: Professor, Univeristy of Toronto)[PhD: Univeristy pf Toronto, Canada].</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 3. <b>MSc in International Marketing</b>– HERIOT-WATT UNIVERSITY – UK</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
