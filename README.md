@@ -34,12 +34,13 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 2. <b>MASc in Mechanical Engineering</b>– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98 [Research undertaken at Univesity of Toronto and Ontario Tech. Univeristy Canada] </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
-<b>Advisory Committee:</b> 
+<b>Advisory Committee:</b> </p>
+  <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
   <li>Dr. Ghaus Rizvi (Advisor and Chair) [PhD: Univeristy of Toronto, Canada]</li>
   <li>Dr. Remon Pop-Iliev [PhD: Univeristy of Toronto, Canada]</li> 
   <li>Dr. Yuping He [PhD: University of Waterloo, Canada]</li> 
   <li>Dr. Hani Naguib (External: Professor, Univeristy of Toronto) [PhD: Univeristy of Toronto, Canada]</li>
-</p>
+  </ul>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 3. <b>MSc in International Marketing</b>– HERIOT-WATT UNIVERSITY – UK</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
