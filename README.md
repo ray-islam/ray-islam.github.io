@@ -36,8 +36,10 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
 <b>Advisory Committee:</b> 
   <li>Dr. Ghaus Rizvi (Advisor and Chair) [PhD: Univeristy of Toronto, Canada]</li>
-  <li>Dr. Remon Pop-Iliev [PhD: Univeristy of Toronto, Canada]</li>, 
-  <li>Dr. Yuping He [PhD: University of Waterloo, Canada]</li> Dr. Hani Naguib (External: Professor, Univeristy of Toronto)[PhD: Univeristy pf Toronto, Canada].</p>
+  <li>Dr. Remon Pop-Iliev [PhD: Univeristy of Toronto, Canada]</li> 
+  <li>Dr. Yuping He [PhD: University of Waterloo, Canada]</li> 
+  <li>Dr. Hani Naguib (External: Professor, Univeristy of Toronto) [PhD: Univeristy of Toronto, Canada]</li>
+</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 3. <b>MSc in International Marketing</b>– HERIOT-WATT UNIVERSITY – UK</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
