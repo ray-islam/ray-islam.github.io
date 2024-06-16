@@ -40,7 +40,7 @@
  </ul>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-2. <b>MASc in Mechanical Engineering</b>– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98 [Research undertaken at Univesity of Toronto and Ontario Tech. Univeristy Canada] </p>
+2. <b>MASc in Mechanical Engineering</b>– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98 [Research undertaken at The Univesity of Toronto and Ontario Tech. Univeristy Canada] </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
 <b>Advisory Committee:</b> </p>
   <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
@@ -69,10 +69,13 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 1. <b>Ph.D. in Mechanical Engineering </b>- University of Toronto, Canada (Transferred to GW, USA)</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
-  <b>Advisor:</b> Dr. Chul B. Park [PhD: Massachusetts Institute of Technology,MA]
+  <b>Advisor:</b> Dr. Chul B. Park [PhD: Massachusetts Institute of Technology, MA]
 </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 2. <b>Ph.D. in Mechanical Engineering </b>- Geroge Washington University, DC, USA (Transferred to UMD,College Park, MD USA)</p>
+<p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
+  <b>Advisor:</b> Dr. Stephen Hsu [PhD: Penn State Univeristy, PA]
+</p>
 <hr>
 
 ## EXPERIENCE
