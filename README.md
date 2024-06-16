@@ -34,7 +34,7 @@
    <li>Dr. Mohammad Modarres [PhD: Massachusetts Institute of Technology, MA] </li> 
    <li>Dr. Abhijit Dasgupta [PhD: University of Illinois] </li>
    <li>Dr. F. Patrick McCluskey [PhD: Lehigh University]</li>
- </p>
+ </ul>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 20px;">
 <b>Dissertation:</b> A novel methodology to estimate Remaining Useful life of Software System using Machine Learning Methodologies such as NLP, clustering, and others.
 </p>
