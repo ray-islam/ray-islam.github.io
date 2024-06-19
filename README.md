@@ -32,23 +32,18 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
 <b>Advisory Committee:</b> </p>
  <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-   <li> Dr. Peter A Sandborn (Advisor and Chair)[PhD: Univeristy of Michigan, Ann Arbor, MI]</li> 
-   <li>Dr. William Regli (Dean’s Representative) [PhD: Univeristy of Maryland, College Park, MD] </li> 
-   <li>Dr. Mohammad Modarres [PhD: Massachusetts Institute of Technology, MA] </li> 
-   <li>Dr. Abhijit Dasgupta [PhD: University of Illinois] </li>
-   <li>Dr. F. Patrick McCluskey [PhD: Lehigh University]</li>
+   <li> Dr. Peter A Sandborn (Advisor and Chair)</li> 
+   <li>Dr. William Regli (Dean’s Representative)  </li> 
+   <li>Dr. Mohammad Modarres  </li> 
+   <li>Dr. Abhijit Dasgupta [</li>
+   <li>Dr. F. Patrick McCluskey </li>
  </ul>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 2. <b>MASc in Mechanical Engineering</b>– ONTARIO TECH UNIVERSITY – Ontario, Canada, GPA:3.98 [Research undertaken at The Univesity of Toronto and Ontario Tech. Univeristy Canada] </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
-<b>Advisory Committee:</b> </p>
-  <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-  <li>Dr. Ghaus Rizvi (Advisor and Chair) [PhD: Univeristy of Toronto, Canada]</li>
-  <li>Dr. Remon Pop-Iliev [PhD: Univeristy of Toronto, Canada]</li> 
-  <li>Dr. Yuping He [PhD: University of Waterloo, Canada]</li> 
-  <li>Dr. Hani Naguib (External: Professor, Univeristy of Toronto) [PhD: Univeristy of Toronto, Canada]</li>
-  </ul>
+<b>Advisory Committee: Dr. Ghaus Rizvi (Advisor and Chair) | Dr. Remon Pop-Iliev | Dr. Yuping He | Dr. Hani Naguib (External) </b> </p>
+
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 3. <b>MSc in International Marketing</b>– HERIOT-WATT UNIVERSITY – UK</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
