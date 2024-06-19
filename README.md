@@ -41,6 +41,7 @@
 3. <b>MSc in International Marketing</b>– HERIOT-WATT UNIVERSITY – UK</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
   <b>Advisor:</b> Dr. Britta Kalkreuter </p>
+  <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
 4. <b>MBA in Marketing </b>– LUTON – UK
   <br>
 5. <b>BSc in Manufacturing Engineering</b>– BUTex - BD, GPA: First Class
