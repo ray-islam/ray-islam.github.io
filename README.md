@@ -40,9 +40,8 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 3. <b>MSc in International Marketing</b>– HERIOT-WATT UNIVERSITY – UK</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
-  <b>Advisor:</b> Dr. Britta Kalkreuter [PhD: Cologne Univeristy]
-</p>
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+  <b>Advisor:</b> Dr. Britta Kalkreuter 
+<br>
 4. <b>MBA in Marketing </b>– LUTON – UK
   <br>
 5. <b>BSc in Manufacturing Engineering</b>– BUTex - BD, GPA: First Class
@@ -57,12 +56,12 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 1. <b>Ph.D. in Mechanical Engineering </b>- University of Toronto, Canada (Transferred to GW, USA)</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
-  <b>Advisor:</b> Dr. Chul B. Park [PhD: Massachusetts Institute of Technology, MA]
+  <b>Advisor:</b> Dr. Chul B. Park 
 </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 2. <b>Ph.D. in Mechanical Engineering </b>- Geroge Washington University, DC, USA (Transferred to UMD,College Park, MD USA)</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
-  <b>Advisor:</b> Dr. Stephen Hsu [PhD: Penn State Univeristy, PA]
+  <b>Advisor:</b> Dr. Stephen Hsu 
 </p>
 <hr>
 
