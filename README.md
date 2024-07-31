@@ -82,6 +82,7 @@
 Leadership & AI Scientist roles in:
   <li>Deloitte, USA</li>
   <li>Raytheon, USA</li>
+  <li>Booz Allen Hamilton, USA</li>
   <li>Lockheed Martin, USA</li> 	
   <li>Surescripts, USA</li>
   <li>General Services Administration (GSA), Washington, D.C.</li>
