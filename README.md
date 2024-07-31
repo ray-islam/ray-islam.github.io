@@ -35,7 +35,7 @@
 
 ### Complete
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-1. <b>Doctor of Philosophy (PhD) in Machine Learning</b> (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA.</p>
+1. <b>Doctor of Philosophy (PhD)</b> in Machine Learning (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA.</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 20px;">
 <b>Dissertation:</b> A novel methodology to estimate Remaining Useful life of Software System using Machine Learning Methodologies (NLP+clustering+other statistical methods)
 </p>
@@ -43,18 +43,18 @@
 <b>Advisory Committee:</b> Dr. Peter A Sandborn (Advisor and Chair) | Dr. William Regli (Dean’s Representative) | Dr. Mohammad Modarres | Dr. Abhijit Dasgupta | Dr. F. Patrick McCluskey </p>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-2. <b>MASc in Mechanical Engineering</b>– ONTARIO TECH UNIVERSITY – ON, Canada, GPA:3.98 (Research undertaken at The Univesity of Toronto, Canada) </p>
+2. <b>MASc</b> in Mechanical Engineering – ONTARIO TECH UNIVERSITY – ON, Canada, GPA:3.98 (Research undertaken at The Univesity of Toronto, Canada) </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
 <b>Advisory Committee: </b> Dr. Ghaus Rizvi (Advisor and Chair) | Dr. Remon Pop-Iliev | Dr. Yuping He | Dr. Hani Naguib (External) </p>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-3. <b>MSc in International Marketing</b>– HERIOT-WATT UNIVERSITY – UK</p>
+3. <b>MSc</b> in International Marketing – HERIOT-WATT UNIVERSITY – UK</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
   <b>Advisor:</b> Dr. Britta Kalkreuter </p>
   
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-4. <b>MBA in Marketing </b>– LUTON – UK <br>
-5. <b>BSc in Manufacturing Engineering</b>– BUTex - BD, GPA: First Class </p>
+4. <b>MBA</b> in Marketing – LUTON – UK <br>
+5. <b>BSc</b> in Manufacturing Engineering – BUTex - BD, GPA: First Class </p>
 
 ### In-progress
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
