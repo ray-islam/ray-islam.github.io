@@ -1,7 +1,7 @@
 ---
 title: Conferences
 layout: template
-filename: about.md
+filename: conference.md
 --- 
 
 ## Computing Conference 2024
