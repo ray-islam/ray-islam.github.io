@@ -24,6 +24,10 @@
 ### Academia
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>Developed novel machine learning based methodologies (such as natural language processing and clustering algorithms, to estimate the remaining useful life (RUL) of software systems.</li>
+<li>Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems </li>
+<li>Optimized process conditions to achieve the ideal solubility for forming nanospheres of the perfect size for targeted drug delivery.</li>
+<li>Optimized process conditions to develop a novel system for creating energy-efficient composite materials</li>
+
 </ul>
 <hr>
 
