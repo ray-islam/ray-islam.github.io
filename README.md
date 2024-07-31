@@ -50,7 +50,7 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 3. <b>MSc</b> in International Marketing – HERIOT-WATT UNIVERSITY – UK</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
-  <b>Advisor:</b> Dr. Britta Kalkreuter </p>
+  <b>Advisor:</b> <a href="https://www.hw.ac.uk/tex/people/faculty/britta-kalkreuter.htm">Dr. Britta Kalkreuter</a>
   
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 4. <b>MBA</b> in Marketing – LUTON – UK <br>
@@ -65,12 +65,11 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 1. <b>PhD</b> in Mechanical Engineering - Geroge Washington University, DC, USA (Transferred to UMD,College Park, MD USA)</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
-  <b>Advisor:</b> Dr. Stephen Hsu 
-</p>
+ </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 2. <b>PhD</b> in Mechanical Engineering </b>- University of Toronto, Canada (Transferred to GW, USA)</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
-  <b>Advisor:</b> Dr. Chul B. Park 
+  <b>Advisor:</b> <a href="https://www.mie.utoronto.ca/faculty_staff/park/">Dr. Chul B. Park</a>
 </p>
 
 <hr>
