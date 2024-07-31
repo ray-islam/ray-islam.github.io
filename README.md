@@ -8,6 +8,8 @@
 <hr>
 
 ## RESEARCH PORTFOLIOS
+
+### Industry Research
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>Researched, developed, and deployed in production GenAI-based (ChatGPT) solutions and infrastructures for AI Agent(s) to assist decision-makers with sentiment analysis in the financial sector. These solutions generate financial trend analysis reports based on social science data, geopolitical movements, stock prices, and other factors, utilizing inputs from outreach and engagement teams..</li>
 <li>Developed a GenAI-based OCR solution to extract and analyze prescription text data from PDFs and images, converting it to JSON format for report summarization.</li>
@@ -19,6 +21,8 @@
 <li>Developed an Enterprise AI (EAI) solution utilizing AI technologies such as CNNs and Auto-encoders for faster processing and analysis of large volumes (billions of observations) of cyber anomaly data. This solution diagnostically detects and prognostically predicts anomalies related to cyber security. Additionally, led the development of infrastructures and dashboards for cyber analysts and decision-makers.</li>
 <li>Conducted data mining across all of the aforementioned projects, including pattern recognition for identifying trends and insights.</li>
 </ul>
+
+### Industry Research
 <hr>
 
 ## EDUCATION 
