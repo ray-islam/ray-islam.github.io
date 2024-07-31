@@ -94,7 +94,7 @@ Leadership & AI Scientist roles in:
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li> Health Care: US Department of Vaterans Affairs, USA</li>
 <li> Health Care: Centers for Medicare & Medicaid Services (CMS), USA</li>
-<li> Health Care: Pharmacy Data Analysis (CVS, Walgreens, Walmart), USA</li>
+<li> Health Care: Pharmacy Data Analysis (e.g. CVS, Walgreens), USA</li>
 <li> Finance: Berkshire Hathaway, USA</li>
 <li> Finance: Capital One Bank, USA</li>
 <li> Finance: U.S. Department of Commerce, USA</li>
