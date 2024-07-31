@@ -48,9 +48,9 @@
 <b>Advisory Committee:</b> <a href="https://ontariotechu.ca/experts/feas/ghaus-rizvi.php?utm_source=featured_expert&utm_medium=web&utm_campaign=Ghaus%20Rizvi">Dr. Ghaus Rizvi</a> (Advisor and Chair) | Dr. Remon Pop-Iliev | Dr. Yuping He | <a href="https://mse.utoronto.ca/faculty-staff/professors/naguib/">Dr. Hani Naguib</a> (External- Univerity of Toronto) </p>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-3. <b>MSc</b> in International Marketing – HERIOT-WATT UNIVERSITY – UK</p>
+3. <b>MSc</b> in International Marketing – HERIOT-WATT UNIVERSITY – UK </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
-  <b>Advisor:</b> <a href="https://www.hw.ac.uk/tex/people/faculty/britta-kalkreuter.htm">Dr. Britta Kalkreuter</a>
+  <b>Advisor:</b> <a href="https://www.hw.ac.uk/tex/people/faculty/britta-kalkreuter.htm">Dr. Britta Kalkreuter</a> </p>
   
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 4. <b>MBA</b> in Marketing – LUTON – UK <br>
