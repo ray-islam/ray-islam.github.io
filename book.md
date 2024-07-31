@@ -14,23 +14,26 @@ filename: conference.md
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 “Generative AI, Cyber Security, and Ethics' is an essential guide for students, providing clear explanations and practical insights into the integration of generative AI in cybersecurity. This book is a valuable resource for anyone looking to build a strong foundation in these interconnected fields.”
 - Dr. Peter Sandborn, Professor, Department of Mechanical Engineering, University of Maryland, College Park
-
+<br>
+<br>
 “Unchecked cyber-warfare made exponentially more disruptive by Generative AI is nightmare fuel for this and future generations. Dr. Islam plumbs the depth of Generative AI and ethics through the lens of a technology practitioner and recognized AI academician, energized by the moral conscience of an ethical man and a caring humanitarian. This book is a timely primer and required reading for all those concerned about accountability and establishing guardrails for the rapidly developing field of AI.”
 - David Pere, (Retired Colonel, United States Marine Corps) CEO & President, Blue Force Cyber Inc.
-
+<br>
+  <br>
 <b>Equips readers with the skills and insights necessary to succeed in the rapidly evolving landscape of Generative AI and cyber threats.</b>
-
+<br>
 Generative AI (GenAI) is driving unprecedented advances in threat detection, risk analysis, and response strategies. However, GenAI technologies such as ChatGPT and advanced deepfake creation also pose unique challenges. As GenAI continues to evolve, governments and private organizations around the world need to implement ethical and regulatory policies tailored to AI and cybersecurity.
-
+<br>
 Generative AI, Cyber Security, and Ethics provides concise yet thorough insights into the dual role artificial intelligence plays in both enabling and safeguarding against cyber threats. Presented in an engaging and approachable style, this timely book explores critical aspects of the intersection of AI and cyber security while emphasizing responsible development and application. Reader-friendly chapters explain the principles, advancements, and challenges of specific domains within AI, such as machine learning (ML), deep learning (DL), generative AI, data privacy and protection, the need for ethical and responsible human oversight in AI systems, and more.
-
+<br>
 Incorporating numerous real-world examples and case studies that connect theoretical concepts with practical applications, Generative AI, Cyber Security, and Ethics:
-
+<br>
 <li>Explains the various types of cybersecurity and describes how GenAI concepts are implemented to safeguard data and systems</li>
 <li>Highlights the ethical challenges encountered in cybersecurity and the importance of human intervention and judgment in GenAI</li>
 <li>Describes key aspects of human-centric AI design, including purpose limitation, impact assessment, societal and cultural sensitivity, and interdisciplinary research</li>
 <li>Covers the financial, legal, and regulatory implications of maintaining robust security measures</li>
 <li>Discusses the future trajectory of GenAI and emerging challenges such as data privacy, consent, and accountability</li>
+<br>
 Blending theoretical explanations, practical illustrations, and industry perspectives, Generative AI, Cyber Security, and Ethics is a must-read guide for professionals and policymakers, advanced undergraduate and graduate students, and AI enthusiasts interested in the subject.
 </ul>
 
