@@ -173,7 +173,7 @@ Leadership & AI Scientist roles in:
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li> [C1]       Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK </li>
 <li> [C2]       Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508. </li>
-<li> [C3-C11]   9 other conference papers presented at reputable conferences in the USA and Canada. </li>
+<li> [C3-C11]   9 other conference papers presented at esteemed conferences in the USA and Canada. </li>
 <li> [P1-P5]    5 posters presented at mainstream conferences in the USA and Canada. </li>
 </ul>
 
