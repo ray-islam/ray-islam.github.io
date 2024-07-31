@@ -92,13 +92,13 @@ Leadership & AI Scientist roles in:
 
 ### Clients Worked For
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<li> Health Care: US Department of Vaterans Affairs, USA</li>
+<li> Health Care: Centers for Medicare & Medicaid Services (CMS), USA</li>
+<li> Health Care: Pharmacy Data Analysis (CVS, Walgreens, Walmart), USA</li>
 <li> Finance: Berkshire Hathaway, USA</li>
 <li> Finance: Capital One Bank, USA</li>
 <li> Finance: U.S. Department of Commerce, USA</li>
 <li> Finance: Royal Bank of Canada (RBC), Canada</li>
-<li> Health Care: Centers for Medicare & Medicaid Services (CMS), USA</li>
-<li> Health Care: US Department of Vaterans Affairs, USA</li>
-<li> Health Care: Pharmacy Data Analysis (CVS, Walgreens, Walmart), USA</li>
 <li> Education: US Department of Education, USA</li>
 <li> The White House, USA</li>
 <li> US Airforce (USAF), USA</li>
