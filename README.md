@@ -40,7 +40,7 @@
 <b>Dissertation:</b> A novel methodology to estimate Remaining Useful life of Software System using Machine Learning Methodologies (NLP+clustering+other statistical methods)
 </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
-<b>Advisory Committee:</b> Dr. Peter A Sandborn (Advisor and Chair) | Dr. William Regli (Dean’s Representative) | Dr. Mohammad Modarres | Dr. Abhijit Dasgupta | Dr. F. Patrick McCluskey </p>
+<b>Advisory Committee:</b> <a href="https://enme.umd.edu/clark/faculty/582/Peter-Sandborn">Dr. Peter A. Sandborn (Advisor and Chair) </a> | Dr. William Regli (Dean’s Representative) | Dr. Mohammad Modarres | Dr. Abhijit Dasgupta | Dr. F. Patrick McCluskey </p>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 2. <b>MASc</b> in Mechanical Engineering – ONTARIO TECH UNIVERSITY – ON, Canada, GPA:3.98 (Research undertaken at The Univesity of Toronto, Canada) </p>
