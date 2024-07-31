@@ -43,7 +43,7 @@
 <b>Advisory Committee:</b> Dr. Peter A Sandborn (Advisor and Chair) | Dr. William Regli (Dean’s Representative) | Dr. Mohammad Modarres | Dr. Abhijit Dasgupta | Dr. F. Patrick McCluskey </p>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-2. <b>MASc in Mechanical Engineering</b>– ONTARIO TECH UNIVERSITY – ON, Canada, GPA:3.98 [Research undertaken at The Univesity of Toronto, Canada] </p>
+2. <b>MASc in Mechanical Engineering</b>– ONTARIO TECH UNIVERSITY – ON, Canada, GPA:3.98 (Research undertaken at The Univesity of Toronto, Canada) </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
 <b>Advisory Committee: </b> Dr. Ghaus Rizvi (Advisor and Chair) | Dr. Remon Pop-Iliev | Dr. Yuping He | Dr. Hani Naguib (External) </p>
 
