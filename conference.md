@@ -1,6 +1,6 @@
 ---
 title: Conferences
-theme: jekyll-theme-architect
+theme: jekyll-theme-chirpy
 filename: conference.md
 --- 
 
