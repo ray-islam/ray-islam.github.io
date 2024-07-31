@@ -7,9 +7,9 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"><b>Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Security, Ethics in AI</b></p>
 <hr>
 
-## PORTFOLIOS
+## PORTFOLIO
 
-### Industry Projects
+### Industry
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>Multi-modal GenAI solutions for AI agents enhancing creative decision-making in healthcare and finance, utilizing diverse data sources including medical science, social sciences, geopolitical movements, stock prices, and outreach efforts.</li>
 <li>GenAI-based OCR solution to extract and analyze prescription text from PDFs and images, converting it to JSON for report summarization.</li>
@@ -25,7 +25,6 @@
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>Developed novel machine learning based methodologies (such as natural language processing and clustering algorithms, to estimate the remaining useful life (RUL) of software systems.</li>
 </ul>
-
 <hr>
 
 ## EDUCATION 
