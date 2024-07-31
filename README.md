@@ -164,17 +164,22 @@ Leadership & AI Scientist roles in:
 
 ### Peer-Reviewed Research Journal
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li> [J1]  <a href="https://doi.org/10.22215/jphm.v3i1.3641">slam, R. and Sandborn, P., (2023), Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems, Journal of Prognostics and Health Management, 3(1), 9–36. February https://doi.org/10.22215/jphm.v3i1.3641.</a></li>
-<li> [J2]  A Paper on Optimization of Process Conditions, Journal of Thermoplastic Composite Materials, 26(8):1127-1144, September, DOI: 10.1177/0892705712439563. (Impact Score: 3.3)</li>
+<li> [J1]  <a href="https://doi.org/10.22215/jphm.v3i1.3641">Islam, R. and Sandborn, P., (2023), Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems, Journal of Prognostics and Health Management, 3(1), 9–36. February https://doi.org/10.22215/jphm.v3i1.3641.</a></li>
+<li> [J2] <a href="https://doi.org/10.22215/jphm.v3i1.3641">Islam, R. and Sandborn, P., (2023), Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems, Journal of Prognostics and Health Management, 3(1), 9–36. February https://doi.org/10.22215/jphm.v3i1.3641.</a></li>
 <li> [J3]  A paper on  Process Conditions Optimization, Journal of Thermoplastic Composite Materials, 24(2):155-17, March, DOI: 10.1177/0892705710388590. (Impact Score: 3.3)</li>
 </ul>
 
 ### Conference Papers & Poster Presentations - Go to [conference page](conference.md)
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li> [C1]       <a href="https://link.springer.com/chapter/10.1007/978-3-031-62281-6_34">Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK, Published as Proceedings on Springer Nature</a> </li>
-<li> [C2]       <a href="https://doi.org/10.1115/DETC2021-70508">Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508</a> </li>
-<li> [C3-C11]   9 other conference papers presented at esteemed conferences in the USA and Canada. </li>
-<li> [P1-P5]    5 posters presented at mainstream conferences in the USA and Canada. </li>
+<li> [C1]       <a href="https://link.springer.com/chapter/10.1007/978-3-031-62281-6_34">Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK, Published as Proceedings on Springer Nature, DOI:
+https://doi.org/10.1007/978-3-031-62281-6_34</a> 
+</li>
+<li> [C2]       <a href="https://doi.org/10.1115/DETC2021-70508">Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508</a> 
+</li>
+<li> [C3-C11]   9 other conference papers presented at esteemed conferences in the USA and Canada. 
+</li>
+<li> [P1-P5]    5 posters presented at mainstream conferences in the USA and Canada. 
+</li>
 </ul>
 
 ### Working Journal Papers
