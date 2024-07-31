@@ -1,6 +1,5 @@
 ---
 title: Conferences
-layout: template
 theme: jekyll-theme-minimal
 filename: conference.md
 --- 
