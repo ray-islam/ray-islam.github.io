@@ -12,4 +12,4 @@ The Computing Conference, previously known as the Science and Information (SAI) 
 ![453513082_793744742962789_8675114430293914151_n](https://github.com/user-attachments/assets/568a0c77-249d-484e-9f2a-519dafd5a37c)
 ![453536220_793743426296254_513168236389803508_n](https://github.com/user-attachments/assets/3a22ddea-afe3-46af-aa43-d4e4e2d9b288)
 ![453561079_793743079629622_4723227205500447803_n](https://github.com/user-attachments/assets/f3ff9422-1253-477d-8396-8857a1e411ed)
-![453513082_793744742962789_8675114430293914151_n](https://github.com/user-attachments/assets/65fb5e13-0296-40ac-8d49-dbe8b0a7e38c)
+
