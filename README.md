@@ -58,7 +58,7 @@
 
 ### In-progress
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-6. <b>Micro Masters in Statistics and Data Science</b>- Massachusetts Institute of Technology (MIT), USA
+6. <b>Micro Masters</b> in Statistics and Data Science - Massachusetts Institute of Technology (MIT), USA
 </p>
 
 ### Transferred
