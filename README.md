@@ -169,7 +169,7 @@ Leadership & AI Scientist roles in:
 <li> [J3]  A paper on  Process Conditions Optimization, Journal of Thermoplastic Composite Materials, 24(2):155-17, March, DOI: 10.1177/0892705710388590. (Impact Score: 3.3)</li>
 </ul>
 
-### Conference Papers & Poster Presentations Go to [conference page](conference.md)
+### Conference Papers & Poster Presentations - Go to [conference page](conference.md)
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li> [C1]       Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK </li>
 <li> [C2]       Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508. </li>
