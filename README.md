@@ -183,14 +183,14 @@ Leadership & AI Scientist roles in:
 <li>[W2]  Islam, R., (2023), Optimum numbers of epochs and sample sizes to synthesize tabular data based on CTGAN.</li>
 </ul>
 
-### eBooks: https://www.amazon.com/-/e/B0CP85GTJN
+### <a href="https://www.amazon.com/-/e/B0CP85GTJN">eBooks (amazon.com)</a>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>eBook1: Ray Islam, LangChain Unveiled: Navigating the Future of LLM, (Amazon, 2023)</li>
 <li>eBook2: Ray lam, Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense, (Amazon, 2023)</li>
 <li>eBook3: Ray Islam, Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs), (Amazon 2023)</li>
 </ul>
 
-### White Papers: https://rayislam.medium.com/
+### <a href="https://rayislam.medium.com/">White Papers (medium.com)</a>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li> Islam, R., (2023), Prompt tuning for Large Language Models (LLMs)</li>
 <li> Islam, R., (2023), Analytics Operating Eco (OE) System</li>
