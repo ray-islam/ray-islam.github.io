@@ -161,7 +161,7 @@ Leadership & AI Scientist roles in:
 
 ### Book 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
- <li> Islam, R; <b>GenerativeAI, Cybersecurity & Ethics</b>; Under production by Wiley </li>
+ <li> <b> <a href="https://www.amazon.com/-/es/Mohammad-Rubyet-Islam/dp/1394279264">Islam, R; Generative AI, Cybersecurity & Ethics; Under production by Wiley</a> </b></li>
 </ul>
 
 ### Peer-Reviewed Research Journal
