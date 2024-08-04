@@ -82,11 +82,9 @@ Leadership & AI Scientist roles in:
   <li>Raytheon, USA - Acting Director - AI/ML (Strategic)</li>
   <li>Booz Allen Hamilton, USA - Lead Associate (Leadership/Strategic)</li>
   <li>Lockheed Martin, USA - Principal Scientist (Leadership/Strategic)(</li> 	
-  <li>Surescripts, USA- Lead, AIML</li>
   <li>General Services Administration (GSA), Washington, D.C.- Senior Scientist AIML</li>
   <li>American Institutes for Research (AIR), Washington, D.C. - Technical Project Manager, AIML/Infrastructure </li>	         
   <li>Euro Nassa Ltd., UK, Business Development Manager, (Clients: Tesco and Wal-Mart)</li>
-  <li>Carrefour, France (Indian-Subcontinental Office), Supply Chain Analyst (Regional Buyer)</li>
 </ul>
 
 ### Clients Worked For
