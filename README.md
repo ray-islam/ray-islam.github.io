@@ -86,7 +86,7 @@ Leadership & AI Scientist roles in:
   <li>General Services Administration (GSA), Washington, D.C.- Senior Scientist AIML</li>
   <li>American Institutes for Research (AIR), Washington, D.C. - Technical Project Manager, AIML/Infrastructure </li>	         
   <li>Euro Nassa Ltd., UK, Business Development Manager, (Clients: Tesco and Wal-Mart)</li>
-  <li>Carrefour, France (Indian-Subcontinental Office), Supply Chain Analyst</li>
+  <li>Carrefour, France (Indian-Subcontinental Office), Supply Chain Analyst (Regional Buyer)</li>
 </ul>
 
 ### Clients Worked For
