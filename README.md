@@ -179,9 +179,9 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 </li>
 <li> [C2]       <a href="https://doi.org/10.1115/DETC2021-70508">Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508</a> 
 </li>
-<li> [C3-C11]   9 other conference papers presented at esteemed conferences in the USA and Canada. 
+<li> [C3-C11]   <a href="https://www.researchgate.net/profile/Rubyet-Islam/publications">9 other conference papers presented at esteemed conferences in the USA and Canada.
 </li>
-<li> [P1-P5]    5 posters presented at mainstream conferences in the USA and Canada. 
+<li> [P1-P5]    <a href="https://www.researchgate.net/profile/Rubyet-Islam/publications">5 posters presented at mainstream conferences in the USA and Canada. 
 </li>
 </ul>
 
