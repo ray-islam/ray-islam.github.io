@@ -81,8 +81,8 @@ Leadership & AI Scientist roles in:
   <li>Deloitte, USA - Advisory Specialist Leader, AI/ML & Risk Analysis (Director/VP Product Development Equivalent)</li>
   <li>Raytheon, USA - Acting Director - AI/ML (Strategic)</li>
   <li>Booz Allen Hamilton, USA - Lead Associate (Leadership/Strategic)</li>
-  <li>Lockheed Martin, USA - Principal Scientist (Leadership)(</li> 	
-  <li>Surescripts, USA- Technical Project Manager, AIML</li>
+  <li>Lockheed Martin, USA - Principal Scientist (Leadership/Strategic)(</li> 	
+  <li>Surescripts, USA- Lead, AIML</li>
   <li>General Services Administration (GSA), Washington, D.C.- Senior Scientist AIML</li>
   <li>American Institutes for Research (AIR), Washington, D.C. - Technical Project Manager, AIML/Infrastructure </li>	         
   <li>Euro Nassa Ltd., UK, Business Development Manager, (Clients: Tesco and Wal-Mart)</li>
