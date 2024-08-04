@@ -78,15 +78,15 @@
 ## Industrial Experience
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 Leadership & AI Scientist roles in:
-  <li>Deloitte, USA</li>
-  <li>Raytheon, USA</li>
-  <li>Booz Allen Hamilton, USA</li>
-  <li>Lockheed Martin, USA</li> 	
-  <li>Surescripts, USA</li>
-  <li>General Services Administration (GSA), Washington, D.C.</li>
-  <li>American Institutes for Research (AIR), Washington, D.C.</li>	         
-  <li>Euro Nassa Ltd., UK (Clients: Tesco and Wal-Mart)</li>
-  <li>Carrefour, France (Indian-Subcontinental Office)</li>
+  <li>Deloitte, USA - Advisory Specialist Leader, AI/ML & Risk Analysis (Director/VP Product Development Equivalent)</li>
+  <li>Raytheon, USA - Acting Director - AI/ML (Strategic)</li>
+  <li>Booz Allen Hamilton, USA - Lead Associate (Leadership/Strategic)</li>
+  <li>Lockheed Martin, USA - Principal Scientist (Leadership)(</li> 	
+  <li>Surescripts, USA- Technical Project Manager, AIML</li>
+  <li>General Services Administration (GSA), Washington, D.C.- Senior Scientist AIML</li>
+  <li>American Institutes for Research (AIR), Washington, D.C. - Technical Project Manager, AIML/Infrastructure </li>	         
+  <li>Euro Nassa Ltd., UK, Business Development Manager, (Clients: Tesco and Wal-Mart)</li>
+  <li>Carrefour, France (Indian-Subcontinental Office), Supply Chain Analyst</li>
 </ul>
 
 ### Clients Worked For
