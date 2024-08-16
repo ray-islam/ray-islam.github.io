@@ -8,6 +8,7 @@ filename: conference.md
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <b> <a href="https://www.amazon.com/-/es/Mohammad-Rubyet-Islam/dp/1394279264"> Generative AI, Cybersecurity & Ethics by, Dr. Ray Islam (Mohammad Rubyet Islam), In production by Wiley (John Wiley & Sons, Inc.), ETA: February 2025</a> </b>
 </ul>
+<img src="https://product.kyobobook.co.kr/detail/S000213270642" alt="Book Cover" width="300" height="450">
 
 ![71O5Y-0SNJL _SL1500_](https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f)
 
