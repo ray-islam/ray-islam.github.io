@@ -9,7 +9,6 @@ filename: conference.md
 <b> <a href="https://www.amazon.com/-/es/Mohammad-Rubyet-Islam/dp/1394279264"> Generative AI, Cybersecurity & Ethics by, Dr. Ray Islam (Mohammad Rubyet Islam), In production by Wiley (John Wiley & Sons, Inc.), ETA: February 2025</a> </b>
 </ul>
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
