@@ -9,31 +9,7 @@ filename: conference.md
 <b> <a href="https://www.amazon.com/-/es/Mohammad-Rubyet-Islam/dp/1394279264"> Generative AI, Cybersecurity & Ethics by, Dr. Ray Islam (Mohammad Rubyet Islam), In production by Wiley (John Wiley & Sons, Inc.), ETA: February 2025</a> </b>
 </ul>
 
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Centered Image</title>
-<style>
-  body, html {
-    height: 100%;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #f0f0f0; /* Optional: just to improve visibility */
-  }
-  img {
-    max-width: 100%; /* Ensures the image is responsive and doesn't overflow the viewport */
-    max-height: 100%; /* Adjusts height to maintain aspect ratio without overflow */
-  }
-</style>
-</head>
-<body>
-<img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Centered Image">
-</body>
-</html>
-
+<img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Book Cover" width="300" height="450">
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 “Generative AI, Cyber Security, and Ethics' is an essential guide for students, providing clear explanations and practical insights into the integration of generative AI in cybersecurity. This book is a valuable resource for anyone looking to build a strong foundation in these interconnected fields.”
