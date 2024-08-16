@@ -11,8 +11,6 @@ filename: conference.md
 
 <img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Book Cover" width="300" height="450">
 
-![71O5Y-0SNJL _SL1500_](https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f)
-
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 “Generative AI, Cyber Security, and Ethics' is an essential guide for students, providing clear explanations and practical insights into the integration of generative AI in cybersecurity. This book is a valuable resource for anyone looking to build a strong foundation in these interconnected fields.”
 - Dr. Peter Sandborn, Professor, Department of Mechanical Engineering, University of Maryland, College Park
