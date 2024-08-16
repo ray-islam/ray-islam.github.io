@@ -78,7 +78,7 @@
 ## Industrial Experience
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 Leadership & AI Scientist roles in:
-  <li>Deloitte, USA - Advisory Specialist Leader, AI/ML & Risk Analysis (Director/VP Product Development Equivalent)</li>
+  <li>Deloitte, USA - Specialist Leader, AI/ML & Risk Analysis (Director/VP Product Development Equivalent)</li>
   <li>Raytheon, USA - Acting Director - AI/ML (Strategic)</li>
   <li>Booz Allen Hamilton, USA - Lead Associate (Leadership/Strategic)</li>
   <li>Lockheed Martin, USA - Principal Scientist (Leadership/Strategic)(</li> 	
@@ -107,7 +107,7 @@ Leadership & AI Scientist roles in:
 ## Academic Experience
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>
-  <b>Adjunct Professor</b>, Information Sciences and Technology, George Mason University, Fairfax, VA, USA
+  <b>Adjunct Professor</b>, Information Sciences and Technology, <a href="https://www.coursicle.com/gmu/professors/Mohammad+Islam/">George Mason University, Fairfax, VA, USA</a> 
     <ul> Course Taught: <br> 
       <li>AIT 526: Natural Language Processing (Generative AI) – Graduate course</li>
     </ul>
