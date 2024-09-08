@@ -140,14 +140,11 @@
 <body>
 
     <!-- Highlight box container -->
-    <div class="highlight-box">        
-        <h3>Book Authored</h3>
+    <div class="highlight-box">           
         <ul>
-            <li>
                 <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">
                     Islam, R (2025); Generative AI, Cybersecurity & Ethics; Wiley
-                </a>
-            </li>
+                </a>            
         </ul>
         <img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" 
             alt="Book Cover" width="90" height="150">
