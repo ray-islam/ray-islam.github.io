@@ -104,14 +104,62 @@
 </html>
 
 
-## HIGHLIGHTs
-### Book Authored   
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
- <b> <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Islam, R (2025); Generative AI, Cybersecurity & Ethics; Wiley</a> 
-</b>
-<br><img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Book Cover" width="90" height="150" style="margin-left: 150px;">
-</ul>
-<hr>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Box Highlight</title>
+    <style>
+        /* Styling for the highlight box */
+        .highlight-box {
+            background-color: #f0f8ff; /* Light blue background */
+            border: 2px solid #0073e6; /* Blue border */
+            padding: 20px;
+            width: 400px;
+            margin: 0 auto;
+            font-family: 'Futura', serif;
+            font-size: 16px;
+            color: black;
+        }
+
+        .highlight-box a {
+            text-decoration: none;
+            color: #0073e6; /* Link color */
+            font-weight: bold;
+        }
+
+        .highlight-box img {
+            display: block;
+            margin: 20px auto; /* Center the image */
+        }
+
+        hr {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Highlight box container -->
+    <div class="highlight-box">
+        <h2>HIGHLIGHTS</h2>
+        <h3>Book Authored</h3>
+        <ul>
+            <li>
+                <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">
+                    Islam, R (2025); Generative AI, Cybersecurity & Ethics; Wiley
+                </a>
+            </li>
+        </ul>
+        <img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" 
+            alt="Book Cover" width="90" height="150">
+    </div>
+
+    <hr>
+
+</body>
+</html>
+
 
 ## ABOUT
 <p style="color: green; font-family: 'Futura', serif; font-size: 17px;"><b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself in AI and Machine Learning leadership at top global firms and through teaching at prestigious universities, effectively bridging the gap between academia and industry. He has managed high-stake AI (including Generative AI) and cybersecurity research projects, developed strategies, built hands-on models, and overseen multimillion-dollar initiatives. Dr. Ray has led teams of scientists and developers across three continents and holds five degrees from five countries, showcasing his global adaptability. With a deep research background applied across various industries, he is a published author and serves as an associate editor and reviewer for prestigious international journals.</b>
