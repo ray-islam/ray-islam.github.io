@@ -147,7 +147,7 @@
                 </a>            
         </ul>
         <img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" 
-            alt="Book Cover" width="90" height="150">
+            alt="Book Cover" width="115" height="185">
     </div>
 
     <hr>
