@@ -114,7 +114,7 @@
     <style>
         /* Styling for the highlight box */
         .highlight-box {
-            background-color: #f0f8ff; /* Light blue background */
+            background-color: #FFFFE0; /* Light blue background */
             margin: 0 auto;
             font-family: 'Futura', serif;
             font-size: 16px;
