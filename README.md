@@ -4,7 +4,7 @@
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
  <b> <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Islam, R (2025); Generative AI, Cybersecurity & Ethics; Wiley</a> 
 </b>
-<br><img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Book Cover" width="300" height="450" style="margin-left: 100px;">
+<br><img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Book Cover" width="90" height="125" style="margin-left: 100px;">
 </ul>
 <hr>
 
