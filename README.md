@@ -165,21 +165,12 @@ Leadership & AI Scientist roles in:
     
 ## PUBLICATIONS & AWARDS
 
-<section style="font-family: 'Futura', serif; color: black;">
-  <h3 style="font-size: 18px; font-weight: bold;">Book:</h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="margin-bottom: 10px;">
-      <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265" 
-         style="text-decoration: none; color: #0073e6; font-weight: bold;">
-         Islam, R (2025); Generative AI, Cybersecurity & Ethics; Wiley
-      </a>
-    </li>
-  </ul>
+### Book:   
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+ <li> <b> <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Islam, R (2025); Generative AI, Cybersecurity & Ethics; Wiley</a> 
+</b></li> </ul>
 
-  <h4 style="font-size: 16px; font-weight: bold;">Global Availability:</h4>
-  <a href="book.md" style="color: #0073e6; text-decoration: none;">Book Page</a>
-</section>
-
+#### [For Global Availability Click Here](book.md)
 
 ### Peer-Reviewed Research Journal
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
