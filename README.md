@@ -91,7 +91,7 @@
 <body>
 
     <div class="navbar">
-        <a class="active" href="#home">Home</a>
+        <a class="active" href="https://ray-islam.github.io/">Home</a>
         <a href="#about">About</a>
         <a href="#services">Services</a>
         <a href="#contact">Contact</a>
