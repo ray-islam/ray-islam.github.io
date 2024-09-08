@@ -225,9 +225,14 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 
 ### Editorial Services
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li>Reviewer: Journal: Reliability Engineering & System Safety, Published by Elsevier - Impact Score: 8.1</li>
-<li>Associate Editor: Journal of Prognostics and Health Management (JPHM) - Impact Score: 1.78</li>
+<li>Reviewer: Journal: Reliability Engineering & System Safety, Published by Elsevier </li>
+<li>Associate Editor: Journal of Prognostics and Health Management (JPHM) </li>
 <li>Editor-in-Chief: International Journal for Ethics & AI – To be launched.</li>
+</ul>
+
+### Membership
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<li>AAAI - Association for the Advancement of Artificial Intelligence</li>
 </ul>
   
 ### Blogs
