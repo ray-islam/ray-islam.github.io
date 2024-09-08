@@ -106,7 +106,7 @@
             </div>
         </div> 
     </div>
-     <p>Content below the menubar. You should see some space between the menubar and this text.</p>
+     <p> </p>
 
 </body>
 </html>
