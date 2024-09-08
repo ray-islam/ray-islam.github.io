@@ -140,8 +140,7 @@
 <body>
 
     <!-- Highlight box container -->
-    <div class="highlight-box">
-        <h2>HIGHLIGHTS</h2>
+    <div class="highlight-box">        
         <h3>Book Authored</h3>
         <ul>
             <li>
