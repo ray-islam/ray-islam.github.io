@@ -1,3 +1,10 @@
+## HIGHLIGHTs
+
+### Book   
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+ <li> <b> <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Islam, R (2025); Generative AI, Cybersecurity & Ethics; Wiley</a> 
+</b></li> </ul>
+
 
 ## ABOUT
 <p style="color: green; font-family: 'Futura', serif; font-size: 17px;"><b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself in AI and Machine Learning leadership at top global firms and through teaching at prestigious universities, effectively bridging the gap between academia and industry. He has managed high-stake AI (including Generative AI) and cybersecurity research projects, developed strategies, built hands-on models, and overseen multimillion-dollar initiatives. Dr. Ray has led teams of scientists and developers across three continents and holds five degrees from five countries, showcasing his global adaptability. With a deep research background applied across various industries, he is a published author and serves as an associate editor and reviewer for prestigious international journals.</b>
