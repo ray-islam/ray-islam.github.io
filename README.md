@@ -17,7 +17,7 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"><b>Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Security, Ethics in AI</b></p>
 <hr>
 
-## PORTFOLIO
+## RESEARCH PORTFOLIO
 
 ### Industry
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
