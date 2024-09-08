@@ -104,6 +104,8 @@
 </html>
 
 
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -113,9 +115,6 @@
         /* Styling for the highlight box */
         .highlight-box {
             background-color: #f0f8ff; /* Light blue background */
-            border: 2px solid #0073e6; /* Blue border */
-            padding: 20px;
-            width: 400px;
             margin: 0 auto;
             font-family: 'Futura', serif;
             font-size: 16px;
