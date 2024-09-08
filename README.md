@@ -1,5 +1,118 @@
-## HIGHLIGHTs
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menubar Example</title>
+    <style>
+        /* Basic styling for the menubar */
+        body {
+            font-family: Arial, sans-serif;
+        }
 
+        .navbar {
+            overflow: hidden;
+            background-color: #333;
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+
+        .navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        .navbar a.active {
+            background-color: #04AA6D;
+            color: white;
+        }
+
+        /* Dropdown container */
+        .dropdown {
+            float: left;
+            overflow: hidden;
+        }
+
+        .dropdown .dropbtn {
+            font-size: 16px;  
+            border: none;
+            outline: none;
+            color: white;
+            padding: 14px 20px;
+            background-color: inherit;
+            font-family: inherit;
+            margin: 0;
+        }
+
+        .navbar a, .dropdown .dropbtn {
+            display: inline-block;
+        }
+
+        /* Dropdown content (hidden by default) */
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .dropdown-content a {
+            float: none;
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+        }
+
+        .dropdown-content a:hover {
+            background-color: #ddd;
+        }
+
+        /* Show the dropdown menu on hover */
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .dropdown:hover .dropbtn {
+            background-color: #ddd;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="navbar">
+        <a class="active" href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+        <div class="dropdown">
+            <button class="dropbtn">Dropdown 
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a href="#">Link 1</a>
+                <a href="#">Link 2</a>
+                <a href="#">Link 3</a>
+            </div>
+        </div> 
+    </div>
+
+</body>
+</html>
+
+
+## HIGHLIGHTs
 ### Book Authored   
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
  <b> <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Islam, R (2025); Generative AI, Cybersecurity & Ethics; Wiley</a> 
