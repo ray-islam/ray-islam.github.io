@@ -92,10 +92,9 @@
 
     <div class="navbar">
         <a class="active" href="https://ray-islam.github.io/">Home</a>
-        <a href="#about">About</a>
-        <a href="#services">Services</a>
-        <a href="#contact">Contact</a>
-        
+        <a href="https://ray-islam.github.io/book.html">Book</a>
+        <a href="https://ray-islam.github.io/conference.html">Conference</a>
+              
     </div>
      <p> </p>
      <p> </p>
