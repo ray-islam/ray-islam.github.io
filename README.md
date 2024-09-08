@@ -1,3 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Web Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        /* Navigation bar styles */
+        .navbar {
+            display: flex;
+            background-color: #333;
+            overflow: hidden;
+        }
+
+        .navbar a {
+            flex: 1;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+            color: white;
+        }
+
+        .navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        .navbar a.active {
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navigation Menu Bar -->
+    <div class="navbar">
+        <a href="https://github.com/username" class="active">Home</a>
+        <a href="https://github.com/username/repositories">Repositories</a>
+        <a href="https://github.com/username/projects">Projects</a>
+        <a href="https://github.com/username/issues">Issues</a>
+        <a href="https://github.com/username/pull-requests">Pull Requests</a>
+        <a href="https://github.com/username/settings">Settings</a>
+    </div>
+
+</body>
+</html>
+<hr>
+
+
 ## HIGHLIGHTS
 ### Book Authored 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
