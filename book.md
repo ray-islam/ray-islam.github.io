@@ -152,7 +152,7 @@ Blending theoretical explanations, practical illustrations, and industry perspec
 <a href="https://www.thriftbooks.com/w/generative-ai-cybersecurity-and-ethics_mohammad-rubyet-islam/52953269/?srsltid=AfmBOoo9HRx8qCRBSVpOx-UMbBTGKBP4GEExsGbc9ivq88ggniYuKbZX#edition=71390965&idiq=64375017">thriftbooks</a><br>
 <a href="https://www.powells.com/book/generative-ai-cybersecurity-and-ethics-9781394279265?srsltid=AfmBOopmOm7c_iJXvr9XNtWASWR8W1BzL7axcTLe7TTfby2iND-QXBrG">POWELL'S City of Books</a><br>
 <a href="https://www.booktopia.com.au/generative-ai-cybersecurity-and-ethics-mohammad-rubyet-islam/book/9781394279265.html?srsltid=AfmBOop4z1lvodMY2eVFLERYlwula8T2QiXfn2b2vAC6YHbBz_85zlGq">booktopia</a><br>
-<a href="https://www.booksamillion.com/search?filter=date%3Acoming_soon%7Cproduct_type%3Abooks%7Clanguage%3AENG%7Cbook_categories%3ACOM%7Cbook_categories%3ACOM-004;page=2&id=9192235193238">BAM! (Books-a-Million)</a><br>
+<a href="https://www.booksamillion.com/p/Generative-Ai-Cybersecurity-Ethics/Mohammad-Rubyet-Islam/9781394279265?id=9192235193238">BAM! (Books-a-Million)</a><br>
 <a href="https://books.google.com/books/about/Generative_AI_Cybersecurity_and_Ethics.html?id=P2iM0AEACAAJ">Google Books</a><br>
 <a href="https://www.amazon.co.uk/Generative-Cybersecurity-Ethics-Mohammad-Rubyet/dp/1394279264">Amazon - UK</a> <br>
 <a href="https://shopsquareone.com/shop/product/generative-ai-cybersecurity-and-ethics-by-mohammad-rubyet-islam-hardcover-indigo-chapters-indigobooks-67102a">SQUAREONE - Canada</a><br>
