@@ -157,7 +157,7 @@
 
 
 ## ABOUT
-<p style="color: green; font-family: 'Futura', serif; font-size: 17px;"><b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself in AI and Machine Learning leadership at top global firms and through teaching at prestigious universities, effectively bridging the gap between academia and industry. He has managed high-stake AI (including Generative AI) and cybersecurity research projects, developed strategies, built hands-on models, and overseen multimillion-dollar initiatives. Dr. Ray has led teams of scientists and developers across three continents and holds five degrees from five countries, showcasing his global adaptability. With a deep research background applied across various industries, he is a published author and serves as an associate editor and reviewer for prestigious international journals.</b>
+<p style="color: green; font-family: 'Futura', serif; font-size: 17px;"><b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself in AI and Machine Learning leadership at top global firms and through teaching at prestigious universities, effectively bridging the gap between academia and industry. He has led high-stakes AI and cybersecurity projects, developing strategies, building models, and managing multimillion-dollar initiatives across healthcare, finance, manufacturing, retail supply chain, and insurance industries.Dr. Ray has led teams of scientists and developers across three continents and holds five degrees from five countries, showcasing his global adaptability. With a strong research background across multiple industries, he is a published author and serves as an associate editor and reviewer for renowned international conferences and journals, including the International Conference on Learning Representations (ICLR), Reliability Engineering & System Safety (RESS), and the Journal of Prognostics and Health Management (JPHM). His forthcoming book, Generative AI, Cybersecurity, and Ethics, will be published by Wiley.</b>
 </p>
 <hr>
 
@@ -165,18 +165,18 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"><b>Generative AI (Computer Vision & Natural Language Processing), AI in Cyber Security, Ethics in AI</b></p>
 <hr>
 
-## RESEARCH PORTFOLIO
+## PROJECT/RESEARCH PORTFOLIOs
 
 ### Industry
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li>Multi-modal GenAI solutions for AI agents enhancing creative decision-making in healthcare and finance, utilizing diverse data sources including medical science, social sciences, geopolitical movements, stock prices, and outreach efforts.</li>
-<li>GenAI-based OCR solution to extract and analyze prescription text from PDFs and images, converting it to JSON for report summarization.</li>
+<li>Multi-modal GenAI solutions for AI agents enhancing creative decision-making in healthcare and finance.</li>
+<li>GenAI-based OCR solution to extract and analyze prescription text from PDFs and images (inclduing hand-writing)</li>
 <li>AI and machine learning algorithms to detect financial fraud and prescription fraud in healthcare.</li>
-<li>Developed generative adversarial networks for image reconstruction and AI-based computer vision solutions for edge detection, object identification, and various other applications.</li>
+<li>Generative adversarial networks for image reconstruction and AI-based computer vision solutions for edge detection and object identification.</li>
 <li>Predictive models to forecast KPIs (SCI and CPI) and red program prediction.</li>
-<li>Architected and developed multiple big data infrastructures for security certifications, including FedRAMP and CMS compliance.</li>
-<li>An Enterprise AI solution utilizing convolutional neural networks (CNNs) and auto-encoders to rapidly analyze billions of cyber anomaly observations. This enabled both diagnostic detection and prognostic prediction of cybersecurity anomalies. Additionally, integrated an automated dashboard to assist decision-makers.</li>
-<li>Performed data mining and pattern recognition to identify trends and insights across all projects.</li>
+<li>Architecture of big data infrastructures in compliance with FedRAMP and CMS.</li>
+<li>An Enterprise AI solution utilizing convolutional neural networks (CNNs) and auto-encoders to rapidly analyze billions of cyber anomaly observations.</li>
+<li>Creative data mining and pattern recognition to identify trends and insights across all projects.</li>
 </ul>
 
 ### Academia
@@ -185,7 +185,6 @@
 <li>Analyzed the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems </li>
 <li>Optimized process conditions to achieve the ideal solubility for forming nanospheres of the perfect size for targeted drug delivery.</li>
 <li>Optimized process conditions to develop a novel system for creating energy-efficient composite materials</li>
-
 </ul>
 <hr>
 
