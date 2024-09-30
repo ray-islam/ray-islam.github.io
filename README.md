@@ -143,7 +143,7 @@
     <div class="highlight-box">           
         <ul>
                 <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">
-                    Islam, R (2025); Generative AI, Cybersecurity & Ethics; Wiley
+                    Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.
                 </a>            
         </ul>
         <img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" 
