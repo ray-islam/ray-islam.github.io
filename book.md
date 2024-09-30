@@ -1,7 +1,7 @@
 ---
-title: Conferences
+title: Book
 theme: jekyll-theme-chirpy
-filename: conference.md
+filename: book.md
 --- 
 
 <html lang="en">
