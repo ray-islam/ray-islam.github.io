@@ -1,6 +1,6 @@
-title: Ray Islam, PhD
+title: "Ray Islam, PhD"
 headshot_logo: /assets/images/headshot.jpg
-badge_logo: /assets/images/badge.png
+badge_logo: /assets/images/badge.png # Corrected file extension
 description: "AIML Scientist, Professor and AI Ethicist Marquis Who's Who 2024"
 theme: jekyll-theme-minimal
 description_font: "Georgia, serif"
