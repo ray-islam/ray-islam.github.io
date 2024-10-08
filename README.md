@@ -156,24 +156,6 @@
 </html>
 
 
-
-# {{ site.title }}
-
-<div style="text-align:center;">
-  <img src="{{ site.headshot_logo }}" alt="Headshot of Ray Islam" style="width:150px;height:auto;">
-  <img src="{{ site.badge_logo }}" alt="Badge for Ray Islam" style="width:150px;height:auto;">
-</div>
-
-<p style="color: {{ site.description_color }}; font-family: {{ site.description_font }}; font-size: {{ site.description_size }};">
-  {{ site.description }}
-</p>
-
-
-
-
-
-
-
 ## ABOUT
 <p style="color: green; font-family: 'Futura', serif; font-size: 17px;"><b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself in AI and Machine Learning leadership at top global firms and through teaching at prestigious universities, effectively bridging the gap between academia and industry. He has led high-stakes AI and cybersecurity projects, developing strategies, building models, and managing multimillion-dollar initiatives across healthcare, finance, manufacturing, retail supply chain, and insurance industries.Dr. Ray has led teams of scientists and developers across three continents and holds five degrees from five countries, showcasing his global adaptability. With a strong research background, he serves as an associate editor and reviewer for leading conferences and journals, including Conference on Learning Representations (ICLR), Reliability Engineering & System Safety (RESS), and the Journal of Prognostics and Health Management (JPHM). His forthcoming book, "Generative AI, Cybersecurity, and Ethics", is being published by Wiley.</b>
 </p>
