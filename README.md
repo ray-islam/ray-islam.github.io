@@ -219,11 +219,11 @@
 
 ### Transferred
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-1. <b>PhD</b> in Mechanical Engineering - Geroge Washington University, DC, USA (Switched to University of Maryland, College Park, MD USA)</p>
+1. <b>PhD</b> in Mechanical Engineering - Geroge Washington University, DC, USA (Switched to University of Maryland, College Park, MD, USA)</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
  </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-2. <b>PhD</b> in Mechanical Engineering - University of Toronto, Canada (Switched to George Washington Univerity, USA)</p>
+2. <b>PhD</b> in Mechanical Engineering - University of Toronto, Canada (Switched to George Washington Univerity, DC, USA)</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
   <b>Advisor:</b> <a href="https://www.mie.utoronto.ca/faculty_staff/park/">Dr. Chul B. Park</a>
 </p>
@@ -372,7 +372,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 
 ### Editorial Services
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li>Reviewer: The International Conference on Learning Representations, ICLR Foundation (ICLR) </li>
+<li>Reviewer: Conference: The International Conference on Learning Representations (ICLR), ICLR Foundation </li>
 <li>Reviewer: Journal: Reliability Engineering & System Safety, Published by Elsevier </li>
 <li>Associate Editor: Journal of Prognostics and Health Management (JPHM) </li>
 <li>Editor-in-Chief: International Journal for Ethics & AI – To be launched.</li>
