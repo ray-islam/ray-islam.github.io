@@ -38,20 +38,8 @@ filename: awardsnrecognitions.md
             color: white;
         }
 
-        table {
-            width: 100%;
-            border-collapse: collapse;
+        .award-section {
             margin-top: 20px;
-        }
-
-        th, td {
-            padding: 10px;
-            text-align: left;
-            border: 1px solid #ddd;
-        }
-
-        th {
-            background-color: #f4f4f4;
         }
     </style>
 </head>
@@ -66,10 +54,31 @@ filename: awardsnrecognitions.md
 
     <h2>Awards</h2>
     <ul>
-        <li><a href="#award1">Marquis Who's Who 2024-25</a></li>        
+        <li><a href="#award1">No. 1: Marquis Who's Who Inclusion</a></li>
+        <li><a href="#award2">No. 2: Innovator of the Year</a></li>
+        <li><a href="#award3">No. 3: Excellence in Teaching Award</a></li>
+        <li><a href="#award4">No. 4: Distinguished Service Award</a></li>
     </ul>
 
+    <div id="award1" class="award-section">
+        <h3>No. 1: Marquis Who's Who Inclusion</h3>
+        <p>Dr. Ray Islam (Dr. Mohammad Rubyet Islam) has been included in Marquis Who's Who. As in all Marquis Who's Who biographical volumes, individuals profiled are selected on the basis of current reference value. Factors such as position, noteworthy accomplishments, visibility, and prominence in a field are all taken into account during the selection process.</p>
+    </div>
 
+    <div id="award2" class="award-section">
+        <h3>No. 2: Innovator of the Year</h3>
+        <p>Awarded for creating cutting-edge solutions that advanced technology in the healthcare sector.</p>
+    </div>
+
+    <div id="award3" class="award-section">
+        <h3>No. 3: Excellence in Teaching Award</h3>
+        <p>Honored for exceptional teaching and mentorship in higher education.</p>
+    </div>
+
+    <div id="award4" class="award-section">
+        <h3>No. 4: Distinguished Service Award</h3>
+        <p>Recognized for significant contributions to professional organizations and community service.</p>
+    </div>
 
 </body>
 </html>
