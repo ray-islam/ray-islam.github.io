@@ -59,9 +59,9 @@ filename: awardsnrecognitions.md
 
     <div id="award1" class="award-section">
    <h3>
-    <a href="https://www.24-7pressrelease.com/press-release/515473/dr-ray-islam-displays-excellence-in-education-and-technology" target="_blank" style="text-decoration: none; color: inherit;">
-        1: Marquis Who's Who 2024-25
-    </a>
+<a href="https://www.24-7pressrelease.com/press-release/515473/dr-ray-islam-displays-excellence-in-education-and-technology" target="_blank" style="text-decoration: none; color: #1E90FF;">
+    1: Marquis Who's Who 2024-25
+</a>
 </h3>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"> 
