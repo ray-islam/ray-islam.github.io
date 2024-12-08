@@ -52,14 +52,16 @@ filename: awardsnrecognitions.md
         <a href="https://ray-islam.github.io/awardsnrecognitions.html">Awards & Recognitions</a>
     </div>
 
-    <h2>wards & Recognitions</h2>
+    <h2>Awards & Recognitions</h2>
     <ul>
         <li><a href="#award1">1: Marquis Who's Who 2024-25</a></li>
     </ul>
 
     <div id="award1" class="award-section">
         <h3>1:Marquis Who's Who 2024-25</h3>
-        <p>Dr. Ray Islam (Dr. Mohammad Rubyet Islam) has been included in Marquis Who's Who. As in all Marquis Who's Who biographical volumes, individuals profiled are selected on the basis of current reference value. Factors such as position, noteworthy accomplishments, visibility, and prominence in a field are all taken into account during the selection process.</p>
+<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+    Dr. Ray Islam (Dr. Mohammad Rubyet Islam) has been included in Marquis Who's Who. As in all Marquis Who's Who biographical volumes, individuals profiled are selected on the basis of current reference value. Factors such as position, noteworthy accomplishments, visibility, and prominence in a field are all taken into account during the selection process.
+</p>
     </div>
 
    </body>
