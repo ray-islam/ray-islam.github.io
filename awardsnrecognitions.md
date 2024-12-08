@@ -61,9 +61,7 @@ filename: awardsnrecognitions.md
         <h3>1:Marquis Who's Who 2024-25</h3>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"> 
-    Dr. Ray Islam (Dr. Mohammad Rubyet Islam) has been included in Marquis Who's Who. As in all Marquis Who's Who biographical volumes, individuals profiled are selected on the basis of current reference value. Factors such as position, noteworthy accomplishments, visibility, and prominence in a field are all taken into account during the selection process. </p> 
-    <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"> 
-        Dr. Islam is a distinguished expert in artificial intelligence and machine learning, specializing in AI ethics, generative AI, computer vision, and natural language processing. He has been an adjunct professor at George Mason University since 2023, teaching courses on generative AI and large language models in the Information Sciences and Technology Department. Additionally, he served as a faculty member in cybersecurity at the University of Maryland Honors College from 2023 to 2024. 
+    Dr. Ray Islam (Dr. Mohammad Rubyet Islam), a distinguished expert in AI and machine learning with a focus on AI ethics, generative AI, computer vision, and NLP, has been included in Marquis Who's Who. He has served as an adjunct professor at George Mason University since 2023 and was a faculty member in cybersecurity at the University of Maryland Honors College. His inclusion in Marquis Who's Who recognizes his notable accomplishments, visibility, and prominence in the field. 
     </p> 
     <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"> 
         <b>About Marquis Who's Who®:</b> 
