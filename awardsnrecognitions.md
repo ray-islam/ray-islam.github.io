@@ -66,10 +66,7 @@ filename: awardsnrecognitions.md
 
     <h2>Awards</h2>
     <ul>
-        <li><a href="#award1">Marquis Who's Who 2024-25</a></li>
-        <li><a href="#award2">Innovator of the Year</a></li>
-        <li><a href="#award3">Excellence in Teaching Award</a></li>
-        <li><a href="#award4">Distinguished Service Award</a></li>
+        <li><a href="#award1">Marquis Who's Who 2024-25</a></li>        
     </ul>
 
 
