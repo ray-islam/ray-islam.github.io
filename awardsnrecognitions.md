@@ -66,43 +66,13 @@ filename: awardsnrecognitions.md
 
     <h2>Awards</h2>
     <ul>
-        <li><a href="#award1">Outstanding Researcher Award</a></li>
+        <li><a href="#award1">Marquis Who's Who 2024-25</a></li>
         <li><a href="#award2">Innovator of the Year</a></li>
         <li><a href="#award3">Excellence in Teaching Award</a></li>
         <li><a href="#award4">Distinguished Service Award</a></li>
     </ul>
 
-    <table>
-        <thead>
-            <tr>
-                <th>Award</th>
-                <th>Description</th>
-                <th>Year</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr id="award1">
-                <td>Outstanding Researcher Award</td>
-                <td>Recognized for groundbreaking research contributions in AI and Machine Learning.</td>
-                <td>2024</td>
-            </tr>
-            <tr id="award2">
-                <td>Innovator of the Year</td>
-                <td>Awarded for creating cutting-edge solutions that advanced technology in the healthcare sector.</td>
-                <td>2023</td>
-            </tr>
-            <tr id="award3">
-                <td>Excellence in Teaching Award</td>
-                <td>Honored for exceptional teaching and mentorship in higher education.</td>
-                <td>2022</td>
-            </tr>
-            <tr id="award4">
-                <td>Distinguished Service Award</td>
-                <td>Recognized for significant contributions to professional organizations and community service.</td>
-                <td>2021</td>
-            </tr>
-        </tbody>
-    </table>
+
 
 </body>
 </html>
