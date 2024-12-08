@@ -2,15 +2,14 @@
 title: Awards & Recognitions
 theme: jekyll-theme-chirpy
 filename: awardsnrecognitions.md
---- 
+---
 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menubar Example</title>
+    <title>Awards & Recognitions</title>
     <style>
-        /* Basic styling for the menubar */
         body {
             font-family: Arial, sans-serif;
         }
@@ -39,58 +38,20 @@ filename: awardsnrecognitions.md
             color: white;
         }
 
-        /* Dropdown container */
-        .dropdown {
-            float: left;
-            overflow: hidden;
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
         }
 
-        .dropdown .dropbtn {
-            font-size: 16px;  
-            border: none;
-            outline: none;
-            color: white;
-            padding: 14px 20px;
-            background-color: inherit;
-            font-family: inherit;
-            margin: 0;
-        }
-
-        .navbar a, .dropdown .dropbtn {
-            display: inline-block;
-        }
-
-        /* Dropdown content (hidden by default) */
-        .dropdown-content {
-            display: none;
-            position: absolute;
-            background-color: #f9f9f9;
-            min-width: 160px;
-            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-            z-index: 1;
-        }
-
-        .dropdown-content a {
-            float: none;
-            color: black;
-            padding: 12px 16px;
-            text-decoration: none;
-            display: block;
+        th, td {
+            padding: 10px;
             text-align: left;
+            border: 1px solid #ddd;
         }
 
-        .dropdown-content a:hover {
-            background-color: #ddd;
-        }
-
-        /* Show the dropdown menu on hover */
-        .dropdown:hover .dropdown-content {
-            display: block;
-        }
-
-        .dropdown:hover .dropbtn {
-            background-color: #ddd;
-            color: black;
+        th {
+            background-color: #f4f4f4;
         }
     </style>
 </head>
@@ -101,11 +62,47 @@ filename: awardsnrecognitions.md
         <a href="https://ray-islam.github.io/book.html">Books</a>
         <a href="https://ray-islam.github.io/conference.html">Conferences</a>
         <a href="https://ray-islam.github.io/awardsnrecognitions.html">Awards & Recognitions</a>
-              
     </div>
-     <p> </p>
-     <p> </p>
-     <p> </p>
+
+    <h2>Awards</h2>
+    <ul>
+        <li><a href="#award1">Outstanding Researcher Award</a></li>
+        <li><a href="#award2">Innovator of the Year</a></li>
+        <li><a href="#award3">Excellence in Teaching Award</a></li>
+        <li><a href="#award4">Distinguished Service Award</a></li>
+    </ul>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Award</th>
+                <th>Description</th>
+                <th>Year</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="award1">
+                <td>Outstanding Researcher Award</td>
+                <td>Recognized for groundbreaking research contributions in AI and Machine Learning.</td>
+                <td>2024</td>
+            </tr>
+            <tr id="award2">
+                <td>Innovator of the Year</td>
+                <td>Awarded for creating cutting-edge solutions that advanced technology in the healthcare sector.</td>
+                <td>2023</td>
+            </tr>
+            <tr id="award3">
+                <td>Excellence in Teaching Award</td>
+                <td>Honored for exceptional teaching and mentorship in higher education.</td>
+                <td>2022</td>
+            </tr>
+            <tr id="award4">
+                <td>Distinguished Service Award</td>
+                <td>Recognized for significant contributions to professional organizations and community service.</td>
+                <td>2021</td>
+            </tr>
+        </tbody>
+    </table>
 
 </body>
 </html>
