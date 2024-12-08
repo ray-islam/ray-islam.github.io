@@ -1,5 +1,5 @@
 ---
-title: Book
+title: Books
 theme: jekyll-theme-chirpy
 filename: book.md
 --- 
@@ -109,7 +109,7 @@ filename: book.md
 </body>
 </html>
 
-## Book
+## Books
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <b> <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265"> Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5. </a> </b>
 </ul>
