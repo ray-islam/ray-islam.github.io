@@ -54,13 +54,13 @@ filename: awardsnrecognitions.md
 
     <h2>Awards & Recognitions</h2>
     <ul>
-        <li><a href="#award1">1: Marquis Who's Who 2024-25</a></li>
+        <li><a href="#award1">Marquis Who's Who 2024-25</a></li>
     </ul>
 
     <div id="award1" class="award-section">
    <h3>
 <a href="https://www.24-7pressrelease.com/press-release/515473/dr-ray-islam-displays-excellence-in-education-and-technology" target="_blank" style="text-decoration: none; color: blue;">
-    1: Marquis Who's Who 2024-25
+    Marquis Who's Who 2024-25
 </a>
 </h3>
 
