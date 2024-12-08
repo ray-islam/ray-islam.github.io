@@ -90,12 +90,12 @@
 </head>
 <body>
 
-    <div class="navbar">
-        <a class="active" href="https://ray-islam.github.io/">Home</a>
-        <a href="https://ray-islam.github.io/book.html">Book</a>
-        <a href="https://ray-islam.github.io/conference.html">Conference</a>
-              
-    </div>
+<div class="navbar">
+    <a class="active" href="https://ray-islam.github.io/">Home</a>
+    <a href="https://ray-islam.github.io/book.html">Book</a>
+    <a href="https://ray-islam.github.io/conference.html">Conference</a>
+    <a href="https://ray-islam.github.io/awardsnrecognitions.html">Awards & Recognitions</a>
+</div>
      <p> </p>
      <p> </p>
      <p> </p>
