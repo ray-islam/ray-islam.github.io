@@ -76,6 +76,3 @@ filename: awardsnrecognitions.md
         Since 1899, Marquis Who's Who® has chronicled the lives of accomplished individuals and innovators across fields such as politics, business, medicine, law, education, and the arts, serving as a vital biographical resource for researchers and professionals worldwide. The suite of Marquis® publications can be viewed at the official Marquis Who's Who® website, <a href="https://www.marquiswhoswho.com" target="_blank" style="color: black; text-decoration: none;">www.marquiswhoswho.com</a>. 
     </p>
     </div>
-
-   </body>
-</html>
