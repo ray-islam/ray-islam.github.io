@@ -54,19 +54,18 @@ filename: awardsnrecognitions.md
 
     <h2>Awards & Recognitions</h2>
     <ul>
-        <li><a href="#award1">Marquis Who's Who 2024-25</a></li>
-    </ul>
-
-    <div id="award1" class="award-section">
+        <li><a href="#award1">Marquis Who's Who 2024-25, Who</a></li>
+        <li><a href="#award1"> Nathan and Marvin Goldman/Durham Homes Graduate Award, Canada</a></li>
+        <li><a href="#award1"> 1st prize, Highly Qualified Personnel (HQP) poster competition, Canada</a></li>
+        <li><a href="#award1">The NSERC Strategic Network Grant for PhD research, Canada</a></li>
+        <li><a href="#award1"> Fellowship funded by the US Department of Energy, UK</a></li>
+        <li><a href="#award1"> Post Graduate Merit Award, Heriot-Watt University, UK</a></li>
+       
+       <div id="award1" class="award-section">
    <h3>
 <a href="https://www.24-7pressrelease.com/press-release/515473/dr-ray-islam-displays-excellence-in-education-and-technology" target="_blank" style="text-decoration: none; color: #000080;">
     Marquis Who's Who 2024-25, USA
-    Nathan and Marvin Goldman/Durham Homes Graduate Award, Canada
-    1st prize, Highly Qualified Personnel (HQP) poster competition, Canada
-    The NSERC Strategic Network Grant for PhD research
-    Fellowship funded by the US Department of Energy
-    Post Graduate Merit Award, Heriot-Watt University, UK
-</a>
+    </a>
 </h3>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"> 
