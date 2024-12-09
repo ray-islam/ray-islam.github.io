@@ -61,6 +61,7 @@ filename: awardsnrecognitions.md
    <h3>
 <a href="https://www.24-7pressrelease.com/press-release/515473/dr-ray-islam-displays-excellence-in-education-and-technology" target="_blank" style="text-decoration: none; color: #000080;">
     Marquis Who's Who 2024-25
+    Nathan and Marvin Goldman/Durham Homes Graduate Award
 </a>
 </h3>
 
