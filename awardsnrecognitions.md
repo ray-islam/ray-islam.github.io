@@ -60,8 +60,12 @@ filename: awardsnrecognitions.md
     <div id="award1" class="award-section">
    <h3>
 <a href="https://www.24-7pressrelease.com/press-release/515473/dr-ray-islam-displays-excellence-in-education-and-technology" target="_blank" style="text-decoration: none; color: #000080;">
-    Marquis Who's Who 2024-25
-    Nathan and Marvin Goldman/Durham Homes Graduate Award
+    Marquis Who's Who 2024-25, USA
+    Nathan and Marvin Goldman/Durham Homes Graduate Award, Canada
+    1st prize, Highly Qualified Personnel (HQP) poster competition, Canada
+    The NSERC Strategic Network Grant for PhD research
+    Fellowship funded by the US Department of Energy
+    Post Graduate Merit Award, Heriot-Watt University, UK
 </a>
 </h3>
 
