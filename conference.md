@@ -128,7 +128,8 @@ The Computing Conference, formerly the Science and Information (SAI) Conference,
 ### <a style="color:green;">Hosted by Robert H. Smith School of Business, University of Maryland</a>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 The Joint Annual Symposium, hosted by the Robert H. Smith School of Business at the University of Maryland, brings together experts and professionals to discuss advancements in cancer research and cybersecurity challenges. Organized in collaboration with the Taipei Economic and Cultural Representative Office (TECRO), the Chinese-American Professionals Association of Metropolitan Washington DC (CAPA), and the North Carolina-Taiwan Professional and Scholar Society (NCTPASS), it fosters dialogue among participants from Taiwan, North Carolina, and the Washington DC metropolitan area.
-
+</ul>
+<ul>
 <a style="font-weight:bold; color:black; display:block;">This symposium aims to:</a>
 Highlight cutting-edge developments in cancer immunotherapy and precision medicine, with insights from top researchers from Duke University, Johns Hopkins University, the University of Maryland, and Taiwan. Address the evolving cybersecurity landscape, focusing on strategies to combat state-sponsored threats, data breaches, and emerging risks in a rapidly digitizing world.
 </ul>
