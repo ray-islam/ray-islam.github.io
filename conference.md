@@ -112,7 +112,7 @@ filename: conference.md
 
 <ul>
     <li><a href="#computing-conference">Computing Conference 2024</a></li>
-    <li><a href="#cancer-research-symposium">Symposium on Cancer Research Trends and Cybersecurity Challenges</a></li>
+    <li><a href="#cancer-research-symposium">Symposium on Cancer Research Trends and Cybersecurity Challenges 2023</a></li>
 </ul>
 <hr>
 
@@ -136,7 +136,7 @@ The Computing Conference, formerly the Science and Information Conference, is a 
 <hr>
 
 <h2 id="cancer-research-symposium" style="color: green; font-size: 16px;">
-    Invited Panel Speaker: Symposium on Cancer Research Trends and Cybersecurity Challenges
+    Invited Panel Speaker: Symposium on Cancer Research Trends and Cybersecurity Challenges 2023
 </h2>
 <h3 style="color: green; font-size: 14px;">Hosted by Robert H. Smith School of Business, University of Maryland</h3>
 
