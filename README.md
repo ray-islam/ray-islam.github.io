@@ -283,7 +283,7 @@ Leadership & AI Scientist roles in:
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>
-  <b>Founder/Course Designer/Instructor</b>, Kindidata, VA (Adult Boot Camp- https://kindideta.com/)
+  <b>Founder/Course Designer/Instructor</b>, Kindidata, VA (Boot Camp- https://kindideta.com/)
   <ul>Courses Taught:<br>
     <li>Data Visualization</li>
     <li>Natural Language Processing (NLP)</li>
