@@ -112,7 +112,7 @@ filename: conference.md
 
 ## <a href="https://saiconference.com/Computing">Research Presenter: Computing Conference 2024</a>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-The Computing Conference, formerly the Science and Information (SAI) Conference, is a prestigious annual event in London since 2013. It brings together researchers and industry leaders from over 50 countries to share ideas, present findings, and foster collaborations through keynote talks, lectures, presentations, and interactive sessions.
+The Computing Conference, formerly the Science and Information Conference, is a prestigious annual event in London since 2013, uniting researchers and industry leaders from over 50 countries to share insights, present research, and foster collaboration.
 </ul>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
