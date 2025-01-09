@@ -385,29 +385,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
   
 ### Blogs
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-1.	Prompt tuning for Large Language Models (LLMs), Dec 19<br>
-2.	High-Frequency Trading (HFT) Uncovered: Speed, Strategy, and Impact, Dec 15<br>
-3.	Algo-trading, Dec 23<br>
-4.	Navigating the Labyrinth: The Fivefold Challenge of Harnessing Generative AI for Financial Forecasting, Nov 2, 2023<br>
-5.	Creating a Chatbot with Generative AI: With ChatGPT(gpt-3.5-turbo) & User Defined Data for Project: DearDad, Oct 23<br>
-6.	Generative AI Use Cases, Oct 23<br>
-7.	Generative AI for NLP (RoBERTA vs. BERT vs. XLNet, Sept 23<br>
-8.	What is Generative AI? September 23<br>
-9.	Python Code for Text Mining> Keyword Frequency> From Webpages > Web Scrapping, Sept 23<br>
-10.	Generative AI for Supply Chain Decision Making, April 23<br>
-11.	Tabular GANs (Generative AI), April 23<br>
-12. Generative AI: Validation Techniques for GANs, originally published in June 21<br>
-13.	Chat GPT…relax! originally published in June 2021<br>
-14.	Is ethics important for AI? originally published in June 20<br>
-15.	Stock-market/news-sentiment-analysis, originally published in June 20<br>
-16.	Ethical issues of the application of artificial intelligence in healthcare, originally published in Feb 20<br>
-17.	big_data~validate_existingmodel+innovate_new_statistics_n_functions, originally published in Oct 19<br>
-18.over_analysis <= (kill~ confusion + blindness), originally published in June 19<br>
-19.	AI B.O.S.S, originally published, originally published in January 18<br>
-20.	Augmented reality in education? Originally published in May 17<br>
-21.	Can Artificial Intelligence (AI) really steal our jobs? Originally published in March 15<br>
-22.	Synthetic Data for Cyber Security, originally published in July 15<br>
-23.	What is the best algorithm to summarize reports? originally published in June 15<br>
+25+ blogs on AI advancements, covering Generative AI, prompt tuning, algorithmic trading, and applications in NLP, supply chains, and financial forecasting. They delve into AI ethics, GAN validation, and AI's transformative impact on healthcare, cybersecurity, and education. <a href="https://medium.com/@rayislam" target="_blank">Click here</a> to read more on Medium.
 </ul>
 <hr>
   
@@ -415,7 +393,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 
 ### Languages Speak: 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-English | Bengali | Hindi | Urdu | French- 101 |Arabic-Reading and Writing only.
+English | Bengali | Hindi | Urdu | French- basic |Arabic-basic.
 </ul>
 
 ### Professional Training
