@@ -131,7 +131,7 @@ The Joint Annual Symposium, hosted by the Robert H. Smith School of Business at 
 </ul>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<b>Topic Presented:</b> Delivered speeches on how Generative AI impacts cybersecurity and the crucial role of ethics in its application. 
+<b>Topic Presented:</b> Delivered speeches on how Generative AI impacts cybersecurity. 
 <br>
 <img src="assets/images/DSC03643.jpg" alt="New Image" style="width:300px; height:auto; display:block; margin-top:10px;">
 
