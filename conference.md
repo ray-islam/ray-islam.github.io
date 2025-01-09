@@ -117,7 +117,7 @@ filename: conference.md
 <hr>
 
 <h2 id="computing-conference" style="color: green; font-size: 16px;">
-    <a href="https://saiconference.com/Computing" style="color: green; font-size: 18px;">Research Presenter: Computing Conference 2024</a>
+    <a href="https://saiconference.com/Computing" style="color: green; font-size: 18px;"> Computing Conference 2024</a>
 </h2>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
