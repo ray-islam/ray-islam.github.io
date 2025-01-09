@@ -112,7 +112,7 @@ filename: conference.md
 
 ## <a href="https://saiconference.com/Computing">Research Presenter: Computing Conference 2024</a>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-The Computing Conference, previously known as the Science and Information (SAI) Conference, is an esteemed annual research event held in London since 2013. It serves as a premier venue for researchers and industry practitioners to share new ideas, research results, and experiences across various fields. The conference features keynote talks by industry experts, inspirational lectures by eminent scientists, presentations from researchers representing over 50 countries, and interactive sessions and networking breaks to foster collaborations.
+The Computing Conference, formerly the Science and Information (SAI) Conference, is a prestigious annual event in London since 2013. It brings together researchers and industry leaders from over 50 countries to share ideas, present findings, and foster collaborations through keynote talks, lectures, presentations, and interactive sessions.
 </ul>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
@@ -130,9 +130,7 @@ The Computing Conference, previously known as the Science and Information (SAI) 
 The Joint Annual Symposium, hosted by the Robert H. Smith School of Business, University of Maryland, brings together experts, scholars, and professionals to explore two critical topics: advancements in cancer research and treatment and the dynamic challenges of cybersecurity. Organized collaboratively by TECRO's Science and Technology Division, the Chinese-American Professionals Association of Metropolitan Washington DC (CAPA), and the North Carolina-Taiwan Professional and Scholar Society (NCTPASS), this event fosters cross-regional dialogue, featuring participants from Taiwan, North Carolina, and the Washington DC metropolitan area.
 
 ### <a style="font-weight:bold; color:black; display:block;">This symposium aims to:</a>
-Highlight cutting-edge developments in cancer immunotherapy and precision medicine, with insights from top researchers from Duke University, Johns Hopkins University, the University of Maryland, and Taiwan.
-Address the evolving cybersecurity landscape, focusing on strategies to combat state-sponsored threats, data breaches, and emerging risks in a rapidly digitizing world.
-By merging the strengths of CAPA and NCTPASS, this joint effort provides a unique platform for knowledge sharing, networking, and actionable discussions, ensuring impactful contributions to these vital fields..
+Highlight cutting-edge developments in cancer immunotherapy and precision medicine, with insights from top researchers from Duke University, Johns Hopkins University, the University of Maryland, and Taiwan. Address the evolving cybersecurity landscape, focusing on strategies to combat state-sponsored threats, data breaches, and emerging risks in a rapidly digitizing world.
 </ul>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
