@@ -121,7 +121,7 @@ The Computing Conference, formerly the Science and Information Conference, is a 
   <a href="https://link.springer.com/chapter/10.1007/978-3-031-62281-6_34">Click here to access the proceedings in SpringerNature.</a>
 </ul>
 
-<img src="https://github.com/user-attachments/assets/09c533dd-954a-4315-ae0c-a1e169146f3a" alt="Image Description" style="width:900px; height:auto;">
+<img src="https://github.com/user-attachments/assets/09c533dd-954a-4315-ae0c-a1e169146f3a" alt="Image Description" style="width:1500px; height:auto;">
 ![453436094_793739236296673_5249906160085134817_n](https://github.com/user-attachments/assets/09c533dd-954a-4315-ae0c-a1e169146f3a)
 ![453513082_793744742962789_8675114430293914151_n](https://github.com/user-attachments/assets/568a0c77-249d-484e-9f2a-519dafd5a37c)
 
