@@ -140,9 +140,7 @@ By merging the strengths of CAPA and NCTPASS, this joint effort provides a uniqu
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <b>Paper Presented:</b> Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK, Published as Proceedings on Springer Nature, DOI: https://doi.org/10.1007/978-3-031-62281-6_34. 
 <br>
-  <a href="https://link.springer.com/chapter/10.1007/978-3-031-62281-6_34">Click here to access the proceedings in SpringerNature.</a>
-</ul>
 
-![453436094_793739236296673_5249906160085134817_n](https://github.com/user-attachments/assets/09c533dd-954a-4315-ae0c-a1e169146f3a)
+
 
 
