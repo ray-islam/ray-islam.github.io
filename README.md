@@ -211,7 +211,7 @@
   
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 4. <b>MBA</b> in Marketing – LUTON – UK <br>
-5. <b>BSc</b> in Manufacturing Engineering – BUTex - BD, GPA: First Class </p>
+5. <b>BSc</b> in Manufacturing Engineering – BUTex - BD, GPA: 4.0 </p>
 
 ### In-progress
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
