@@ -133,5 +133,6 @@ The Joint Annual Symposium, hosted by the Robert H. Smith School of Business at 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <b>Topic Presented:</b> Delivered speeches on how Generative AI impacts cybersecurity. 
 <br>
-<img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/DSC03643.JPG" alt="Conference Image" style="width:600px; height:auto; display:block; margin-top:10px;">
+<img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/DSC03643.JPG" alt="Conference Image" style="width:800px; height:auto; display:block; margin-top:10px;">
+<img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/DSC03619.JPG" alt="Conference Image" style="width:800px; height:auto; display:block; margin-top:10px;">
 
