@@ -127,15 +127,11 @@ The Computing Conference, formerly the Science and Information (SAI) Conference,
 ## <a style="color:green;">Invite Panel Speaker: Symposium on Cancer Research Trends and Cybersecurity Challenges</a>
 ### <a style="color:green;">Hosted by Robert H. Smith School of Business, University of Maryland</a>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-The Joint Annual Symposium, hosted by the Robert H. Smith School of Business at the University of Maryland, brings together experts and professionals to discuss advancements in cancer research and cybersecurity challenges. Organized in collaboration with the Taipei Economic and Cultural Representative Office (TECRO), the Chinese-American Professionals Association of Metropolitan Washington DC (CAPA), and the North Carolina-Taiwan Professional and Scholar Society (NCTPASS), it fosters dialogue among participants from Taiwan, North Carolina, and the Washington DC metropolitan area.
-</ul>
-<ul>
-<a style="font-weight:bold; color:black; display:block;">This symposium aims to:</a>
-Highlight cutting-edge developments in cancer immunotherapy and precision medicine, with insights from top researchers from Duke University, Johns Hopkins University, the University of Maryland, and Taiwan. Address the evolving cybersecurity landscape, focusing on strategies to combat state-sponsored threats, data breaches, and emerging risks in a rapidly digitizing world.
+The Joint Annual Symposium, hosted by the Robert H. Smith School of Business at the University of Maryland, gathers experts to discuss advancements in cancer research and cybersecurity. Organized with the Taipei Economic and Cultural Representative Office, the Chinese-American Professionals Association of Metropolitan Washington DC, and the North Carolina-Taiwan Professional and Scholar Society, it facilitates dialogue among participants from Taiwan, North Carolina, and the Washington DC area.
 </ul>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<b>Paper Presented:</b> Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK, Published as Proceedings on Springer Nature, DOI: https://doi.org/10.1007/978-3-031-62281-6_34. 
+<b>Topic Presented:</b> Delivered speeches on how Generative AI impacts cybersecurity and the crucial role of ethics in its application. 
 <br>
 
 
