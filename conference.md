@@ -110,8 +110,6 @@ filename: conference.md
 </body>
 </html>
 
-
-
 <ul>
     <li><a href="#computing-conference">Computing Conference 2024</a></li>
     <li><a href="#cancer-research-symposium">Symposium on Cancer Research Trends and Cybersecurity Challenges</a></li>
@@ -120,7 +118,6 @@ filename: conference.md
 
 <h2 id="computing-conference"><a href="https://saiconference.com/Computing">Research Presenter: Computing Conference 2024</a></h2>
 
-## <a href="https://saiconference.com/Computing">Research Presenter: Computing Conference 2024</a>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 The Computing Conference, formerly the Science and Information Conference, is a prestigious annual event in London since 2013, uniting researchers and industry leaders from over 50 countries to share insights, present research, and foster collaboration.
 </ul>
