@@ -136,12 +136,12 @@ The Computing Conference, formerly the Science and Information Conference, is a 
 ![453513082_793744742962789_8675114430293914151_n](https://github.com/user-attachments/assets/568a0c77-249d-484e-9f2a-519dafd5a37c)
 
 
-<h2 id="cancer-research-symposium" style="color: green; font-size: 20px;">
+<h2 id="cancer-research-symposium" style="color: green; font-size: 18px;">
     Invited Panel Speaker: Symposium on Cancer Research Trends and Cybersecurity Challenges
 </h2>
 <h3 style="color: green; font-size: 18px;">Hosted by Robert H. Smith School of Business, University of Maryland</h3>
 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 14px;">
 The Joint Annual Symposium, hosted by the Robert H. Smith School of Business at the University of Maryland, gathers experts to discuss advancements in cancer research and cybersecurity. Organized with the Taipei Economic and Cultural Representative Office, the Chinese-American Professionals Association of Metropolitan Washington DC, and the North Carolina-Taiwan Professional and Scholar Society, it facilitates dialogue among participants from Taiwan, North Carolina, and the Washington DC area.
 </ul>
 
