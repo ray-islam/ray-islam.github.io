@@ -110,13 +110,13 @@ filename: conference.md
 </body>
 </html>
 
-## <a href="https://saiconference.com/Computing">Computing Conference 2024</a>
+## <a href="https://saiconference.com/Computing">Speaker: Computing Conference 2024</a>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 The Computing Conference, previously known as the Science and Information (SAI) Conference, is an esteemed annual research event held in London since 2013. It serves as a premier venue for researchers and industry practitioners to share new ideas, research results, and experiences across various fields. The conference features keynote talks by industry experts, inspirational lectures by eminent scientists, presentations from researchers representing over 50 countries, and interactive sessions and networking breaks to foster collaborations.
 </ul>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<b>Paper Presented:</b> Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK, Published as Proceedings on Springer Nature, DOI: https://doi.org/10.1007/978-3-031-62281-6_34. 
+<b>Presentation of Peer-Reviewed Research Paper:</b> Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK, Published as Proceedings on Springer Nature, DOI: https://doi.org/10.1007/978-3-031-62281-6_34. 
 <br>
   <a href="https://link.springer.com/chapter/10.1007/978-3-031-62281-6_34">Click here to access the proceedings in SpringerNature.</a>
 </ul>
@@ -124,7 +124,7 @@ The Computing Conference, previously known as the Science and Information (SAI) 
 ![453436094_793739236296673_5249906160085134817_n](https://github.com/user-attachments/assets/09c533dd-954a-4315-ae0c-a1e169146f3a)
 ![453513082_793744742962789_8675114430293914151_n](https://github.com/user-attachments/assets/568a0c77-249d-484e-9f2a-519dafd5a37c)
 
-## <a>Symposium on Cancer Research Trends and Cybersecurity Challenges</a>
+## <a>Speaker: Symposium on Cancer Research Trends and Cybersecurity Challenges</a>
 ### <a>Hosted by Robert H. Smith School of Business, University of Maryland</a>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 The Joint Annual Symposium, hosted by the Robert H. Smith School of Business, University of Maryland, brings together experts, scholars, and professionals to explore two critical topics: advancements in cancer research and treatment and the dynamic challenges of cybersecurity. Organized collaboratively by TECRO's Science and Technology Division, the Chinese-American Professionals Association of Metropolitan Washington DC (CAPA), and the North Carolina-Taiwan Professional and Scholar Society (NCTPASS), this event fosters cross-regional dialogue, featuring participants from Taiwan, North Carolina, and the Washington DC metropolitan area.
