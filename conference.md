@@ -115,7 +115,7 @@ filename: conference.md
 The Computing Conference, formerly the Science and Information Conference, is a prestigious annual event in London since 2013, uniting researchers and industry leaders from over 50 countries to share insights, present research, and foster collaboration.
 </ul>
 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 12px;">
 <b>Presentation of Peer-Reviewed Research Paper:</b> Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK, Published as Proceedings on Springer Nature, DOI: https://doi.org/10.1007/978-3-031-62281-6_34. 
 <br>
   <a href="https://link.springer.com/chapter/10.1007/978-3-031-62281-6_34">Click here to access the proceedings in SpringerNature.</a>
