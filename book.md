@@ -209,22 +209,20 @@ Generative AI, Cyber Security, and Ethics equips readers with essential skills t
     <a href="https://www.amazon.com/dp/B0CR6GJGGL" style="color: green; font-size: 18px;"> Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs)</a>
 </h2>
 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0;">
 <b>About this book</b>
 This book explores Retrieval-Augmented Generation (RAG), merging neural language models with advanced retrieval systems to revolutionize AI in tasks like question answering and real-time data access. By integrating dynamic data, RAG enhances accuracy, adaptability, and depth, surpassing traditional models like GPT. Designed for AI enthusiasts, researchers, and practitioners, it delves into RAG’s architecture, applications, and potential to tackle challenges like complexity and scalability, heralding a new era in AI.
 </ul>
-<br>
 
 <hr>
 
 <h2 id="LangChain-book" style="color: green; font-size: 16px;">
     <a href="https://www.amazon.com/dp/B0CPJS6WSR" style="color: green; font-size: 18px;"> LangChain Unveiled: Navigating the Future of LLM</a>
 </h2>
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0;">
 <b>About this book</b>
 LangChain Unveiled: Navigating the Future of LLM examines LangChain, an open-source platform for building applications with models like GPT-3 and GPT-4. It highlights LangChain's modular architecture, the innovative LangChain Expression Language (LCEL), and comparisons with tools like Auto-GPT. The book underscores LangChain’s impact on NLP and the importance of ethical and technical refinement.
 </ul>
-<br>
 
 <hr>
 
@@ -236,5 +234,4 @@ LangChain Unveiled: Navigating the Future of LLM examines LangChain, an open-sou
 <b>About this book</b>
 Disconnected satellites face cyber risks, but Generative AI (GenAI) offers a game-changing solution. Acting as a digital guardian, GenAI can autonomously counter threats and protect these orbital assets. This eBook, "Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense," explores how this cutting-edge technology secures satellites against unseen dangers.
 </ul>
-<br>
 
