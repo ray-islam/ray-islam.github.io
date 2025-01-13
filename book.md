@@ -149,10 +149,9 @@ filename: book.md
 <a href="https://www.books.com.tw/products/F01a793309?loc=M_0007_068&srsltid=AfmBOopDLM0ddRDGJSf9rvWh2kS8zOtc9gcYq6Olp_BQyM3_bQyupbOV">Books.com.tw - Taiwan</a><br>
 </b>
 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0;">
-
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b>About this book</b>
-Generative AI, Cyber Security, and Ethics equips readers with essential skills to navigate the evolving AI and cybersecurity landscape. While GenAI drives advances in threat detection and response, it also introduces challenges like deepfake creation and ethical concerns. This book offers concise insights into AI's dual role in enabling and combating cyber threats, emphasizing responsible development and application.Through real-world examples and accessible chapters, it explores machine learning, data privacy, ethical oversight, and human-centric AI design. It also addresses financial, legal, and regulatory impacts, future challenges like accountability and consent, and the importance of interdisciplinary approaches. A vital resource for professionals, policymakers, students, and AI enthusiasts, this book bridges theory with practice in safeguarding the digital future.
+Generative AI, Cyber Security, and Ethics equips readers with essential skills to navigate the evolving AI and cybersecurity landscape. While GenAI drives advances in threat detection and response, it also introduces challenges like deepfake creation and ethical concerns. This book offers concise insights into AI's dual role in enabling and combating cyber threats, emphasizing responsible development and application. Through real-world examples and accessible chapters, it explores machine learning, data privacy, ethical oversight, and human-centric AI design. It also addresses financial, legal, and regulatory impacts, future challenges like accountability and consent, and the importance of interdisciplinary approaches. A vital resource for professionals, policymakers, students, and AI enthusiasts, this book bridges theory with practice in safeguarding the digital future.
 </ul>
 <br>
 
