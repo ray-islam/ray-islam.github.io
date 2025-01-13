@@ -118,6 +118,7 @@ filename: book.md
     <li><a href="#cancer-research-symposium">LangChain Unveiled: Navigating the Future of LLM</a></li>
     <li><a href="#cancer-research-symposium">Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</a></li>
 </ul>
+<hr>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <b> <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265"> Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5. </a> </b>
@@ -216,7 +217,8 @@ Incorporating numerous real-world examples and case studies that connect theoret
 Blending theoretical explanations, practical illustrations, and industry perspectives, Generative AI, Cyber Security, and Ethics is a must-read guide for professionals and policymakers, advanced undergraduate and graduate students, and AI enthusiasts interested in the subject.
 </ul>
 
-____________________________________________________________________________
+<hr>
+
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <b> <a href="https://www.amazon.com/dp/B0CR6GJGGL"> Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5. </a> </b>
