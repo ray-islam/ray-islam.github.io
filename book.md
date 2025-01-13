@@ -121,7 +121,7 @@ filename: book.md
 
 <br>
 <img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Book Cover" width="100" height="auto" style="margin-left: 130px;">
-<img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/RAG.JPG" alt="Book Cover" style="width:100px; height:auto; display:block; margin-top:130px;">
+<img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/rag.jpg" alt="Book Cover" style="width:100px; height:auto; display:block; margin-top:130px;">
 <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/langchain.jpg" alt="Book Cover" style="width:100px; height:auto; display:block; margin-top:130px;">
 <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/satellite.jpg" alt="Book Cover" style="width:100px; height:auto; display:block; margin-top:130px;">
 
