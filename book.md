@@ -114,7 +114,9 @@ filename: book.md
 
 <ul>
     <li><a href="#Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.">Generative AI, Cyber Security, and Ethics 2024</a></li>
-    <li><a href="#cancer-research-symposium">Symposium on Cancer Research Trends and Cybersecurity Challenges 2023</a></li>
+    <li><a href="#cancer-research-symposium">Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs)</a></li>
+    <li><a href="#cancer-research-symposium">LangChain Unveiled: Navigating the Future of LLM</a></li>
+    <li><a href="#cancer-research-symposium">Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</a></li>
 </ul>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
