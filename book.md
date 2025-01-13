@@ -195,9 +195,10 @@ and founder of Santa Cruz River Analytics</b>
 “Cyber security is not a bolt-on activity or exercise, but an integral and initial component of any system development or modification. The practitioner must have an adherence to excellence and be confident that they are adding value in support of the client’s organizational goals, and objectives, whilst lessoning their risk and vulnerabilities, and creating efficiencies.”
 <b>-	Paul Wells, President & CEO, NETWAR Defense Corporation</b>
 
+<br>
+
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <b>About this book</b>
-</ul>
 <b>Equips readers with the skills and insights necessary to succeed in the rapidly evolving landscape of Generative AI and cyber threats.</b>
 <br>
 Generative AI (GenAI) is driving unprecedented advances in threat detection, risk analysis, and response strategies. However, GenAI technologies such as ChatGPT and advanced deepfake creation also pose unique challenges. As GenAI continues to evolve, governments and private organizations around the world need to implement ethical and regulatory policies tailored to AI and cybersecurity.
