@@ -143,7 +143,7 @@ filename: book.md
 </ul>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<b>Reviews</b>
+<b>Endorsements</b>
 </ul>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
