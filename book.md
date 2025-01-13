@@ -160,7 +160,7 @@ Generative AI, Cyber Security, and Ethics equips readers with essential skills t
 <b>Endorsements</b>
 </ul>
 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 “... is an essential guide for students, providing clear explanations and practical insights into the integration of generative AI in cybersecurity...”
 <b>- Dr. Peter Sandborn, </b> Professor, Department of Mechanical Engineering, University of Maryland, College Park, MD, USA.
 <br>
