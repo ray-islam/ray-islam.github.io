@@ -166,12 +166,12 @@ Generative AI, Cyber Security, and Ethics equips readers with essential skills t
 <br>
     <br> 
 
-“... Dr. Islam plumbs the depth of Generative AI and ethics through the lens of a technology practitioner and recognized AI academician, energized by the moral conscience of an ethical man and a caring humanitarian. This book is a timely primer...”
+“... Dr. Islam plumbs the depth of Generative AI and ethics through the lens of a technology practitioner and recognized AI academician, energized by the moral conscience of an ethical man and a caring humanitarian...”
 <b>- David Pere, </b> (Retired Colonel, United States Marine Corps) CEO & President, Blue Force Cyber Inc. USA.
 <br>
     <br> 
 
-“Generative AI, Cyber Security, and Ethics is a groundbreaking book that delves into three of the most relevant and pressing topics in today's technological landscape... Whether you are a seasoned professional in the tech industry or simply curious about the impact of AI on our world, this book is sure to enlighten and inspire you...”
+“... is a groundbreaking book that delves into three of the most relevant and pressing topics in today's technological landscape... Whether you are a seasoned professional in the tech industry or simply curious about the impact of AI on our world, this book is sure to enlighten and inspire you...”
 <b>-	Dr. Christos P. Beretas, </b> Ph.D,  Head Professor of Cyber Security at Innovative Knowledge Institute, France The 100 Most powerful people in Cyber Security.
 <br>
   <br> 
@@ -189,7 +189,7 @@ Generative AI, Cyber Security, and Ethics equips readers with essential skills t
 <b>-	Fiona J McEvoy,</b> AI ethics writer, researcher, speaker, and thought leader | Founder, YouTheData.com | Women in AI Ethics™ – Hall of Fame.
 <br>
    <br> 
-“AI is here to stay, and the US government knows this...The U.S. White House recognizes the importance, impacts, and inherent risks associated with this perplexing topic. Fortunately, this book will be an essential resource to those responsible for taking on the ever-present cyber security threats in the midst of this emerging AI landscape..”
+“...The U.S. White House recognizes the importance, impacts, and inherent risks associated with this perplexing topic. Fortunately, this book will be an essential resource ...”
 <b>-	Jared Linder,</b> IT Program Manager for the Export-Import Bank of the United States.
 <br>
    <br> 
