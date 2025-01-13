@@ -114,9 +114,9 @@ filename: book.md
 
 <ul>
     <li><a href="#GenAI-book">Generative AI, Cyber Security, and Ethics 2024</a></li>
-    <li><a href="#cancer-research-symposium">Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs)</a></li>
-    <li><a href="#cancer-research-symposium">LangChain Unveiled: Navigating the Future of LLM</a></li>
-    <li><a href="#cancer-research-symposium">Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</a></li>
+    <li><a href="#RAG-book">Retrieval-Augmented Generation (RAG): Empowering Large Language Models</a></li>
+    <li><a href="#LangChain-book">LangChain Unveiled: Navigating the Future of LLM</a></li>
+    <li><a href="#Satellite-book">Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</a></li>
 </ul>
 <hr>
 
@@ -218,10 +218,10 @@ Blending theoretical explanations, practical illustrations, and industry perspec
 
 <hr>
 
+<h2 id="RAG-book" style="color: green; font-size: 16px;">
+    <a href="https://www.amazon.com/dp/B0CR6GJGGL" style="color: green; font-size: 18px;"> Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs)</a>
+</h2>
 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<b> <a href="https://www.amazon.com/dp/B0CR6GJGGL"> Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs)</a> </b>
-</ul>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <b>About this book</b>
 This book explores the groundbreaking fusion of neural language models and advanced retrieval systems, reshaping how we interact with AI in tasks like question answering, content creation, and real-time information access. With RAG, static foundational models like GPT transcend their original boundaries by integrating fresh, dynamic data in real-time, offering unparalleled accuracy, adaptability, and contextual depth. Delve into the architecture, applications, and future potential of this innovation as we uncover how RAG addresses the challenges of computational complexity, bias reduction, and scalability. This book provides insights for AI enthusiasts, researchers, and practitioners, presenting RAG not just as a technological advancement but as a harbinger of the next era in artificial intelligence.
@@ -230,10 +230,9 @@ This book explores the groundbreaking fusion of neural language models and advan
 
 <hr>
 
-
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<b> <a href="https://www.amazon.com/dp/B0CPJS6WSR"> LangChain Unveiled: Navigating the Future of LLM</a> </b>
-</ul>
+<h2 id="LangChain-book" style="color: green; font-size: 16px;">
+    <a href="https://www.amazon.com/dp/B0CPJS6WSR" style="color: green; font-size: 18px;"> LangChain Unveiled: Navigating the Future of LLM</a>
+</h2>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <b>About this book</b>
 LangChain is an important tool in the realm of artificial intelligence and natural language processing. This book, "LangChain Unveiled: Navigating the Future of LLM" is a comprehensive exploration of LangChain, an open-source platform that enables the development of applications utilizing large language models like GPT-3 and GPT-4. The book covers LangChain's inception, growth, integration capabilities, and its unique feature, LangChain Expression Language (LCEL), which simplifies complex text processing tasks. It discusses the modular architecture of LangChain and its potential for creating advanced NLP applications. The book also reviews alternative platforms like Auto-GPT and LlamaIndex. Overall, the summary highlights LangChain's significance in AI-driven language processing, emphasizing its capabilities, applications, and the need for ongoing technical refinement and ethical considerations in data management.
@@ -242,10 +241,10 @@ LangChain is an important tool in the realm of artificial intelligence and natur
 
 <hr>
 
+<h2 id="Satellite-book" style="color: green; font-size: 16px;">
+    <a href="https://www.amazon.com/dp/B0CP8K446P" style="color: green; font-size: 18px;"> Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</a>
+</h2>
 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<b> <a href="https://www.amazon.com/dp/B0CP8K446P"> Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</a> </b>
-</ul>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <b>About this book</b>
 Imagine a situation where space satellites, those marvels orbiting our planet, suddenly lose their connection. This isn't just a hypothetical scenario; it's a reality that occurs more often than we might think. Whenever a satellite disconnects, it becomes vulnerable to cyber attacks, a digital Achilles' heel in the vast expanse of space. But what if there was a way to protect these satellites autonomously?
