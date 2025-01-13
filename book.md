@@ -180,13 +180,16 @@ The 100 Most powerful people in Cyber Security</b>
   
 “There are few disciplines that have evolved with greater velocity in the last decade, both for the better and for the worse, than Cybersecurity and Generative AI... Dr. Islam takes the first steps to bring clarity to with this work..." 
 <b>-	Dr. Brian Dougherty, Vice President of Engineering, SNAPPT</b>
-<br>
+<br
+       <br> 
 "...this timely and critical book will provide a much-needed guide for those seeking to understand and navigate this new era of intelligence.” 
 <b>-	Fiona J McEvoy, AI ethics writer, researcher, speaker, and thought leader | Founder, YouTheData.com | Women in AI Ethics™ – Hall of Fame </b>
 <br>
+   <br> 
 “AI is here to stay, and the US government knows this...The U.S. White House recognizes the importance, impacts, and inherent risks associated with this perplexing topic. Fortunately, this book will be an essential resource to those responsible for taking on the ever-present cyber security threats in the midst of this emerging AI landscape..”
 <b>-	Jared Linder, IT Program Manager for the Export-Import Bank of the United States</b>
 <br>
+   <br> 
 “...Ray has put together a thoughtful and applicable work that takes a serious look at the complexity present in the intersection of AI, cybersecurity, and ethics...”
 <b>-	W. Tod Newman, former Lead of Raytheon's Center for Artificial Intelligence 
 and founder of Santa Cruz River Analytics</b>
@@ -194,6 +197,7 @@ and founder of Santa Cruz River Analytics</b>
 “Cyber security is not a bolt-on activity or exercise, but an integral and initial component of any system development or modification...”
 <b>-	Paul Wells, President & CEO, NETWAR Defense Corporation</b>
 <br>
+   <br> 
 
 <b>About this book</b>
 <b>Equips readers with the skills and insights necessary to succeed in the rapidly evolving landscape of Generative AI and cyber threats.</b>
