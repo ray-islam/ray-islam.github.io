@@ -112,12 +112,12 @@ filename: book.md
 
 ## Books
 
-<ul style="margin: 0; padding: 0; list-style-type: none;">
+<ol style="margin: 0; padding: 0;">
     <li><a href="#GenAI-book">Generative AI, Cyber Security, and Ethics 2024</a></li>
     <li><a href="#RAG-book">Retrieval-Augmented Generation (RAG): Empowering Large Language Models</a></li>
     <li><a href="#LangChain-book">LangChain Unveiled: Navigating the Future of LLM</a></li>
     <li><a href="#Satellite-book">Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</a></li>
-</ul>
+</ol>
 
 <br><img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Book Cover" width="100" height="175" style="margin-left: 130px;">
 <hr>
