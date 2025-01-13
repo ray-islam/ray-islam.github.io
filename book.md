@@ -120,10 +120,11 @@ filename: book.md
 </ol>
 
 <br>
-<img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Book Cover" width="100" height="auto" style="margin-left: 130px;">
-<img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/rag.jpg" alt="Book Cover" style="width:100px; height:auto; display:block; margin-top:130px;">
-<img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/langchain.jpg" alt="Book Cover" style="width:100px; height:auto; display:block; margin-top:130px;">
-<img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/satellite.jpg" alt="Book Cover" style="width:100px; height:auto; display:block; margin-top:130px;">
+<div style="text-align:center; margin-top:20px;">
+    <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/rag.jpg" alt="RAG Book Cover" style="width:100px; height:auto; margin:10px;">
+    <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/langchain.jpg" alt="LangChain Book Cover" style="width:100px; height:auto; margin:10px;">
+    <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/satellite.jpg" alt="Satellite Book Cover" style="width:100px; height:auto; margin:10px;">
+</div>
 
 <hr>
 
