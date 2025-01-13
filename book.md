@@ -119,7 +119,7 @@ filename: book.md
     <li><a href="#Satellite-book">Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</a></li>
 </ol>
 
-<br><img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Book Cover" width="100" height="175" style="margin-left: 130px;">
+<br><img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Book Cover" width="100" height="160" style="margin-left: 130px;">
 <hr>
 
 <h2 id="GenAI-book" style="color: green; font-size: 16px;">
