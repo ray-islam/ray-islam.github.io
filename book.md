@@ -118,7 +118,7 @@ filename: book.md
 <br><img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Book Cover" width="200" height="300" style="margin-left: 150px;">
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<b>Availability</b> <br>
+<b>Availabile at:</b> <br>
 <b>
 <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Wiley</a> <br>
 <a href="https://www.amazon.com/-/es/Mohammad-Rubyet-Islam/dp/1394279264">Amazon - USA</a> <br>
@@ -142,8 +142,9 @@ filename: book.md
 
 </ul>
 
-
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <b>Reviews</b>
+</ul>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 “Generative AI, Cyber Security, and Ethics' is an essential guide for students, providing clear explanations and practical insights into the integration of generative AI in cybersecurity. This book is a valuable resource for anyone looking to build a strong foundation in these interconnected fields.”
