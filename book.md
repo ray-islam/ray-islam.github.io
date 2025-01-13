@@ -156,35 +156,42 @@ filename: book.md
 </ul>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-“Generative AI, Cyber Security, and Ethics' is an essential guide for students, providing clear explanations and practical insights into the integration of generative AI in cybersecurity. This book is a valuable resource for anyone looking to build a strong foundation in these interconnected fields.”
+“... is an essential guide for students, providing clear explanations and practical insights into the integration of generative AI in cybersecurity...”
 <b>- Dr. Peter Sandborn, Professor, Department of Mechanical Engineering, University of Maryland, College Park</b>
 <br>
-<br>
-“Unchecked cyber-warfare made exponentially more disruptive by Generative AI is nightmare fuel for this and future generations. Dr. Islam plumbs the depth of Generative AI and ethics through the lens of a technology practitioner and recognized AI academician, energized by the moral conscience of an ethical man and a caring humanitarian. This book is a timely primer and required reading for all those concerned about accountability and establishing guardrails for the rapidly developing field of AI.”
+    <br> 
+
+“... Dr. Islam plumbs the depth of Generative AI and ethics through the lens of a technology practitioner and recognized AI academician, energized by the moral conscience of an ethical man and a caring humanitarian. This book is a timely primer...”
 <b>- David Pere, (Retired Colonel, United States Marine Corps) CEO & President, Blue Force Cyber Inc.</b>
 <br>
-“Generative AI, Cyber Security, and Ethics is a groundbreaking book that delves into three of the most relevant and pressing topics in today's technological landscape. By exploring the intersection of artificial intelligence, cybersecurity, and ethical considerations, this book offers invaluable insights for both experts in the field and those looking to understand the complexities of these rapidly evolving technologies. One of the standout features of Generative AI, Cyber Security, and Ethics is its in-depth analysis of cybersecurity in the age of artificial intelligence. As cyber threats continue to evolve and become more sophisticated, it is crucial for individuals and organizations to understand how AI can be used both defensively and offensively in the realm of cybersecurity. Generative AI, Cyber Security, and Ethics is a must-read for anyone interested in understanding the intricate relationship between artificial intelligence, cybersecurity, and ethical considerations. The author expertise in the field shines through in the comprehensive coverage of these complex topics, making the book both informative and accessible to a wide range of readers. Whether you are a seasoned professional in the tech industry or simply curious about the impact of AI on our world, this book is sure to enlighten and inspire you. I highly recommend Generative AI, Cyber Security, and Ethics as an essential addition to your reading list.”
+    <br> 
+
+“Generative AI, Cyber Security, and Ethics is a groundbreaking book that delves into three of the most relevant and pressing topics in today's technological landscape... Whether you are a seasoned professional in the tech industry or simply curious about the impact of AI on our world, this book is sure to enlighten and inspire you...”
 <b>-	Dr. Christos P. Beretas, Ph.D,  Head Professor of Cyber 
 Security at Innovative Knowledge Institute, France
 The 100 Most powerful people in Cyber Security</b>
 <br>
-“This book dives into the interconnected realms of Generative AI and Cybersecurity crafted with the guidance in ethics. It offers a comprehensive exploration of their interplay in today's digital landscape, and empowers students, educators and practitioners alike. It also covers the human factor and the decision-making process in vision the interdisciplinary future.”
+  <br> 
+  
+“This book ... offers a comprehensive exploration of their interplay in today's digital landscape, and empowers students, educators and practitioners alike...”
 <b>-	Dr. Adam Lee, Associate Clinical Professor, Robert H. Smith School of Business, University of Maryland, College Park, MD</b>
 <br>
-“There are few disciplines that have evolved with greater velocity in the last decade, both for the better and for the worse, than Cybersecurity and Generative AI. Ethical development and administration of these paradigms, particularly in concert, is a staggeringly blurry area that Dr. Islam takes the first steps to bring clarity to with this work. Disregard the teachings of this book at your own risk!" 
+  <br> 
+  
+“There are few disciplines that have evolved with greater velocity in the last decade, both for the better and for the worse, than Cybersecurity and Generative AI... Dr. Islam takes the first steps to bring clarity to with this work..." 
 <b>-	Dr. Brian Dougherty, Vice President of Engineering, SNAPPT</b>
 <br>
-"The advent of generative AI marked a tectonic shift that has created both incredible opportunities and deep vulnerabilities for us all. In the midst of such fundamental change, this timely and critical book will provide a much-needed guide for those seeking to understand and navigate this new era of intelligence.” 
+"...this timely and critical book will provide a much-needed guide for those seeking to understand and navigate this new era of intelligence.” 
 <b>-	Fiona J McEvoy, AI ethics writer, researcher, speaker, and thought leader | Founder, YouTheData.com | Women in AI Ethics™ – Hall of Fame </b>
 <br>
-“AI is here to stay, and the US government knows this. In March of 2024, the Office of Management and Budget (OMB) issued Memorandum M-24-10 to guide federal agencies on the responsible use of AI, outlining directives and practices aimed at ensuring that AI technologies are used ethically, transparently, and effectively in government operations. The U.S. White House recognizes the importance, impacts, and inherent risks associated with this perplexing topic. Fortunately, this book will be an essential resource to those responsible for taking on the ever-present cyber security threats in the midst of this emerging AI landscape, while gaining insights into ethical considerations surrounding the creation and integration of such technologies.”
+“AI is here to stay, and the US government knows this...The U.S. White House recognizes the importance, impacts, and inherent risks associated with this perplexing topic. Fortunately, this book will be an essential resource to those responsible for taking on the ever-present cyber security threats in the midst of this emerging AI landscape..”
 <b>-	Jared Linder, IT Program Manager for the Export-Import Bank of the United States</b>
 <br>
-“While many new books about Generative AI focus on the excitement (and hyperbole) present in the field, Ray has put together a thoughtful and applicable work that takes a serious look at the complexity present in the intersection of AI, cybersecurity, and ethics.  I’m very pleased to see these topics analyzed as a critical system. Clearly this must be better understood in the light of the real world before our information is truly secure and we are able to take advantage of the great positive potential of AI in this space.”
+“...Ray has put together a thoughtful and applicable work that takes a serious look at the complexity present in the intersection of AI, cybersecurity, and ethics...”
 <b>-	W. Tod Newman, former Lead of Raytheon's Center for Artificial Intelligence 
 and founder of Santa Cruz River Analytics</b>
 <br>
-“Cyber security is not a bolt-on activity or exercise, but an integral and initial component of any system development or modification. The practitioner must have an adherence to excellence and be confident that they are adding value in support of the client’s organizational goals, and objectives, whilst lessoning their risk and vulnerabilities, and creating efficiencies.”
+“Cyber security is not a bolt-on activity or exercise, but an integral and initial component of any system development or modification...”
 <b>-	Paul Wells, President & CEO, NETWAR Defense Corporation</b>
 <br>
 
