@@ -148,7 +148,7 @@ filename: book.md
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 “Generative AI, Cyber Security, and Ethics' is an essential guide for students, providing clear explanations and practical insights into the integration of generative AI in cybersecurity. This book is a valuable resource for anyone looking to build a strong foundation in these interconnected fields.”
-- Dr. Peter Sandborn, Professor, Department of Mechanical Engineering, University of Maryland, College Park
+<b></b>- Dr. Peter Sandborn, Professor, Department of Mechanical Engineering, University of Maryland, College Park</b>
 <br>
 <br>
 “Unchecked cyber-warfare made exponentially more disruptive by Generative AI is nightmare fuel for this and future generations. Dr. Islam plumbs the depth of Generative AI and ethics through the lens of a technology practitioner and recognized AI academician, energized by the moral conscience of an ethical man and a caring humanitarian. This book is a timely primer and required reading for all those concerned about accountability and establishing guardrails for the rapidly developing field of AI.”
