@@ -112,7 +112,7 @@ filename: book.md
 
 ## Books
 
-<ul>
+<ul style="margin: 0; padding: 0; list-style-type: none;">
     <li><a href="#GenAI-book">Generative AI, Cyber Security, and Ethics 2024</a></li>
     <li><a href="#RAG-book">Retrieval-Augmented Generation (RAG): Empowering Large Language Models</a></li>
     <li><a href="#LangChain-book">LangChain Unveiled: Navigating the Future of LLM</a></li>
