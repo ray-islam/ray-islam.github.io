@@ -141,7 +141,7 @@ filename: book.md
 <a href="https://www.amazon.co.uk/Generative-Cybersecurity-Ethics-Mohammad-Rubyet/dp/1394279264">Amazon - UK</a> |
 <a href="https://shopsquareone.com/shop/product/generative-ai-cybersecurity-and-ethics-by-mohammad-rubyet-islam-hardcover-indigo-chapters-indigobooks-67102a">SQUAREONE - Canada</a> |
 <a href="https://bayshoreshoppingcentre.com/whatsinstore/product/generative-ai-cybersecurity-and-ethics-by-mohammad-rubyet-islam-hardcover-indigo-chapters-coles-67102a">BAYSHORE-Canada</a> |
-<a href="https://www.adlibris.com/fi/sv/bok/generative-ai-cybersecurity-and-ethics-9781394279265">Adlibris-Sweden</a><br>
+<a href="https://www.adlibris.com/fi/sv/bok/generative-ai-cybersecurity-and-ethics-9781394279265">Adlibris-Sweden</a> |
 <a href="https://bookline.hu/product/home.action?_v=Islam_Mohammad_Rubyet_Generative_Ai_C&type=200&id=6645717">bookline-Hungary</a> |
 <a href="https://imusic.ca/other/9781394279265/2025-generative-ai-cybersecurity-and-ethics?srsltid=AfmBOoqV9kI00ZZbj01SrNeXRdnHLvlgfufxSr1ZLs1ysUHOyUB5rP3U">imusic-Denmark</a> |
 <a href="https://product.kyobobook.co.kr/detail/S000213270642">KYOBO Book Center - Japan</a> |
