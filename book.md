@@ -118,7 +118,7 @@ filename: book.md
 <br><img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Book Cover" width="200" height="350" style="margin-left: 100px;">
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<b>Click the links below to pre-order:</b> <br>
+<b>Availability</b> <br>
 <b>
 <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Wiley</a> <br>
 <a href="https://www.amazon.com/-/es/Mohammad-Rubyet-Islam/dp/1394279264">Amazon - USA</a> <br>
