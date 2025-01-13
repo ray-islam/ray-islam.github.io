@@ -121,6 +121,13 @@ filename: book.md
 
 <hr>
 
+<!-- Image displayed at the bottom -->
+<div style="text-align: center; margin-top: 20px;">
+    <img src="assets/langchain.jpg" alt="LangChain Book Cover" style="width: 150px; height: auto;">
+</div>
+
+<hr>
+
 <h2 id="GenAI-book" style="color: green; font-size: 16px;">
     <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265" style="color: green; font-size: 16px;"> 1. Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.</a>
 </h2>
