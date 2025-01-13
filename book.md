@@ -188,7 +188,6 @@ and founder of Santa Cruz River Analytics</b>
 <b>-	Paul Wells, President & CEO, NETWAR Defense Corporation</b>
 <br>
 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <b>About this book</b>
 <b>Equips readers with the skills and insights necessary to succeed in the rapidly evolving landscape of Generative AI and cyber threats.</b>
 <br>
@@ -205,7 +204,6 @@ Incorporating numerous real-world examples and case studies that connect theoret
 <li>Discusses the future trajectory of GenAI and emerging challenges such as data privacy, consent, and accountability</li>
 <br>
 Blending theoretical explanations, practical illustrations, and industry perspectives, Generative AI, Cyber Security, and Ethics is a must-read guide for professionals and policymakers, advanced undergraduate and graduate students, and AI enthusiasts interested in the subject.
-</ul>
 
 <hr>
 
