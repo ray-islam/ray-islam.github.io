@@ -194,8 +194,6 @@ and founder of Santa Cruz River Analytics</b>
 <br>
 “Cyber security is not a bolt-on activity or exercise, but an integral and initial component of any system development or modification. The practitioner must have an adherence to excellence and be confident that they are adding value in support of the client’s organizational goals, and objectives, whilst lessoning their risk and vulnerabilities, and creating efficiencies.”
 <b>-	Paul Wells, President & CEO, NETWAR Defense Corporation</b>
-<br>
-<br>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <b>About this book</b>
