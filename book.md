@@ -157,46 +157,43 @@ filename: book.md
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 “... is an essential guide for students, providing clear explanations and practical insights into the integration of generative AI in cybersecurity...”
-<b>- Dr. Peter Sandborn, Professor, Department of Mechanical Engineering, University of Maryland, College Park</b>
+<b>- Dr. Peter Sandborn, </b> Professor, Department of Mechanical Engineering, University of Maryland, College Park, MD, USA.
 <br>
     <br> 
 
 “... Dr. Islam plumbs the depth of Generative AI and ethics through the lens of a technology practitioner and recognized AI academician, energized by the moral conscience of an ethical man and a caring humanitarian. This book is a timely primer...”
-<b>- David Pere, (Retired Colonel, United States Marine Corps) CEO & President, Blue Force Cyber Inc.</b>
+<b>- David Pere, </b> (Retired Colonel, United States Marine Corps) CEO & President, Blue Force Cyber Inc. USA.
 <br>
     <br> 
 
 “Generative AI, Cyber Security, and Ethics is a groundbreaking book that delves into three of the most relevant and pressing topics in today's technological landscape... Whether you are a seasoned professional in the tech industry or simply curious about the impact of AI on our world, this book is sure to enlighten and inspire you...”
-<b>-	Dr. Christos P. Beretas, Ph.D,  Head Professor of Cyber 
-Security at Innovative Knowledge Institute, France
-The 100 Most powerful people in Cyber Security</b>
+<b>-	Dr. Christos P. Beretas, </b> Ph.D,  Head Professor of Cyber Security at Innovative Knowledge Institute, France The 100 Most powerful people in Cyber Security.
 <br>
   <br> 
   
 “This book ... offers a comprehensive exploration of their interplay in today's digital landscape, and empowers students, educators and practitioners alike...”
-<b>-	Dr. Adam Lee, Associate Clinical Professor, Robert H. Smith School of Business, University of Maryland, College Park, MD</b>
+<b>-	Dr. Adam Lee,</b> Associate Clinical Professor, Robert H. Smith School of Business, University of Maryland, College Park, MD.
 <br>
   <br> 
   
 “There are few disciplines that have evolved with greater velocity in the last decade, both for the better and for the worse, than Cybersecurity and Generative AI... Dr. Islam takes the first steps to bring clarity to with this work..." 
-<b>-	Dr. Brian Dougherty, Vice President of Engineering, SNAPPT</b>
+<b>-	Dr. Brian Dougherty,</b> Vice President of Engineering, SNAPPT.
 <br
        <br> 
 "...this timely and critical book will provide a much-needed guide for those seeking to understand and navigate this new era of intelligence.” 
-<b>-	Fiona J McEvoy, AI ethics writer, researcher, speaker, and thought leader | Founder, YouTheData.com | Women in AI Ethics™ – Hall of Fame </b>
+<b>-	Fiona J McEvoy,</b> AI ethics writer, researcher, speaker, and thought leader | Founder, YouTheData.com | Women in AI Ethics™ – Hall of Fame.
 <br>
    <br> 
 “AI is here to stay, and the US government knows this...The U.S. White House recognizes the importance, impacts, and inherent risks associated with this perplexing topic. Fortunately, this book will be an essential resource to those responsible for taking on the ever-present cyber security threats in the midst of this emerging AI landscape..”
-<b>-	Jared Linder, IT Program Manager for the Export-Import Bank of the United States</b>
+<b>-	Jared Linder,</b> IT Program Manager for the Export-Import Bank of the United States.
 <br>
    <br> 
 “...Ray has put together a thoughtful and applicable work that takes a serious look at the complexity present in the intersection of AI, cybersecurity, and ethics...”
-<b>-	W. Tod Newman, former Lead of Raytheon's Center for Artificial Intelligence 
-and founder of Santa Cruz River Analytics</b>
+<b>-	W. Tod Newman,</b> former Lead of Raytheon's Center for Artificial Intelligence and founder of Santa Cruz River Analytics.
 <br>
  <br> 
 “Cyber security is not a bolt-on activity or exercise, but an integral and initial component of any system development or modification...”
-<b>-	Paul Wells, President & CEO, NETWAR Defense Corporation</b>
+<b>-	Paul Wells,</b> President & CEO, NETWAR Defense Corporation.
 <br>
    <br> 
 
