@@ -125,7 +125,6 @@ filename: book.md
 <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/langchain.jpg" alt="Book Cover" style="width:100px; height:auto; display:block; margin-top:130px;">
 <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/satellite.jpg" alt="Book Cover" style="width:100px; height:auto; display:block; margin-top:130px;">
 
-
 <hr>
 
 <h2 id="GenAI-book" style="color: green; font-size: 16px;">
