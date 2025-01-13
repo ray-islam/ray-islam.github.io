@@ -119,7 +119,11 @@ filename: book.md
     <li><a href="#Satellite-book"><b>Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</b></a></li>
 </ol>
 
-<br><img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Book Cover" width="100" height="160" style="margin-left: 130px;">
+<br><img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Book Cover" width="100" height="auto" style="margin-left: 130px;">
+<img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/images/RAG.JPG" alt="Book Cover2" style="width:100px; height:auto; display:block; margin-top:10px;">
+<img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/images/langchain.png" alt="Book Cover3" style="width:100px; height:auto; display:block; margin-top:10px;">
+<img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/images/satellite.JPG" alt="Book Cover3" style="width:100px; height:auto; display:block; margin-top:10px;">
+
 <hr>
 
 <h2 id="GenAI-book" style="color: green; font-size: 16px;">
