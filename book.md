@@ -118,13 +118,13 @@ filename: book.md
     <li><a href="#LangChain-book">LangChain Unveiled: Navigating the Future of LLM</a></li>
     <li><a href="#Satellite-book">Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</a></li>
 </ul>
+
+<br><img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Book Cover" width="200" height="300" style="margin-left: 130px;">
 <hr>
 
 <h2 id="GenAI-book" style="color: green; font-size: 16px;">
     <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265" style="color: green; font-size: 16px;"> Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.</a>
 </h2>
-
-<br><img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" alt="Book Cover" width="200" height="300" style="margin-left: 130px;">
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <b>Availabile at</b> <br>
