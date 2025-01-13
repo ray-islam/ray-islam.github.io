@@ -183,7 +183,7 @@ Generative AI, Cyber Security, and Ethics equips readers with essential skills t
   
 “There are few disciplines that have evolved with greater velocity in the last decade, both for the better and for the worse, than Cybersecurity and Generative AI... Dr. Islam takes the first steps to bring clarity to with this work..." 
 <b>-	Dr. Brian Dougherty,</b> Vice President of Engineering, SNAPPT.
-<br
+<br>
        <br> 
 "...this timely and critical book will provide a much-needed guide for those seeking to understand and navigate this new era of intelligence.” 
 <b>-	Fiona J McEvoy,</b> AI ethics writer, researcher, speaker, and thought leader | Founder, YouTheData.com | Women in AI Ethics™ – Hall of Fame.
