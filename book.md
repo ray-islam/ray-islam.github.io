@@ -194,6 +194,7 @@ The 100 Most powerful people in Cyber Security</b>
 <b>-	W. Tod Newman, former Lead of Raytheon's Center for Artificial Intelligence 
 and founder of Santa Cruz River Analytics</b>
 <br>
+ <br> 
 “Cyber security is not a bolt-on activity or exercise, but an integral and initial component of any system development or modification...”
 <b>-	Paul Wells, President & CEO, NETWAR Defense Corporation</b>
 <br>
