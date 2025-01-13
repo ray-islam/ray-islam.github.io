@@ -245,7 +245,7 @@ LangChain Unveiled: Navigating the Future of LLM examines LangChain, an open-sou
     <a href="https://www.amazon.com/dp/B0CP8K446P" style="color: green; font-size: 18px;"> Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</a>
 </h2>
 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0;">
 <b>About this book</b>
 Disconnected satellites face cyber risks, but Generative AI (GenAI) offers a game-changing solution. Acting as a digital guardian, GenAI can autonomously counter threats and protect these orbital assets. This eBook, "Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense," explores how this cutting-edge technology secures satellites against unseen dangers.
 </ul>
