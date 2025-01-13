@@ -188,7 +188,9 @@ and founder of Santa Cruz River Analytics
 <br>
 <br>
 
-
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<b>About the book</b>
+</ul>
 <b>Equips readers with the skills and insights necessary to succeed in the rapidly evolving landscape of Generative AI and cyber threats.</b>
 <br>
 Generative AI (GenAI) is driving unprecedented advances in threat detection, risk analysis, and response strategies. However, GenAI technologies such as ChatGPT and advanced deepfake creation also pose unique challenges. As GenAI continues to evolve, governments and private organizations around the world need to implement ethical and regulatory policies tailored to AI and cybersecurity.
