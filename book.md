@@ -123,7 +123,7 @@ filename: book.md
 
 <!-- Image displayed at the bottom -->
 <div style="text-align: center; margin-top: 20px;">
-    <img src="assets/genai.png" alt="GenAI Book Cover" style="width: auto; height: 200px;">
+    <img src="assets/genai.png" alt="GenAI Book Cover" style="width: auto; height: 250px;">
     <img src="assets/rag.jpg" alt="RAG Book Cover" style="width: auto; height: 150px;">
     <img src="assets/langchain.jpg" alt="LangChain Book Cover" style="width: auto; height: 150px;">
     <img src="assets/satellite.jpg" alt="Satellite Book Cover" style="width: auto; height: 150px;">
