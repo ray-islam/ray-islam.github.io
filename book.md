@@ -117,17 +117,6 @@ filename: book.md
     <li><a href="#LangChain-book"><b>LangChain Unveiled: Navigating the Future of LLM</b></a></li>
     <li><a href="#Satellite-book"><b>Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</b></a></li>
 </ol>
-
-<hr>
-
-<!-- Image displayed at the bottom -->
-<div style="text-align: center; margin-top: 20px;">
-    <img src="assets/genai.png" alt="GenAI Book Cover" style="width: auto; height: 250px;">
-    <img src="assets/rag.jpg" alt="RAG Book Cover" style="width: auto; height: 200px;">
-    <img src="assets/langchain.jpg" alt="LangChain Book Cover" style="width: auto; height: 200px;">
-    <img src="assets/satellite1.jpg" alt="Satellite Book Cover" style="width: auto; height: 210px;">
-</div>
-
 <hr>
 
 <h2 id="GenAI-book" style="color: green; font-size: 16px;">
