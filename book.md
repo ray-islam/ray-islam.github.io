@@ -2,6 +2,7 @@
 title: Books
 theme: jekyll-theme-chirpy
 filename: book.md
+image: ""  # This prevents any image from being displayed
 --- 
 
 <html lang="en">
