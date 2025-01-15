@@ -110,7 +110,7 @@ image: ""  # This prevents any image from being displayed
 </body>
 </html>
 
-## Books Test
+## Books
 
 <ol style="margin: 0; padding: 0;">
     <li><a href="#GenAI-book"><b>Generative AI, Cyber Security, and Ethics 2024</b></a></li>
