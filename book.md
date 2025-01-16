@@ -152,7 +152,6 @@ image: ""  # This prevents any image from being displayed
         gap: 10px; /* Add spacing between images */
     }
     .book-image {
-        width: 150px; /* Set the width of the images */
         height: auto; /* Maintain aspect ratio */
         border-radius: 5px; /* Optional: Rounded corners */
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
@@ -161,22 +160,20 @@ image: ""  # This prevents any image from being displayed
     .book-image:hover {
         transform: scale(1.1); /* Slight zoom effect on hover */
     }
+    /* Specific styles for individual images */
+    .genai-book {
+        width: 180px; /* Larger width for GenAI book */
+    }
+    .rag-book {
+        width: 150px; /* Default size for RAG book */
+    }
+    .langchain-book {
+        width: 160px; /* Medium size for LangChain book */
+    }
+    .satellite-book {
+        width: 140px; /* Smaller width for Satellite book */
+    }
 </style>
-
-<div class="book-gallery">
-    <a href="#GenAI-book">
-        <img src="assets/genai.png" alt="Generative AI Book" class="book-image">
-    </a>
-    <a href="#RAG-book">
-        <img src="assets/rag.jpg" alt="RAG Book" class="book-image">
-    </a>
-    <a href="#LangChain-book">
-        <img src="assets/langchain.jpg" alt="LangChain Book" class="book-image">
-    </a>
-    <a href="#Satellite-book">
-        <img src="assets/satellite1.jpg" alt="Satellite Book" class="book-image">
-    </a>
-</div>
 
 ====================
 
