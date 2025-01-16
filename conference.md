@@ -135,9 +135,18 @@ The Computing Conference, formerly the Science and Information Conference, is a 
 
 <hr>
 
+    <h2 id="cancer-research-symposium" style="color: green; font-size: 16px;">
+        Invited Panel Speaker: Symposium on Cancer Research Trends and Cybersecurity Challenges 2023:
+    </h2>
+    <h3 style="color: green; font-size: 14px;">
+        Hosted by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA
+    </h3>
+
+    
+
 <h2 id="cancer-research-symposium" style="color: green; font-size: 16px;">
     Invited Panel Speaker: Symposium on Cancer Research Trends and Cybersecurity Challenges 2023: </h2> 
-    <h3 style="color: green; font-size: 14px;">Hosted by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA</h3>
+<h3 style="color: green; font-size: 14px;">Hosted by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA</h3>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 14px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 The Joint Annual Symposium, hosted by the Robert H. Smith School of Business at the University of Maryland, gathers experts to discuss advancements in cancer research and cybersecurity. Organized with the Taipei Economic and Cultural Representative Office, the Chinese-American Professionals Association of Metropolitan Washington DC, and the North Carolina-Taiwan Professional and Scholar Society, it facilitates dialogue among participants from Taiwan, North Carolina, and the Washington DC area.
