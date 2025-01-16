@@ -146,8 +146,6 @@ image: ""  # This prevents any image from being displayed
  <h2>Explore Our Books</h2>
 
 
-=======================================
-
 <style>
     .book-gallery {
         display: flex;
@@ -211,53 +209,6 @@ image: ""  # This prevents any image from being displayed
         </a>
         <div class="book-title">Satellite Book</div>
     </div>
-</div>
-
-=========================================
-
-<style>
-    .book-gallery {
-        display: flex;
-        gap: 10px; /* Add spacing between images */
-    }
-    .book-image {
-        height: auto; /* Maintain aspect ratio */
-        border-radius: 5px; /* Optional: Rounded corners */
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
-        transition: transform 0.3s ease; /* Optional: Hover effect */
-    }
-    .book-image:hover {
-        transform: scale(1.1); /* Slight zoom effect on hover */
-    }
-    /* Specific styles for individual images */
-    img.genai-book {
-        width: 300px; /* Larger width for GenAI book */
-    }
-    img.rag-book {
-        width: 100px; /* Default size for RAG book */
-    }
-    img.langchain-book {
-        width: 100px; /* Medium size for LangChain book */
-    }
-    img.satellite-book {
-        width: 100px; /* Smaller width for Satellite book */
-    }
-</style>
-
-
-<div class="book-gallery">
-    <a href="#GenAI-book">
-        <img src="assets/genai.png" alt="Generative AI Book" class="book-image genai-book">
-    </a>
-    <a href="#RAG-book">
-        <img src="assets/rag.jpg" alt="RAG Book" class="book-image rag-book">
-    </a>
-    <a href="#LangChain-book">
-        <img src="assets/langchain.jpg" alt="LangChain Book" class="book-image langchain-book">
-    </a>
-    <a href="#Satellite-book">
-        <img src="assets/satellite1.jpg" alt="Satellite Book" class="book-image satellite-book">
-    </a>
 </div>
 
 
