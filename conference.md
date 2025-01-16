@@ -158,5 +158,4 @@ The Computing Conference, formerly the Science and Information Conference, is a 
     <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/DSC03643.JPG" alt="Conference Image" style="width: 100%; height: auto; display: block; margin-top: 10px;">
     <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/DSC03619.JPG" alt="Conference Image" style="width: 100%; height: auto; display: block; margin-top: 10px;">
 </body>
-</body>
 
