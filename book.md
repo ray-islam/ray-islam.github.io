@@ -143,7 +143,7 @@ image: ""  # This prevents any image from being displayed
      <p> </p>
      <p> </p>
 
-## Explore My Books
+ <h1>Explore Our Books</h1>
 
     <div class="book-gallery">
         <a href="#GenAI-book">
