@@ -113,7 +113,7 @@ image: ""  # This prevents any image from being displayed
 ## Books - Test
 
 <ol style="margin: 0; padding: 0;">
-    <li><a href="#GenAI-book"><b>Generative AI, Cyber Security, and Ethics 2024</b></a></li>
+    <li><a href="#GenAI-book"><b>Generative AI, Cyber Security, and Ethics (Wiley, 2024)</b></a></li>
     <li><a href="#RAG-book"><b>Retrieval-Augmented Generation (RAG): Empowering Large Language Models</b></a></li>
     <li><a href="#LangChain-book"><b>LangChain Unveiled: Navigating the Future of LLM</b></a></li>
     <li><a href="#Satellite-book"><b>Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</b></a></li>
