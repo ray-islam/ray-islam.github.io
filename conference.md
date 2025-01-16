@@ -152,7 +152,6 @@ The Computing Conference, formerly the Science and Information Conference, is a 
             The Joint Annual Symposium, hosted by the Robert H. Smith School of Business at the University of Maryland, gathers experts to discuss advancements in cancer research and cybersecurity. Organized with the Taipei Economic and Cultural Representative Office, the Chinese-American Professionals Association of Metropolitan Washington DC, and the North Carolina-Taiwan Professional and Scholar Society, it facilitates dialogue among participants from Taiwan, North Carolina, and the Washington DC area.
         </li>
 </ul>
-    <br>
 <ul style="margin: 0; padding: 0; list-style-type: none; color: black; font-size: 12px; text-align: justify;">
         <li>
             <b>Topic Presented:</b> Delivered speeches on how Generative AI impacts cybersecurity.
