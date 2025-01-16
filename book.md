@@ -156,7 +156,7 @@ image: ""  # This prevents any image from being displayed
     .book-image {
         height: auto; /* Maintain aspect ratio */
         border-radius: 5px; /* Optional: Rounded corners */
-        box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
+        box-shadow: 0 8px 10px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
         transition: transform 0.3s ease; /* Optional: Hover effect */
     }
     .book-image:hover {
@@ -167,7 +167,7 @@ image: ""  # This prevents any image from being displayed
         width: 300px; /* Larger width for GenAI book */
     }
     img.rag-book {
-        width: 105px; /* Default size for RAG book */
+        width: 107px; /* Default size for RAG book */
     }
     img.langchain-book {
         width: 100px; /* Medium size for LangChain book */
