@@ -148,7 +148,7 @@ image: ""  # This prevents any image from being displayed
 <style>
     .book-gallery {
         display: flex;
-        gap: 20px; /* Add spacing between books */
+        gap: 10px; /* Add spacing between books */
     }
     .book-item {
         text-align: center; /* Center align the image and title */
@@ -156,7 +156,7 @@ image: ""  # This prevents any image from being displayed
     .book-image {
         height: auto; /* Maintain aspect ratio */
         border-radius: 5px; /* Optional: Rounded corners */
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
+        box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
         transition: transform 0.3s ease; /* Optional: Hover effect */
     }
     .book-image:hover {
@@ -170,14 +170,14 @@ image: ""  # This prevents any image from being displayed
         width: 110px; /* Default size for RAG book */
     }
     img.langchain-book {
-        width: 90px; /* Medium size for LangChain book */
+        width: 100px; /* Medium size for LangChain book */
     }
     img.satellite-book {
         width: 100px; /* Smaller width for Satellite book */
     }
     .book-title {
      margin-top: 10px; /* Add spacing between image and title */
-    font-size: 0.9em; /* Resize font as needed (smaller than 1em) */
+    font-size: 0.6em; /* Resize font as needed (smaller than 1em) */
     font-weight: normal; /* Remove bold font */
     color: #333; /* Title color */
     }
