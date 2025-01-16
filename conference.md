@@ -158,5 +158,32 @@ The Computing Conference, formerly the Science and Information Conference, is a 
     <br>
     <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/DSC03643.JPG" alt="Conference Image">
     <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/DSC03619.JPG" alt="Conference Image">
+
+
+
+    =====================================
+    <body>
+    <h2 id="cancer-research-symposium" style="font-size: 18px; color: black; margin: 10px 0;">
+        Invited Panel Speaker: Symposium on Cancer Research Trends and Cybersecurity Challenges 2023
+    </h2>
+    <h3 style="font-size: 16px; color: black; margin: 5px 0 15px;">
+        Hosted by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA
+    </h3>
+
+    <ul style="margin: 0; padding: 0; list-style-type: none; color: black; font-size: 14px; text-align: justify;">
+        <li>
+            The Joint Annual Symposium, hosted by the Robert H. Smith School of Business at the University of Maryland, gathers experts to discuss advancements in cancer research and cybersecurity. Organized with the Taipei Economic and Cultural Representative Office, the Chinese-American Professionals Association of Metropolitan Washington DC, and the North Carolina-Taiwan Professional and Scholar Society, it facilitates dialogue among participants from Taiwan, North Carolina, and the Washington DC area.
+        </li>
+    </ul>
+    <br>
+    <ul style="margin: 0; padding: 0; list-style-type: none; color: black; font-size: 12px; text-align: justify;">
+        <li>
+            <b>Topic Presented:</b> Delivered speeches on how Generative AI impacts cybersecurity.
+        </li>
+    </ul>
+    <br>
+    <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/DSC03643.JPG" alt="Conference Image" style="width: 100%; height: auto; display: block; margin-top: 10px;">
+    <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/DSC03619.JPG" alt="Conference Image" style="width: 100%; height: auto; display: block; margin-top: 10px;">
+</body>
 </body>
 
