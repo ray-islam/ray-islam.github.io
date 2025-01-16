@@ -124,8 +124,9 @@ filename: conference.md
 The Computing Conference, formerly the Science and Information Conference, is a prestigious annual event in London since 2013, uniting researchers and industry leaders from over 50 countries to share insights, present research, and foster collaboration.
 </ul>
 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 12px;">
-<b>Presentation of Peer-Reviewed Research Paper:</b> Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK, Published as Proceedings on Springer Nature, DOI: https://doi.org/10.1007/978-3-031-62281-6_34. 
+<ul style="color: black; font-family: 'Futura', serif; font-size: 12px; padding: 0; margin: 0; list-style: none;">
+
+<b>Presented Peer-Reviewed Research Paper:</b> Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK, Published as Proceedings on Springer Nature, DOI: https://doi.org/10.1007/978-3-031-62281-6_34. 
 <br>
   <a href="https://link.springer.com/chapter/10.1007/978-3-031-62281-6_34">Click here to access the proceedings in SpringerNature.</a>
 </ul>
@@ -141,9 +142,7 @@ The Computing Conference, formerly the Science and Information Conference, is a 
     <h3 style="color: green; font-size: 14px;">
         Hosted by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA
     </h3>
-
   
-
 <h2 id="cancer-research-symposium" style="color: green; font-size: 16px;">
     Invited Panel Speaker: Symposium on Cancer Research Trends and Cybersecurity Challenges 2023: </h2> 
 <h3 style="color: green; font-size: 14px;">Hosted by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA</h3>
@@ -154,7 +153,7 @@ The Computing Conference, formerly the Science and Information Conference, is a 
 The Joint Annual Symposium, hosted by the Robert H. Smith School of Business at the University of Maryland, gathers experts to discuss advancements in cancer research and cybersecurity. Organized with the Taipei Economic and Cultural Representative Office, the Chinese-American Professionals Association of Metropolitan Washington DC, and the North Carolina-Taiwan Professional and Scholar Society, it facilitates dialogue among participants from Taiwan, North Carolina, and the Washington DC area.
 </ul>
 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; padding: 0; margin: 0; list-style: none;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 12px; padding: 0; margin: 0; list-style: none;">
     <li>
         <b>Topic Presented:</b> Delivered speeches on how Generative AI impacts cybersecurity.
     </li>
