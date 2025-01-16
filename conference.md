@@ -135,6 +135,32 @@ The Computing Conference, formerly the Science and Information Conference, is a 
 <img src="https://github.com/user-attachments/assets/09c533dd-954a-4315-ae0c-a1e169146f3a" alt="Image Description" style="width:600px; height:auto;">
 ![453513082_793744742962789_8675114430293914151_n](https://github.com/user-attachments/assets/568a0c77-249d-484e-9f2a-519dafd5a37c)
 
+===========================
+<body>
+    <h2 id="cancer-research-symposium">
+        Invited Panel Speaker: Symposium on Cancer Research Trends and Cybersecurity Challenges 2023
+    </h2>
+    <h3>
+        Hosted by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA
+    </h3>
+
+    <ul>
+        <li>
+            The Joint Annual Symposium, hosted by the Robert H. Smith School of Business at the University of Maryland, gathers experts to discuss advancements in cancer research and cybersecurity. Organized with the Taipei Economic and Cultural Representative Office, the Chinese-American Professionals Association of Metropolitan Washington DC, and the North Carolina-Taiwan Professional and Scholar Society, it facilitates dialogue among participants from Taiwan, North Carolina, and the Washington DC area.
+        </li>
+    </ul>
+    <br>
+    <ul class="small">
+        <li>
+            <b>Topic Presented:</b> Delivered speeches on how Generative AI impacts cybersecurity.
+        </li>
+    </ul>
+    <br>
+    <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/DSC03643.JPG" alt="Conference Image">
+    <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/DSC03619.JPG" alt="Conference Image">
+</body>
+
+==============================================
 <hr>
 
     <h2 id="cancer-research-symposium" style="color: green; font-size: 16px;">
