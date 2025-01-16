@@ -176,10 +176,10 @@ image: ""  # This prevents any image from being displayed
         width: 100px; /* Smaller width for Satellite book */
     }
     .book-title {
-        margin-top: 10px; /* Add spacing between image and title */
-        font-size: 1em; /* Adjust font size as needed */
-        font-weight: bold; /* Make the title bold */
-        color: #333; /* Title color */
+     margin-top: 10px; /* Add spacing between image and title */
+    font-size: 0.9em; /* Resize font as needed (smaller than 1em) */
+    font-weight: normal; /* Remove bold font */
+    color: #333; /* Title color */
     }
 </style>
 
