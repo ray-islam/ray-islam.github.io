@@ -1,3 +1,184 @@
+---
+title: Books
+theme: jekyll-theme-chirpy
+filename: book.md
+image: ""  # This prevents any image from being displayed
+--- 
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menubar Example</title>
+    <style>
+        /* Basic styling for the menubar */
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .navbar {
+            overflow: hidden;
+            background-color: #333;
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+
+        .navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        .navbar a.active {
+            background-color: #04AA6D;
+            color: white;
+        }
+
+        /* Dropdown container */
+        .dropdown {
+            float: left;
+            overflow: hidden;
+        }
+
+        .dropdown .dropbtn {
+            font-size: 16px;  
+            border: none;
+            outline: none;
+            color: white;
+            padding: 14px 20px;
+            background-color: inherit;
+            font-family: inherit;
+            margin: 0;
+        }
+
+        .navbar a, .dropdown .dropbtn {
+            display: inline-block;
+        }
+
+        /* Dropdown content (hidden by default) */
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .dropdown-content a {
+            float: none;
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+        }
+
+        .dropdown-content a:hover {
+            background-color: #ddd;
+        }
+
+        /* Show the dropdown menu on hover */
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .dropdown:hover .dropbtn {
+            background-color: #ddd;
+            color: black;
+        }
+
+        /* Book gallery styling */
+        .book-gallery {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 20px 0;
+        }
+
+        .book-gallery a {
+            text-decoration: none;
+        }
+
+        .book-image {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            width: 150px;
+            height: auto;
+        }
+
+        .book-image:hover {
+            transform: scale(1.1);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        .book-description {
+            margin-top: 40px;
+            text-align: left;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .book-description h2 {
+            margin-top: 20px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="navbar">
+        <a class="active" href="https://ray-islam.github.io/">Home</a>
+        <a href="https://ray-islam.github.io/book.html">Books</a>
+        <a href="https://ray-islam.github.io/conference.html">Conferences</a>
+        <a href="https://ray-islam.github.io/awardsnrecognitions.html">Awards & Recognitions</a>       
+    </div>
+     <p> </p>
+     <p> </p>
+     <p> </p>
+
+    <h1>Explore Our Books</h1>
+
+    <div class="book-gallery">
+        <a href="#GenAI-book">
+            <img src="assets/genai.png" alt="Generative AI Book" class="book-image">
+        </a>
+        <a href="#RAG-book">
+            <img src="assets/rag.jpg" alt="RAG Book" class="book-image">
+        </a>
+        <a href="#LangChain-book">
+            <img src="assets/langchain.jpg" alt="LangChain Book" class="book-image">
+        </a>
+        <a href="#Satellite-book">
+            <img src="assets/satellite1.jpg" alt="Satellite Book" class="book-image">
+        </a>
+    </div>
+
+    <div class="book-description">
+        <h2 id="GenAI-book">Generative AI, Cyber Security, and Ethics (Wiley, 2024)</h2>
+        <p>A comprehensive exploration of generative AI, its applications in cybersecurity, and the ethical considerations associated with its use.</p>
+
+        <h2 id="RAG-book">Retrieval-Augmented Generation (RAG): Empowering Large Language Models</h2>
+        <p>Discover how RAG techniques are transforming the capabilities of large language models for advanced applications.</p>
+
+        <h2 id="LangChain-book">LangChain Unveiled: Navigating the Future of LLM</h2>
+        <p>An insightful guide to leveraging LangChain for building next-generation language model applications.</p>
+
+        <h2 id="Satellite-book">Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</h2>
+        <p>Explore how generative AI is being used to revolutionize satellite security and defense systems.</p>
+    </div>
+
+</body>
+</html>
+
+
+
 
 
 
