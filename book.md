@@ -120,6 +120,13 @@ image: ""  # This prevents any image from being displayed
 </ol>
 <hr>
 
+<div style="text-align: center; margin-top: 20px;">
+    <img src="assets/genai.png" alt="GenAI Book Cover" style="width: auto; height: 250px;">
+    <img src="assets/rag.jpg" alt="RAG Book Cover" style="width: auto; height: 200px;">
+    <img src="assets/langchain.jpg" alt="LangChain Book Cover" style="width: auto; height: 200px;">
+    <img src="assets/satellite1.jpg" alt="Satellite Book Cover" style="width: auto; height: 210px;">
+</div>
+
 <h2 id="GenAI-book" style="color: green; font-size: 16px;">
     <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265" style="color: green; font-size: 16px;"> 1. Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.</a>
 </h2>
