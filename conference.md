@@ -144,11 +144,11 @@ The Computing Conference, formerly the Science and Information Conference, is a 
         Hosted by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA
     </h3>
 </ul>
-    <ul style="margin: 0; padding: 0; list-style-type: none; color: black; font-size: 14px; text-align: justify;">
+<ul style="margin: 0; padding: 0; list-style-type: none; color: black; font-size: 14px; text-align: justify;">
         <li>
             The Joint Annual Symposium, hosted by the Robert H. Smith School of Business at the University of Maryland, gathers experts to discuss advancements in cancer research and cybersecurity. Organized with the Taipei Economic and Cultural Representative Office, the Chinese-American Professionals Association of Metropolitan Washington DC, and the North Carolina-Taiwan Professional and Scholar Society, it facilitates dialogue among participants from Taiwan, North Carolina, and the Washington DC area.
         </li>
-    </ul>
+</ul>
     <br>
     <ul style="margin: 0; padding: 0; list-style-type: none; color: black; font-size: 12px; text-align: justify;">
         <li>
@@ -158,5 +158,4 @@ The Computing Conference, formerly the Science and Information Conference, is a 
     <br>
     <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/DSC03643.JPG" alt="Conference Image" style="width: 100%; height: auto; display: block; margin-top: 10px;">
     <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/DSC03619.JPG" alt="Conference Image" style="width: 100%; height: auto; display: block; margin-top: 10px;">
-</body>
 
