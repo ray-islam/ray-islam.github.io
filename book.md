@@ -175,7 +175,6 @@ image: ""  # This prevents any image from being displayed
     }
 </style>
 
-====================
 
 <div class="book-gallery">
     <a href="#GenAI-book">
@@ -192,25 +191,6 @@ image: ""  # This prevents any image from being displayed
     </a>
 </div>
 
-++++++++++++++++++++++++++++++
-
-
- 
-
-    <div class="book-gallery">
-        <a href="#GenAI-book">
-            <img src="assets/genai.png" alt="Generative AI Book" class="book-image">
-        </a>
-        <a href="#RAG-book">
-            <img src="assets/rag.jpg" alt="RAG Book" class="book-image">
-        </a>
-        <a href="#LangChain-book">
-            <img src="assets/langchain.jpg" alt="LangChain Book" class="book-image">
-        </a>
-        <a href="#Satellite-book">
-            <img src="assets/satellite1.jpg" alt="Satellite Book" class="book-image">
-        </a>
-    </div>
 
 </body>
 </html>
