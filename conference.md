@@ -128,6 +128,7 @@ The Computing Conference, formerly the Science and Information Conference, is a 
 
 <b>Presented Peer-Reviewed Research Paper:</b> Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK, Published as Proceedings on Springer Nature, DOI: https://doi.org/10.1007/978-3-031-62281-6_34. 
 <br>
+<br>
   <a href="https://link.springer.com/chapter/10.1007/978-3-031-62281-6_34">Click here to access the proceedings in SpringerNature.</a>
 </ul>
 <br>
@@ -144,7 +145,7 @@ The Computing Conference, formerly the Science and Information Conference, is a 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 14px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 The Joint Annual Symposium, hosted by the Robert H. Smith School of Business at the University of Maryland, gathers experts to discuss advancements in cancer research and cybersecurity. Organized with the Taipei Economic and Cultural Representative Office, the Chinese-American Professionals Association of Metropolitan Washington DC, and the North Carolina-Taiwan Professional and Scholar Society, it facilitates dialogue among participants from Taiwan, North Carolina, and the Washington DC area.
 </ul>
-
+<br>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 12px; padding: 0; margin: 0; list-style: none;">
     <li>
         <b>Topic Presented:</b> Delivered speeches on how Generative AI impacts cybersecurity.
