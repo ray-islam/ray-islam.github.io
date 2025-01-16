@@ -339,12 +339,6 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 </li>
 </ul>
 
-### Working Journal Papers
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li>[W1]  Islam, R. and Pierre, D., (2023), Regression based scoring model for data quality assessment metrics.</li>
-<li>[W2]  Islam, R., (2023), Optimum numbers of epochs and sample sizes to synthesize tabular data based on CTGAN.</li>
-</ul>
-
 ### <a href="https://www.amazon.com/-/e/B0CP85GTJN">eBooks (amazon.com)</a>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>eBook1: Ray Islam, LangChain Unveiled: Navigating the Future of LLM, (Amazon, 2023)</li>
