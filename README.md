@@ -104,8 +104,6 @@
 </html>
 
 
-
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -146,6 +144,7 @@
                     Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.
                 </a>            
         </ul>
+        <img src="assets/genai.png" alt="Generative AI Book" class="book-image genai-book">
         <img src="https://github.com/user-attachments/assets/bdddb985-46bf-4fce-995b-e0bbb86c779f" 
             alt="Book Cover" width="115" height="185">
     </div>
