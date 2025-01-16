@@ -156,7 +156,7 @@
 
 
 ## ABOUT
-<p style="color: green; font-family: 'Futura', serif; font-size: 17px;"><b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself in AI and Machine Learning leadership at top global firms and through teaching at prestigious universities, effectively bridging the gap between academia and industry. He has led high-stakes AI and cybersecurity projects, developing strategies, building models, and managing multimillion-dollar initiatives across healthcare, finance, manufacturing, retail supply chain, and insurance industries.Dr. Ray has led teams of scientists and developers across three continents and holds five degrees from five countries, showcasing his global adaptability. He is an experienced researcher, serving as an associate editor, reviewer for top conferences and journals, and a published author of multiple books.</b>
+<p style="color: green; font-family: 'Futura', serif; font-size: 17px;"><b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself in AI and Machine Learning leadership at top global firms and through teaching at prestigious universities, effectively bridging the gap between academia and industry. He has led high-stakes AI and cybersecurity projects, developing strategies, building models, and managing multimillion-dollar initiatives across healthcare, finance, manufacturing, retail supply chain, and insurance industries. Dr. Ray has led teams of scientists and developers across three continents and holds five degrees from five countries, showcasing his global adaptability. He is an experienced researcher, serving as an associate editor, reviewer for top conferences and journals, and a published author of multiple books.</b>
 </p>
 <hr>
 
