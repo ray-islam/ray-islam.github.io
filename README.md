@@ -145,8 +145,6 @@
                 </a>            
         </ul>
         <img src="assets/genai.png" alt="Generative AI Book" class="book-image genai-book">
-         
-            alt="Book Cover" width="115" height="185">
     </div>
 
     <hr>
