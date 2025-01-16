@@ -144,6 +144,46 @@ image: ""  # This prevents any image from being displayed
      <p> </p>
 
  <h2>Explore Our Books</h2>
+===========================
+
+<style>
+    .book-gallery {
+        display: flex;
+        gap: 10px; /* Add spacing between images */
+    }
+    .book-image {
+        width: 150px; /* Set the width of the images */
+        height: auto; /* Maintain aspect ratio */
+        border-radius: 5px; /* Optional: Rounded corners */
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
+        transition: transform 0.3s ease; /* Optional: Hover effect */
+    }
+    .book-image:hover {
+        transform: scale(1.1); /* Slight zoom effect on hover */
+    }
+</style>
+
+<div class="book-gallery">
+    <a href="#GenAI-book">
+        <img src="assets/genai.png" alt="Generative AI Book" class="book-image">
+    </a>
+    <a href="#RAG-book">
+        <img src="assets/rag.jpg" alt="RAG Book" class="book-image">
+    </a>
+    <a href="#LangChain-book">
+        <img src="assets/langchain.jpg" alt="LangChain Book" class="book-image">
+    </a>
+    <a href="#Satellite-book">
+        <img src="assets/satellite1.jpg" alt="Satellite Book" class="book-image">
+    </a>
+</div>
+
+====================
+
+
+
+
+ 
 
     <div class="book-gallery">
         <a href="#GenAI-book">
