@@ -161,23 +161,38 @@ image: ""  # This prevents any image from being displayed
         transform: scale(1.1); /* Slight zoom effect on hover */
     }
     /* Specific styles for individual images */
-    .genai-book {
+    img.genai-book {
         width: 180px; /* Larger width for GenAI book */
     }
-    .rag-book {
+    img.rag-book {
         width: 150px; /* Default size for RAG book */
     }
-    .langchain-book {
+    img.langchain-book {
         width: 160px; /* Medium size for LangChain book */
     }
-    .satellite-book {
+    img.satellite-book {
         width: 140px; /* Smaller width for Satellite book */
     }
 </style>
 
 ====================
 
+<div class="book-gallery">
+    <a href="#GenAI-book">
+        <img src="assets/genai.png" alt="Generative AI Book" class="book-image genai-book">
+    </a>
+    <a href="#RAG-book">
+        <img src="assets/rag.jpg" alt="RAG Book" class="book-image rag-book">
+    </a>
+    <a href="#LangChain-book">
+        <img src="assets/langchain.jpg" alt="LangChain Book" class="book-image langchain-book">
+    </a>
+    <a href="#Satellite-book">
+        <img src="assets/satellite1.jpg" alt="Satellite Book" class="book-image satellite-book">
+    </a>
+</div>
 
+++++++++++++++++++++++++++++++
 
 
  
