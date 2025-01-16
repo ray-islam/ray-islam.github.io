@@ -188,25 +188,25 @@ image: ""  # This prevents any image from being displayed
         <a href="#GenAI-book">
             <img src="assets/genai.png" alt="Generative AI Book" class="book-image genai-book">
         </a>
-        <div class="book-title">Generative AI Book</div>
+        <div class="book-title">Text & Reference Book</div>
     </div>
     <div class="book-item">
         <a href="#RAG-book">
             <img src="assets/rag.jpg" alt="RAG Book" class="book-image rag-book">
         </a>
-        <div class="book-title">RAG Book</div>
+        <div class="book-title">eBook: RAG</div>
     </div>
     <div class="book-item">
         <a href="#LangChain-book">
             <img src="assets/langchain.jpg" alt="LangChain Book" class="book-image langchain-book">
         </a>
-        <div class="book-title">LangChain Book</div>
+        <div class="book-title">eBook: LangChain</div>
     </div>
     <div class="book-item">
         <a href="#Satellite-book">
             <img src="assets/satellite1.jpg" alt="Satellite Book" class="book-image satellite-book">
         </a>
-        <div class="book-title">Satellite Book</div>
+        <div class="book-title">eBook: Satellite Security</div>
     </div>
 </div>
 
