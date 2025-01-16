@@ -161,16 +161,16 @@ image: ""  # This prevents any image from being displayed
     }
     /* Specific styles for individual images */
     img.genai-book {
-        width: 180px; /* Larger width for GenAI book */
+        width: 300px; /* Larger width for GenAI book */
     }
     img.rag-book {
-        width: 150px; /* Default size for RAG book */
+        width: 100px; /* Default size for RAG book */
     }
     img.langchain-book {
-        width: 160px; /* Medium size for LangChain book */
+        width: 100px; /* Medium size for LangChain book */
     }
     img.satellite-book {
-        width: 140px; /* Smaller width for Satellite book */
+        width: 100px; /* Smaller width for Satellite book */
     }
 </style>
 
