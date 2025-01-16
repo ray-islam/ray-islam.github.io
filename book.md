@@ -160,24 +160,9 @@ image: ""  # This prevents any image from being displayed
         </a>
     </div>
 
-    <div class="book-description">
-        <h2 id="GenAI-book">Generative AI, Cyber Security, and Ethics (Wiley, 2024)</h2>
-        <p>A comprehensive exploration of generative AI, its applications in cybersecurity, and the ethical considerations associated with its use.</p>
-
-        <h2 id="RAG-book">Retrieval-Augmented Generation (RAG): Empowering Large Language Models</h2>
-        <p>Discover how RAG techniques are transforming the capabilities of large language models for advanced applications.</p>
-
-        <h2 id="LangChain-book">LangChain Unveiled: Navigating the Future of LLM</h2>
-        <p>An insightful guide to leveraging LangChain for building next-generation language model applications.</p>
-
-        <h2 id="Satellite-book">Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</h2>
-        <p>Explore how generative AI is being used to revolutionize satellite security and defense systems.</p>
-    </div>
-
 </body>
 </html>
 
-## Explore My Books
 
 <ol style="margin: 0; padding: 0;">
     <li><a href="#GenAI-book"><b>Generative AI, Cyber Security, and Ethics (Wiley, 2024)</b></a></li>
