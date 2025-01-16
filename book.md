@@ -167,10 +167,10 @@ image: ""  # This prevents any image from being displayed
         width: 300px; /* Larger width for GenAI book */
     }
     img.rag-book {
-        width: 120px; /* Default size for RAG book */
+        width: 110px; /* Default size for RAG book */
     }
     img.langchain-book {
-        width: 80px; /* Medium size for LangChain book */
+        width: 90px; /* Medium size for LangChain book */
     }
     img.satellite-book {
         width: 100px; /* Smaller width for Satellite book */
