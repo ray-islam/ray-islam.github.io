@@ -163,22 +163,7 @@ image: ""  # This prevents any image from being displayed
 </body>
 </html>
 
-
-<ol style="margin: 0; padding: 0;">
-    <li><a href="#GenAI-book"><b>Generative AI, Cyber Security, and Ethics (Wiley, 2024)</b></a></li>
-    <li><a href="#RAG-book"><b>Retrieval-Augmented Generation (RAG): Empowering Large Language Models</b></a></li>
-    <li><a href="#LangChain-book"><b>LangChain Unveiled: Navigating the Future of LLM</b></a></li>
-    <li><a href="#Satellite-book"><b>Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</b></a></li>
-</ol>
 <hr>
-
-<div style="text-align: center; margin-top: 20px;">
-    <img src="assets/genai.png" alt="GenAI Book Cover" style="width: auto; height: 150px;">
-    <img src="assets/rag.jpg" alt="RAG Book Cover" style="width: auto; height: 100px;">
-    <img src="assets/langchain.jpg" alt="LangChain Book Cover" style="width: auto; height: 100px;">
-    <img src="assets/satellite1.jpg" alt="Satellite Book Cover" style="width: auto; height: 100px;">
-</div>
-
 <h2 id="GenAI-book" style="color: green; font-size: 16px;">
     <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265" style="color: green; font-size: 16px;"> 1. Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.</a>
 </h2>
