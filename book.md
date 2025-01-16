@@ -206,7 +206,7 @@ image: ""  # This prevents any image from being displayed
         <a href="#Satellite-book">
             <img src="assets/satellite1.jpg" alt="Satellite Book" class="book-image satellite-book">
         </a>
-        <div class="book-title">eBook: Satellite</div>
+        <div class="book-title">eBook</div>
     </div>
 </div>
 
