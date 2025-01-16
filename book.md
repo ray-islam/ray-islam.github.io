@@ -177,7 +177,7 @@ image: ""  # This prevents any image from being displayed
     }
     .book-title {
      margin-top: 10px; /* Add spacing between image and title */
-    font-size: 0.9em; /* Resize font as needed (smaller than 1em) */
+    font-size: 0.8em; /* Resize font as needed (smaller than 1em) */
     font-weight: normal; /* Remove bold font */
     color: #333; /* Title color */
     }
