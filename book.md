@@ -112,6 +112,59 @@ image: ""  # This prevents any image from being displayed
 
 ## Books - Test
 
+<div style="text-align: center; margin-top: 20px;">
+    <!-- Author Information -->
+    <div style="margin-bottom: 20px;">
+        <a href="https://www.yourwebsite.com" style="text-decoration: none;">
+            <img src="assets/author.jpg" alt="Author Image" style="width: 120px; height: 120px; border-radius: 50%; margin-bottom: 10px;">
+        </a>
+        <p style="font-size: 1.5em; margin: 0;"><a href="https://www.yourwebsite.com" style="text-decoration: none; color: #006bb3;">Dr. Ray Islam</a></p>
+        <p style="font-size: 1.2em; margin: 0; color: #555;">AI/ML Scientist | Author | Ethicist</p>
+    </div>
+    
+    <!-- Book Links -->
+    <ol style="list-style: none; margin: 0; padding: 0; text-align: center;">
+        <li style="margin-bottom: 10px;">
+            <a href="#GenAI-book" style="text-decoration: none; font-weight: bold; color: #006bb3;">
+                Generative AI, Cyber Security, and Ethics (Wiley, 2024)
+            </a>
+        </li>
+        <li style="margin-bottom: 10px;">
+            <a href="#RAG-book" style="text-decoration: none; font-weight: bold; color: #006bb3;">
+                Retrieval-Augmented Generation (RAG): Empowering Large Language Models
+            </a>
+        </li>
+        <li style="margin-bottom: 10px;">
+            <a href="#LangChain-book" style="text-decoration: none; font-weight: bold; color: #006bb3;">
+                LangChain Unveiled: Navigating the Future of LLM
+            </a>
+        </li>
+        <li style="margin-bottom: 10px;">
+            <a href="#Satellite-book" style="text-decoration: none; font-weight: bold; color: #006bb3;">
+                Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense
+            </a>
+        </li>
+    </ol>
+    
+    <!-- Book Images -->
+    <div style="margin-top: 20px;">
+        <a href="#GenAI-book"><img src="assets/genai.png" alt="GenAI Book Cover" style="width: auto; height: 150px; margin: 10px;"></a>
+        <a href="#RAG-book"><img src="assets/rag.jpg" alt="RAG Book Cover" style="width: auto; height: 100px; margin: 10px;"></a>
+        <a href="#LangChain-book"><img src="assets/langchain.jpg" alt="LangChain Book Cover" style="width: auto; height: 100px; margin: 10px;"></a>
+        <a href="#Satellite-book"><img src="assets/satellite1.jpg" alt="Satellite Book Cover" style="width: auto; height: 100px; margin: 10px;"></a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 <ol style="margin: 0; padding: 0;">
     <li><a href="#GenAI-book"><b>Generative AI, Cyber Security, and Ethics (Wiley, 2024)</b></a></li>
     <li><a href="#RAG-book"><b>Retrieval-Augmented Generation (RAG): Empowering Large Language Models</b></a></li>
