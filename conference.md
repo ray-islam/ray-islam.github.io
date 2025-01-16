@@ -136,7 +136,6 @@ The Computing Conference, formerly the Science and Information Conference, is a 
 ![453513082_793744742962789_8675114430293914151_n](https://github.com/user-attachments/assets/568a0c77-249d-484e-9f2a-519dafd5a37c)
 
 <ul>
-    
  <h2 id="cancer-research-symposium" style="font-size: 16px; color: green; margin: 10px 0;">
         Invited Panel Speaker: Symposium on Cancer Research Trends and Cybersecurity Challenges 2023
     </h2>
