@@ -253,18 +253,18 @@ Generative AI, Cyber Security, and Ethics equips readers with essential skills t
 <b>Endorsements</b>
 </ul>
 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 14px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 “... is an essential guide for students, providing clear explanations and practical insights into the integration of generative AI in cybersecurity...”
 <b>- Dr. Peter Sandborn, </b> Professor, Department of Mechanical Engineering, University of Maryland, College Park, MD, USA.
 <br>
     <br> 
 
-“... Dr. Islam plumbs the depth of Generative AI and ethics through the lens of a technology practitioner and recognized AI academician, energized by the moral conscience of an ethical man and a caring humanitarian...”
+“... plumbs the depth of Generative AI and ethics through the lens of a technology practitioner and recognized AI academician, energized by the moral conscience of an ethical man and a caring humanitarian...”
 <b>- David Pere, </b> (Retired Colonel, United States Marine Corps) CEO & President, Blue Force Cyber Inc. USA.
 <br>
     <br> 
 
-“... is a groundbreaking book that delves into three of the most relevant and pressing topics in today's technological landscape... Whether you are a seasoned professional in the tech industry or simply curious about the impact of AI on our world, this book is sure to enlighten and inspire you...”
+“... is a groundbreaking book that delves into three of the most relevant and pressing topics in today's technological landscape...”
 <b>-	Dr. Christos P. Beretas, </b> Ph.D,  Head Professor of Cyber Security at Innovative Knowledge Institute, France The 100 Most powerful people in Cyber Security.
 <br>
   <br> 
@@ -274,7 +274,7 @@ Generative AI, Cyber Security, and Ethics equips readers with essential skills t
 <br>
   <br> 
   
-“There are few disciplines that have evolved with greater velocity in the last decade, both for the better and for the worse, than Cybersecurity and Generative AI... Dr. Islam takes the first steps to bring clarity to with this work..." 
+“There are few disciplines that have evolved with greater velocity in the last decade, both for the better and for the worse, than Cybersecurity and Generative AI... the first steps to bring clarity to with this work..." 
 <b>-	Dr. Brian Dougherty,</b> Vice President of Engineering, SNAPPT.
 <br>
        <br> 
@@ -286,7 +286,7 @@ Generative AI, Cyber Security, and Ethics equips readers with essential skills t
 <b>-	Jared Linder,</b> IT Program Manager for the Export-Import Bank of the United States.
 <br>
    <br> 
-“...Ray has put together a thoughtful and applicable work that takes a serious look at the complexity present in the intersection of AI, cybersecurity, and ethics...”
+“...has put together a thoughtful and applicable work that takes a serious look at the complexity present in the intersection...”
 <b>-	W. Tod Newman,</b> former Lead of Raytheon's Center for Artificial Intelligence and founder of Santa Cruz River Analytics.
 <br>
  <br> 
