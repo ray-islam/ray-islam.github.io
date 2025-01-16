@@ -143,8 +143,7 @@ image: ""  # This prevents any image from being displayed
      <p> </p>
      <p> </p>
 
- <h2>Explore Our Books</h2>
-
+ <h3>Explore My Books</h3>
 
 <style>
     .book-gallery {
