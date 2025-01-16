@@ -167,17 +167,17 @@ image: ""  # This prevents any image from being displayed
         width: 300px; /* Larger width for GenAI book */
     }
     img.rag-book {
-        width: 110px; /* Default size for RAG book */
+        width: 100px; /* Default size for RAG book */
     }
     img.langchain-book {
         width: 100px; /* Medium size for LangChain book */
     }
     img.satellite-book {
-        width: 100px; /* Smaller width for Satellite book */
+        width: 110px; /* Smaller width for Satellite book */
     }
     .book-title {
      margin-top: 10px; /* Add spacing between image and title */
-    font-size: 0.6em; /* Resize font as needed (smaller than 1em) */
+    font-size: 0.9em; /* Resize font as needed (smaller than 1em) */
     font-weight: normal; /* Remove bold font */
     color: #333; /* Title color */
     }
