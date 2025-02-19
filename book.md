@@ -220,9 +220,9 @@ image: ""  # This prevents any image from being displayed
 </h2>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-"At its heart, “Generative AI, Cybersecurity, and Ethics” is a call to action. It invites readers to engage with the technology as creators or users but as stewards of its potential." 
+  <li><strong><em>At its heart, “Generative AI, Cybersecurity, and Ethics” is a call to action. It invites readers to engage with the technology as creators or users but as stewards of its potential.</em></strong></li> 
 <b><a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/" target="_blank">- Forbes</a></b>
-
+</ul>
 <br>
     <br> 
 
