@@ -220,6 +220,13 @@ image: ""  # This prevents any image from being displayed
 </h2>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
+"At its heart, “Generative AI, Cybersecurity, and Ethics” is a call to action. It invites readers to engage with the technology as creators or users but as stewards of its potential." 
+<b><a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/" target="_blank">- Forbes</a></b>
+
+<br>
+    <br> 
+
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b>Availabile at</b> <br>
 <b>
 <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Wiley</a> |
@@ -254,7 +261,7 @@ Generative AI, Cyber Security, and Ethics equips readers with essential skills t
 </ul>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 13px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-“... is an essential guide for students, providing clear explanations and practical insights into the integration of generative AI in cybersecurity...”
+    “... is an essential guide for students, providing clear explanations and practical insights into the integration of generative AI in cybersecurity...”
 <b>- Dr. Peter Sandborn, </b> Professor, Department of Mechanical Engineering, University of Maryland, College Park, MD, USA.
 <br>
     <br> 
