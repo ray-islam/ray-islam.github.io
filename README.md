@@ -431,7 +431,6 @@ English | Bengali | Hindi | Urdu | French- basic |Arabic-basic.
 <li>	Motivational speaker for the local South-East Asian community on How to become a data scientist.</li>
 <li>  Featured in the most popular newspaper in Bangladesh (Daily Prothom Alo) to inspire the youth, 2020.</li>
 <li>	Attended podcasts in Bangladesh on August 23rd, 2020, to inspire the younger generation.</li>
-<li> "On Data Scientist." The Daily Observer, 11 Mar. 2018, <a href="https://www.observerbd.com/details.php?id=126845" target="_blank">Link</a></li>
-<li>	Published article on Data Science in the Daily Observer, another national newspaper in Bangladesh, on March 11th, 2018. Link https://www.observerbd.com/details.php?id=126845 </li>
+<li><a href="https://www.observerbd.com/details.php?id=126845" target="_blank">Islam, Rubyet. "Published article on Data Science." The Daily Observer, 11 Mar. 2018.</a></li>
 <li>	Published two poetry books in Bengali.</li>
 </ul>
