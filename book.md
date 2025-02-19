@@ -224,7 +224,6 @@ image: ""  # This prevents any image from being displayed
 <b><a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/" target="_blank">- Forbes</a></b>
 </ul>
 <br>
-    <br> 
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b>Availabile at</b> <br>
