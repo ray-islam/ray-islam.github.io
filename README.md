@@ -141,7 +141,7 @@
     <div class="highlight-box">           
         <ul>
                 <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">
-                    Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.
+                    Dr. Ray Islam (Mohammad Rubyet Islam) is stepping in with a message in the artificial intelligence (AI) field, where innovation races ahead and ethical concerns trail behind.
                 </a>            
         </ul>
         <img src="assets/genai.png" alt="Generative AI Book" class="book-image genai-book">
@@ -154,7 +154,7 @@
 
 
 ## ABOUT
-<p style="color: green; font-family: 'Futura', serif; font-size: 17px;"><b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself in AI and Machine Learning leadership at top global firms and through teaching at prestigious universities, effectively bridging the gap between academia and industry. He has led high-stakes AI and cybersecurity projects, developing strategies, building models, and managing multimillion-dollar initiatives across healthcare, finance, manufacturing, retail supply chain, and insurance industries. Ray has led teams of scientists and developers across three continents and holds five degrees from five countries, showcasing his global adaptability. He is an experienced researcher, serving as an associate editor, reviewer for top conferences and journals, and a published author of multiple books.He has been recognized in Marquis Who's Who in America for 2024-25.</b>
+<p style="color: green; font-family: 'Futura', serif; font-size: 17px;"><b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself in AI and Machine Learning leadership at top global firms and through teaching at prestigious universities, effectively bridging the gap between academia and industry. He has led high-stakes AI and cybersecurity projects, developing strategies, building models, and managing multimillion-dollar initiatives across healthcare, finance, manufacturing, retail supply chain, and insurance industries. Ray has led teams of scientists and developers across three continents and holds five degrees from five countries, showcasing his global adaptability. He is an experienced researcher, serving as an associate editor, reviewer for top conferences and journals, and a published author of multiple books. He has been recognized in Marquis Who's Who in America for 2024-25.</b>
 </p>
 <hr>
 
