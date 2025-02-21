@@ -167,13 +167,13 @@
 ### Industry
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>Multi-modal GenAI agents for decision-making.</li>
-<li>GenAI-based OCR solution for text extraction and analysis from PDFs and images. </li>
-<li>AIML for financial fraud and prescription fraud detection.</li>
-<li>Generative adversarial networks for image reconstruction and AI-based computer vision solutions for edge detection and object identification.</li>
-<li>Predictive models to forecast KPIs (SCI and CPI) and red program prediction.</li>
-<li>Architecture of big data infrastructures in compliance with FedRAMP and CMS.</li>
-<li>An Enterprise AI solution utilizing convolutional neural networks (CNNs) and auto-encoders to rapidly analyze billions of cyber anomaly observations.</li>
-<li>Creative data mining and pattern recognition to identify trends and insights across all projects.</li>
+<li>GenAI-powered OCR for text extraction and analysis from PDFs and images.</li>
+<li>AI/ML for financial and prescription fraud detection.</li>
+<li>GANs for image reconstruction and AI-driven computer vision for edge detection and object identification.</li>
+<li>Predictive models for forecasting KPIs (SCI, CPI) and Red Program prediction.</li>
+<li>Big data architecture compliant with FedRAMP and CMS./li>
+<li>Enterprise AI with CNNs and auto-encoders for rapid cyber anomaly analysis.</li>
+<li>Innovative data mining and pattern recognition for cross-project insights.</li>
 </ul>
 
 ### Academia
