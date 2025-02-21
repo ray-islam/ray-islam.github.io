@@ -175,7 +175,7 @@
 <li>Enterprise AI with CNNs and auto-encoders for rapid cyber anomaly analysis.</li>
 <li>Innovative data mining and pattern recognition for cross-project insights.</li>
 </ul>
-
+<br>
 ### Academia
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>Developed novel machine learning based methodologies (such as natural language processing and clustering algorithms, to estimate the remaining useful life (RUL) of software systems.</li>
