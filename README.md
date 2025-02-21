@@ -166,9 +166,9 @@
 
 ### Industry
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li>Multi-modal GenAI solutions for AI agents enhancing creative decision-making in healthcare and finance.</li>
-<li>GenAI-based OCR solution to extract and analyze prescription text from PDFs and images (inclduing hand-writing)</li>
-<li>AI and machine learning algorithms to detect financial fraud and prescription fraud in healthcare.</li>
+<li>Multi-modal GenAI agents for decision-making.</li>
+<li>GenAI-based OCR solution for text extraction and analysis from PDFs and images. </li>
+<li>AIML for financial fraud and prescription fraud detection.</li>
 <li>Generative adversarial networks for image reconstruction and AI-based computer vision solutions for edge detection and object identification.</li>
 <li>Predictive models to forecast KPIs (SCI and CPI) and red program prediction.</li>
 <li>Architecture of big data infrastructures in compliance with FedRAMP and CMS.</li>
