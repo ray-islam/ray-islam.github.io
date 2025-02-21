@@ -140,8 +140,8 @@
     <!-- Highlight box container -->
     <div class="highlight-box">           
         <ul>
-                <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">
-                    Dr. Ray Islam (Mohammad Rubyet Islam) is stepping in with a message in the artificial intelligence (AI) field, where innovation races ahead and ethical concerns trail behind.
+                <a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/">
+                    Dr. Ray Islam (Mohammad Rubyet Islam) is stepping in with a message in the artificial intelligence (AI) field, where innovation races ahead and ethical concerns trail behind. - Forbes
                 </a>            
         </ul>
         <img src="assets/genai.png" alt="Generative AI Book" class="book-image genai-book">
