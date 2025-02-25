@@ -70,7 +70,7 @@ filename: awardsnrecognitions.md
 </h3>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 14px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"> 
-    Dr. Ray Islam (Dr. Mohammad Rubyet Islam), a distinguished expert in AI and machine learning ..., has been included in Marquis Who's Who. .... His inclusion in Marquis Who's Who recognizes his notable accomplishments, visibility, and prominence in the field. <a href="https://www.24-7pressrelease.com/press-release/515473/dr-ray-islam-displays-excellence-in-education-and-technology" target="_blank" style="text-decoration: none; color: #000080;"> Read more...</a>
+    Dr. Ray Islam (Mohammad Rubyet Islam, PhD), a distinguished expert in AI and machine learning ..., has been included in Marquis Who's Who. .... His inclusion in Marquis Who's Who recognizes his notable accomplishments, visibility, and prominence in the field. <a href="https://www.24-7pressrelease.com/press-release/515473/dr-ray-islam-displays-excellence-in-education-and-technology" target="_blank" style="text-decoration: none; color: #000080;"> Read more...</a>
     </p> 
     <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"> 
         <b>About Marquis Who's Who®:</b> 
