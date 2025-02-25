@@ -73,6 +73,6 @@ filename: awardsnrecognitions.md
     </p> 
     <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"> 
         <b>About Marquis Who's Who®:</b> 
-        <p>Endorsed by <a href="https://en.wikipedia.org/wiki/Warren_Buffett" target="_blank">Warren Buffett</a> (Berkshire Hathaway), <strong>Marquis Who’s Who®</strong> has been a prestigious biographical resource since 1899, chronicling the achievements of distinguished individuals across politics, business, medicine, law, education, and the arts, serving researchers and professionals worldwide.</p>. The suite of Marquis® publications can be viewed at the official Marquis Who's Who® website, <a href="https://www.marquiswhoswho.com" target="_blank" style="color: black; text-decoration: none;">www.marquiswhoswho.com</a>. 
+        <p>Endorsed by <a href="https://en.wikipedia.org/wiki/Warren_Buffett" target="_blank"style="color: black; text-decoration: none;">Warren Buffett</a> (Berkshire Hathaway), <strong>Marquis Who’s Who®</strong> has been a prestigious biographical resource since 1899, chronicling the achievements of distinguished individuals across politics, business, medicine, law, education, and the arts, serving researchers and professionals worldwide.</p>. The suite of Marquis® publications can be viewed at the official Marquis Who's Who® website, <a href="https://www.marquiswhoswho.com" target="_blank" style="color: black; text-decoration: none;">www.marquiswhoswho.com</a>. 
     </p>
     </div>
