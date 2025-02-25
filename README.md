@@ -222,29 +222,15 @@ Developed novel ML-based RUL estimation for software systems, analyzing processo
 ## Industrial Experience
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 Leadership & AI Scientist roles in:
-  <li>Deloitte, USA - Specialist Leader, AI/ML & Risk Analysis (Director/VP Product Development Equivalent)</li>
-  <li>Raytheon, USA - Acting Director - AI/ML (Strategic)</li>
-  <li>Booz Allen Hamilton, USA - Lead Associate (Leadership/Strategic)</li>
-  <li>Lockheed Martin, USA - Principal Scientist (Leadership/Strategic)(</li> 	
-  <li>General Services Administration (GSA), Washington, D.C.- Senior Scientist AIML</li>
-  <li>American Institutes for Research (AIR), Washington, D.C. - Technical Project Manager, AIML/Infrastructure </li>	         
-  <li>Euro Nassa Ltd., UK, Business Development Manager, (Clients: Tesco and Wal-Mart)</li>
+  Deloitte, USA | Raytheon, USA | Booz Allen Hamilton, USA | Lockheed Martin, USA | General Services Administration (GSA) - Contract | American Institutes for Research (AIR), Washington, D.C. | Euro Nassa Ltd., UK | Carrefour - France (Indian Sub-continent Office)|
 </ul>
 
 ### Clients Worked For
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li> Health Care: US Department of Vaterans Affairs, USA</li>
-<li> Health Care: Centers for Medicare & Medicaid Services (CMS), USA</li>
-<li> Health Care: Pharmacy Data Analysis (e.g. CVS, Walgreens), USA</li>
-<li> Finance: Berkshire Hathaway, USA</li>
-<li> Finance: Capital One Bank, USA</li>
-<li> Finance: U.S. Department of Commerce, USA</li>
-<li> Finance: Royal Bank of Canada (RBC), Canada</li>
-<li> Education: US Department of Education, USA</li>
-<li> The White House, USA</li>
-<li> US Airforce (USAF), USA</li>
-<li> The United States Department of Justice (DOJ), USA</li>
-<li> The National Aeronautics and Space Administration (NASA), USA</li>
+<li>Finance: Berkshire Hathaway, USA | Capital One Bank, USA | U.S. Department of Commerce, USA <li>
+<li>Health Care: US Department of Vaterans Affairs, USA |Centers for Medicare & Medicaid Services (CMS), USA | Pharmacy Data Analysis (e.g. CVS, Walgreens), USA</li>
+<li> Education: US Department of Education, USA <li> 
+<li> Others: The White House, USA | US Airforce (USAF), USA | The United States Department of Justice (DOJ), USA | The National Aeronautics and Space Administration (NASA), USA</li>
 </ul>
 <hr>
 
