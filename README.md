@@ -140,7 +140,7 @@
     <!-- Highlight box container -->
     <div class="highlight-box">           
 
-        <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
   <strong><em> Dr. Ray Islam (Mohammad Rubyet Islam) is stepping in with a message in the artificial intelligence (AI) field, where innovation races ahead and ethical concerns trail behind.</em></strong> 
 <b><a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/" target="_blank">- Forbes</a></b>
 </ul>
@@ -157,7 +157,6 @@
     
 ## ABOUT
 <b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself in AI and Machine Learning leadership at top global firms and through teaching at prestigious universities, effectively bridging the gap between academia and industry. He has led high-stakes AI and cybersecurity projects, managing multimillion-dollar initiatives across healthcare, finance, manufacturing, retail, and insurance. With teams across three continents and five degrees from five countries, he showcases global expertise. A seasoned researcher, associate editor, and published author, he has been recognized in Marquis Who’s Who in America (2024-25).</b>
-</p>
 </ul>
 <hr>
 
