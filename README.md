@@ -154,7 +154,7 @@
 
 
 ## ABOUT
-<p style="color: green; font-family: 'Futura', serif; font-size: 17px;"><b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself in AI and Machine Learning leadership at top global firms and through teaching at prestigious universities, effectively bridging the gap between academia and industry. He has led high-stakes AI and cybersecurity projects, developing strategies, building models, and managing multimillion-dollar initiatives across healthcare, finance, manufacturing, retail supply chain, and insurance industries. Ray has led teams of scientists and developers across three continents and holds five degrees from five countries, showcasing his global adaptability. He is an experienced researcher, serving as an associate editor, reviewer for top conferences and journals, and a published author of multiple books. He has been recognized in Marquis Who's Who in America for 2024-25.</b>
+<p style="color: green; font-family: 'Futura', serif; font-size: 17px;"><b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself in AI and Machine Learning leadership at top global firms and through teaching at prestigious universities, effectively bridging the gap between academia and industry. He has led high-stakes AI and cybersecurity projects, managing multimillion-dollar initiatives across healthcare, finance, manufacturing, retail, and insurance. With teams across three continents and five degrees from five countries, he showcases global expertise. A seasoned researcher, associate editor, and published author, he has been recognized in Marquis Who’s Who in America (2024-25).</b>
 </p>
 <hr>
 
@@ -166,22 +166,12 @@
 
 ### Industry
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li>Multi-modal GenAI agents for decision-making.</li>
-<li>AI/ML for financial and prescription fraud detection.</li>
-<li>Big data architecture compliant with FedRAMP and CMS.</li>
-<li>GenAI-powered OCR for text extraction and analysis from PDFs and images.</li>
-<li>Innovative data mining and pattern recognition for cross-project insights.</li>
-<li>Enterprise AI with CNNs and auto-encoders for rapid cyber anomaly analysis.</li>
-<li>Predictive models for forecasting KPIs (SCI, CPI) and Red Program prediction.</li>
-<li>GANs for image reconstruction and AI-driven computer vision for edge detection and object identification.</li>
+Specialized in AI/ML for financial fraud detection, wealth management, alpha generation, stock prediction, and point-of-sale anomaly identification. Expertise in multi-modal GenAI for decision-making, FedRAMP-compliant big data architecture, and GenAI-powered OCR for document analysis. Skilled in advanced data mining for cross-project insights, cyber anomaly detection using CNNs and auto-encoders, predictive modeling for KPI forecasting (SCI, CPI, Red Program), and AI-driven computer vision for image reconstruction, edge detection, and object identification.
 </ul>
 
 ### Academia
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li>Developed novel machine learning based methodologies (such as natural language processing and clustering algorithms, to estimate the remaining useful life (RUL) of software systems.</li>
-<li>Novel method to analyze the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems </li>
-<li>Improved methodologies to optimize process conditions to achieve the ideal solubility for forming nanospheres of the perfect size for targeted drug delivery.</li>
-<li> Optimized process conditions to develop a novel system for creating energy-efficient composite materials</li>
+Developed novel ML-based RUL estimation for software systems, analyzing processor and clock speed impact. Optimized nanosphere solubility for targeted drug delivery and enhanced processes for energy-efficient composite materials.
 </ul>
 <hr>
 
