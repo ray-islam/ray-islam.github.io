@@ -70,11 +70,26 @@ filename: awardsnrecognitions.md
 </h3>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 14px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"> 
-    "Dr. Ray Islam (Dr. Mohammad Rubyet Islam), a distinguished expert in AI and machine learning ..., has been included in Marquis Who's Who. .... His inclusion in Marquis Who's Who recognizes his notable accomplishments, visibility, and prominence in the field. <a href="https://www.24-7pressrelease.com/press-release/515473/dr-ray-islam-displays-excellence-in-education-and-technology" target="_blank" style="text-decoration: none; color: #000080;"> Read more..."</a>
+    Dr. Ray Islam (Dr. Mohammad Rubyet Islam), a distinguished expert in AI and machine learning ..., has been included in Marquis Who's Who. .... His inclusion in Marquis Who's Who recognizes his notable accomplishments, visibility, and prominence in the field. <a href="https://www.24-7pressrelease.com/press-release/515473/dr-ray-islam-displays-excellence-in-education-and-technology" target="_blank" style="text-decoration: none; color: #000080;"> Read more...</a>
     </p> 
     <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"> 
         <b>About Marquis Who's Who®:</b> 
         Endorsed by <a href="https://en.wikipedia.org/wiki/Warren_Buffett" target="_blank">Warren Buffett</a> Warren Buffett (Berkshire Hathaway), <strong>Marquis Who’s Who®</strong> has been a prestigious biographical resource since 1899, chronicling the achievements of distinguished individuals across politics, business, medicine, law, education, and the arts, serving researchers and professionals worldwide. The suite of Marquis® publications can be viewed at the official Marquis Who's Who® website, <a href="https://www.marquiswhoswho.com" target="_blank" style="color: black; text-decoration: none;">www.marquiswhoswho.com</a>. 
     </p>
+</ul>
+    </div>
+
+<!-- for award7-prothom alo -->
+
+ <div id="award7" class="award-section">
+   <h3>
+<a href="https://www.prothomalo.com/lifestyle/%E0%A6%B0%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A7%8E-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%86%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9-%E0%A6%86%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%A7%E0%A6%BE-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%A1%E0%A7%87%E0%A6%9F%E0%A6%BE" target="_blank" style="text-decoration: none; color: #000080;">
+    Featured in Bangladesh’s Leading Newspaper
+    </a>
+</h3>
+<ul style="color: black; font-family: 'Futura', serif; font-size: 14px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
+<p style="color: black; font-family: 'Futura', serif; font-size: 16px;"> 
+    "Rubyet Islam began his career as a textile(Manufacturing) engineer and is now a data scientist.... Recently, he visited Bangladesh, where Mahfuz Rahman interviewed him. <a href="https://www.prothomalo.com/lifestyle/%E0%A6%B0%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A7%8E-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%86%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9-%E0%A6%86%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%A7%E0%A6%BE-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%A1%E0%A7%87%E0%A6%9F%E0%A6%BE" target="_blank" style="text-decoration: none; color: #000080;"> Read more..."</a>
+    </p> 
 </ul>
     </div>
