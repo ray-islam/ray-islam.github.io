@@ -429,7 +429,7 @@ English | Bengali | Hindi | Urdu | French- basic |Arabic-basic.
 ### Other Activities and Social Contributions
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>	Motivational speaker for the local South-East Asian community on How to become a data scientist.</li>
-<li>  Featured in the most popular newspaper in Bangladesh (Daily Prothom Alo) to inspire the youth, 2020.</li>
+<li>  <a href="https://www.prothomalo.com/lifestyle/%E0%A6%B0%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A7%8E-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%86%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9-%E0%A6%86%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%A7%E0%A6%BE-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%A1%E0%A7%87%E0%A6%9F%E0%A6%BE" target="_blank"> Featured in Bangladesh’s Leading Newspaper, The Daily Prothom Alo, 5th January, 2020.</a></li>
 <li>	Attended podcasts in Bangladesh on August 23rd, 2020, to inspire the younger generation.</li>
 <li><a href="https://www.observerbd.com/details.php?id=126845" target="_blank">Islam, Rubyet. "Published article on Data Science." The Daily Observer, 11 Mar. 2018.</a></li>
 <li>	Published two poetry books in Bengali.</li>
