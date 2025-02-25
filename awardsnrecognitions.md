@@ -55,11 +55,12 @@ filename: awardsnrecognitions.md
     <h2>Awards & Recognitions</h2>
     <ul>
         <li><a href="#award1">Marquis Who's Who 2024-25, Who</a></li>
-        <li><a href="#award1"> Nathan and Marvin Goldman/Durham Homes Graduate Award, Canada</a></li>
-        <li><a href="#award1"> 1st prize, Highly Qualified Personnel (HQP) poster competition, Canada</a></li>
-        <li><a href="#award1">The NSERC Strategic Network Grant for PhD research, Canada</a></li>
-        <li><a href="#award1"> Fellowship funded by the US Department of Energy, UK</a></li>
-        <li><a href="#award1"> Post Graduate Merit Award, Heriot-Watt University, UK</a></li>
+        <li><a href="#award2"> Nathan and Marvin Goldman/Durham Homes Graduate Award, Canada</a></li>
+        <li><a href="#award3"> 1st prize, Highly Qualified Personnel (HQP) poster competition, Canada</a></li>
+        <li><a href="#award4">The NSERC Strategic Network Grant for PhD research, Canada</a></li>
+        <li><a href="#award5"> Fellowship funded by the US Department of Energy, UK</a></li>
+        <li><a href="#award6"> Post Graduate Merit Award, Heriot-Watt University, UK</a></li>
+        <li><a href="#award7"> Featured in Bangladesh’s Leading Newspaper</a></li>
        
        <div id="award1" class="award-section">
    <h3>
