@@ -380,7 +380,7 @@ English | Bengali | Hindi | Urdu | French- basic |Arabic-basic.
 ## OTHERS
 
 ### Knowledge Share: 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <a href="https://www.youtube.com/@rayisl5382" target="_blank">Youtube:@rayisl5382 </a>| <a href="https://orcid.org/0000-0002-8263-7560" target="_blank">ORCID:0000-0002-8263-7560</a> | <a href="https://medium.com/@rayislam" target="_blank">Medium</a> | <a href="https://www.researchgate.net/profile/Rubyet-Islam" target="_blank"> Research Gate </a> | <a href="https://www.kdnuggets.com/2023/04/unveiling-potential-ctgan-harnessing-generative-ai-synthetic-data.html" target="_blank"> KDNuggets:Unveiling the Potential of CTGAN: Harnessing Generative AI for Synthetic Data </a> | <a href="https://scholar.google.com/citations?user=yeHFzdoAAAAJ&hl=en&authuser=1" target="_blank"> Google Scholar </a>|
 </ul>
 
