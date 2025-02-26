@@ -383,10 +383,10 @@ English | Bengali | Hindi | Urdu | French- basic |Arabic-basic.
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>Youtube:@rayisl5382 </li>
 <li>ORCID:0000-0002-8263-7560 </li>
-<li>Medium:https://medium.com/@rayislam</li>
-<li>Research Gate: https://www.researchgate.net/profile/Rubyet-Islam</li>
+<li><a href="https://medium.com/@rayislam" target="_blank">Medium</a></li>
+<li><a href="https://www.researchgate.net/profile/Rubyet-Islam" target="_blank">Research Gate</a> </li>
 <li>KDNuggets:Unveiling the Potential of CTGAN: Harnessing Generative AI for Synthetic Data </li>
-<li>Google Scholar:https://scholar.google.com/citations?user=yeHFzdoAAAAJ&hl=en&authuser=1</li>
+<li><a href=":https://scholar.google.com/citations?user=yeHFzdoAAAAJ&hl=en&authuser=1"_blank">Google Scholar</li>
 </ul>
 
 ### Invited Panels and Guest Speaker
