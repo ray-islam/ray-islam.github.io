@@ -381,12 +381,7 @@ English | Bengali | Hindi | Urdu | French- basic |Arabic-basic.
 
 ### Knowledge Share: 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li>Youtube:@rayisl5382 </li>
-<li>ORCID:0000-0002-8263-7560 </li>
-<li><a href="https://medium.com/@rayislam" target="_blank">Medium</a></li>
-<li><a href="https://www.researchgate.net/profile/Rubyet-Islam" target="_blank">Research Gate</a> </li>
-<li>KDNuggets:Unveiling the Potential of CTGAN: Harnessing Generative AI for Synthetic Data </li>
-<li><a href=":https://scholar.google.com/citations?user=yeHFzdoAAAAJ&hl=en&authuser=1"_blank">Google Scholar</li>
+<a href="https://www.youtube.com/@rayisl5382" target="_blank">Youtube:@rayisl5382 </a>| <a href="https://orcid.org/0000-0002-8263-7560" target="_blank">ORCID:0000-0002-8263-7560</a> | <a href="https://medium.com/@rayislam" target="_blank">Medium</a> |<a href="https://www.researchgate.net/profile/Rubyet-Islam" target="_blank">Research Gate</a>| KDNuggets:Unveiling the Potential of CTGAN: Harnessing Generative AI for Synthetic Data | <li><a href=":https://scholar.google.com/citations?user=yeHFzdoAAAAJ&hl=en&authuser=1"_blank">Google Scholar</a>|
 </ul>
 
 ### Invited Panels and Guest Speaker
