@@ -270,11 +270,11 @@ Leadership & AI Scientist roles at:
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b> <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.</a> 
 </b></ul>
-
-#### [Check Global Availability Here](book.md)
+<br>
+#### [Check for Global Availability Here](book.md)
 
 ### Peer-Reviewed Research Journal
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li> [J1]  <a href="https://doi.org/10.22215/jphm.v3i1.3641">Islam, R. and Sandborn, P., (2023), Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems, Journal of Prognostics and Health Management, 3(1), 9–36. February https://doi.org/10.22215/jphm.v3i1.3641.</a></li>
 <li> [J2] <a href="https://doi.org/10.1177/0892705712439563"> Adhikary, K., Islam, R., Rizvi, G., Park, C., (2013), A Paper on Optimization of Process Conditions, Journal of Thermoplastic Composite Materials, 26(8):1127-1144, September, DOI: 10.1177/0892705712439563.</a></li>
 <li> [J3]  <a href="https://doi.org/10.1177/0892705710388590"> Adhikary, K., Islam, R., Rizvi, G., Park, C., (2011), A paper on  Process Conditions Optimization, Journal of Thermoplastic Composite Materials, 24(2):155-17, March, DOI: 10.1177/0892705710388590.</a></li>
