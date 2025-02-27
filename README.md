@@ -222,10 +222,10 @@ Developed novel ML-based RUL estimation for software systems, analyzing processo
 ## EXPERIENCE
 
 ## Industrial Experience
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; text-align: justify;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 Leadership & AI Scientist roles at:
 <br>
-Deloitte, USA | Raytheon, USA | Booz Allen Hamilton, USA | Lockheed Martin, USA | General Services Administration (GSA) - Contract | American Institutes for Research (AIR), Washington, D.C. | Euro Nassa Ltd., UK | Carrefour - France (Indian Sub-continent Office)|
+<b>Deloitte</b>, USA | <b>Raytheon</b>, USA | <b>Booz Allen Hamilton</b>, USA | <b>Lockheed Martin</b>, USA | <b>General Services Administration (GSA)</b> - Contract | <b>American Institutes for Research (AIR)</b>, Washington, D.C. | <b>Euro Nassa Ltd.</b>, UK | <b>Carrefour</b> - France (Indian Sub-continent Office)|
 </ul>
 
 ### Clients Worked For
