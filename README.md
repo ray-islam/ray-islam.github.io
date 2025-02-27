@@ -250,17 +250,15 @@ Leadership & AI Scientist roles at:
   <ul> Courses Taught: <br>
    <li>HACS100 Foundations in Cybersecurity - Undergraduate Course</li>  	         	       
    <li>HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course</li>   
+  </ul>
 </li>
 
 <li>
   <b>Founder/Course Designer/Instructor</b>, Kindidata, VA (Boot Camp- https://kindideta.com/)
-  <ul>Courses Taught:<br>
-    <li>Data Visualization</li>
-    <li>Natural Language Processing (NLP)</li>
-    <li>Big Data Engineering</li>
-</li>
+  <ul>Courses Taught: Data Visualization | NLP | Big Data Engineering</li>
   </ul>
-    
+  </li>
+      
 <li><b>Teaching Assistant</b>, University of Toronto, Ontario, Canada				  
   <ul>Course Taught:<br>
     <li>Advanced Manufacturing Technologies - Undergraduate Course</li>
@@ -374,6 +372,7 @@ English | Bengali | Hindi | Urdu | French- basic |Arabic-basic.
 <a href="https://www.youtube.com/@rayisl5382" target="_blank">Youtube:@rayisl5382 </a>| <a href="https://orcid.org/0000-0002-8263-7560" target="_blank">ORCID:0000-0002-8263-7560</a> | <a href="https://medium.com/@rayislam" target="_blank">Medium</a> | <a href="https://www.researchgate.net/profile/Rubyet-Islam" target="_blank"> Research Gate </a> | <a href="https://www.kdnuggets.com/2023/04/unveiling-potential-ctgan-harnessing-generative-ai-synthetic-data.html" target="_blank"> KDNuggets:Unveiling the Potential of CTGAN: Harnessing Generative AI for Synthetic Data </a> | <a href="https://scholar.google.com/citations?user=yeHFzdoAAAAJ&hl=en&authuser=1" target="_blank"> Google Scholar </a>|
 </ul>
 
+<br>
 ### Invited Panels and Guest Speaker
 
 **USA**
