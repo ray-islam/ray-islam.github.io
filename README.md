@@ -252,23 +252,18 @@ Leadership & AI Scientist roles at:
 </li>
 
 <li>
-  <b>Founder/Course Designer/Instructor</b>, Kindidata, VA (Boot Camp- https://kindideta.com/)
+  <b>Founder/Course Designer/Instructor</b>, Kindidata, VA (Boot Camp)
   <ul>Courses Taught: Data Visualization | NLP | Big Data Engineering</li>
   </ul>
   </li>
       
-<li><b>Teaching Assistant</b>, University of Toronto, Ontario, Canada				  
-  <ul>Course Taught:<br>
-    <li>Advanced Manufacturing Technologies - Undergraduate Course</li>
-</li>
-</ul>
+<li><b>Teaching Assistant</b>, University of Toronto, Canada				  
+  <ul>Course Taught: Advanced Manufacturing Technologies </ul>
+  </li>
 
 <li>
-  <b>Teaching Assistant</b>, Ontario Tech University, Ontario, Canada
-  <ul>Courses Taught:<br>
-    <li>Statistics and Probability for Engineers - Undergraduate Course</li>
-    <li>Engineering Design - Undergraduate Course</li>
-  </ul>
+  <b>Teaching Assistant</b>, Ontario Tech University, Canada
+  <ul>Courses Taught:Statistics and Probability for Engineers | Engineering Design </ul>
 </li>
     
 ## PUBLICATIONS & AWARDS
