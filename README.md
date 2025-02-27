@@ -281,7 +281,7 @@ Leadership & AI Scientist roles at:
 </ul>
 
 ### Conference Papers & Poster Presentations - Go to [conference page](conference.md)
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li> [C1]       <a href="https://link.springer.com/chapter/10.1007/978-3-031-62281-6_34">Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK, Published as Proceedings on Springer Nature, DOI:
 https://doi.org/10.1007/978-3-031-62281-6_34</a> 
 </li>
@@ -294,14 +294,14 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 </ul>
 
 ### <a href="https://www.amazon.com/-/e/B0CP85GTJN">eBooks (amazon.com)</a>
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li>eBook1: Ray Islam, LangChain Unveiled: Navigating the Future of LLM, (Amazon, 2023)</li>
 <li>eBook2: Ray lam, Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense, (Amazon, 2023)</li>
 <li>eBook3: Ray Islam, Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs), (Amazon 2023)</li>
 </ul>
 
 ### <a href="https://rayislam.medium.com/">White Papers (medium.com)</a>
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li> Islam, R., (2023), Prompt tuning for Large Language Models (LLMs)</li>
 <li> Islam, R., (2023), Analytics Operating Eco (OE) System</li>
 <li> Islam, R. (2023), AI for C-Suite Decision Making</li>
