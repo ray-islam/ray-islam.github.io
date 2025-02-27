@@ -241,20 +241,17 @@ Leadership & AI Scientist roles at:
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li>
   <b>Adjunct Professor</b>, Information Sciences and Technology, <a href="https://www.coursicle.com/gmu/professors/Mohammad+Islam/">George Mason University, Fairfax, VA, USA</a> 
-    <ul> Course Taught: AIT 526: Natural Language Processing (NLP) – Graduate course
-    </ul>
+    <ul> Course Taught: AIT 526: Natural Language Processing (NLP)</ul>
 </li>
 
 <li>
-  <b>Lecturer</b>, ACES Honors College, University of Maryland, College Park, MD, USA
-  <ul> Courses Taught: HACS100 Foundations in Cybersecurity | HACS200 - Applied Cybersecurity Foundations II   
-  </ul>
+  <b>Lecturer</b>, Honors College, University of Maryland, College Park, MD, USA
+  <ul> Courses Taught: HACS100 - Foundations in Cybersecurity | HACS200 - Applied Cybersecurity Foundations II     </ul>
 </li>
 
 <li>
   <b>Founder/Course Designer/Instructor</b>, Kindidata, VA (Boot Camp)
-  <ul>Courses Taught: Data Visualization | NLP | Big Data Engineering</li>
-  </ul>
+  <ul>Courses Taught: Data Visualization | NLP | Big Data Engineering</ul>
   </li>
       
 <li><b>Teaching Assistant</b>, University of Toronto, Canada				  
@@ -263,9 +260,10 @@ Leadership & AI Scientist roles at:
 
 <li>
   <b>Teaching Assistant</b>, Ontario Tech University, Canada
-  <ul>Courses Taught:Statistics and Probability for Engineers | Engineering Design </ul>
+  <ul>Courses Taught: Statistics and Probability for Engineers | Engineering Design </ul>
 </li>
-    
+</ul>
+
 ## PUBLICATIONS & AWARDS
 
 ### Book   
