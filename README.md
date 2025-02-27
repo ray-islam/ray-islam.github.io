@@ -271,7 +271,6 @@ Leadership & AI Scientist roles at:
 <b> <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.</a> 
 </b></ul>
 <br>
-#### [Check for Global Availability Here](book.md)
 
 ### Peer-Reviewed Research Journal
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
@@ -279,6 +278,7 @@ Leadership & AI Scientist roles at:
 <li> [J2] <a href="https://doi.org/10.1177/0892705712439563"> Adhikary, K., Islam, R., Rizvi, G., Park, C., (2013), A Paper on Optimization of Process Conditions, Journal of Thermoplastic Composite Materials, 26(8):1127-1144, September, DOI: 10.1177/0892705712439563.</a></li>
 <li> [J3]  <a href="https://doi.org/10.1177/0892705710388590"> Adhikary, K., Islam, R., Rizvi, G., Park, C., (2011), A paper on  Process Conditions Optimization, Journal of Thermoplastic Composite Materials, 24(2):155-17, March, DOI: 10.1177/0892705710388590.</a></li>
 </ul>
+<br>
 
 ### Conference Papers & Poster Presentations - Go to [conference page](conference.md)
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
@@ -292,13 +292,14 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 <li> [P1-P5]    <a href="https://www.researchgate.net/profile/Rubyet-Islam/publications">5 posters presented at mainstream conferences in the USA and Canada. </a>
 </li>
 </ul>
-
+<br>
 ### <a href="https://www.amazon.com/-/e/B0CP85GTJN">eBooks (amazon.com)</a>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li>eBook1: Ray Islam, LangChain Unveiled: Navigating the Future of LLM, (Amazon, 2023)</li>
 <li>eBook2: Ray lam, Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense, (Amazon, 2023)</li>
 <li>eBook3: Ray Islam, Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs), (Amazon 2023)</li>
 </ul>
+<br>
 
 ### <a href="https://rayislam.medium.com/">White Papers (medium.com)</a>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
