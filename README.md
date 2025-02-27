@@ -309,6 +309,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 <li> Islam, R., (2023), CTGAN for Credit Card Analysis Synthetic Data</li>
 <li> Islam, R., (2023), Unveiling the Potential of CTGAN: Harnessing Generative AI and 50K Synthetic IRIS Dataset</li>
 </ul>
+<br>
 
 ### Awards & Honors
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
