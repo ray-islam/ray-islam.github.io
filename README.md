@@ -244,38 +244,29 @@ Leadership & AI Scientist roles at:
     <ul> Course Taught: AIT 526: Natural Language Processing (NLP) – Graduate course
     </ul>
 </li>
-</ul>
 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>
   <b>Lecturer</b>, ACES Honors College, University of Maryland, College Park, MD, USA
   <ul> Courses Taught: <br>
    <li>HACS100 Foundations in Cybersecurity - Undergraduate Course</li>  	         	       
    <li>HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course</li>   
-  </ul>
 </li>
-</ul>
 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>
   <b>Founder/Course Designer/Instructor</b>, Kindidata, VA (Boot Camp- https://kindideta.com/)
   <ul>Courses Taught:<br>
     <li>Data Visualization</li>
     <li>Natural Language Processing (NLP)</li>
     <li>Big Data Engineering</li>
-  </ul>
 </li>
-</ul>
-
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+  </ul>
+    
 <li><b>Teaching Assistant</b>, University of Toronto, Ontario, Canada				  
   <ul>Course Taught:<br>
     <li>Advanced Manufacturing Technologies - Undergraduate Course</li>
-  </ul>
 </li>
 </ul>
 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>
   <b>Teaching Assistant</b>, Ontario Tech University, Ontario, Canada
   <ul>Courses Taught:<br>
@@ -283,7 +274,6 @@ Leadership & AI Scientist roles at:
     <li>Engineering Design - Undergraduate Course</li>
   </ul>
 </li>
-</ul>
     
 ## PUBLICATIONS & AWARDS
 
