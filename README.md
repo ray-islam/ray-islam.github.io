@@ -241,8 +241,7 @@ Leadership & AI Scientist roles at:
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li>
   <b>Adjunct Professor</b>, Information Sciences and Technology, <a href="https://www.coursicle.com/gmu/professors/Mohammad+Islam/">George Mason University, Fairfax, VA, USA</a> 
-    <ul> Course Taught: <br> 
-      <li>AIT 526: Natural Language Processing (Generative AI) – Graduate course</li>
+    <ul> Course Taught: AIT 526: Natural Language Processing (NLP) – Graduate course
     </ul>
 </li>
 </ul>
