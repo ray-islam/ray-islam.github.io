@@ -247,9 +247,7 @@ Leadership & AI Scientist roles at:
 
 <li>
   <b>Lecturer</b>, ACES Honors College, University of Maryland, College Park, MD, USA
-  <ul> Courses Taught: <br>
-   <li>HACS100 Foundations in Cybersecurity - Undergraduate Course</li>  	         	       
-   <li>HACS200 - Applied Cybersecurity Foundations II - Undergraduate Course</li>   
+  <ul> Courses Taught: HACS100 Foundations in Cybersecurity | HACS200 - Applied Cybersecurity Foundations II   
   </ul>
 </li>
 
