@@ -229,7 +229,7 @@ Leadership & AI Scientist roles at:
 </ul>
 
 ### Clients Worked For
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li><b>Finance:</b> Berkshire Hathaway, USA | Capital One Bank, USA | U.S. Department of Commerce, USA </li>
 <li><b>Health Care:</b> US Department of Vaterans Affairs, USA |Centers for Medicare & Medicaid Services (CMS), USA | Pharmacy Data Analysis (e.g. CVS, Walgreens), USA</li>
 <li> <b>Education:</b> US Department of Education, USA </li> 
@@ -238,7 +238,7 @@ Leadership & AI Scientist roles at:
 <hr>
 
 ## Academic Experience
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li>
   <b>Adjunct Professor</b>, Information Sciences and Technology, <a href="https://www.coursicle.com/gmu/professors/Mohammad+Islam/">George Mason University, Fairfax, VA, USA</a> 
     <ul> Course Taught: <br> 
