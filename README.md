@@ -230,10 +230,10 @@ Leadership & AI Scientist roles at:
 
 ### Clients Worked For
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-<li>Finance: Berkshire Hathaway, USA | Capital One Bank, USA | U.S. Department of Commerce, USA </li>
-<li>Health Care: US Department of Vaterans Affairs, USA |Centers for Medicare & Medicaid Services (CMS), USA | Pharmacy Data Analysis (e.g. CVS, Walgreens), USA</li>
-<li> Education: US Department of Education, USA </li> 
-<li> Others: The White House, USA | US Airforce (USAF), USA | The United States Department of Justice (DOJ), USA | The National Aeronautics and Space Administration (NASA), USA </li>
+<li><b>Finance:</b> Berkshire Hathaway, USA | Capital One Bank, USA | U.S. Department of Commerce, USA </li>
+<li><b>Health Care:</b> US Department of Vaterans Affairs, USA |Centers for Medicare & Medicaid Services (CMS), USA | Pharmacy Data Analysis (e.g. CVS, Walgreens), USA</li>
+<li> <b>Education:</b> US Department of Education, USA </li> 
+<li> <b>Others:</b> The White House, USA | US Airforce (USAF), USA | The United States Department of Justice (DOJ), USA | The National Aeronautics and Space Administration (NASA), USA </li>
 </ul>
 <hr>
 
