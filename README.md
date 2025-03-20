@@ -317,6 +317,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 ### Awards & Honors
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding: 20px; text-align: justify;">
 <li><a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/" target="_blank">Recognized by <b>Forbes</b> for contributions to Generative AI, Cybersecurity, and Ethics.</a></li>
+<li><a href="https://www.24-7pressrelease.com/press-release/515473/dr-ray-islam-displays-excellence-in-education-and-technology"> Inducted as Marquis Who's Who 2024-25 for Excellence in Education and Technology</a></li>   
 <li><a href="https://www.scribd.com/document/7861970/UOIT-Report-to-Donors" target="_blank">Nathan and Marvin Goldman/Durham Homes Graduate Award for reducing environmental impact of residential construction/maintenance and improving building energy technologies, Canada.</a></li>
 <li>1st prize, Highly Qualified Personnel (HQP) poster competition award, governed by the Natural Sciences and Engineering Research Council of Canada (NSERC).</li>
 <li>The NSERC Strategic Network Grant for PhD research, Canada.</li>
