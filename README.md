@@ -353,9 +353,10 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding-left: 20px; text-align: justify;">
 English | Bengali | Hindi | Urdu | French- basic |Arabic-basic.
 </ul>
+<br>
 
 ### Professional Training
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding-left: 20px; text-align: justify;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding-left: 20px; text-align: justify;">
 <li> 6.419x: Certificate for Data Analysis: Statistical Modeling and Computation in Applications, MIT, MA</li>
 <li> Tackling the Challenges of Big Data – Massachusetts Institute of Technology (MIT), MA</li>
 <li> 18.6501x: Fundamentals of Statistics, Massachusetts Institute of Technology (MIT), MA</li>
@@ -374,23 +375,24 @@ English | Bengali | Hindi | Urdu | French- basic |Arabic-basic.
 </ul>
 
 <br>
+
 ### Invited Panels and Guest Speaker
 
 **USA**
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding-left: 20px; text-align: justify;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding-left: 20px; text-align: justify;">
 <li>	Invited Guest Speaker- Symposium: The trends of Cancer Research, and Dynamic Challenges of CyberSecurity, Nov 2023, Supported by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA</li>
 <li>	Hackathon Judge - AI based models for Crypto Currency, 2022, by Deloitte at the University of Maryland.</li>
 </ul>
 
 **International**
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding-left: 20px; text-align: justify;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding-left: 20px; text-align: justify;">
 <li>Invited guest speaker, Green University, 2024 - Applications of AI in Manufacturing(Online).</li>
 <li>Invited guest speaker, Bangladesh University of Textiles, 2020 - Applications of AI in Manufacturing.</li>
 <li>Invited Guest Speaker, North South University, Bangladesh, 2018 - AI and their applications. </li>
 </ul>
 
 ### Other Activities and Social Contributions
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding-left: 20px; text-align: justify;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding-left: 20px; text-align: justify;">
 <li>	Motivational speaker for the local South-East Asian community on How to become a data scientist.</li>
 <li>  <a href="https://www.prothomalo.com/lifestyle/%E0%A6%B0%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A7%8E-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%86%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9-%E0%A6%86%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%A7%E0%A6%BE-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%A1%E0%A7%87%E0%A6%9F%E0%A6%BE" target="_blank"> Featured in Bangladesh’s Leading Newspaper, The Daily Prothom Alo, 5th January, 2020.</a></li>
 <li>	Attended podcasts in Bangladesh on August 23rd, 2020, to inspire the younger generation.</li>
