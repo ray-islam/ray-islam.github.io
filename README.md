@@ -318,7 +318,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li>[1] <a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/" target="_blank">Recognized by <b>Forbes</b> for contributions to Generative AI, Cybersecurity, and Ethics.</a></li>
 <li>[2] <a href="https://www.scribd.com/document/7861970/UOIT-Report-to-Donors" target="_blank"><b>Nathan and Marvin Goldman/Durham Homes Graduate Award</b> for reducing environmental impact of residential construction/maintenance and improving building energy technologies, Canada.</a></li>
-<li>[3] 1st prize, Highly Qualified Personnel (HQP) poster competition award, governed by the <b>Natural Sciences and Engineering Research Council of Canada (NSERC)</b>.</li>
+<li>[3] 1st prize, Highly Qualified Personnel (HQP) poster competition award, governed by the Natural Sciences and Engineering Research Council of Canada <b>(NSERC)</b>.</li>
 <li>[4] The <b>NSERC</b> Strategic Network Grant for PhD research, Canada.</li>
 <li>[5] Fellowship funded by the <b>US Department of Energy</b> for PhD research on Nanocomposites, USA.</li>
 <li>[6] Post Graduate <b>Merit Award</b>, Heriot-Watt University, UK </li>
