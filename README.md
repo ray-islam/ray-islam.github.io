@@ -191,7 +191,7 @@
 <b>Advisory Committee:</b> <a href="https://enme.umd.edu/clark/faculty/582/Peter-Sandborn">Dr. Peter A. Sandborn (Advisor and Chair) </a> | <a href="https://isr.umd.edu/clark/faculty/902/William-Regli">Dr. William Regli</a> (Dean’s Representative) | <a href="https://enme.umd.edu/clark/faculty/568/Mohammad-Modarres">Dr. Mohammad Modarres</a> | Dr. Abhijit Dasgupta | Dr. F. Patrick McCluskey </p>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-2. <b>MASc</b> in Mechanical Engineering – ONTARIO TECH UNIVERSITY – ON, Canada, GPA:3.98 (Research undertaken at The Univesity of Toronto, Canada) </p>
+2. <b>MASc</b> in Mechanical Engineering – ONTARIO TECH UNIVERSITY – ON, Canada, <b>GPA:3.98</b> (Research undertaken at The Univesity of Toronto, Canada) </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
 <b>Advisory Committee:</b> <a href="https://ontariotechu.ca/experts/feas/ghaus-rizvi.php?utm_source=featured_expert&utm_medium=web&utm_campaign=Ghaus%20Rizvi">Dr. Ghaus Rizvi</a> (Advisor and Chair) | Dr. Remon Pop-Iliev | <a href="https://zhang.apps01.yorku.ca/about/">Dr. Dan Zhang</a> | <a href="https://mse.utoronto.ca/faculty-staff/professors/naguib/">Dr. Hani Naguib</a> (External- Univerity of Toronto) </p>
 
@@ -203,7 +203,7 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 4. <b>MBA</b> in Marketing – LUTON – UK </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-5. <b>BSc</b> in Manufacturing Engineering – BUTex - BD, GPA: 4.0 </p>
+5. <b>BSc</b> in Manufacturing Engineering – BUTex - BD, <b>GPA: 4.0 </b></p>
 
 <h3 style="margin: 0; padding: 0;"> In-progress </h3>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
