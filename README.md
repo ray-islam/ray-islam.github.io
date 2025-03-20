@@ -222,6 +222,7 @@
 <hr>
 
 <h3 style="margin: 0; padding: 0;"> EXPERIENCE </h3>
+<br>
 
 <h3 style="margin: 0; padding: 0;"> Industrial Experience </h3>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
@@ -267,6 +268,7 @@ Leadership & AI Scientist roles at:
 </ul>
 
 <h3 style="margin: 0; padding: 0;"> PUBLICATIONS & AWARDS </h3>
+<br>
 
 <h3 style="margin: 0; padding: 0;"> Book : [Check for Global Availability Here](book.md) </h3>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
