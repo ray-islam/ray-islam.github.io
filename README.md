@@ -335,7 +335,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 <br>
 
 ### Membership
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding: 0; text-align: justify;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding-left: 20px; text-align: justify;">
 <li> AAAI - Association for the Advancement of Artificial Intelligence</li>
 <li> IEEE - The Institute of Electrical and Electronics Engineers </li>
 </ul>
