@@ -159,6 +159,7 @@
 <hr>
 
 <h3 style="margin: 0; padding: 0;"> RESEARCH INTEREST </h3>
+<br>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">Finance, Generative AI, AI in Cyber Security, Ethics in AI</p>
 <hr>
 
@@ -179,8 +180,8 @@
 
 <h3 style="margin: 0; padding: 0;"> EDUCATION </h3> 
 <br>
-
 <h3 style="margin: 0; padding: 0;"> Complete </h3>
+<br>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 1. <b>Doctor of Philosophy (PhD)</b> in Machine Learning (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA.</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 20px;">
@@ -201,7 +202,7 @@
   
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 4. <b>MBA</b> in Marketing – LUTON – UK </p>
-    <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 5. <b>BSc</b> in Manufacturing Engineering – BUTex - BD, GPA: 4.0 </p>
 
 <h3 style="margin: 0; padding: 0;"> In-progress </h3>
@@ -212,9 +213,8 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 1. Graduate Student in <b>PhD</b> in Mechanical Engineering - Geroge Washington University, DC, USA (Switched to University of Maryland, College Park, MD, USA)</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
- </p>
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 2. Graduate Student in <b>PhD</b> in Mechanical Engineering - University of Toronto, Canada (Switched to George Washington Univerity, DC, USA)</p>
+
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
   <b>Advisor:</b> <a href="https://www.mie.utoronto.ca/faculty_staff/park/">Dr. Chul B. Park</a>
 </p>
@@ -222,7 +222,6 @@
 <hr>
 
 <h3 style="margin: 0; padding: 0;"> EXPERIENCE </h3>
-<br>
 
 <h3 style="margin: 0; padding: 0;"> Industrial Experience </h3>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
