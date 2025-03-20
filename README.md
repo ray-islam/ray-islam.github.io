@@ -332,9 +332,10 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
     <li> Reviewer: Journal: <i>Reliability Engineering & System Safety</i>, Published by Elsevier</li>
     <li> Associate Editor: <i>Journal of Prognostics and Health Management (JPHM)</i></li>
 </ul>
+<br>
 
 ### Membership
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding: 0; text-align: justify;">
 <li> AAAI - Association for the Advancement of Artificial Intelligence</li>
 <li> IEEE - The Institute of Electrical and Electronics Engineers </li>
 </ul>
