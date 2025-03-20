@@ -342,7 +342,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 <br>
   
 ### Blogs
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding-left: 20px; text-align: justify;">
 25+ blogs on AI advancements, covering Generative AI, prompt tuning, algorithmic trading, and applications in NLP, supply chains, and financial forecasting. They delve into AI ethics, GAN validation, and AI's transformative impact on healthcare, cybersecurity, and education. <a href="https://medium.com/@rayislam" target="_blank">Click here</a> to read more on Medium.
 </ul>
 <hr>
