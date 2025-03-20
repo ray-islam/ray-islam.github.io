@@ -315,7 +315,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 <br>
 
 ### Awards & Honors
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding: 0; text-align: justify;">
 <li>[1] <a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/" target="_blank">Recognized by <b>Forbes</b> for contributions to Generative AI, Cybersecurity, and Ethics.</a></li>
 <li>[2] <a href="https://www.scribd.com/document/7861970/UOIT-Report-to-Donors" target="_blank"><b>Nathan and Marvin Goldman/Durham Homes Graduate Award</b> for reducing environmental impact of residential construction/maintenance and improving building energy technologies, Canada.</a></li>
 <li>[3] 1st prize, Highly Qualified Personnel (HQP) poster competition award, governed by the Natural Sciences and Engineering Research Council of Canada <b>(NSERC)</b>.</li>
@@ -327,11 +327,10 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 
 ### Editorial Services
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding-left: 20px; text-align: justify;">
-    <li> Reviewer: Book: <i>Wiley</i>, Published by John Wiley & Sons </li>
+    <li> Reviewer: Book: <i>Wiley</i>, Published by John Wiley & Sons</li>
     <li> Reviewer: Conference: <i>International Conference on Learning Representations</i></li>
-    <li> Reviewer: Journal: <i>Reliability Engineering & System Safety</i>, Published by Elsevier </li>
-    <li> Reviewer: Journal: <i>Reliability Engineering & System Safety</i>, Published by Elsevier </li>
-    <li> Associate Editor: <i>Journal of Prognostics and Health Management (JPHM)</i> </li>
+    <li> Reviewer: Journal: <i>Reliability Engineering & System Safety</i>, Published by Elsevier</li>
+    <li> Associate Editor: <i>Journal of Prognostics and Health Management (JPHM)</i></li>
 </ul>
 
 ### Membership
