@@ -327,7 +327,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 
 ### Editorial Services
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-<li>Reviewer: Conference: The International Conference on Learning Representations (ICLR), ICLR Foundation </li>
+<li> Featured in <i>Forbes</i> for contributions to Generative AI, Cybersecurity, and Ethics </li>
 <li>Reviewer: Journal: Reliability Engineering & System Safety, Published by Elsevier </li>
 <li>Associate Editor: Journal of Prognostics and Health Management (JPHM) </li>
 <li>Editor-in-Chief: International Journal for Ethics & AI – To be launched.</li>
@@ -338,6 +338,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 <li> AAAI - Association for the Advancement of Artificial Intelligence</li>
 <li> IEEE - The Institute of Electrical and Electronics Engineers </li>
 </ul>
+<br>
   
 ### Blogs
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
