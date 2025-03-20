@@ -295,6 +295,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 </li>
 </ul>
 <br>
+
 ### <a href="https://www.amazon.com/-/e/B0CP85GTJN">eBooks (amazon.com)</a>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li>eBook1: Ray Islam, LangChain Unveiled: Navigating the Future of LLM, (Amazon, 2023)</li>
@@ -322,7 +323,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 <li>[5]Fellowship funded by the US Department of Energy for PhD research on Nanocomposites, USA.</li>
 <li>[6]Post Graduate Merit Award, Heriot-Watt University, UK </li>
 </ul>
-
+<br>
 ### Editorial Services
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 <li>Reviewer: Conference: The International Conference on Learning Representations (ICLR), ICLR Foundation </li>
