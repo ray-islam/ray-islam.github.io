@@ -164,12 +164,12 @@
 
 <h3 style="margin: 0; padding: 0;">PROJECT/RESEARCH PORTFOLIOs</h3>
 <br>
+<br>
 
 <h3 style="margin: 0; padding: 0;">Industry</h3>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li style="margin: 0; padding: 0;">Specialized in AI/ML for financial fraud detection, wealth management, alpha generation, stock prediction, and point-of-sale anomaly identification. Expertise in multi-modal GenAI for decision-making, FedRAMP-compliant big data architecture, and GenAI-powered OCR for document analysis. Skilled in advanced data mining for cross-project insights, cyber anomaly detection using CNNs and auto-encoders, predictive modeling for KPI forecasting (SCI, CPI, Red Program), and AI-driven computer vision for image reconstruction, edge detection, and object identification.</li>
 </ul>
-<br>
 
 <h3 style="margin: 0; padding: 0;">Academia</h3>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
@@ -200,7 +200,8 @@
   <b>Advisor:</b> <a href="https://www.hw.ac.uk/tex/people/faculty/britta-kalkreuter.htm">Dr. Britta Kalkreuter</a> </p>
   
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-4. <b>MBA</b> in Marketing – LUTON – UK <br>
+4. <b>MBA</b> in Marketing – LUTON – UK </p>
+    <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 5. <b>BSc</b> in Manufacturing Engineering – BUTex - BD, GPA: 4.0 </p>
 
 <h3 style="margin: 0; padding: 0;"> In-progress </h3>
