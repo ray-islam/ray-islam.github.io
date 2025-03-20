@@ -208,7 +208,10 @@
 
 ### Transferred
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-1. Graduate Student in <b>PhD</b> in Mechanical Engineering - Geroge Washington University, DC, USA (Switched to University of Maryland, College Park, MD, USA)2. Graduate Student in <b>PhD</b> in Mechanical Engineering - University of Toronto, Canada (Switched to George Washington Univerity, DC, USA)</p>
+1. Graduate Student in <b>PhD</b> in Mechanical Engineering - Geroge Washington University, DC, USA (Switched to University of Maryland, College Park, MD, USA)
+</p>
+<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">    
+2. Graduate Student in <b>PhD</b> in Mechanical Engineering - University of Toronto, Canada (Switched to George Washington Univerity, DC, USA)</p>
 </p>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
