@@ -224,9 +224,10 @@
 
 ### Industrial Experience
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-Leadership & AI Scientist roles at: <b>Deloitte</b>, USA | <b>Raytheon</b>, USA | <b>Booz Allen Hamilton</b>, USA | <b>Lockheed Martin</b>, USA | <b>General Services Administration (GSA)</b> - Contract | <b>American Institutes for Research (AIR)</b>, Washington, D.C. | <b>Euro Nassa Ltd.</b>, UK | <b>Carrefour</b> - France (Indian Sub-continent Office)|
-</ul>
+Leadership & AI Scientist roles at: 
 <br>
+<b>Deloitte</b>, USA | <b>Raytheon</b>, USA | <b>Booz Allen Hamilton</b>, USA | <b>Lockheed Martin</b>, USA | <b>General Services Administration (GSA)</b> - Contract | <b>American Institutes for Research (AIR)</b>, Washington, D.C. | <b>Euro Nassa Ltd.</b>, UK | <b>Carrefour</b> - France (Indian Sub-continent Office)|
+</ul>
 
 ### Clients Worked For
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
