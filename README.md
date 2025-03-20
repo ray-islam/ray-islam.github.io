@@ -152,13 +152,13 @@
 </body>
 </html>
    
-<h3 style="margin: 0; padding: 0;"> ABOUT </h3>
+### ABOUT
 <ul style="color: green; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself in AI and Machine Learning leadership at top global firms and through teaching at prestigious universities, effectively bridging the gap between academia and industry. He has led high-stakes AI and cybersecurity projects, managing multimillion-dollar initiatives across healthcare, finance, manufacturing, retail, and insurance. With teams across three continents and five degrees from five countries, he showcases global expertise. A seasoned researcher, associate editor, and published author, he has been recognized in Marquis Who’s Who in America (2024-25).</b>
 </ul>
 <hr>
 
-## RESEARCH INTEREST
+### RESEARCH INTEREST
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">Finance, Generative AI, AI in Cyber Security, Ethics in AI</p>
 <hr>
 
