@@ -162,7 +162,7 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">Finance, Generative AI, AI in Cyber Security, Ethics in AI</p>
 <hr>
 
-## PROJECT/RESEARCH PORTFOLIO
+### PROJECT/RESEARCH PORTFOLIO
 
 <h3 style="margin: 0; padding: 0;">Industry</h3>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
@@ -176,7 +176,7 @@
 </ul>
 <hr>
 
-## EDUCATION 
+### EDUCATION 
 
 ### Complete 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
@@ -209,7 +209,7 @@
 ### Transferred
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 1. Graduate Student in <b>PhD</b> in Mechanical Engineering - Geroge Washington University, DC, USA (Switched to University of Maryland, College Park, MD, USA)</p>
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
+<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 2. Graduate Student in <b>PhD</b> in Mechanical Engineering - University of Toronto, Canada (Switched to George Washington Univerity, DC, USA)</p>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
@@ -218,17 +218,16 @@
 
 <hr>
 
-<h3 style="margin: 0; padding: 0;"> EXPERIENCE </h3>
+### EXPERIENCE
 
-<h3 style="margin: 0; padding: 0;"> Industrial Experience </h3>
+### Industrial Experience
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 Leadership & AI Scientist roles at:
 <br>
 <b>Deloitte</b>, USA | <b>Raytheon</b>, USA | <b>Booz Allen Hamilton</b>, USA | <b>Lockheed Martin</b>, USA | <b>General Services Administration (GSA)</b> - Contract | <b>American Institutes for Research (AIR)</b>, Washington, D.C. | <b>Euro Nassa Ltd.</b>, UK | <b>Carrefour</b> - France (Indian Sub-continent Office)|
 </ul>
-<br>
 
-<h3 style="margin: 0; padding: 0;"> Clients Worked For </h3>
+### Clients Worked For
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li><b>Finance:</b> Berkshire Hathaway, USA | Capital One Bank, USA | U.S. Department of Commerce, USA </li>
 <li><b>Health Care:</b> US Department of Vaterans Affairs, USA |Centers for Medicare & Medicaid Services (CMS), USA | Pharmacy Data Analysis (e.g. CVS, Walgreens), USA</li>
@@ -236,7 +235,7 @@ Leadership & AI Scientist roles at:
 </ul>
 <hr>
 
-<h3 style="margin: 0; padding: 0;"> Academic Experience </h3>
+### Academic Experience
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li>
   <b>Adjunct Professor</b>, Information Sciences and Technology, <a href="https://www.coursicle.com/gmu/professors/Mohammad+Islam/">George Mason University, Fairfax, VA, USA</a> 
@@ -263,16 +262,17 @@ Leadership & AI Scientist roles at:
 </li>
 </ul>
 
-<h3 style="margin: 0; padding: 0;"> PUBLICATIONS & AWARDS </h3>
-<br>
+### PUBLICATIONS & AWARDS
 
-<h3 style="margin: 0; padding: 0;"> Book : [Check for Global Availability Here](book.md) </h3>
+<h3 style="margin: 0; padding: 0;"> Book </h3>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b> <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.</a> 
+    
+[Check for Global Availability Here](book.md)
 </b></ul>
 <br>
 
-<h3 style="margin: 0; padding: 0;"> Peer-Reviewed Research Journal </h3>
+### Peer-Reviewed Research Journal
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li> [J1]  <a href="https://doi.org/10.22215/jphm.v3i1.3641">Islam, R. and Sandborn, P., (2023), Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems, Journal of Prognostics and Health Management, 3(1), 9–36. February https://doi.org/10.22215/jphm.v3i1.3641.</a></li>
 <li> [J2] <a href="https://doi.org/10.1177/0892705712439563"> Adhikary, K., Islam, R., Rizvi, G., Park, C., (2013), A Paper on Optimization of Process Conditions, Journal of Thermoplastic Composite Materials, 26(8):1127-1144, September, DOI: 10.1177/0892705712439563.</a></li>
