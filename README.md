@@ -172,7 +172,7 @@
 
 ### Academia
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-Developed novel ML-based RUL estimation for software systems, analyzing processor and clock speed impact. Optimized nanosphere solubility for targeted drug delivery and enhanced processes for energy-efficient composite materials.
+<li style="margin: 0; padding: 0;">Developed novel ML-based RUL estimation for software systems, analyzing processor and clock speed impact. Optimized nanosphere solubility for targeted drug delivery and enhanced processes for energy-efficient composite materials.</li>
 </ul>
 <hr>
 
