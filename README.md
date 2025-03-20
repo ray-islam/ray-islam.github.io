@@ -324,8 +324,9 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 <li>[6] Post Graduate <b>Merit Award</b>, Heriot-Watt University, UK </li>
 </ul>
 <br>
+
 ### Editorial Services
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li>Reviewer: Conference: The International Conference on Learning Representations (ICLR), ICLR Foundation </li>
 <li>Reviewer: Journal: Reliability Engineering & System Safety, Published by Elsevier </li>
 <li>Associate Editor: Journal of Prognostics and Health Management (JPHM) </li>
