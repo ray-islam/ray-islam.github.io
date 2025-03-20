@@ -357,9 +357,11 @@ English | Bengali | Hindi | Urdu | French- basic |Arabic-basic.
 
 ### Professional Training
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding-left: 20px; text-align: justify;">
+<li> 6.86x: Machine Learning with Python-From Linear Models to Deep Learning, Massachusetts Institute of Technology (MIT), MA</li>
 <li> 6.419x: Certificate for Data Analysis: Statistical Modeling and Computation in Applications, MIT, MA</li>
-<li> Tackling the Challenges of Big Data – Massachusetts Institute of Technology (MIT), MA</li>
-<li> 18.6501x: Fundamentals of Statistics, Massachusetts Institute of Technology (MIT), MA</li>
+<li> 6.43x: Probability - The Science of Uncertainty and Data, MIT, MA</li>
+<li> 18.6501x: Fundamentals of Statistics, MIT, MA</li>
+<li> Tackling the Challenges of Big Data, MIT, MA</li>
 <li> Teaching best practices training - University of Maryland, College Park, MD, USA</li>
 <li> 200-A - FedRAMP System Security Plan (SSP) Required Documents</li>
 <li> AWS Security Fundamentals (Second Edition)</li>
