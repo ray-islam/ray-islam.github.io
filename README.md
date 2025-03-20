@@ -282,12 +282,14 @@ Leadership & AI Scientist roles at:
 
 ### Conference Papers & Poster Presentations - Go to [conference page](conference.md)
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-<li> [C1]       <a href="https://link.springer.com/chapter/10.1007/978-3-031-62281-6_34">Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK, Published as Proceedings on Springer Nature, DOI:
+<li> [C1]       Islam, R. and Sandborn, P., (2025), Multimodal Generative AI for Story Point Estimation, IEEE Conference for AI, 11-12 May 2025, California, USA, Accepted 
+</li>
+<li> [C2]       <a href="https://link.springer.com/chapter/10.1007/978-3-031-62281-6_34">Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK, Published as Proceedings on Springer Nature, DOI:
 https://doi.org/10.1007/978-3-031-62281-6_34</a> 
 </li>
-<li> [C2]       <a href="https://doi.org/10.1115/DETC2021-70508">Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508</a> 
+<li> [C3]       <a href="https://doi.org/10.1115/DETC2021-70508">Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508</a> 
 </li>
-<li> [C3-C11]   <a href="https://www.researchgate.net/profile/Rubyet-Islam/publications">9 conference papers presented at esteemed conferences in the USA and Canada.</a>
+<li> [C4-C12]   <a href="https://www.researchgate.net/profile/Rubyet-Islam/publications">9 conference papers presented at esteemed conferences in the USA and Canada.</a>
 </li>
 <li> [P1-P5]    <a href="https://www.researchgate.net/profile/Rubyet-Islam/publications">5 posters presented at mainstream conferences in the USA and Canada. </a>
 </li>
