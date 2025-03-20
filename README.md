@@ -153,7 +153,7 @@
 </html>
    
 ## ABOUT
-<ul style="color: green; font-family: 'Futura', serif; font-size: 17px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
+<ul style="color: green; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself in AI and Machine Learning leadership at top global firms and through teaching at prestigious universities, effectively bridging the gap between academia and industry. He has led high-stakes AI and cybersecurity projects, managing multimillion-dollar initiatives across healthcare, finance, manufacturing, retail, and insurance. With teams across three continents and five degrees from five countries, he showcases global expertise. A seasoned researcher, associate editor, and published author, he has been recognized in Marquis Who’s Who in America (2024-25).</b>
 </ul>
 <hr>
@@ -166,7 +166,7 @@
 
 ### Industry
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-Specialized in AI/ML for financial fraud detection, wealth management, alpha generation, stock prediction, and point-of-sale anomaly identification. Expertise in multi-modal GenAI for decision-making, FedRAMP-compliant big data architecture, and GenAI-powered OCR for document analysis. Skilled in advanced data mining for cross-project insights, cyber anomaly detection using CNNs and auto-encoders, predictive modeling for KPI forecasting (SCI, CPI, Red Program), and AI-driven computer vision for image reconstruction, edge detection, and object identification.
+<li style="margin: 0; padding: 0;">Specialized in AI/ML for financial fraud detection, wealth management, alpha generation, stock prediction, and point-of-sale anomaly identification. Expertise in multi-modal GenAI for decision-making, FedRAMP-compliant big data architecture, and GenAI-powered OCR for document analysis. Skilled in advanced data mining for cross-project insights, cyber anomaly detection using CNNs and auto-encoders, predictive modeling for KPI forecasting (SCI, CPI, Red Program), and AI-driven computer vision for image reconstruction, edge detection, and object identification.</li>
 </ul>
 <br>
 
