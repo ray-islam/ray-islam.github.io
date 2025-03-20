@@ -159,7 +159,7 @@
 <hr>
 
 ## RESEARCH INTEREST
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px;"><b>Finance, Generative AI, AI in Cyber Security, Ethics in AI</b></p>
+<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">Finance, Generative AI, AI in Cyber Security, Ethics in AI</p>
 <hr>
 
 ## PROJECT/RESEARCH PORTFOLIOs
