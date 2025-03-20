@@ -315,11 +315,11 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a>
 
 ### Awards & Honors
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-1.	<a href="https://www.scribd.com/document/7861970/UOIT-Report-to-Donors" target="_blank">Nathan and Marvin Goldman/Durham Homes Graduate Award for reducing environmental impact of residential construction/maintenance and improving building energy technologies, Canada.</a><br>
-2.	1st prize, Highly Qualified Personnel (HQP) poster competition award, governed by the Natural Sciences and Engineering Research Council of Canada (NSERC).<br>
-3.	The NSERC Strategic Network Grant for PhD research, Canada.<br>
-4.	Fellowship funded by the US Department of Energy for PhD research on Nanocomposites, USA.<br>
-5.	Post Graduate Merit Award, Heriot-Watt University, UK
+<li><a href="https://www.scribd.com/document/7861970/UOIT-Report-to-Donors" target="_blank">Nathan and Marvin Goldman/Durham Homes Graduate Award for reducing environmental impact of residential construction/maintenance and improving building energy technologies, Canada.</a></li><br>
+<li>1st prize, Highly Qualified Personnel (HQP) poster competition award, governed by the Natural Sciences and Engineering Research Council of Canada (NSERC).</li><br>
+<li>The NSERC Strategic Network Grant for PhD research, Canada.</li><br>
+<li>Fellowship funded by the US Department of Energy for PhD research on Nanocomposites, USA.</li></li><br>
+<li></li>Post Graduate Merit Award, Heriot-Watt University, UK </ul>>
 </ul>
 
 ### Editorial Services
