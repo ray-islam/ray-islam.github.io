@@ -145,7 +145,7 @@
 <b><a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/" target="_blank">- Forbes</a></b>
 </ul>
 
-        <img src="assets/genai.png" alt="Generative AI Book" class="book-image genai-book">
+        <img src="assets/Forbes-1.jpg" alt="Generative AI Book" class="book-image genai-book">
     </div>
 
     <hr>
