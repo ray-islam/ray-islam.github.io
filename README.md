@@ -144,10 +144,9 @@
   <strong><em> Dr. Ray Islam (Mohammad Rubyet Islam,PhD) is stepping in with a message in the artificial intelligence (AI) field, where innovation races ahead and ethical concerns trail behind.</em></strong> 
 <b><a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/" target="_blank">- Forbes</a></b>
 </ul>
-<br>
-        <img src="assets/Forbes-1.jpg" alt="Generative AI Book" class="book-image genai-book">
-    </div>
-
+  </div>
+<br>    
+<img src="assets/Forbes-1.jpg" alt="Generative AI Book" class="book-image genai-book">
     <hr>
 
 </body>
