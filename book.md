@@ -231,6 +231,7 @@ image: ""  # This prevents any image from being displayed
 <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Wiley</a> |
 <a href="https://www.amazon.com/-/es/Mohammad-Rubyet-Islam/dp/1394279264">Amazon - USA</a> |
 <a href="https://www.barnesandnoble.com/w/generative-ai-cybersecurity-and-ethics-mohammad-rubyet-islam/1145560161">Barnes & Noble</a> |
+<a href="https://www.oreilly.com/library/view/generative-ai-cybersecurity/9781394279265/b02.xhtml">O'REILLY</a> |
 <a href="https://www.walmart.com/ip/Generative-Ai-Cybersecurity-and-Ethics-Hardcover-9781394279265/5611129734?wmlspartner=wlpa&selectedSellerId=0&adid=222222222275611129734_148689117835_19950570663&wl0=&wl1=g&wl2=c&wl3=654444951729&wl4=pla-2072905014157&wl5=9008126&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=online&wl12=5611129734&veh=sem&gad_source=1&gclid=Cj0KCQjwzby1BhCQARIsAJ_0t5MpTzLZpX3HYziW0slNIxaKbmpr1BeDvhTAjfLZi053GMG66FnsVpwaAvZTEALw_wcB">Walmart</a> |
 <a href="https://www.thriftbooks.com/w/generative-ai-cybersecurity-and-ethics_mohammad-rubyet-islam/52953269/?srsltid=AfmBOoo9HRx8qCRBSVpOx-UMbBTGKBP4GEExsGbc9ivq88ggniYuKbZX#edition=71390965&idiq=64375017">thriftbooks</a> |
 <a href="https://www.powells.com/book/generative-ai-cybersecurity-and-ethics-9781394279265?srsltid=AfmBOopmOm7c_iJXvr9XNtWASWR8W1BzL7axcTLe7TTfby2iND-QXBrG">POWELL'S City of Books</a> |
