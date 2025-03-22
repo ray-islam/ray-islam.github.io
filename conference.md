@@ -116,7 +116,7 @@ filename: conference.md
     <li><a href="#cancer-research-symposium">Symposium on Cancer Research Trends and Cybersecurity Challenges 2023</a></li>
 </ul>
 
-
+<hr>
 
 <h2 id="IEEE-CAI" style="color: green; font-size: 16px;">
     <a href="https://cai.ieee.org/2025/" style="color: green; font-size: 18px;"> IEEE COnference on AI</a>
