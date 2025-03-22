@@ -111,9 +111,27 @@ filename: conference.md
 </html>
 
 <ul>
+     <li><a href="#IEEE-CAI">IEEE Conference on Artificial Intelligence 2025</a></li>
     <li><a href="#computing-conference">Computing Conference 2024</a></li>
     <li><a href="#cancer-research-symposium">Symposium on Cancer Research Trends and Cybersecurity Challenges 2023</a></li>
 </ul>
+
+
+
+<h2 id="IEEE-CAI" style="color: green; font-size: 16px;">
+    <a href="https://cai.ieee.org/2025/" style="color: green; font-size: 18px;"> IEEE COnference on AI</a>
+</h2>
+
+<ul style="color: black; font-family: 'Futura', serif; font-size: 14px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
+The 2025 IEEE CAI is an international conference and exhibition focused on artificial intelligence with specific industry applications. Connecting AI enterprise leaders and innovators from industry, government, start-ups and academics, at IEEE CAI you’ll meet face-to-face with researchers, experts and providers for inspiration, solutions, and ideas you need to know.
+</ul>
+<ul style="color: black; font-family: 'Futura', serif; font-size: 12px; padding: 2; margin: 0; list-style: none;text-align: justify;">
+<b>Presenting Peer-Reviewed Research Paper:</b> Islam, R. and Sandborn, P., (2024), Multimodal Generative AI for Story Point Estimation, IEEE Conference on AI, 5-7 May 2025, California, USA, DOI: To be published. 
+<br>
+<br>
+</ul>
+
+
 <hr>
 
 <h2 id="computing-conference" style="color: green; font-size: 16px;">
