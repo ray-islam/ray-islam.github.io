@@ -119,7 +119,7 @@ filename: conference.md
 <hr>
 
 <h2 id="IEEE-CAI" style="color: green; font-size: 16px;">
-    <a href="https://cai.ieee.org/2025/" style="color: green; font-size: 18px;"> IEEE COnference on AI</a>
+    <a href="https://cai.ieee.org/2025/" style="color: green; font-size: 18px;"> IEEE Conference on AI 2025</a>
 </h2>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 14px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
