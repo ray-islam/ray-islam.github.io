@@ -305,7 +305,6 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a> </li>
 <br>
 
 ### Awards & Honors
-
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding: 20px; text-align: justify;">
 <li><a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/" target="_blank">Recognized by <b>Forbes</b> for contributions to Generative AI, Cybersecurity, and Ethics.</a></li>
 <li><a href="https://www.24-7pressrelease.com/press-release/515473/dr-ray-islam-displays-excellence-in-education-and-technology"> Inducted as Marquis Who's Who 2024-25 for Excellence in Education and Technology</a></li>   
@@ -333,7 +332,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a> </li>
 <br>
   
 ### <a href="https://rayislam.medium.com/">Blogs</a>
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding-left: 20px; text-align: justify;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding-left: 0px; text-align: justify;">
 25+ blogs on AI advancements, covering Generative AI, prompt tuning, algorithmic trading, and applications in NLP, supply chains, and financial forecasting. They delve into AI ethics, GAN validation, and AI's transformative impact on healthcare, cybersecurity, and education.
 </ul>
 <hr>
