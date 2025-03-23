@@ -269,7 +269,7 @@ Leadership & AI Scientist roles at:
 ### Book
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.</a> 
-<a href="https://ray-islam.github.io/book.html"> (Check for Global Availability)</a>
+<a href="https://ray-islam.github.io/book.html"> ...Check here for global availability</a>
 </ul>
 <br>
 
@@ -288,7 +288,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a> </li>
 <br>
 
 ### <a href="https://www.amazon.com/-/e/B0CP85GTJN">eBooks (amazon.com)</a>
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 14px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li>eBook1: Ray Islam, LangChain Unveiled: Navigating the Future of LLM, (Amazon, 2023)</li>
 <li>eBook2: Ray lam, Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense, (Amazon, 2023)</li>
 <li>eBook3: Ray Islam, Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs), (Amazon 2023)</li>
@@ -341,7 +341,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a> </li>
 ## PROFESSIONAL DEVELOPMENT
 
 ### Languages Speak: 
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding-left: 20px; text-align: justify;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding-left: 0; text-align: justify;">
 English | Bengali | Hindi | Urdu | French- basic |Arabic-basic.
 </ul>
 <br>
