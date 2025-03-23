@@ -273,22 +273,18 @@ Leadership & AI Scientist roles at:
 </ul>
 <br>
 
-### Peer-Reviewed Research Journal
+### Peer-Reviewed Research Journals/Conferences/Poster Presentations
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li> [J1]  <a href="https://doi.org/10.22215/jphm.v3i1.3641">Islam, R. and Sandborn, P., (2023), Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems, Journal of Prognostics and Health Management, 3(1), 9–36. February https://doi.org/10.22215/jphm.v3i1.3641.</a></li>
-<li> [J2] <a href="https://doi.org/10.1177/0892705712439563"> Adhikary, K., Islam, R., Rizvi, G., Park, C., (2013), A Paper on Optimization of Process Conditions, Journal of Thermoplastic Composite Materials, 26(8):1127-1144, September, DOI: 10.1177/0892705712439563.</a></li>
-<li> [J3]  <a href="https://doi.org/10.1177/0892705710388590"> Adhikary, K., Islam, R., Rizvi, G., Park, C., (2011), A paper on  Process Conditions Optimization, Journal of Thermoplastic Composite Materials, 24(2):155-17, March, DOI: 10.1177/0892705710388590.</a></li>
-</ul>
-<br>
-
-<h3 style="margin: 0; padding: 0;"> Conference Papers & Poster Presentations - Go to [conference page](conference.md) </h3>
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-<li> [C1]       Islam, R. and Sandborn, P., (2025), Multimodal Generative AI for Story Point Estimation, IEEE Conference for AI, 11-12 May 2025, California, USA, Accepted 
-</li>
+<li> [C1]       Islam, R. and Sandborn, P., (2025), Multimodal Generative AI for Story Point Estimation, IEEE Conference for AI, 11-12 May 2025, California, USA, Accepted </li>
 <li> [C2]       <a href="https://link.springer.com/chapter/10.1007/978-3-031-62281-6_34">Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK, Published as Proceedings on Springer Nature, DOI:
 https://doi.org/10.1007/978-3-031-62281-6_34</a> 
 </li>
 <li> [C3]       <a href="https://doi.org/10.1115/DETC2021-70508">Islam, R. and Sandborn, P., (2021), Application of Prognostics and Health Management (PHM) to Software System Fault and Remaining Useful Life (RUL) Prediction, ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, August, DOI: 10.1115/DETC2021-70508</a> 
+<li> [J2] <a href="https://doi.org/10.1177/0892705712439563"> Adhikary, K., Islam, R., Rizvi, G., Park, C., (2013), A Paper on Optimization of Process Conditions, Journal of Thermoplastic Composite Materials, 26(8):1127-1144, September, DOI: 10.1177/0892705712439563.</a></li>
+<li> [J3]  <a href="https://doi.org/10.1177/0892705710388590"> Adhikary, K., Islam, R., Rizvi, G., Park, C., (2011), A paper on  Process Conditions Optimization, Journal of Thermoplastic Composite Materials, 24(2):155-17, March, DOI: 10.1177/0892705710388590.</a></li>
+</ul>
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 </li>
 <li> [C4-C12]   <a href="https://www.researchgate.net/profile/Rubyet-Islam/publications">9 conference papers presented at esteemed conferences in the USA and Canada.</a>
 </li>
