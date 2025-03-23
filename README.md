@@ -372,7 +372,7 @@ English | Bengali | Hindi | Urdu | French- basic |Arabic-basic.
 ### Invited Panels and Guest Speaker
 
 **USA**
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding-left: 0; text-align: justify;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding-left: 20px; text-align: justify;">
 <li>	Invited Guest Speaker- Symposium: The trends of Cancer Research, and Dynamic Challenges of CyberSecurity, Nov 2023, Supported by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA</li>
 <li>	Hackathon Judge - AI based models for Crypto Currency, 2022, by Deloitte at the University of Maryland.</li>
 </ul>
