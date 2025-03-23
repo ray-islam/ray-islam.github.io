@@ -319,9 +319,9 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a> </li>
 
 ### Editorial Services
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding-left: 20px; text-align: justify;">
-    <li> Reviewer:Book: <i>Wiley</i>, Published by John Wiley & Sons</li>
-    <li> Reviewer:Conference: <i>International Conference on Learning Representations</i></li>
-    <li> Reviewer:Journal: <i>Reliability Engineering & System Safety</i>, Published by Elsevier</li>
+    <li> Book Reviewer: <i>Wiley</i>, Published by John Wiley & Sons</li>
+    <li> Conference Reviewer: <i>International Conference on Learning Representations</i></li>
+    <li> Journal Reviewer: <i>Reliability Engineering & System Safety</i>, Published by Elsevier</li>
     <li> Associate Editor: <i>Journal of Prognostics and Health Management (JPHM)</i></li>
 </ul>
 <br>
