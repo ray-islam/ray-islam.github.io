@@ -203,14 +203,14 @@
 
 ### In-progress
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-6. <b>Micro Masters</b> in Statistics and Data Science - Massachusetts Institute of Technology (MIT), USA </p>
+6. <b>Micro Masters</b> in Statistics and Data Science - MASSACHUSETTS INSTITUTE of TECHNOLOGY (MIT), USA </p>
 
 ### Transferred
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-1. Graduate Student in <b>PhD</b> in Mechanical Engineering - Geroge Washington University, DC, USA (Switched to University of Maryland, College Park, MD, USA)
+<p style="color: black; font-family: 'Futura', serif; font-size: 14px;">
+1. Graduate Student in <b>PhD</b> in Mechanical Engineering - GEORGE WASHINGTON UNIVERISTY, DC, USA (Switched to University of Maryland, College Park, MD, USA)
 </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">    
-2. Graduate Student in <b>PhD</b> in Mechanical Engineering - University of Toronto, Canada (Switched to George Washington Univerity, DC, USA)
+2. Graduate Student in <b>PhD</b> in Mechanical Engineering - UNIVERISTY OF TORONTO, Canada (Switched to George Washington Univerity, DC, USA)
 </p>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
