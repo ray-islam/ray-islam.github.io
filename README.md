@@ -266,7 +266,12 @@ Leadership & AI Scientist roles at:
 
 ### PUBLICATIONS & AWARDS
 
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding: 0; text-align: justify;">
+    
 ### Awards & Honors
+
+</ul>
+
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding: 20px; text-align: justify;">
 <li><a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/" target="_blank">Recognized by <b>Forbes</b> for contributions to Generative AI, Cybersecurity, and Ethics.</a></li>
 <li><a href="https://www.24-7pressrelease.com/press-release/515473/dr-ray-islam-displays-excellence-in-education-and-technology"> Inducted as Marquis Who's Who 2024-25 for Excellence in Education and Technology</a></li>   
