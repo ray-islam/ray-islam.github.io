@@ -163,7 +163,6 @@
 <hr>
 
 ### PROJECT/RESEARCH PORTFOLIO
-
 <h3 style="margin: 0; padding: 0;">Industry</h3>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li style="margin: 0; padding: 0;">Specialized in AI/ML for financial fraud detection, wealth management, alpha generation, stock prediction, and point-of-sale anomaly identification. Expertise in multi-modal GenAI for decision-making, FedRAMP-compliant big data architecture, and GenAI-powered OCR for document analysis. Skilled in advanced data mining for cross-project insights, cyber anomaly detection using CNNs and auto-encoders, predictive modeling for KPI forecasting (SCI, CPI, Red Program), and AI-driven computer vision for image reconstruction, edge detection, and object identification.</li>
@@ -269,7 +268,7 @@ Leadership & AI Scientist roles at:
 ### Book
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.</a> 
-<a href="https://ray-islam.github.io/book.html">Check for Global Availability</a>
+<a href="https://ray-islam.github.io/book.html"> (Check for Global Availability)</a>
 </ul>
 <br>
 
