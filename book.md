@@ -225,6 +225,20 @@ image: ""  # This prevents any image from being displayed
 </ul>
 <br>
 
+
+<title>Embedded YouTube Video</title>
+  <h3>Watch the Video</h3>
+  <iframe width="320" height="180" 
+          src="https://www.youtube.com/embed/ZTrtQ_AAdrA" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+
+
+
+
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b>Availabile at</b> <br>
 <b>
