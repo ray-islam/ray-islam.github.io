@@ -223,11 +223,10 @@ image: ""  # This prevents any image from being displayed
   <strong><em>At its heart, “Generative AI, Cybersecurity, and Ethics” is a call to action. It invites readers to engage with the technology as creators or users but as stewards of its potential.</em></strong> 
 <b><a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/" target="_blank">- Forbes</a></b>
 </ul>
-<br>
 
-
+<!-- This section is for adding a link to YouTube video -->
 <title>Embedded YouTube Video</title>
-  <h3>Watch the Video</h3>
+  <h3>Book Introduction – YouTube Video</h3>
   <iframe width="320" height="180" 
           src="https://www.youtube.com/embed/ZTrtQ_AAdrA" 
           title="YouTube video player" 
@@ -235,9 +234,7 @@ image: ""  # This prevents any image from being displayed
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
   </iframe>
-
-
-
+<br>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b>Availabile at</b> <br>
