@@ -74,7 +74,7 @@ filename: awardsnrecognitions.md
 </h3>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 14px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"> 
-    Dr. Ray Islam (Mohammad Rubyet Islam,PhD) is stepping in with a message in the artificial intelligence (AI) field, where innovation races ahead and ethical concerns trail behind. <a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/" target="_blank" style="text-decoration: none; color: #000080;"> Read more in Bengali...</a>
+    Dr. Ray Islam (Mohammad Rubyet Islam,PhD) is stepping in with a message in the artificial intelligence (AI) field, where innovation races ahead and ethical concerns trail behind. <a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/" target="_blank" style="text-decoration: none; color: #000080;"> Read more...</a>
     </p> 
 </ul>
     </div>
