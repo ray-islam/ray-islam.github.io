@@ -223,6 +223,7 @@ image: ""  # This prevents any image from being displayed
   <strong><em>At its heart, “Generative AI, Cybersecurity, and Ethics” is a call to action. It invites readers to engage with the technology as creators or users but as stewards of its potential.</em></strong> 
 <b><a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/" target="_blank">- Forbes</a></b>
 </ul>
+<br>
 
 <!-- This section is for adding a link to YouTube video -->
 <title>Embedded YouTube Video</title>
