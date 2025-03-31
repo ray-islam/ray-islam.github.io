@@ -226,7 +226,7 @@ image: ""  # This prevents any image from being displayed
 
 <!-- This section is for adding a link to YouTube video -->
 <title>Embedded YouTube Video</title>
-  <h3>Book Introduction – YouTube Video</h3>
+  <b>Book Introduction – YouTube Video</b>
   <iframe width="320" height="180" 
           src="https://www.youtube.com/embed/ZTrtQ_AAdrA" 
           title="YouTube video player" 
