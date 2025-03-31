@@ -225,9 +225,9 @@ image: ""  # This prevents any image from being displayed
 </ul>
 <br>
 
-<!-- This section is for adding a link to YouTube video -->
+<!-- This section is for adding link to YouTube video -->
 <title>Embedded YouTube Video</title>
-  <b>Book Introduction – YouTube Video</b>
+  <b style="color: black;">Book Introduction – YouTube Video</b>
   <iframe width="320" height="180" 
           src="https://www.youtube.com/embed/ZTrtQ_AAdrA" 
           title="YouTube video player" 
