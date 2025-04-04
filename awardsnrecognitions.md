@@ -68,7 +68,7 @@ filename: awardsnrecognitions.md
 
  <div id="award0" class="award-section">
    <h3>
-<a href="https://forbesswitzerland.com/ray-islams-book-explores-ethics-in-generative-ai-and-cybersecurity/" target="_blank" style="text-decoration: none; color: #000080;">
+<a target="_blank" style="text-decoration: none; color: #000080;">
     Featured in Forbes
     </a>
 </h3>
