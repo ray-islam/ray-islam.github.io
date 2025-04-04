@@ -227,7 +227,6 @@ Leadership & AI Scientist roles at:
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b>Deloitte</b>, USA | <b>Raytheon</b>, USA (Fortune 500) | <b>Booz Allen Hamilton</b>, USA (Fortune 500) | <b>Lockheed Martin</b>, USA (Fortune 500) | <b>General Services Administration (GSA)</b> - Contract | <b>American Institutes for Research (AIR)</b>, Washington, D.C. | <b>Euro Nassa Ltd.</b>, UK | <b>Carrefour</b> (Fortune Global 500)|
 </ul>
-<br>
 
 <ul style="color: green; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 Clients Worked For 
