@@ -224,13 +224,15 @@
 <ul style="color: green; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 Leadership & AI Scientist roles at: 
 </ul>
-<br>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b>Deloitte</b>, USA | <b>Raytheon</b>, USA (Fortune 500) | <b>Booz Allen Hamilton</b>, USA (Fortune 500) | <b>Lockheed Martin</b>, USA (Fortune 500) | <b>General Services Administration (GSA)</b> - Contract | <b>American Institutes for Research (AIR)</b>, Washington, D.C. | <b>Euro Nassa Ltd.</b>, UK | <b>Carrefour</b> (Fortune Global 500)|
 </ul>
 <br>
 
-### Clients Worked For
+<ul style="color: green; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
+Clients Worked For 
+</ul>
+
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li><b>Finance:</b> Berkshire Hathaway, USA | Capital One Bank, USA | U.S. Department of Commerce, USA </li>
 <li><b>Health Care:</b> US Department of Vaterans Affairs, USA |Centers for Medicare & Medicaid Services (CMS), USA | Pharmacy Data Analysis (e.g. CVS, Walgreens), USA</li>
