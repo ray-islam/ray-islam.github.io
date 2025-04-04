@@ -153,7 +153,7 @@
    
 ### ABOUT
 <ul style="color: green; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-<b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself in AI and Machine Learning leadership at top global firms and through teaching at prestigious universities, effectively bridging the gap between academia and industry. He has led high-stakes AI and cybersecurity projects, managing multimillion-dollar initiatives across healthcare, finance, manufacturing, retail, and insurance. With teams across three continents and five degrees from five countries, he showcases global expertise. A seasoned researcher, associate editor, and published author, he has been recognized in Marquis Who’s Who in America (2024-25).</b>
+<b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself as a global leader in Artificial Intelligence and Machine Learning through roles by working for Fortune 500 and Fortune Global 500 companies and by teaching at prestigious universities—effectively bridging the gap between academia and industry. He has led high-stakes AI and cybersecurity projects, managing multimillion-dollar initiatives across healthcare, finance, manufacturing, retail, and insurance. With cross-functional teams across three continents and five academic degrees from five countries, he brings a uniquely global perspective to innovation. A seasoned researcher, associate editor, technical speaker, and published author, Dr. Islam has been recognized in Marquis Who’s Who in America (2024–2025) for his outstanding contributions to science and technology.</b>
 </ul>
 <hr>
 
