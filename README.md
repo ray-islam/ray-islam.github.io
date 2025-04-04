@@ -235,7 +235,7 @@ Clients Worked For
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li><b>Finance:</b> BlackRock, USA | Capital One Bank, USA (Fortune 500) | U.S. Department of Commerce, USA </li>
 <li><b>Health Care:</b> US Department of Vaterans Affairs, USA |Centers for Medicare & Medicaid Services (CMS), USA | Pharmacy Data Analysis (e.g. CVS (Fortune 500), Walgreens (Fortune 500)), USA</li>
-<li> <b>Others:</b> The White House, USA | US Airforce (USAF) | The United States Department of Justice (DOJ) | The National Aeronautics and Space Administration (NASA), USA | US Department of Education | Wal-mart  (#1 in both Fortune 500 and  (Fortune Global 500)) </li>
+<li> <b>Others:</b> The White House, USA | US Airforce (USAF) | The United States Department of Justice (DOJ) | The National Aeronautics and Space Administration (NASA), USA | US Department of Education | Wal-mart  (#1 in both Fortune 500 and Fortune Global 500) </li>
 </ul>
 <br>
 
