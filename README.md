@@ -222,7 +222,7 @@
 
 ### Industrial Experience
 <ul style="color: green; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-Leadership & AI Scientist roles at: 
+Leadership & AI Scientist roles at 
 </ul>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b>Deloitte</b>, USA | <b>Raytheon</b>, USA (Fortune 500) | <b>Booz Allen Hamilton</b>, USA (Fortune 500) | <b>Lockheed Martin</b>, USA (Fortune 500) | <b>General Services Administration (GSA)</b> - Contract | <b>American Institutes for Research (AIR)</b>, Washington, D.C. | <b>Euro Nassa Ltd.</b>, UK | <b>Carrefour</b> (Fortune Global 500)|
@@ -237,7 +237,6 @@ Clients Worked For
 <li><b>Health Care:</b> US Department of Vaterans Affairs, USA |Centers for Medicare & Medicaid Services (CMS), USA | Pharmacy Data Analysis (e.g. CVS, Walgreens), USA</li>
 <li> <b>Others:</b> The White House, USA | US Airforce (USAF) | The United States Department of Justice (DOJ) | The National Aeronautics and Space Administration (NASA), USA | US Department of Education </li>
 </ul>
-<hr>
 
 ### Academic Experience
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
@@ -265,6 +264,7 @@ Clients Worked For
   <ul>Courses Taught: Statistics and Probability for Engineers | Engineering Design </ul>
 </li>
 </ul>
+<hr>
 
 ### PUBLICATIONS & AWARDS
 
