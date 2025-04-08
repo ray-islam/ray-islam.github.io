@@ -153,7 +153,7 @@
    
 ### ABOUT
 <ul style="color: green; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-<b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself as a global leader in Artificial Intelligence and Machine Learning through roles by working for Fortune 500 and Fortune Global 500 companies and by teaching at prestigious universities—effectively bridging the gap between academia and industry. He has led high-stakes AI and cybersecurity projects, managing multimillion-dollar initiatives across healthcare, finance, manufacturing, retail, and insurance. With cross-functional teams across three continents and five academic degrees from five countries, he brings a uniquely global perspective to innovation. A seasoned researcher, associate editor, technical speaker, and published author, Dr. Islam has been recognized in Marquis Who’s Who in America (2024–2025) for his outstanding contributions to science and technology.</b>
+<b> Dr. Ray Islam (Mohammad Rubyet Islam) has distinguished himself as a global leader in Artificial Intelligence and Machine Learning by working for multiple Fortune 500 and Fortune Global 500 companies and by teaching at prestigious universities—effectively bridging the gap between academia and industry. He has led high-stakes AI and cybersecurity projects, managing multimillion-dollar initiatives across healthcare, finance, manufacturing, retail, and insurance. With cross-functional teams across three continents and five academic degrees from five countries, he brings a uniquely global perspective to innovation. A seasoned researcher, associate editor, technical speaker, and published author, Dr. Islam has been recognized in Marquis Who’s Who in America (2024–2025) for his outstanding contributions to science and technology.</b>
 </ul>
 <hr>
 
@@ -235,7 +235,7 @@ Clients Worked For
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li><b>Finance:</b> BlackRock, USA | Capital One Bank, USA (Fortune 500) | U.S. Department of Commerce, USA </li>
 <li><b>Health Care:</b> US Department of Vaterans Affairs, USA | Centers for Medicare & Medicaid Services (CMS), USA | Pharmacy Data Analysis (e.g. CVS (Fortune 500), Walgreens (Fortune 500)), USA</li>
-<li> <b>Others:</b> The White House, USA | US Airforce (USAF) | The United States Department of Justice (DOJ) | The National Aeronautics and Space Administration (NASA), USA | US Department of Education | Wal-mart  (#1 in both Fortune 500 and Fortune Global 500) </li>
+<li> <b>Others:</b> The White House, USA | US Airforce (USAF) | The United States Department of Justice (DOJ) | The National Aeronautics and Space Administration (NASA), USA | US Department of Education | Wal-mart  (#1 in Fortune 500 and Fortune Global 500) </li>
 </ul>
 <br>
 
@@ -243,7 +243,7 @@ Clients Worked For
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li>
   <b>Adjunct Professor</b>, Information Sciences and Technology, <a href="https://www.coursicle.com/gmu/professors/Mohammad+Islam/">George Mason University, Fairfax, VA, USA</a> 
-    <ul> Course Taught: AIT 526: Natural Language Processing (NLP)</ul>
+    <ul> Courses: AIT 736: Applied Machine Learning | AIT 526: Natural Language Processing (NLP)</ul>
 </li>
 
 <li>
