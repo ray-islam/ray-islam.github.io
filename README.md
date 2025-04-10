@@ -180,7 +180,7 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 1. <b>Doctor of Philosophy (PhD)</b> in Machine Learning and PHM (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA.</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 20px;">
-<b>Dissertation:</b> A novel methodology to estimate Remaining Useful life of Software System using Machine Learning Methodologies (NLP+clustering+other statistical methods)
+<b>Dissertation:</b> A novel methodology to estimate Remaining Useful life of Software System using Machine Learning and PHM Methodologies (NLP+clustering+other statistical methods)
 </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
 <b>Advisory Committee:</b> <a href="https://enme.umd.edu/clark/faculty/582/Peter-Sandborn">Dr. Peter A. Sandborn (Advisor and Chair) </a> | <a href="https://isr.umd.edu/clark/faculty/902/William-Regli">Dr. William Regli</a> (Dean’s Representative) | <a href="https://enme.umd.edu/clark/faculty/568/Mohammad-Modarres">Dr. Mohammad Modarres</a> | Dr. Abhijit Dasgupta | Dr. F. Patrick McCluskey </p>
