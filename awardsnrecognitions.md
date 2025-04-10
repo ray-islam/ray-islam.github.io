@@ -54,7 +54,6 @@ filename: awardsnrecognitions.md
 
     <h2>Awards & Recognitions</h2>
     <ul>
-        <li><a href="#award0">Featured in Forbes, 2025</a></li>
         <li><a href="#award1">Marquis Who's Who 2024-25, Who</a></li>
         <li><a href="#award2"> Nathan and Marvin Goldman/Durham Homes Graduate Award, Canada</a></li>
         <li><a href="#award3"> 1st prize, Highly Qualified Personnel (HQP) poster competition, Canada</a></li>
@@ -63,21 +62,6 @@ filename: awardsnrecognitions.md
         <li><a href="#award6"> Post Graduate Merit Award, Heriot-Watt University, UK</a></li>
         <li><a href="#award7"> Featured in Bangladesh’s Leading Newspaper</a></li>
 
-
-<!-- for award0-forbes -->
-
- <div id="award0" class="award-section">
-   <h3>
-<a target="_blank" style="text-decoration: none; color: #000080;">
-    Featured in Forbes
-    </a>
-</h3>
-<ul style="color: black; font-family: 'Futura', serif; font-size: 14px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px;"> 
-    Dr. Ray Islam (Mohammad Rubyet Islam,PhD) is stepping in with a message in the artificial intelligence (AI) field, where innovation races ahead and ethical concerns trail behind. <b>-Forbes</b>
-    </p> 
-</ul>
-    </div>
 
 <!-- Marquis Who's Who -->    
        <div id="award1" class="award-section">
