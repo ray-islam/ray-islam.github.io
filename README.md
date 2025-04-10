@@ -364,9 +364,9 @@ English | Bengali | Hindi | Urdu | French- basic |Arabic-basic.
 
 **USA**
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding-left: 20px; text-align: justify;">
-<li>	Invited Guest Speaker- TechFest: Ethical Challenges of AI/ML in Cyber Threats, April 2025, Hosted by Department of Decision, Operations & Information Technologies, Robert H. Smith School of Business, University of Maryland, College Park, MD, USA</li>
-<li>	Invited Guest Speaker- Symposium: The trends of Cancer Research, and Dynamic Challenges of CyberSecurity, Nov 2023, Supported by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA</li>
-<li>	Hackathon Judge - AI based models for Crypto Currency, 2022, by Deloitte at the University of Maryland.</li>
+<li>	Invited Guest Speaker (April 2025)- TechFest: Ethical Challenges of AI/ML in Cyber Threats, Hosted by Department of Decision, Operations & Information Technologies, Robert H. Smith School of Business, University of Maryland, College Park, MD, USA</li>
+<li>	Invited Guest Speaker- Symposium (2023): The trends of Cancer Research, and Dynamic Challenges of CyberSecurity, Supported by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA</li>
+<li>	Hackathon Judge (2022)- AI based models for Crypto Currency, by Deloitte at the University of Maryland.</li>
 </ul>
 <br>
 
