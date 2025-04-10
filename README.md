@@ -348,7 +348,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a> </li>
 
 ### Languages Speak: 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding-left: 0; text-align: justify;">
-English | Bengali | Hindi | Urdu | French- basic |Arabic-basic.
+English | Bengali | Hindi | Urdu | French- basic |Arabic-reading and writing only
 </ul>
 <br>
 
