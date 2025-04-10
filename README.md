@@ -293,7 +293,11 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a> </li>
 <li> [14.C]       Islam, R., Adhikary, K., Rizvi, G., Optimization of Material Formulation and Processing Parameters for Wood Plastic Composite Foam Extrusion, Annual Technical Conference- ANTEC, May 2010, FL, USA </li>
 <li> [15.C]       Rizvi, G., Islam, R., Haghverdian, E., Semeralul, H., Characterization of WPC using Compression Molding with Directional Fiber Alignment, Society of Plastics Engineers, Annual Technical Conference – ANTEC, 2010, FL, USA, Volume: Control No.- 453 Page: 1155 </li>
 <li> [16.C]       Adhikary, K., Islam, R., Park, C. B., Rizvi, G., BATCH FOAMING OF GLASS FIBER REINFORCED WOOD PLASTIC COMPOSITES, 67th Annual Technical Conference of the Society of Plastics Engineers (ANTEC), June 2009, Chicago, IL, USA </li>
-<li> [17-21.P]    <a href="https://www.researchgate.net/profile/Rubyet-Islam/publications">5 posters presented at mainstream conferences in the USA and Canada. </a></li>
+<li> [17.P]    Rizvi, G., Islam, R., Semeralul, H., Haghverdian, E. (2011), IMPROVEMENT OF STRENGTH OF WPC USING NOVEL COMPRESSION MOLDING SYSTEM [Poster presentation]. 11th International Conference on Wood and Biofiber Plastic Composites, WI, USA. </a></li>
+<li> [18.P]    Rizvi, G., Islam, R., Adhikary, K., Park, C. B. (2011), Optimization of Material composition and parameters for profile extrusion of Wood Plastic Composites [Poster presentation]. 11th International Conference on Wood and Biofiber Plastic Composites, WI, USA. </a></li>
+<li> [19.P]    Rizvi, G., Islam, R., Adhikary, K., Semeralul, H., Haghverdian, E. (2010), Studying the effect of varying WF, GF and plastic types on characteristics of directional compression molded. approval code: R01-397 [Poster presentation]. Polymer Processing Society, PPS-26, Canada. </a></li>
+<li> [20.P]    Rizvi, G., Islam, R., Adhikary, K., Semeralul, H., Haghverdian, E. (2010), Recyclable, Light-Weight Polymeric Composites for Automotive Applications: Foamed Wood Composites [Poster presentation]. PAPMA-AUTO21 Conference, Hamilton, Canada. </a></li>
+<li> [21.P]    Jung, P., Nofar, R. , Islam, R., Adhikary, K., Park, C.B., Hossieny, R. (2010), Three Novel Applications of Foaming Technology for Polypropylene [Poster presentation]. The NSERC Network for Innovative Plastic Materials and Manufacturing Processes (NIPMMP), Canada. (Received best poster award) </a></li>
 </ul>
 <br>
 
