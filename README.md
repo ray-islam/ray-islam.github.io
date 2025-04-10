@@ -135,21 +135,7 @@
         }
     </style>
 </head>
-<body>
 
- 
- <!-- Highlight box container -->
-    <div class="highlight-box">           
-
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-  <strong><em> Dr. Ray Islam (Mohammad Rubyet Islam,PhD) is stepping in with a message in the artificial intelligence (AI) field, where innovation races ahead and ethical concerns trail behind.</em></strong> <b>- Forbes</b>
-</ul>
-  </div>
-<br>    
-<img src="assets/Forbes-1.jpg" alt="Generative AI Book" class="book-image genai-book">
-    <hr>
-
-</body>
 </html>
 
 ### ABOUT
