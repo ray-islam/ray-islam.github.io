@@ -137,8 +137,21 @@
 </head>
 <body>
 
-   
-   
+ 
+ <!-- Highlight box container -->
+    <div class="highlight-box">           
+
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
+  <strong><em> Dr. Ray Islam (Mohammad Rubyet Islam,PhD) is stepping in with a message in the artificial intelligence (AI) field, where innovation races ahead and ethical concerns trail behind.</em></strong> <b>- Forbes</b>
+</ul>
+  </div>
+<br>    
+<img src="assets/Forbes-1.jpg" alt="Generative AI Book" class="book-image genai-book">
+    <hr>
+
+</body>
+</html>
+
 ### ABOUT
 <ul style="color: green; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b> Dr. Ray Islam (Mohammad Rubyet Islam) is a recognized global leader in Artificial Intelligence and Machine Learning, having held strategic leadership roles at multiple Fortune 500 and Fortune Global 500 companies. His concurrent work as a professor at top-tier universities reflects his unique ability to bridge the gap between cutting-edge academic research and real-world industry application. He has led high-stakes AI and cybersecurity projects, managing multimillion-dollar initiatives across healthcare, finance, manufacturing, retail, and insurance. With cross-functional teams across three continents and five academic degrees from five countries, he brings a uniquely global perspective to innovation. A seasoned researcher, associate editor, technical speaker, and published author, Dr. Islam has been recognized in Marquis Who’s Who in America (2024–2025) for his outstanding contributions to science and technology.</b>
