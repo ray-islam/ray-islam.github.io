@@ -74,7 +74,7 @@ filename: awardsnrecognitions.md
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"> 
     Dr. Ray Islam (Mohammad Rubyet Islam, PhD), a distinguished expert in AI and machine learning ..., has been included in Marquis Who's Who. .... His inclusion in Marquis Who's Who recognizes his notable accomplishments, visibility, and prominence in the field. <a href="https://www.24-7pressrelease.com/press-release/515473/dr-ray-islam-displays-excellence-in-education-and-technology" target="_blank" style="text-decoration: none; color: #000080;"> Read more...</a>
     </p> 
-    <p style="color: black; font-family: 'Futura', serif; font-size: 16px;"> 
+    <p style="color: black; font-family: 'Futura', serif; font-size: 14px;"> 
         <b>About Marquis Who's Who®:</b> 
         Endorsed by <a href="https://en.wikipedia.org/wiki/Warren_Buffett" target="_blank">Warren Buffett</a> Warren Buffett (Berkshire Hathaway), <strong>Marquis Who’s Who®</strong> has been a prestigious biographical resource since 1899, chronicling the achievements of distinguished individuals across politics, business, medicine, law, education, and the arts, serving researchers and professionals worldwide. The suite of Marquis® publications can be viewed at the official Marquis Who's Who® website, <a href="https://www.marquiswhoswho.com" target="_blank" style="color: black; text-decoration: none;">www.marquiswhoswho.com</a>. 
     </p>
