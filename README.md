@@ -225,7 +225,7 @@
 Leadership & AI/ML Scientist roles at 
 </ul>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-<b>Deloitte</b>, USA (Big Four) | <b>Raytheon</b>, USA (among Fortune 100) | <b>Booz Allen Hamilton</b>, USA (among Fortune 100) | <b>Lockheed Martin</b>, USA (among Fortune 100) | <b>General Services Administration (GSA)</b> - Contract | <b>American Institutes for Research (AIR)</b>, Washington, D.C. | <b>Euro Nassa Ltd.</b>, UK | <b>Carrefour</b> (among Fortune Global 50)|
+<b>Deloitte</b>, USA (Big Four) | <b>Raytheon</b>, USA (among Fortune 100) | <b>Booz Allen Hamilton</b>, USA (among Fortune 100) | <b>Lockheed Martin</b>, USA (among Fortune 100) | <b>General Services Administration (GSA)</b> - Contract | <b>American Institutes for Research (AIR)</b>, Washington, D.C. | <b>Euro Nassa Ltd.</b>, UK | <b>Carrefour</b> (among Fortune Global 50)
 </ul>
 <br>
 <ul style="color: green; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
