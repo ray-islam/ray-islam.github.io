@@ -178,7 +178,7 @@
 
 ### Complete 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-1. <b>Doctor of Philosophy (PhD)</b> in Machine Learning (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA.</p>
+1. <b>Doctor of Philosophy (PhD)</b> in Machine Learning and PHM (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA.</p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 20px;">
 <b>Dissertation:</b> A novel methodology to estimate Remaining Useful life of Software System using Machine Learning Methodologies (NLP+clustering+other statistical methods)
 </p>
