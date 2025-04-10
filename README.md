@@ -372,7 +372,7 @@ English | Bengali | Hindi | Urdu | French- basic |Arabic-basic.
 
 **International**
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding-left: 20px; text-align: justify;">
-<li>Invited guest speaker, Green University, 2024 - Applications of AI in Manufacturing(Online).</li>
+<li>Invited guest speaker, Green University, 2024 - Applications of AI in Manufacturing (Online).</li>
 <li>Invited guest speaker, Bangladesh University of Textiles, 2020 - Applications of AI in Manufacturing.</li>
 <li>Invited Guest Speaker, North South University, Bangladesh, 2018 - AI and their applications. </li>
 </ul>
