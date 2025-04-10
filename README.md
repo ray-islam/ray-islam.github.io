@@ -326,7 +326,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a> </li>
     <li> Book Reviewer: <i>Wiley</i>, Published by John Wiley & Sons, USA</li>
     <li> Conference Reviewer: <i>International Conference on Learning Representations (ICLR)</i>, USA</li>
     <li> Journal Reviewer: <i>Reliability Engineering & System Safety (RESS)</i>, Published by Elsevier, USA</li>
-    <li> Journal Reviewer: <i>The Jpurnal of Universal Computer Science (J.UCS)</i>, Austria</li>
+    <li> Journal Reviewer: <i>The Journal of Universal Computer Science (J.UCS)</i>, Austria</li>
     <li> Associate Editor: <i>Journal of Prognostics and Health Management (JPHM)</i>, Canada</li>
 </ul>
 <br>
