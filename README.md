@@ -339,6 +339,7 @@ English | Bengali | Hindi | Urdu | French- basic |Arabic-basic.
 
 ### Professional Training
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: disc; margin: 0; padding-left: 20px; text-align: justify;">
+<li> 3 days training on Palantir by Ontologize, VA</li>
 <li> 6.86x: Machine Learning with Python-From Linear Models to Deep Learning, Massachusetts Institute of Technology (MIT), MA</li>
 <li> 6.419x: Certificate for Data Analysis: Statistical Modeling and Computation in Applications, MIT, MA</li>
 <li> 6.43x: Probability - The Science of Uncertainty and Data, MIT, MA</li>
