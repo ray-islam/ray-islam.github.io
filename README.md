@@ -230,7 +230,6 @@ Clients Worked For
 <li>
   <b>Adjunct Professor</b>, Information Sciences and Technology, <a href="https://www.coursicle.com/gmu/professors/Mohammad+Islam/">George Mason University, Fairfax, VA, USA</a>
     <ul> Courses: AIT 736: Applied Machine Learning | AIT 526: Natural Language Processing (NLP)</ul>
-</ul>
 </li>
 
 <li>
