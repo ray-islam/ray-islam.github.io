@@ -192,14 +192,13 @@
 6. <b>Micro Masters</b> in Statistics and Data Science - MASSACHUSETTS INSTITUTE of TECHNOLOGY (MIT), USA </p>
 
 ### Transferred
-<p style="color: black; font-family: 'Futura', serif; font-size: 14px;">
+<p style="color: black; font-family: 'Futura', serif; font-size: 12px;">
 1. Graduate Student in <b>PhD</b> in Mechanical Engineering - GEORGE WASHINGTON UNIVERISTY, DC, USA (Switched to University of Maryland, College Park, MD, USA)
 </p>
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">    
+<p style="color: black; font-family: 'Futura', serif; font-size: 12px;">    
 2. Graduate Student in <b>PhD</b> in Mechanical Engineering - UNIVERISTY OF TORONTO, Canada (Switched to George Washington Univerity, DC, USA)
 </p>
-
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
+<p style="color: black; font-family: 'Futura', serif; font-size: 12px; padding-left: 16px;">
   <b>Advisor:</b> <a href="https://www.mie.utoronto.ca/faculty_staff/park/">Dr. Chul B. Park</a>
 </p>
 
@@ -270,7 +269,7 @@ Clients Worked For
 ### Book
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.</a> 
-<a href="https://ray-islam.github.io/book.html"> ...Check here for global availability</a>
+<a href="https://ray-islam.github.io/book.html"> ...Click for global availability</a>
 </ul>
 <br>
 
