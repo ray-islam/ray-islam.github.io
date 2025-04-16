@@ -188,15 +188,15 @@
 5. <b>BSc</b> in Manufacturing Engineering – BUTex - BD, <b>GPA: 4.0 </b> </p>
 
 ### In-progress
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
+<p style="color: black; font-family: 'Futura', serif; font-size: 14px;">
 6. <b>Micro Masters</b> in Statistics and Data Science - MASSACHUSETTS INSTITUTE of TECHNOLOGY (MIT), USA </p>
 
 ### Transferred
 <p style="color: black; font-family: 'Futura', serif; font-size: 12px;">
-1. Graduate Student in <b>PhD</b> in Mechanical Engineering - GEORGE WASHINGTON UNIVERISTY, DC, USA (Switched to University of Maryland, College Park, MD, USA)
+A. Graduate Student, <b>PhD</b> in Mechanical Engineering - GEORGE WASHINGTON UNIVERISTY, DC, USA (Switched to University of Maryland, College Park, MD, USA)
 </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 12px;">    
-2. Graduate Student in <b>PhD</b> in Mechanical Engineering - UNIVERISTY OF TORONTO, Canada (Switched to George Washington Univerity, DC, USA)
+B. Graduate Student, <b>PhD</b> in Mechanical Engineering - UNIVERISTY OF TORONTO, Canada (Switched to George Washington Univerity, DC, USA)
 </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 12px; padding-left: 16px;">
   <b>Advisor:</b> <a href="https://www.mie.utoronto.ca/faculty_staff/park/">Dr. Chul B. Park</a>
