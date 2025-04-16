@@ -166,20 +166,20 @@
 ### Complete 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 1. <b>Doctor of Philosophy (PhD)</b> in Machine Learning and PHM (Department of Mechanical Engineering)– UNIVERSITY OF MARYLAND – College Park, MD, USA.</p>
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 20px;">
+<p style="color: black; font-family: 'Futura', serif; font-size: 14px; padding-left: 20px;">
 <b>Dissertation:</b> A novel methodology to estimate Remaining Useful life of Software System using Machine Learning and PHM Methodologies (NLP+clustering+other statistical methods)
 </p>
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
+<p style="color: black; font-family: 'Futura', serif; font-size: 14px; padding-left: 16px;">
 <b>Advisory Committee:</b> <a href="https://enme.umd.edu/clark/faculty/582/Peter-Sandborn">Dr. Peter A. Sandborn (Advisor and Chair) </a> | <a href="https://isr.umd.edu/clark/faculty/902/William-Regli">Dr. William Regli</a> (Dean’s Representative) | <a href="https://enme.umd.edu/clark/faculty/568/Mohammad-Modarres">Dr. Mohammad Modarres</a> | Dr. Abhijit Dasgupta | Dr. F. Patrick McCluskey </p>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 2. <b>MASc</b> in Mechanical Engineering – ONTARIO TECH UNIVERSITY – ON, Canada, <b>GPA:3.98</b> (Research undertaken at The Univesity of Toronto, Canada) </p>
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
+<p style="color: black; font-family: 'Futura', serif; font-size: 14px; padding-left: 16px;">
 <b>Advisory Committee:</b> <a href="https://ontariotechu.ca/experts/feas/ghaus-rizvi.php?utm_source=featured_expert&utm_medium=web&utm_campaign=Ghaus%20Rizvi">Dr. Ghaus Rizvi</a> (Advisor and Chair) | Dr. Remon Pop-Iliev | <a href="https://zhang.apps01.yorku.ca/about/">Dr. Dan Zhang</a> | <a href="https://mse.utoronto.ca/faculty-staff/professors/naguib/">Dr. Hani Naguib</a> (External- Univerity of Toronto) </p>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 3. <b>MSc</b> in International Marketing – HERIOT-WATT UNIVERSITY – UK </p>
-<p style="color: black; font-family: 'Futura', serif; font-size: 16px; padding-left: 16px;">
+<p style="color: black; font-family: 'Futura', serif; font-size: 14px; padding-left: 16px;">
   <b>Advisor:</b> <a href="https://www.hw.ac.uk/tex/people/faculty/britta-kalkreuter.htm">Dr. Britta Kalkreuter</a> </p>
   
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
