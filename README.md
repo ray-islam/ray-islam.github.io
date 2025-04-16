@@ -313,7 +313,7 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a> </li>
 <br>
 
 ### <a href="https://rayislam.medium.com/">White Papers</a>
-<ul style="color: black; font-family: 'Futura', serif; font-size: 12px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
+<ul style="color: black; font-family: 'Futura', serif; font-size: 14px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <li> Islam, R. (2025), ML-Powered Proactive Anomaly Diagnosis for Optimized Resource Management </li>
 <li> Islam, R. (2025), A Hybrid Clustering and NLP Framework for Dynamic Anomaly Classification </li>
 <li> Islam, R. (2023), Prompt tuning for Large Language Models (LLMs)</li>
