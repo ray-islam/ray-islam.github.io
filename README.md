@@ -211,7 +211,7 @@ B. Graduate Student, <b>PhD</b> in Mechanical Engineering - UNIVERISTY OF TORONT
 Leadership & AI/ML Scientist roles at 
 </ul>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-<b>Deloitte</b>, USA (Big Four) | <b>Raytheon</b>, USA (among Fortune 100) | <b>Booz Allen Hamilton</b>, USA (among Fortune 100) | <b>Lockheed Martin</b>, USA (among Fortune 100) | <b>General Services Administration (GSA)</b>, USA - Contract | <b>American Institutes for Research (AIR)</b>, USA | <b>Euro Nassa Ltd.</b> - Client: Wal-mart,UK (#1 in Fortune 500 and Fortune Global 500) | <b>Carrefour</b>, Europe (among Fortune Global 50)
+<b>Deloitte</b>, USA (Big Four) | <b>Raytheon</b>, USA (Fortune 100) | <b>Booz Allen Hamilton</b>, USA (Fortune 100) | <b>Lockheed Martin</b>, USA (Fortune 100) | <b>General Services Administration (GSA)</b>, USA - Contract | <b>American Institutes for Research (AIR)</b>, USA | <b>Euro Nassa Ltd.</b> - Client: Wal-mart,UK (#1 among Fortune 500 and Fortune Global 500) | <b>Carrefour</b>, Europe (Fortune Global 50)
 </ul>
 <br>
 <ul style="color: green; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
@@ -219,8 +219,8 @@ Clients Worked For
 </ul>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-<li><b>Finance:</b> BlackRock, USA | Capital One Bank, USA (among Fortune 50) | Fannie Mae (among Fortune 50) | U.S. Department of Commerce, USA </li>
-<li><b>Health Care:</b> US Department of Vaterans Affairs, USA | Centers for Medicare & Medicaid Services (CMS), USA | Surescripts - Clients: CVS (among Fortune 10), Walgreens (among Fortune 50)), USA</li>
+<li><b>Finance:</b> BlackRock, USA | Capital One Bank, USA (Fortune 50) | Fannie Mae (Fortune 50) | U.S. Department of Commerce, USA </li>
+<li><b>Health Care:</b> US Department of Vaterans Affairs, USA | Centers for Medicare & Medicaid Services (CMS), USA | Surescripts - Clients: CVS (Fortune 10), Walgreens (Fortune 50)), USA</li>
 <li> <b>Government:</b> The White House, USA | US Airforce (USAF) | The United States Department of Justice (DOJ) | The National Aeronautics and Space Administration (NASA), USA | The US Department of Education </li>
 </ul>
 <br>
