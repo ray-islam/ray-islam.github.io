@@ -312,11 +312,13 @@ https://doi.org/10.1007/978-3-031-62281-6_34</a> </li>
 
 ### <a href="https://rayislam.medium.com/">White Papers (medium.com)</a>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-<li> Islam, R., (2023), Prompt tuning for Large Language Models (LLMs)</li>
-<li> Islam, R., (2023), Analytics Operating Eco (OE) System</li>
+<li> Islam, R. (2025), ML-Powered Proactive Anomaly Diagnosis for Optimized Resource Management </li>
+<li> Islam, R. (2025), A Hybrid Clustering and NLP Framework for Dynamic Anomaly Classification </li>
+<li> Islam, R. (2023), Prompt tuning for Large Language Models (LLMs)</li>
+<li> Islam, R. (2023), Analytics Operating Eco (OE) System</li>
 <li> Islam, R. (2023), AI for C-Suite Decision Making</li>
-<li> Islam, R., (2023), CTGAN for Credit Card Analysis Synthetic Data</li>
-<li> Islam, R., (2023), Unveiling the Potential of CTGAN: Harnessing Generative AI and 50K Synthetic IRIS Dataset</li>
+<li> Islam, R. (2023), CTGAN for Credit Card Analysis Synthetic Data</li>
+<li> Islam, R. (2023), Unveiling the Potential of CTGAN: Harnessing Generative AI and 50K Synthetic IRIS Dataset</li>
 </ul>
 <br>
 
