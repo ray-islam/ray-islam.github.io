@@ -266,7 +266,7 @@ Clients Worked For
 <li>Post Graduate Merit Award, Heriot-Watt University, UK </li>
 </ul>
 
-### Book
+### Text & Reference Book
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.</a> 
 <a href="https://ray-islam.github.io/book.html"> ...Click for global availability</a>
