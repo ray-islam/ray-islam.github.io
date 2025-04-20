@@ -184,7 +184,7 @@ The Computing Conference, formerly the Science and Information Conference, is a 
 
 <ul style="margin: 0; padding: 0; list-style: none;">
     <li>
-        <h2 id="TechFest 2025" style="font-size: 16px; color: green; margin: 10px 0;">
+        <h2 id="TechFest" style="font-size: 16px; color: green; margin: 10px 0;">
             Invited Panel Speaker 2025: TechFest 2025
         </h2>
     </li>
