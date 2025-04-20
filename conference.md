@@ -205,6 +205,6 @@ The Computing Conference, formerly the Science and Information Conference, is a 
 </ul>
 <br>
     <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/Flyer.jpg" alt="flyer" style="width: 100%; height: auto; display: block; margin-top: 10px;">
-    <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/team_photo.jpg" alt="group photo" style="width: 100%; height: auto; display: block; margin-top: 10px;">
-    <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/solo.jpg" alt="group photo" style="width: 100%; height: 80%; display: block; margin-top: 10px;">
+    <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/team_photo.jpg" alt="group photo" style="width: 50%; height: auto; display: block; margin-top: 10px;">
+    <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/solo-2.jpg" alt="group photo" style="width: 100%; height: 80%; display: block; margin-top: 10px;">
 
