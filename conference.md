@@ -156,7 +156,7 @@ The Computing Conference, formerly the Science and Information Conference, is a 
 <ul style="margin: 0; padding: 0; list-style: none;">
     <li>
         <h2 id="cancer-research-symposium" style="font-size: 16px; color: green; margin: 10px 0;">
-            Invited Panel Speaker: Symposium on Cancer Research Trends and Cybersecurity Challenges 2023
+            Invited Panel Speaker 2023: Symposium on Cancer Research Trends and Cybersecurity Challenges
         </h2>
     </li>
     <li>
@@ -178,4 +178,33 @@ The Computing Conference, formerly the Science and Information Conference, is a 
 <br>
     <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/DSC03643.JPG" alt="Conference Image" style="width: 100%; height: auto; display: block; margin-top: 10px;">
     <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/DSC03619.JPG" alt="Conference Image" style="width: 100%; height: auto; display: block; margin-top: 10px;">
+
+<hr>
+
+<ul style="margin: 0; padding: 0; list-style: none;">
+    <li>
+        <h2 id="cancer-research-symposium" style="font-size: 16px; color: green; margin: 10px 0;">
+            Invited Panel Speaker 2025: TechFest 2025
+        </h2>
+    </li>
+    <li>
+        <h3 style="font-size: 14px; color: green; margin: 5px 0 14px;">
+            Hosted by Robert H. Smith School of Business, University of Maryland, College Park, MD, USA
+        </h3>
+    </li>
+</ul>
+<ul style="color: black; font-family: 'Futura', serif; font-size: 14px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
+        <li>
+           TechFest is an annual forum hosted by the Department of Decision, Operations & Information Technologies. Join industry leaders at the forefront of AI, Data, and Cybersecurity in business.
+        </li>
+</ul>
+<ul style="color: black; font-family: 'Futura', serif; font-size: 12px; padding: 2; margin: 0; list-style: none;text-align: justify;">
+        <li>
+            <b>Topic Presented:</b> Ethical Challenges of AI/ML in Cyber Threats.
+        </li>
+</ul>
+<br>
+    <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/Flyer.jpg" alt="flyer" style="width: 100%; height: auto; display: block; margin-top: 10px;">
+    <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/team_photo.jpg" alt="group photo" style="width: 100%; height: auto; display: block; margin-top: 10px;">
+    <img src="https://raw.githubusercontent.com/ray-islam/ray-islam.github.io/main/assets/solo.jpg" alt="group photo" style="width: 100%; height: auto; display: block; margin-top: 10px;">
 
