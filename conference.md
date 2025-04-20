@@ -114,6 +114,7 @@ filename: conference.md
      <li><a href="#IEEE-CAI">IEEE Conference on Artificial Intelligence 2025</a></li>
     <li><a href="#computing-conference">Computing Conference 2024</a></li>
     <li><a href="#cancer-research-symposium">Symposium on Cancer Research Trends and Cybersecurity Challenges 2023</a></li>
+    <li><a href="#TechFest">Invited Panel Speaker: TechFest 2025</a></li>
 </ul>
 
 <hr>
@@ -183,7 +184,7 @@ The Computing Conference, formerly the Science and Information Conference, is a 
 
 <ul style="margin: 0; padding: 0; list-style: none;">
     <li>
-        <h2 id="cancer-research-symposium" style="font-size: 16px; color: green; margin: 10px 0;">
+        <h2 id="TechFest 2025" style="font-size: 16px; color: green; margin: 10px 0;">
             Invited Panel Speaker 2025: TechFest 2025
         </h2>
     </li>
