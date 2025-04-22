@@ -216,7 +216,7 @@ image: ""  # This prevents any image from being displayed
 
 <hr>
 <h2 id="GenAI-book" style="color: green; font-size: 16px;">
-    <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265" style="color: green; font-size: 16px;"> Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.</a>
+    <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265" style="color: green; font-size: 16px;"> Islam, M. R. (2024). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.</a>
 </h2>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
