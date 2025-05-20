@@ -277,7 +277,7 @@ Clients Worked For
 
 ### Peer-Reviewed Research Journals/Conferences/Poster Presentations
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-<li> [22.J]  Islam, R., (2025), The Rise of Intelligent Alpha in Finance: From Human Intuition to LLM Agents., May, Manuscript submitted for publication at arXiv.org </a></li>
+<li> [22.J]  Islam, R., (2025), The Rise of Intelligent Alpha in Finance: From Human Intuition to LLM Agents., May, Manuscript submitted for publication at arXiv.org </li>
 <li> [21.J]  <a href="https://doi.org/10.22215/jphm.v3i1.3641">Islam, R. and Sandborn, P., (2023), Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems, Journal of Prognostics and Health Management, 3(1), 9–36. February https://doi.org/10.22215/jphm.v3i1.3641.</a></li>
 <li> [20.C]       Islam, R. and Sandborn, P., Multimodal Generative AI for Story Point Estimation, IEEE Conference for AI, 11-12 May 2025, California, USA, Accepted </li>
 <li> [19.C]       <a href="https://link.springer.com/chapter/10.1007/978-3-031-62281-6_34">Islam, R. and Sandborn, P., (2024), Analyzing the Influence of Processor Speed and Clock Speed on Remaining Useful Life Estimation of Software Systems, Computing Conference, 11-12 July 2024, London, UK, Published as Proceedings on Springer Nature, DOI:
