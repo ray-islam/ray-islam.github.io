@@ -238,7 +238,7 @@ Clients Worked For
 </li>
 
 <li>
-  <b>Founder/Course Designer/Instructor</b>, Kindidata, VA (Boot Camp)
+  <b>Course Director/Instructor</b>, Kindidata, VA (Boot Camp)
   <ul>Courses Taught: Data Visualization | NLP | Big Data Engineering</ul>
   </li>
    </ul>
