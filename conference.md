@@ -111,11 +111,29 @@ filename: conference.md
 </html>
 
 <ul>
-     <li><a href="#IEEE-CAI">IEEE Conference on Artificial Intelligence 2025</a></li>
+    <li><a href="#black-hat">Black Hat USA 2025</a></li>
+    <li><a href="#IEEE-CAI">IEEE Conference on Artificial Intelligence 2025</a></li>
     <li><a href="#computing-conference">Computing Conference 2024</a></li>
     <li><a href="#cancer-research-symposium">Symposium on Cancer Research Trends and Cybersecurity Challenges 2023</a></li>
     <li><a href="#TechFest">Invited Panel Speaker: TechFest 2025</a></li>
 </ul>
+
+
+<hr>
+
+<h2 id="black-hat" style="color: green; font-size: 16px;">
+    <a href="https://www.blackhat.com/us-25/?_gl=1*1ntxbwk*_gcl_aw*R0NMLjE3NTAwMDc5OTQuQ2p3S0NBanczcm5DQmhCeEVpd0FyTjBRRXhQcEFVclFUQjlfMldkY3hUVG9GNkFfM0gtSzNKcXZqN0hSeGxVaWlkTHVZT0E1dVZBeWtCb0NOWXdRQXZEX0J3RQ..*_gcl_au*OTIyMzY3NzcxLjE3NDk5NjUyMzA.*_ga*MjQ3NjEyMTE2LjE3NDk5NjUyMzE.*_ga_K4JK67TFYV*czE3NTAwMDc5OTMkbzIkZzAkdDE3NTAwMDc5OTMkajYwJGwwJGgw&_ga=2.228628629.829686072.1749965231-247612116.1749965231&_gac=1.116131188.1750007994.CjwKCAjw3rnCBhBxEiwArN0QExPpAUrQTB9_2WdcxTToF6A_3H-K3Jqvj7HRxlUiidLuYOA5uVAykBoCNYwQAvD_BwE" style="color: green; font-size: 18px;"> Black Hat USA 2025</a>
+</h2>
+
+<ul style="color: black; font-family: 'Futura', serif; font-size: 14px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
+Black Hat USA is a Tier 1 cybersecurity conference held annually in Las Vegas, bringing together over 21,000 professionals from around the globe. Renowned for its technical depth and cutting-edge research, the event features hands-on training, expert briefings, and a business hall showcasing the latest in security solutions. Attendees include security engineers, CISOs, ethical hackers, government officials, and researchers—making it one of the most influential gatherings for advancing cybersecurity knowledge, tools, and practices worldwide.
+</ul>
+<ul style="color: black; font-family: 'Futura', serif; font-size: 12px; padding: 2; margin: 0; list-style: none;text-align: justify;">
+<b> Wiley has selected my book, Generative AI, Cybersecurity, and Ethics, to be presented and made available for sale at Black Hat USA 2025. This is a great opportunity to share the book’s insights with a global community of cybersecurity professionals, ethical hackers, CISOs, and researchers.
+<br>
+<br>
+</ul>
+
 
 <hr>
 
@@ -127,7 +145,7 @@ filename: conference.md
 The 2025 IEEE CAI is an international conference and exhibition focused on artificial intelligence with specific industry applications. Connecting AI enterprise leaders and innovators from industry, government, start-ups and academics, at IEEE CAI you’ll meet face-to-face with researchers, experts and providers for inspiration, solutions, and ideas you need to know.
 </ul>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 12px; padding: 2; margin: 0; list-style: none;text-align: justify;">
-<b>Presenting Peer-Reviewed Research Paper:</b> Islam, R. and Sandborn, P., (2024), Multimodal Generative AI for Story Point Estimation, IEEE Conference on AI, 5-7 May 2025, California, USA, DOI: To be published. 
+<b>Presented Peer-Reviewed Research Paper:</b> Islam, R. and Sandborn, P., (2024), Multimodal Generative AI for Story Point Estimation, IEEE Conference on AI, 5-7 May 2025, California, USA, DOI. 
 <br>
 <br>
 </ul>
