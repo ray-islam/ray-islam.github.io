@@ -216,7 +216,7 @@ image: ""  # This prevents any image from being displayed
 
 <hr>
 <h2 id="GenAI-book" style="color: green; font-size: 16px;">
-    <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265" style="color: green; font-size: 16px;"> Islam, M. R. (2024). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.</a>
+    <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265" style="color: green; font-size: 16px;"> 1. Islam, M. R. (2024). Generative AI, Cybersecurity, and Ethics. Wiley, USA. ISBN: 978-1-394-27926-5.</a>
 </h2>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
@@ -316,7 +316,7 @@ Generative AI, Cyber Security, and Ethics equips readers with essential skills t
 <hr>
 
 <h2 id="RAG-book" style="color: green; font-size: 16px;">
-    <a href="https://www.amazon.com/dp/B0CR6GJGGL" style="color: green; font-size: 18px;">Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs)</a>
+    <a href="https://www.amazon.com/dp/B0CR6GJGGL" style="color: green; font-size: 18px;">2. Retrieval-Augmented Generation (RAG): Empowering Large Language Models (LLMs)</a>
 </h2>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
@@ -327,7 +327,7 @@ This book explores Retrieval-Augmented Generation (RAG), merging neural language
 <hr>
 
 <h2 id="LangChain-book" style="color: green; font-size: 16px;">
-    <a href="https://www.amazon.com/dp/B0CPJS6WSR" style="color: green; font-size: 18px;">LangChain Unveiled: Navigating the Future of LLM</a>
+    <a href="https://www.amazon.com/dp/B0CPJS6WSR" style="color: green; font-size: 18px;">3. LangChain Unveiled: Navigating the Future of LLM</a>
 </h2>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b>About this eBook:</b>
@@ -337,7 +337,7 @@ LangChain Unveiled: Navigating the Future of LLM examines LangChain, an open-sou
 <hr>
 
 <h2 id="Satellite-book" style="color: green; font-size: 16px;">
-    <a href="https://www.amazon.com/dp/B0CP8K446P" style="color: green; font-size: 18px;"> Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</a>
+    <a href="https://www.amazon.com/dp/B0CP8K446P" style="color: green; font-size: 18px;">4. Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</a>
 </h2>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
