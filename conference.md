@@ -129,7 +129,7 @@ filename: conference.md
 Black Hat USA is a Tier 1 cybersecurity conference held annually in Las Vegas, bringing together over 21,000 professionals from around the globe. Renowned for its technical depth and cutting-edge research, the event features hands-on training, expert briefings, and a business hall showcasing the latest in security solutions. Attendees include security engineers, CISOs, ethical hackers, government officials, and researchers—making it one of the most influential gatherings for advancing cybersecurity knowledge, tools, and practices worldwide.
 </ul>
 <ul style="color: black; font-family: 'Futura', serif; font-size: 12px; padding: 2; margin: 0; list-style: none;text-align: justify;">
-<b> Book to be presented: Wiley has selected this book Generative AI, Cybersecurity, and Ethics, to be presented and made available for sale at Black Hat USA 2025.
+<b> Book to be presented: </b> Wiley has selected this book Generative AI, Cybersecurity, and Ethics, to be presented and made available for sale at Black Hat USA 2025.
 <br>
 </ul>
 
