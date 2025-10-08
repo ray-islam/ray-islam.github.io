@@ -260,8 +260,7 @@ https://tsinghua-primo.hosted.exlibrisgroup.com.cn/permalink/f/1c5d6lc/86THU_ALM
 <br>
 </b>
 </ul>
-    <br>
-
+   
 <!-- This section is for adding link to YouTube video -->
 <title>Embedded YouTube Video</title>
   <b style="color: black;">Book Introduction – YouTube Video</b>
