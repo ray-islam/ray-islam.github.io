@@ -280,7 +280,6 @@ Audio Book:
           allowfullscreen>
   </iframe>
 <br>
-<br>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b>Also availabile at</b> <br>
