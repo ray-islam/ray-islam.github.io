@@ -256,7 +256,7 @@ image: ""  # This prevents any image from being displayed
 https://tsinghua-primo.hosted.exlibrisgroup.com.cn/permalink/f/1c5d6lc/86THU_ALMA_US51989219880003966">Tsinghua Univerity</a> |
       <a href="https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1qb4pk8/82SNU_INST51958457930002591">Seoul National Univeristy</a> |
     <a href="https://julac-hku.primo.exlibrisgroup.com/permalink/852JULAC_HKU/1dr1jhs/alma991044972268203414">The Univerity of Hong Kong</a> |
-    <a href="https://go.exlibris.link/t8nzKynQ">National Univeristy of Singapore</a> |
+    <a href="https://go.exlibris.link/t8nzKynQ">National Univeristy of Singapore ...</a> |
 <br>
 </b>
 </ul>
