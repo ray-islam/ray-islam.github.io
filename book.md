@@ -264,7 +264,7 @@ https://tsinghua-primo.hosted.exlibrisgroup.com.cn/permalink/f/1c5d6lc/86THU_ALM
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
     <b>
 Audio Book:  
-<a href="https://rbmediaglobal.com/audiobook/9781663757166/">RBmedia</a> |
+<a href="https://rbmediaglobal.com/audiobook/9781663757166/">RBmedia</a>
     </b>
     </ul>
 <br>
