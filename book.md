@@ -224,6 +224,37 @@ image: ""  # This prevents any image from being displayed
 </ul>
 <br>
 
+<!-- This section is for adding list of Univeristies -->
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
+<b>Available in 440+ Universities & Libraries worldwide Including: </b> <br>
+<b>
+<a href="https://usmai-umcp.primo.exlibrisgroup.com/permalink/01USMAI_UMCP/1kcjvmc/alma9964044966108238">UMD</a>
+    <a href="https://id.lib.harvard.edu/alma/99158814380003941/catalog">Harvard</a> |
+    <a href="https://search.library.yale.edu/catalog/991010656208608651">Yale</a> |
+    <a href="https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/ejdckj/alma9935893522306761">MIT</a> |
+    <a href="https://searchworks.stanford.edu/view/in00000394327">Stanford</a> |
+    <a href="https://clio.columbia.edu/catalog/ebs108851597e">Columbia</a> |
+     <a href="https://search.library.berkeley.edu/permalink/01UCS_BER/1thfj9n/alma9922044654306531">University of California, Berkeley</a> |
+    <a href="https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991034140444305706">Dartmouth College</a> |
+      <a href="https://purdue.primo.exlibrisgroup.com/permalink/01PURDUE_PUWL/uc5e95/alma99171072853801081">Purdue</a> |
+      <a href="https://wrlc-gm.primo.exlibrisgroup.com/permalink/01WRLC_GML/1giah39/alma9947722260504105">GMU</a> |
+      <a href="https://bruknow.library.brown.edu/permalink/01BU_INST/9mvq88/alma991043810697206966">Brown</a> |
+      <a href="https://catalog.library.cornell.edu/catalog/16626277">Cornell Univeristy</a> |
+       <a href="https://find.library.upenn.edu/catalog/9979563248503681?hld_id=53846611650003681">Univeristy of Pennsylvania</a> |
+  <a href="https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991107460957806196">Univeristy of Toronto</a> |
+    <a href="https://mcgill.on.worldcat.org/oclc/1478248947">McGill</a> |
+    <a href="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma991027160862407026">Oxford</a> |
+    <a href="https://idiscover.lib.cam.ac.uk/permalink/f/t9gok8/44CAM_ALMA51794811770003606">Cambridge</a> |
+    <a href="https://eth.swisscovery.slsp.ch/permalink/41SLSP_ETH/lshl64/alma99119472500105503">ETH</a> |
+    <a href="https://bibcercador.uab.cat/permalink/34CSUC_UAB/1eqfv2p/alma991011190597006709">The Universitat Autònoma de Barcelona</a> |
+    <a href="https://qulib.summon.serialssolutions.com/#!/search?bookMark=eNpVj01Lw0AURUesoq1Zus_CRReNzpuPzLxlDbUWCm7EbZhkXjBYEp1JCv33VoqIy8s5HLhTNun6jhi7BX4PnIsHNBYkKmFQivyMTX8H8HOW_EGR68sjVEYJpXiOVyyJsa24NgYNAl6z-Zo6Cm5o95QuN4u0OFQUItVjaIfDInWdT1fDe1vHG3bRuF2khE2GMNKMvT2tXovnbPuy3hTLbeYAtMkzMmArj7ZRiKo2wtaNbhR3yImM8l57EI2F2lrSXhKSJw2GnANuDUcpZ-zuFI6ucaEtq77_iOVelP9eHbX5SfsM_ddIcSjpx6ypG4LblavHQoLlWvBcfgPh71OX">Qatar University</a> |
+      <a href="https://khalifa.primo.exlibrisgroup.com/permalink/971KUOSTAR_INST/3hfmci/alma991001133469607456">Khalifa Univerity</a> |
+      <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Harvard</a>
+      <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Harvard</a>
+<br>
+</b>
+<br>
+
 <!-- This section is for adding link to YouTube video -->
 <title>Embedded YouTube Video</title>
   <b style="color: black;">Book Introduction – YouTube Video</b>
@@ -237,7 +268,7 @@ image: ""  # This prevents any image from being displayed
 <br>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-<b>Availabile at</b> <br>
+<b>Also availabile at</b> <br>
 <b>
 <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Wiley</a> |
 <a href="https://www.amazon.com/-/es/Mohammad-Rubyet-Islam/dp/1394279264">Amazon - USA</a> |
