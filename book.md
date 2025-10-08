@@ -225,8 +225,11 @@ image: ""  # This prevents any image from being displayed
 <br>
 
 <!-- This section is for adding list of Univeristies -->
-<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
+<ul style="color: navy blue; font-family: 'Futura', serif; font-size: 20px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b>Available in 440+ Universities & Libraries worldwide Including: </b> <br>
+</ul>
+
+<ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b>
 <a href="https://usmai-umcp.primo.exlibrisgroup.com/permalink/01USMAI_UMCP/1kcjvmc/alma9964044966108238">UMD</a>
     <a href="https://id.lib.harvard.edu/alma/99158814380003941/catalog">Harvard</a> |
@@ -256,7 +259,8 @@ https://tsinghua-primo.hosted.exlibrisgroup.com.cn/permalink/f/1c5d6lc/86THU_ALM
     <a href="https://go.exlibris.link/t8nzKynQ">National Univeristy of Singapore</a> |
 <br>
 </b>
-<br>
+</ul>
+    <br>
 
 <!-- This section is for adding link to YouTube video -->
 <title>Embedded YouTube Video</title>
@@ -268,6 +272,7 @@ https://tsinghua-primo.hosted.exlibrisgroup.com.cn/permalink/f/1c5d6lc/86THU_ALM
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
   </iframe>
+<br>
 <br>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
