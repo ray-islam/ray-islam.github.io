@@ -231,7 +231,7 @@ image: ""  # This prevents any image from being displayed
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
 <b>
-<a href="https://usmai-umcp.primo.exlibrisgroup.com/permalink/01USMAI_UMCP/1kcjvmc/alma9964044966108238">UMD</a>
+<a href="https://usmai-umcp.primo.exlibrisgroup.com/permalink/01USMAI_UMCP/1kcjvmc/alma9964044966108238">UMD</a> |
     <a href="https://id.lib.harvard.edu/alma/99158814380003941/catalog">Harvard</a> |
     <a href="https://search.library.yale.edu/catalog/991010656208608651">Yale</a> |
     <a href="https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/ejdckj/alma9935893522306761">MIT</a> |
