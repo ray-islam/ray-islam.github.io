@@ -249,8 +249,11 @@ image: ""  # This prevents any image from being displayed
     <a href="https://bibcercador.uab.cat/permalink/34CSUC_UAB/1eqfv2p/alma991011190597006709">The Universitat Autònoma de Barcelona</a> |
     <a href="https://qulib.summon.serialssolutions.com/#!/search?bookMark=eNpVj01Lw0AURUesoq1Zus_CRReNzpuPzLxlDbUWCm7EbZhkXjBYEp1JCv33VoqIy8s5HLhTNun6jhi7BX4PnIsHNBYkKmFQivyMTX8H8HOW_EGR68sjVEYJpXiOVyyJsa24NgYNAl6z-Zo6Cm5o95QuN4u0OFQUItVjaIfDInWdT1fDe1vHG3bRuF2khE2GMNKMvT2tXovnbPuy3hTLbeYAtMkzMmArj7ZRiKo2wtaNbhR3yImM8l57EI2F2lrSXhKSJw2GnANuDUcpZ-zuFI6ucaEtq77_iOVelP9eHbX5SfsM_ddIcSjpx6ypG4LblavHQoLlWvBcfgPh71OX">Qatar University</a> |
       <a href="https://khalifa.primo.exlibrisgroup.com/permalink/971KUOSTAR_INST/3hfmci/alma991001133469607456">Khalifa Univerity</a> |
-      <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Harvard</a>
-      <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265">Harvard</a>
+      <a href="
+https://tsinghua-primo.hosted.exlibrisgroup.com.cn/permalink/f/1c5d6lc/86THU_ALMA_US51989219880003966">Tsinghua Univerity</a> |
+      <a href="https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1qb4pk8/82SNU_INST51958457930002591">Seoul National Univeristy</a> |
+    <a href="https://julac-hku.primo.exlibrisgroup.com/permalink/852JULAC_HKU/1dr1jhs/alma991044972268203414">The Univerity of Hong Kong</a> |
+    <a href="https://go.exlibris.link/t8nzKynQ">National Univeristy of Singapore</a> |
 <br>
 </b>
 <br>
