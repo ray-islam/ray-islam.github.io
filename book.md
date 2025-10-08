@@ -226,7 +226,7 @@ image: ""  # This prevents any image from being displayed
 
 <!-- This section is for adding list of Univeristies -->
 <ul style="color: navy blue; font-family: 'Futura', serif; font-size: 20px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
-<b>Available in 440+ Universities & Libraries worldwide Including: </b> <br>
+<b>Available in 440+ Universities & Libraries Worldwide, Including: </b> <br>
 </ul>
 
 <ul style="color: black; font-family: 'Futura', serif; font-size: 16px; list-style-type: none; margin: 0; padding: 0; text-align: justify;">
