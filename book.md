@@ -244,7 +244,7 @@ image: ""  # This prevents any image from being displayed
       <a href="https://bruknow.library.brown.edu/permalink/01BU_INST/9mvq88/alma991043810697206966">Brown</a> |
       <a href="https://catalog.library.cornell.edu/catalog/16626277">Cornell Univeristy</a> |
        <a href="https://find.library.upenn.edu/catalog/9979563248503681?hld_id=53846611650003681">Univeristy of Pennsylvania</a> |
-  <a href="https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991107460957806196">Univeristy of Toronto</a> |
+  <a href="https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991107460957806196">University of Toronto</a> |
     <a href="https://mcgill.on.worldcat.org/oclc/1478248947">McGill</a> |
     <a href="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma991027160862407026">Oxford</a> |
     <a href="https://idiscover.lib.cam.ac.uk/permalink/f/t9gok8/44CAM_ALMA51794811770003606">Cambridge</a> |
