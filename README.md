@@ -186,8 +186,6 @@
 4. <b>MBA</b> in Marketing – LUTON – UK </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
 5. <b>BSc</b> in Manufacturing Engineering – BUTex - BD, <b>GPA: 4.0 </b> </p>
-
-### In-progress
 <p style="color: black; font-family: 'Futura', serif; font-size: 14px;">
 6. <b>Micro Masters</b> in Statistics and Data Science - MASSACHUSETTS INSTITUTE of TECHNOLOGY (MIT), USA </p>
 
