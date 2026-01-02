@@ -172,22 +172,24 @@
 <p style="color: black; font-family: 'Futura', serif; font-size: 14px; padding-left: 16px;">
 <b>Advisory Committee:</b> <a href="https://enme.umd.edu/clark/faculty/582/Peter-Sandborn">Dr. Peter A. Sandborn (Advisor and Chair) </a> | <a href="https://isr.umd.edu/clark/faculty/902/William-Regli">Dr. William Regli</a> (Dean’s Representative) | <a href="https://enme.umd.edu/clark/faculty/568/Mohammad-Modarres">Dr. Mohammad Modarres</a> | Dr. Abhijit Dasgupta | Dr. F. Patrick McCluskey </p>
 
+<p style="color: black; font-family: 'Futura', serif; font-size: 14px;">
+2. <b>Micro Masters</b> in Statistics and Data Science - MASSACHUSETTS INSTITUTE of TECHNOLOGY (MIT), USA </p>
+
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-2. <b>MASc</b> in Mechanical Engineering – ONTARIO TECH UNIVERSITY – ON, Canada, <b>GPA:3.98</b> (Research undertaken at The Univesity of Toronto, Canada) </p>
+3. <b>MASc</b> in Mechanical Engineering – ONTARIO TECH UNIVERSITY – ON, Canada, <b>GPA:3.98</b> (Research undertaken at The Univesity of Toronto, Canada) </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 14px; padding-left: 16px;">
 <b>Advisory Committee:</b> <a href="https://ontariotechu.ca/experts/feas/ghaus-rizvi.php?utm_source=featured_expert&utm_medium=web&utm_campaign=Ghaus%20Rizvi">Dr. Ghaus Rizvi</a> (Advisor and Chair) | Dr. Remon Pop-Iliev | <a href="https://zhang.apps01.yorku.ca/about/">Dr. Dan Zhang</a> | <a href="https://mse.utoronto.ca/faculty-staff/professors/naguib/">Dr. Hani Naguib</a> (External- Univerity of Toronto) </p>
 
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-3. <b>MSc</b> in International Marketing – HERIOT-WATT UNIVERSITY – UK </p>
+4. <b>MSc</b> in International Marketing – HERIOT-WATT UNIVERSITY – UK </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 14px; padding-left: 16px;">
   <b>Advisor:</b> <a href="https://www.hw.ac.uk/tex/people/faculty/britta-kalkreuter.htm">Dr. Britta Kalkreuter</a> </p>
   
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-4. <b>MBA</b> in Marketing – LUTON – UK </p>
+5. <b>MBA</b> in Marketing – LUTON – UK </p>
 <p style="color: black; font-family: 'Futura', serif; font-size: 16px;">
-5. <b>BSc</b> in Manufacturing Engineering – BUTex - BD, <b>GPA: 4.0 </b> </p>
-<p style="color: black; font-family: 'Futura', serif; font-size: 14px;">
-6. <b>Micro Masters</b> in Statistics and Data Science - MASSACHUSETTS INSTITUTE of TECHNOLOGY (MIT), USA </p>
+6. <b>BSc</b> in Manufacturing Engineering – BUTex - BD, <b>GPA: 4.0 </b> </p>
+
 
 ### Transferred
 <p style="color: black; font-family: 'Futura', serif; font-size: 12px;">
