@@ -37,7 +37,7 @@ body {
     opacity: 0.75;
     background-image:
         linear-gradient(rgba(103,232,249,0.16) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(103,232,249,0.016) 1px, transparent 1px);
+        linear-gradient(90deg, rgba(103,232,249,0.08) 1px, transparent 1px);
     background-size: 70px 70px;
     animation: gridMove 35s linear infinite;
 }
@@ -134,7 +134,8 @@ h2 {
 
 /* BUTTONS */
 
-.buttons a {
+.buttons a,
+.section-button {
     display: inline-block;
     margin: 8px 8px;
     padding: 11px 23px;
@@ -146,26 +147,43 @@ h2 {
     background: rgba(255,255,255,.035);
 }
 
-.buttons a:hover {
+.buttons a:hover,
+.section-button:hover {
     background: rgba(103,232,249,.12);
     color: #ffffff;
     border-color: rgba(103,232,249,.9);
 }
 
-/* SECTIONS */
+/* SHARED SECTIONS */
 
+.about-section,
 .metrics-section,
-.focus-section {
+.focus-section,
+.book-section,
+.recognition-section,
+.footer {
     background: #05070b;
     text-align: center;
 }
 
+.about-section {
+    padding: 70px 20px 45px;
+}
+
 .metrics-section {
-    padding: 55px 20px 55px;
+    padding: 45px 20px 55px;
 }
 
 .focus-section {
-    padding: 55px 20px 90px;
+    padding: 55px 20px 70px;
+}
+
+.book-section {
+    padding: 65px 20px;
+}
+
+.recognition-section {
+    padding: 55px 20px 65px;
 }
 
 .section-title {
@@ -174,6 +192,15 @@ h2 {
     font-weight: 500;
     margin-bottom: 30px;
     text-shadow: none;
+}
+
+.about-text {
+    max-width: 850px;
+    margin: 0 auto;
+    color: #c7d3dc;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    font-weight: 300;
 }
 
 /* METRIC CARDS */
@@ -239,6 +266,84 @@ h2 {
     padding-left: 14px;
 }
 
+/* FEATURED BOOK */
+
+.book-card {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 40px;
+    border: 1px solid rgba(255,255,255,.12);
+    border-radius: 18px;
+    background: rgba(255,255,255,.045);
+    text-align: left;
+}
+
+.book-info {
+    max-width: 720px;
+}
+
+.eyebrow {
+    color: #67e8f9;
+    font-size: .85rem;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-bottom: 12px;
+}
+
+.book-info h3 {
+    font-size: 1.75rem;
+    color: #f8fbff;
+    margin-bottom: 16px;
+}
+
+.book-info p {
+    color: #c7d3dc;
+    font-size: 1.05rem;
+    line-height: 1.7;
+    margin-bottom: 22px;
+}
+
+/* RECOGNITION */
+
+.recognition-list {
+    max-width: 850px;
+    margin: 0 auto;
+    display: grid;
+    gap: 16px;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.recognition-list p {
+    border: 1px solid rgba(255,255,255,.12);
+    border-radius: 14px;
+    padding: 20px;
+    background: rgba(255,255,255,.04);
+    color: #dbe6ee;
+}
+
+/* FOOTER */
+
+.footer {
+    padding: 45px 20px 55px;
+    border-top: 1px solid rgba(255,255,255,.08);
+}
+
+.footer p {
+    color: #c7d3dc;
+    margin-bottom: 18px;
+}
+
+.footer-links a {
+    color: #67e8f9;
+    text-decoration: none;
+    margin: 0 12px;
+    font-size: .95rem;
+}
+
+.footer-links a:hover {
+    color: #ffffff;
+}
+
 /* ANIMATIONS */
 
 @keyframes fadeIn {
@@ -278,8 +383,13 @@ h2 {
 /* MOBILE */
 
 @media (max-width: 900px) {
-    .metrics-grid {
+    .metrics-grid,
+    .recognition-list {
         grid-template-columns: repeat(2, 1fr);
+    }
+
+    .book-card {
+        text-align: center;
     }
 }
 
@@ -301,7 +411,8 @@ h2 {
         font-size: 1.15rem;
     }
 
-    .executive-summary {
+    .executive-summary,
+    .about-text {
         font-size: .98rem;
         line-height: 1.6;
     }
@@ -318,10 +429,20 @@ h2 {
         right: -5px;
         bottom: 8px;
     }
+
+    .book-card {
+        padding: 28px 22px;
+    }
 }
 
 @media (max-width: 600px) {
-    .metrics-grid {
+    .metrics-grid,
+    .recognition-list {
         grid-template-columns: 1fr;
+    }
+
+    .footer-links a {
+        display: block;
+        margin: 10px 0;
     }
 }
