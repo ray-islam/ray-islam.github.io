@@ -95,7 +95,7 @@ body {
     width: 105px;
     height: 105px;
     right: -12px;
-    bottom: -12px;
+    bottom: 15px;
     object-fit: contain;
     background: white;
     border-radius: 50%;
