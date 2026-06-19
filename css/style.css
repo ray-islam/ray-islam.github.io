@@ -92,31 +92,32 @@ body {
 
 .badge {
     position: absolute;
-    width: 105px;
-    height: 105px;
-    right: 8px;
-    bottom: 8px;
+    width: 95px;
+    height: 95px;
+    right: -12px;
+    bottom: -12px;
     object-fit: contain;
     background: white;
     border-radius: 50%;
     padding: 2px;
-    box-shadow: 0 0 10px rgba(255,255,255,.6);
+    box-shadow: 0 0 12px rgba(255,255,255,.7);
 }
 
 /* TEXT */
 
 h1 {
-    font-size: 3.5rem;
+    font-size: 2.9rem;
     color: #00ffff;
-    margin-bottom: 15px;
+    margin-bottom: 12px;
     text-shadow: 0 0 10px rgba(0,255,255,.5);
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 1.4rem;
     font-weight: 300;
-    line-height: 1.4;
-    margin-bottom: 25px;
+    line-height: 1.5;
+    max-width: 700px;
+    margin: 0 auto 25px;
 }
 
 .roles {
@@ -191,30 +192,6 @@ h2 {
     }
 }
 
-/* MOBILE */
-
-@media (max-width: 768px) {
-    h1 {
-        font-size: 2.4rem;
-    }
-
-    h2 {
-        font-size: 1.4rem;
-    }
-
-    .profile-photo,
-    .photo-container {
-        width: 180px;
-        height: 180px;
-    }
-
-    .badge {
-        width: 45px;
-        height: 45px;
-        right: 5px;
-        bottom: 5px;
-    }
-}
 /* IMPACT METRICS */
 
 .metrics-section,
@@ -226,7 +203,7 @@ h2 {
 
 .section-title {
     color: #00ffff;
-    font-size: 2.5rem;
+    font-size: 2.3rem;
     margin-bottom: 45px;
     text-shadow: 0 0 10px rgba(0,255,255,.5);
 }
@@ -275,12 +252,35 @@ h2 {
     font-size: 1.2rem;
 }
 
-/* MOBILE SECTIONS */
+/* MOBILE */
 
 @media (max-width: 900px) {
     .metrics-grid,
     .focus-grid {
         grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.2rem;
+    }
+
+    h2 {
+        font-size: 1.2rem;
+    }
+
+    .profile-photo,
+    .photo-container {
+        width: 180px;
+        height: 180px;
+    }
+
+    .badge {
+        width: 70px;
+        height: 70px;
+        right: -8px;
+        bottom: -8px;
     }
 }
 
