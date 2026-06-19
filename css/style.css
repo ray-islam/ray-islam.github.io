@@ -28,8 +28,27 @@ body {
         linear-gradient(180deg, #071018 0%, #05070b 100%);
 }
 
+/* SUBTLE FUTURISTIC AI BACKGROUND */
+
 .ai-background {
-    display: none;
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    opacity: 0.35;
+    background-image:
+        linear-gradient(rgba(103,232,249,0.08) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(103,232,249,0.08) 1px, transparent 1px);
+    background-size: 80px 80px;
+    animation: gridMove 35s linear infinite;
+}
+
+.ai-background::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+        radial-gradient(circle at 25% 25%, rgba(103,232,249,.14), transparent 25%),
+        radial-gradient(circle at 75% 55%, rgba(56,189,248,.10), transparent 28%);
 }
 
 /* HERO CONTENT */
@@ -242,6 +261,16 @@ h2 {
     to {
         opacity: 1;
         transform: scale(1);
+    }
+}
+
+@keyframes gridMove {
+    from {
+        background-position: 0 0;
+    }
+
+    to {
+        background-position: 160px 160px;
     }
 }
 
