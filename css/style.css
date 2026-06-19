@@ -65,7 +65,7 @@ body {
 .badge {
     position: absolute;
     width: 115px;
-    height:115px;
+    height: 115px;
     right: -6px;
     bottom: 16px;
     object-fit: contain;
@@ -149,24 +149,17 @@ h2 {
     text-shadow: none;
 }
 
-.metrics-grid,
-.focus-grid {
+/* METRIC CARDS */
+
+.metrics-grid {
     max-width: 1080px;
     margin: 0 auto;
     display: grid;
     gap: 18px;
-}
-
-.metrics-grid {
     grid-template-columns: repeat(4, 1fr);
 }
 
-.focus-grid {
-    grid-template-columns: repeat(5, 1fr);
-}
-
-.metric-card,
-.focus-card {
+.metric-card {
     border: 1px solid rgba(255,255,255,.12);
     border-radius: 14px;
     padding: 22px 16px;
@@ -175,8 +168,7 @@ h2 {
     transition: all .25s ease;
 }
 
-.metric-card:hover,
-.focus-card:hover {
+.metric-card:hover {
     transform: translateY(-4px);
     border-color: rgba(103,232,249,.45);
     background: rgba(103,232,249,.07);
@@ -189,11 +181,35 @@ h2 {
     text-shadow: none;
 }
 
-.metric-card p,
-.focus-card {
+.metric-card p {
     color: #eef4f8;
     font-size: .95rem;
     font-weight: 500;
+}
+
+/* EXECUTIVE AI FOCUS LIST */
+
+.focus-list {
+    max-width: 850px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.focus-item {
+    padding: 20px 0;
+    border-bottom: 1px solid rgba(255,255,255,.10);
+    color: #dbe6ee;
+    font-size: 1.15rem;
+    transition: all .25s ease;
+}
+
+.focus-item span {
+    display: inline-block;
+}
+
+.focus-item:hover {
+    color: #67e8f9;
+    padding-left: 14px;
 }
 
 /* ANIMATIONS */
@@ -225,8 +241,7 @@ h2 {
 /* MOBILE */
 
 @media (max-width: 900px) {
-    .metrics-grid,
-    .focus-grid {
+    .metrics-grid {
         grid-template-columns: repeat(2, 1fr);
     }
 }
@@ -264,8 +279,7 @@ h2 {
 }
 
 @media (max-width: 600px) {
-    .metrics-grid,
-    .focus-grid {
+    .metrics-grid {
         grid-template-columns: 1fr;
     }
 }
