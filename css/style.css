@@ -215,3 +215,78 @@ h2 {
         bottom: 5px;
     }
 }
+/* IMPACT METRICS */
+
+.metrics-section,
+.focus-section {
+    background: #000;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.section-title {
+    color: #00ffff;
+    font-size: 2.5rem;
+    margin-bottom: 45px;
+    text-shadow: 0 0 10px rgba(0,255,255,.5);
+}
+
+.metrics-grid,
+.focus-grid {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: grid;
+    gap: 25px;
+}
+
+.metrics-grid {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.focus-grid {
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.metric-card,
+.focus-card {
+    border: 1px solid rgba(0,255,255,.45);
+    border-radius: 18px;
+    padding: 30px 20px;
+    background: rgba(0,255,255,.05);
+    box-shadow: 0 0 20px rgba(0,255,255,.12);
+    transition: all .3s ease;
+}
+
+.metric-card:hover,
+.focus-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 0 25px rgba(0,255,255,.45);
+}
+
+.metric-card h3 {
+    font-size: 3rem;
+    color: #00ffff;
+    margin-bottom: 10px;
+}
+
+.metric-card p,
+.focus-card {
+    color: white;
+    font-size: 1.2rem;
+}
+
+/* MOBILE SECTIONS */
+
+@media (max-width: 900px) {
+    .metrics-grid,
+    .focus-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .metrics-grid,
+    .focus-grid {
+        grid-template-columns: 1fr;
+    }
+}
