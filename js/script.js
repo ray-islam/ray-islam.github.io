@@ -2,9 +2,10 @@ const roles = [
     "AI Scientist",
     "Professor",
     "Author",
-    "Speaker",
+    "Keynote Speaker",
     "AI Ethics Advocate",
-    "Cybersecurity Researcher"
+    "Cybersecurity Researcher",
+    "Enterprise AI Strategist"
 ];
 
 let index = 0;
