@@ -62,8 +62,8 @@ body {
 
 .badge {
     position: absolute;
-    width: 105px;
-    height: 105px;
+    width: 115px;
+    height: 115px;
     right: -4px;
     bottom: 18px;
     object-fit: contain;
