@@ -34,11 +34,11 @@ body {
     position: absolute;
     inset: 0;
     z-index: 0;
-    opacity: 0.35;
+    opacity: 0.75;
     background-image:
-        linear-gradient(rgba(103,232,249,0.08) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(103,232,249,0.08) 1px, transparent 1px);
-    background-size: 80px 80px;
+        linear-gradient(rgba(103,232,249,0.16) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(103,232,249,0.016) 1px, transparent 1px);
+    background-size: 70px 70px;
     animation: gridMove 35s linear infinite;
 }
 
@@ -47,8 +47,9 @@ body {
     position: absolute;
     inset: 0;
     background:
-        radial-gradient(circle at 25% 25%, rgba(103,232,249,.14), transparent 25%),
-        radial-gradient(circle at 75% 55%, rgba(56,189,248,.10), transparent 28%);
+        radial-gradient(circle at 25% 25%, rgba(103,232,249,.28), transparent 25%),
+        radial-gradient(circle at 75% 55%, rgba(56,189,248,.22), transparent 28%),
+        radial-gradient(circle at 50% 80%, rgba(0,255,255,.12), transparent 25%);
 }
 
 /* HERO CONTENT */
