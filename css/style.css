@@ -95,7 +95,7 @@ body {
     padding: 2px;
     box-shadow: 0 10px 25px rgba(0,0,0,.5);
     opacity: 0;
-    animation: badgeFlyIn 2s cubic-bezier(.2,.9,.25,1.2) 2s forwards;
+    animation: badgeFlyIn 4s cubic-bezier(.2,.9,.25,1.2) 2s forwards;
 }
 
 /* TEXT */
