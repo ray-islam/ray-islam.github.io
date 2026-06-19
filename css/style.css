@@ -206,6 +206,9 @@ h2 {
     font-size: 1.1rem;
     line-height: 1.8;
     font-weight: 300;
+    text-align: justify; 
+    text-justify: inter-word; 
+    hyphens: auto;
 }
 
 /* METRIC CARDS */
@@ -454,6 +457,9 @@ h2 {
     .about-text {
         font-size: .98rem;
         line-height: 1.6;
+    }
+    .about-text { 
+        text-align: left; 
     }
 
     .profile-photo,
