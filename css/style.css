@@ -76,7 +76,7 @@ body {
 /* TEXT */
 
 h1 {
-    font-size: 2.55rem;
+    font-size: 3rem;
     color: #f8fbff;
     margin-bottom: 14px;
     letter-spacing: -0.6px;
@@ -84,7 +84,7 @@ h1 {
 }
 
 h2 {
-    font-size: 1.25rem;
+    font-size: 1.35rem;
     font-weight: 300;
     line-height: 1.55;
     max-width: 720px;
@@ -96,7 +96,16 @@ h2 {
     font-size: 1.25rem;
     color: #67e8f9;
     min-height: 34px;
-    margin-bottom: 30px;
+    margin-bottom: 18px;
+}
+
+.executive-summary {
+    max-width: 700px;
+    margin: 0 auto 35px;
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: #b8c7d1;
+    font-weight: 300;
 }
 
 .credentials {
@@ -132,7 +141,7 @@ h2 {
 }
 
 .metrics-section {
-    padding: 60px 20px 55px;
+    padding: 55px 20px 55px;
 }
 
 .focus-section {
@@ -260,6 +269,11 @@ h2 {
 
     .roles {
         font-size: 1.15rem;
+    }
+
+    .executive-summary {
+        font-size: .98rem;
+        line-height: 1.6;
     }
 
     .profile-photo,
