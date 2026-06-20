@@ -133,7 +133,11 @@ h2 {
 }
 
 .credentials {
-    display: none;
+    margin: 12px auto 22px;
+    color: #a9b7c3;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    max-width: 700px;
 }
 
 /* BUTTONS */
