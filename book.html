@@ -12,7 +12,8 @@
         }
 
         .book-page-hero {
-            min-height: 55vh;
+            min-height: 38vh;
+            padding: 38px 20px;
         }
 
         .book-page-section {
@@ -20,79 +21,86 @@
                 radial-gradient(circle at 20% 20%, rgba(103,232,249,.08), transparent 28%),
                 radial-gradient(circle at 80% 60%, rgba(56,189,248,.06), transparent 30%),
                 #05070b;
+            padding: 40px 20px;
+        }
+
+        .compact-container {
+            max-width: 1120px;
+            margin: 0 auto;
         }
 
         .book-gallery {
-            max-width: 1100px;
-            margin: 0 auto;
             display: grid;
             grid-template-columns: 1.4fr 1fr 1fr 1fr;
-            gap: 22px;
-            align-items: end;
+            gap: 18px;
+            align-items: stretch;
         }
 
         .book-tile {
             text-align: center;
-            padding: 22px 18px;
+            padding: 18px;
             border: 1px solid rgba(255,255,255,.12);
-            border-radius: 18px;
+            border-radius: 16px;
             background: rgba(255,255,255,.045);
             text-decoration: none;
-            transition: all .25s ease;
+            transition: .25s ease;
         }
 
         .book-tile:hover {
-            transform: translateY(-6px);
+            transform: translateY(-5px);
             border-color: rgba(103,232,249,.55);
             background: rgba(103,232,249,.07);
         }
 
         .book-tile img {
-            width: 120px;
-            max-width: 100%;
+            width: 105px;
             border-radius: 10px;
-            box-shadow: 0 20px 45px rgba(0,0,0,.6);
-            margin-bottom: 16px;
+            box-shadow: 0 18px 40px rgba(0,0,0,.6);
+            margin-bottom: 14px;
         }
 
         .book-tile.featured img {
-            width: 210px;
+            width: 175px;
         }
 
         .book-tile h3 {
             color: #f8fbff;
-            font-size: 1rem;
+            font-size: .95rem;
             line-height: 1.35;
-            margin-bottom: 8px;
+            margin-bottom: 6px;
         }
 
         .book-tile p {
             color: #67e8f9;
-            font-size: .9rem;
+            font-size: .85rem;
         }
 
-        .feature-card {
-            max-width: 980px;
-            margin: 0 auto;
-            padding: 38px;
+        .two-column {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 24px;
+            align-items: start;
+        }
+
+        .compact-card {
+            padding: 28px;
             border: 1px solid rgba(255,255,255,.12);
-            border-radius: 20px;
+            border-radius: 18px;
             background: rgba(255,255,255,.045);
-            text-align: left;
             backdrop-filter: blur(8px);
-        }
-
-        .feature-card h3 {
-            font-size: 1.9rem;
-            color: #f8fbff;
-            margin-bottom: 16px;
-        }
-
-        .feature-card p {
             color: #c7d3dc;
-            font-size: 1.05rem;
-            line-height: 1.75;
-            margin-bottom: 18px;
+            line-height: 1.65;
+            height: 100%;
+        }
+
+        .compact-card h3 {
+            color: #f8fbff;
+            font-size: 1.45rem;
+            margin-bottom: 14px;
+        }
+
+        .compact-card p {
+            margin-bottom: 16px;
         }
 
         .highlight {
@@ -100,32 +108,15 @@
             font-weight: 600;
         }
 
-        .quote-card {
-            max-width: 850px;
-            margin: 0 auto;
-            padding: 34px;
-            border-radius: 18px;
-            border: 1px solid rgba(103,232,249,.28);
-            background: rgba(103,232,249,.06);
-            text-align: center;
-        }
-
-        .quote-card p {
-            color: #f8fbff;
-            font-size: 1.25rem;
-            line-height: 1.7;
-        }
-
         .video-wrap {
-            max-width: 850px;
-            margin: 0 auto;
             position: relative;
+            width: 100%;
             padding-bottom: 56.25%;
             height: 0;
             overflow: hidden;
-            border-radius: 18px;
+            border-radius: 16px;
             border: 1px solid rgba(255,255,255,.12);
-            box-shadow: 0 22px 50px rgba(0,0,0,.5);
+            box-shadow: 0 18px 45px rgba(0,0,0,.5);
         }
 
         .video-wrap iframe {
@@ -135,67 +126,51 @@
             height: 100%;
         }
 
-        .simple-grid {
-            max-width: 1050px;
-            margin: 0 auto;
+        .mini-grid {
             display: grid;
-            gap: 18px;
             grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
         }
 
-        .simple-card {
-            padding: 24px;
+        .mini-card {
+            padding: 20px;
             border: 1px solid rgba(255,255,255,.12);
-            border-radius: 16px;
+            border-radius: 15px;
             background: rgba(255,255,255,.045);
             color: #dbe6ee;
-            line-height: 1.65;
+            line-height: 1.55;
+            font-size: .95rem;
         }
 
-        .simple-card strong {
+        .mini-card strong {
             color: #f8fbff;
         }
 
         .library-text {
-            max-width: 900px;
+            max-width: 920px;
             margin: 0 auto;
             color: #c7d3dc;
-            font-size: 1.05rem;
-            line-height: 1.85;
+            font-size: .98rem;
+            line-height: 1.8;
             text-align: center;
         }
 
         @media (max-width: 900px) {
-            .book-gallery {
-                grid-template-columns: repeat(2, 1fr);
-            }
-
-            .simple-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
-        }
-
-        @media (max-width: 600px) {
             .book-gallery,
-            .simple-grid {
+            .two-column {
                 grid-template-columns: 1fr;
             }
 
+            .mini-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .book-page-hero {
+                min-height: auto;
+            }
+
             .book-tile.featured img {
-                width: 180px;
-            }
-
-            .feature-card {
-                padding: 26px 20px;
-                text-align: center;
-            }
-
-            .feature-card h3 {
-                font-size: 1.45rem;
-            }
-
-            .quote-card p {
-                font-size: 1.05rem;
+                width: 160px;
             }
         }
     </style>
@@ -208,7 +183,7 @@
 
         <div class="hero-content">
             <h1>Books</h1>
-           
+
             <div class="buttons">
                 <a href="index.html">Home</a>
                 <a href="publications.html">Publications</a>
@@ -218,164 +193,179 @@
         </div>
     </section>
 
-    <section class="book-section book-page-section">
-        <h2 class="section-title">Explore Books</h2>
+    <section class="book-page-section">
+        <div class="compact-container">
+            <h2 class="section-title">Explore Books</h2>
 
-        <div class="book-gallery">
-            <a href="#genai-book" class="book-tile featured">
-                <img src="assets/genai.png" alt="Generative AI, Cybersecurity, and Ethics">
-                <h3>Generative AI, Cybersecurity, and Ethics</h3>
-                <p>Wiley Book</p>
-            </a>
+            <div class="book-gallery">
+                <a href="#genai-book" class="book-tile featured">
+                    <img src="assets/genai.png" alt="Generative AI, Cybersecurity, and Ethics">
+                    <h3>Generative AI, Cybersecurity, and Ethics</h3>
+                    <p>Wiley Book</p>
+                </a>
 
-            <a href="#rag-book" class="book-tile">
-                <img src="assets/rag.jpg" alt="Retrieval-Augmented Generation">
-                <h3>Retrieval-Augmented Generation</h3>
-                <p>eBook</p>
-            </a>
+                <a href="#rag-book" class="book-tile">
+                    <img src="assets/rag.jpg" alt="Retrieval-Augmented Generation">
+                    <h3>Retrieval-Augmented Generation</h3>
+                    <p>eBook</p>
+                </a>
 
-            <a href="#langchain-book" class="book-tile">
-                <img src="assets/langchain.jpg" alt="LangChain Unveiled">
-                <h3>LangChain Unveiled</h3>
-                <p>eBook</p>
-            </a>
+                <a href="#langchain-book" class="book-tile">
+                    <img src="assets/langchain.jpg" alt="LangChain Unveiled">
+                    <h3>LangChain Unveiled</h3>
+                    <p>eBook</p>
+                </a>
 
-            <a href="#satellite-book" class="book-tile">
-                <img src="assets/satellite1.jpg" alt="Enhancing Satellite Security">
-                <h3>Enhancing Satellite Security</h3>
-                <p>eBook</p>
-            </a>
+                <a href="#satellite-book" class="book-tile">
+                    <img src="assets/satellite1.jpg" alt="Enhancing Satellite Security">
+                    <h3>Enhancing Satellite Security</h3>
+                    <p>eBook</p>
+                </a>
+            </div>
         </div>
     </section>
 
-    <section id="genai-book" class="book-section book-page-section">
-        <h2 class="section-title">Featured Book</h2>
+    <section id="genai-book" class="book-page-section">
+        <div class="compact-container">
+            <div class="two-column">
 
-        <div class="feature-card">
-            <p class="eyebrow">Published by Wiley</p>
+                <div class="compact-card">
+                    <p class="eyebrow">Published by Wiley</p>
 
-            <h3>Generative AI, Cybersecurity, and Ethics</h3>
+                    <h3>Generative AI, Cybersecurity, and Ethics</h3>
 
-            <p>
-                A practical and timely exploration of how generative AI, cybersecurity,
-                governance, and ethical innovation intersect in modern organizations.
+                    <p>
+                        A practical exploration of how generative AI, cybersecurity,
+                        governance, and ethical innovation intersect in modern organizations.
+                    </p>
+
+                    <p>
+                        Available in <span class="highlight">440+ universities and libraries worldwide</span>,
+                        including Harvard, Yale, MIT, Stanford, Oxford, Cambridge,
+                        University of Toronto, and National University of Singapore.
+                    </p>
+
+                    <p><strong>ISBN:</strong> 978-1-394-27926-5</p>
+
+                    <div class="buttons">
+                        <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265" target="_blank" rel="noopener noreferrer">Wiley</a>
+                        <a href="https://www.amazon.com/-/es/Mohammad-Rubyet-Islam/dp/1394279264" target="_blank" rel="noopener noreferrer">Amazon</a>
+                        <a href="https://www.barnesandnoble.com/w/generative-ai-cybersecurity-and-ethics-mohammad-rubyet-islam/1145560161" target="_blank" rel="noopener noreferrer">Barnes &amp; Noble</a>
+                    </div>
+                </div>
+
+                <div class="compact-card">
+                    <h3>Book Introduction</h3>
+
+                    <div class="video-wrap">
+                        <iframe
+                            src="https://www.youtube.com/embed/ZTrtQ_AAdrA"
+                            title="Book Introduction"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen>
+                        </iframe>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section class="book-page-section">
+        <div class="compact-container">
+            <div class="two-column">
+
+                <div>
+                    <h2 class="section-title">What You'll Learn</h2>
+
+                    <div class="mini-grid">
+                        <div class="mini-card">
+                            <strong>For Leaders</strong><br><br>
+                            Business, legal, ethical, and cybersecurity implications of generative AI.
+                        </div>
+
+                        <div class="mini-card">
+                            <strong>For Practitioners</strong><br><br>
+                            AI for threat detection, governance, risk management, and responsible deployment.
+                        </div>
+
+                        <div class="mini-card">
+                            <strong>For Students</strong><br><br>
+                            Human-centered AI design, privacy, accountability, and emerging risks.
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <h2 class="section-title">Selected Endorsements</h2>
+
+                    <div class="mini-grid">
+                        <div class="mini-card">
+                            “An essential guide for students...”<br><br>
+                            <strong>Dr. Peter Sandborn</strong><br>
+                            University of Maryland
+                        </div>
+
+                        <div class="mini-card">
+                            “A comprehensive exploration...”<br><br>
+                            <strong>Dr. Adam Lee</strong><br>
+                            University of Maryland
+                        </div>
+
+                        <div class="mini-card">
+                            “A timely and critical book...”<br><br>
+                            <strong>Fiona J. McEvoy</strong><br>
+                            AI Ethics Researcher
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section class="book-page-section">
+        <div class="compact-container">
+            <h2 class="section-title">Library Availability</h2>
+
+            <p class="library-text">
+                Available in <strong>440+ universities and libraries worldwide</strong>, including
+                Harvard, Yale, MIT, Stanford, Columbia, UC Berkeley, Cornell, University of Toronto,
+                McGill, Oxford, Cambridge, ETH Zurich, Tsinghua University, Seoul National University,
+                University of Hong Kong, and National University of Singapore.
             </p>
-
-            <p>
-                Available in <span class="highlight">500(appx) universities and libraries worldwide</span>,
-                including Harvard, Yale, MIT, Stanford, Oxford, Cambridge,
-                University of Toronto, and National University of Singapore.
-            </p>
-
-            <p>
-                <strong>ISBN:</strong> 978-1-394-27926-5
-            </p>
-
-            <div class="buttons">
-                <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265" target="_blank" rel="noopener noreferrer">View on Wiley</a>
-                <a href="https://www.amazon.com/-/es/Mohammad-Rubyet-Islam/dp/1394279264" target="_blank" rel="noopener noreferrer">Amazon USA</a>
-                <a href="https://www.barnesandnoble.com/w/generative-ai-cybersecurity-and-ethics-mohammad-rubyet-islam/1145560161" target="_blank" rel="noopener noreferrer">Barnes &amp; Noble</a>
-            </div>
         </div>
     </section>
 
-    <section class="book-section book-page-section">
-        <h2 class="section-title">Book Introduction</h2>
+    <section class="book-page-section">
+        <div class="compact-container">
+            <h2 class="section-title">Other Books &amp; eBooks</h2>
 
-        <div class="video-wrap">
-            <iframe
-                src="https://www.youtube.com/embed/ZTrtQ_AAdrA"
-                title="Book Introduction"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen>
-            </iframe>
-        </div>
-    </section>
+            <div class="mini-grid">
+                <div id="rag-book" class="mini-card">
+                    <strong>Retrieval-Augmented Generation</strong>
+                    <br><br>
+                    A concise guide to RAG, LLM architectures, and dynamic knowledge integration.
+                    <br><br>
+                    <a href="https://www.amazon.com/dp/B0CR6GJGGL" target="_blank" rel="noopener noreferrer" class="section-button">View eBook</a>
+                </div>
 
-    <section class="recognition-section book-page-section">
-        <h2 class="section-title">Why This Book Matters</h2>
+                <div id="langchain-book" class="mini-card">
+                    <strong>LangChain Unveiled</strong>
+                    <br><br>
+                    A practical overview of LangChain, LCEL, Auto-GPT, and applied NLP systems.
+                    <br><br>
+                    <a href="https://www.amazon.com/dp/B0CPJS6WSR" target="_blank" rel="noopener noreferrer" class="section-button">View eBook</a>
+                </div>
 
-        <div class="simple-grid">
-            <div class="simple-card">
-                <strong>For Leaders</strong><br><br>
-                Understand the business, legal, ethical, and cybersecurity implications of generative AI.
-            </div>
-
-            <div class="simple-card">
-                <strong>For Practitioners</strong><br><br>
-                Learn how AI can support threat detection, governance, risk management, and responsible deployment.
-            </div>
-
-            <div class="simple-card">
-                <strong>For Students &amp; Researchers</strong><br><br>
-                Explore real-world examples, human-centered AI design, privacy, accountability, and emerging risks.
-            </div>
-        </div>
-    </section>
-
-    <section class="recognition-section book-page-section">
-        <h2 class="section-title">Selected Endorsements</h2>
-
-        <div class="simple-grid">
-            <div class="simple-card">
-                “An essential guide for students, providing clear explanations and practical insights...”<br><br>
-                <strong>Dr. Peter Sandborn</strong><br>
-                University of Maryland
-            </div>
-
-            <div class="simple-card">
-                “Offers a comprehensive exploration of their interplay in today's digital landscape...”<br><br>
-                <strong>Dr. Adam Lee</strong><br>
-                University of Maryland
-            </div>
-
-            <div class="simple-card">
-                “A timely and critical book... a much-needed guide for this new era of intelligence.”<br><br>
-                <strong>Fiona J. McEvoy</strong><br>
-                AI Ethics Writer and Researcher
-            </div>
-        </div>
-    </section>
-
-    <section class="book-section book-page-section">
-        <h2 class="section-title">Library Availability</h2>
-
-        <p class="library-text">
-            Available in <strong>440+ universities and libraries worldwide</strong>, including
-            Harvard, Yale, MIT, Stanford, Columbia, UC Berkeley, Dartmouth, Purdue,
-            Brown, Cornell, University of Pennsylvania, University of Toronto, McGill,
-            Oxford, Cambridge, ETH Zurich, Tsinghua University, Seoul National University,
-            University of Hong Kong, and National University of Singapore.
-        </p>
-    </section>
-
-    <section class="recognition-section book-page-section">
-        <h2 class="section-title">Other Books &amp; eBooks</h2>
-
-        <div class="simple-grid">
-            <div id="rag-book" class="simple-card">
-                <strong>Retrieval-Augmented Generation (RAG): Empowering Large Language Models</strong>
-                <br><br>
-                A concise guide to retrieval-augmented generation, modern LLM architectures, and dynamic knowledge integration.
-                <br><br>
-                <a href="https://www.amazon.com/dp/B0CR6GJGGL" target="_blank" rel="noopener noreferrer" class="section-button">View eBook</a>
-            </div>
-
-            <div id="langchain-book" class="simple-card">
-                <strong>LangChain Unveiled: Navigating the Future of LLM</strong>
-                <br><br>
-                A practical overview of LangChain, modular AI application development, LCEL, Auto-GPT, and applied NLP systems.
-                <br><br>
-                <a href="https://www.amazon.com/dp/B0CPJS6WSR" target="_blank" rel="noopener noreferrer" class="section-button">View eBook</a>
-            </div>
-
-            <div id="satellite-book" class="simple-card">
-                <strong>Enhancing Satellite Security: Leveraging GenAI for Advanced Cyber Defense</strong>
-                <br><br>
-                An applied look at how generative AI can support autonomous cyber defense for satellite systems.
-                <br><br>
-                <a href="https://www.amazon.com/dp/B0CP8K446P" target="_blank" rel="noopener noreferrer" class="section-button">View eBook</a>
+                <div id="satellite-book" class="mini-card">
+                    <strong>Enhancing Satellite Security</strong>
+                    <br><br>
+                    How generative AI can support autonomous cyber defense for satellite systems.
+                    <br><br>
+                    <a href="https://www.amazon.com/dp/B0CP8K446P" target="_blank" rel="noopener noreferrer" class="section-button">View eBook</a>
+                </div>
             </div>
         </div>
     </section>
