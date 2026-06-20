@@ -685,10 +685,22 @@ h2 {
     color: #dbe6ee;
     line-height: 1.7;
     font-size: 0.95rem;
+    text-align: center;
+    transition: all .25s ease;
+}
+
+.mini-card:hover {
+    border-color: rgba(103,232,249,.35);
+    transform: translateY(-3px);
+}
+
+/* Only use justification for long book descriptions */
+
+.book-description {
     text-align: justify;
     text-justify: inter-word;
     hyphens: auto;
-    transition: all .25s ease;
+    line-height: 1.8;
 }
 
 .mini-card:hover {
