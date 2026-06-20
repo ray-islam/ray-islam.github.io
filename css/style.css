@@ -678,13 +678,44 @@ h2 {
 }
 
 .mini-card {
-    text-align: center;
-    padding: 22px;
+    padding: 24px;
     border-radius: 16px;
     border: 1px solid rgba(255,255,255,.12);
     background: rgba(255,255,255,.045);
     color: #dbe6ee;
-    line-height: 1.6;
+    line-height: 1.7;
+    font-size: 0.95rem;
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+    transition: all .25s ease;
+}
+
+.mini-card:hover {
+    border-color: rgba(103,232,249,.35);
+    transform: translateY(-3px);
+}
+
+.mini-card strong {
+    display: block;
+    text-align: center;
+    color: #f8fbff;
+    font-size: 1.15rem;
+    margin-bottom: 14px;
+}
+
+.ebook-cover {
+    width: 130px;
+    height: auto;
+    display: block;
+    margin: 0 auto 18px;
+    border-radius: 10px;
+    box-shadow: 0 12px 30px rgba(0,0,0,.5);
+}
+
+.mini-card .section-button {
+    display: table;
+    margin: 18px auto 0;
 }
 
 .mini-card strong {
