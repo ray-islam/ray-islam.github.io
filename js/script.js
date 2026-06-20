@@ -1,17 +1,25 @@
 const roles = [
-    "AI Scientist",
-    "Professor",
-    "Author",
-    "Keynote Speaker",
-    "AI Ethics Advocate",
-    "Cybersecurity Researcher",
-    "Enterprise AI Strategist"
+"AI Scientist",
+"Author of Generative AI, Cybersecurity, and Ethics",
+"Professor",
+"Technology Strategist",
+"Responsible AI Leader"
 ];
 
-let index = 0;
+let currentRole = 0;
 const roleElement = document.getElementById("rotating-role");
 
-setInterval(() => {
-    index = (index + 1) % roles.length;
-    roleElement.textContent = roles[index];
-}, 2500);
+function rotateRole() {
+roleElement.style.opacity = 0;
+
+```
+setTimeout(() => {
+    currentRole = (currentRole + 1) % roles.length;
+    roleElement.textContent = roles[currentRole];
+    roleElement.style.opacity = 1;
+}, 300);
+```
+
+}
+
+setInterval(rotateRole, 3000);
