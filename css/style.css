@@ -790,3 +790,61 @@ h2 {
         width: 110px;
     }
 }
+
+/* ==========================================
+   EVENT PHOTO PLACEHOLDERS
+========================================== */
+
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+    margin-top: 20px;
+}
+
+.photo-placeholder {
+    text-align: center;
+}
+
+.placeholder-box {
+    height: 280px;
+    border: 2px dashed rgba(103,232,249,.45);
+    border-radius: 16px;
+    background:
+        radial-gradient(circle at 30% 20%, rgba(103,232,249,.08), transparent 35%),
+        rgba(255,255,255,.035);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #67e8f9;
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: .3px;
+}
+
+.photo-placeholder p {
+    margin-top: 12px;
+    color: #c7d3dc;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+.conference-photo {
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 16px;
+    border: 1px solid rgba(255,255,255,.12);
+    box-shadow: 0 18px 45px rgba(0,0,0,.45);
+}
+
+@media (max-width: 768px) {
+    .photo-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .placeholder-box,
+    .conference-photo {
+        height: 220px;
+    }
+}
