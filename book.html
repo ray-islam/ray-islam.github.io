@@ -103,6 +103,27 @@
             margin-bottom: 16px;
         }
 
+        .featured-book-layout {
+            display: flex;
+            gap: 22px;
+            align-items: flex-start;
+        }
+
+        .featured-book-image {
+            flex: 0 0 105px;
+        }
+
+        .featured-book-image img {
+            width: 105px;
+            border-radius: 9px;
+            border: 1px solid rgba(255,255,255,.14);
+            box-shadow: 0 14px 34px rgba(0,0,0,.55);
+        }
+
+        .featured-book-content {
+            flex: 1;
+        }
+
         .highlight {
             color: #67e8f9;
             font-weight: 600;
@@ -172,6 +193,20 @@
             .book-tile.featured img {
                 width: 160px;
             }
+
+            .featured-book-layout {
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+
+            .featured-book-image {
+                flex: none;
+            }
+
+            .featured-book-image img {
+                width: 120px;
+            }
         }
     </style>
 </head>
@@ -230,27 +265,35 @@
             <div class="two-column">
 
                 <div class="compact-card">
-                    <p class="eyebrow">Published by Wiley</p>
+                    <div class="featured-book-layout">
+                        <div class="featured-book-image">
+                            <img src="assets/genai.png" alt="Generative AI, Cybersecurity, and Ethics">
+                        </div>
 
-                    <h3>Generative AI, Cybersecurity, and Ethics</h3>
+                        <div class="featured-book-content">
+                            <p class="eyebrow">Published by Wiley</p>
 
-                    <p>
-                        A practical exploration of how generative AI, cybersecurity,
-                        governance, and ethical innovation intersect in modern organizations.
-                    </p>
+                            <h3>Generative AI, Cybersecurity, and Ethics</h3>
 
-                    <p>
-                        Available in <span class="highlight">440+ universities and libraries worldwide</span>,
-                        including Harvard, Yale, MIT, Stanford, Oxford, Cambridge,
-                        University of Toronto, and National University of Singapore.
-                    </p>
+                            <p>
+                                A practical exploration of how generative AI, cybersecurity,
+                                governance, and ethical innovation intersect in modern organizations.
+                            </p>
 
-                    <p><strong>ISBN:</strong> 978-1-394-27926-5</p>
+                            <p>
+                                Available in <span class="highlight">440+ universities and libraries worldwide</span>,
+                                including Harvard, Yale, MIT, Stanford, Oxford, Cambridge,
+                                University of Toronto, and National University of Singapore.
+                            </p>
 
-                    <div class="buttons">
-                        <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265" target="_blank" rel="noopener noreferrer">Wiley</a>
-                        <a href="https://www.amazon.com/-/es/Mohammad-Rubyet-Islam/dp/1394279264" target="_blank" rel="noopener noreferrer">Amazon</a>
-                        <a href="https://www.barnesandnoble.com/w/generative-ai-cybersecurity-and-ethics-mohammad-rubyet-islam/1145560161" target="_blank" rel="noopener noreferrer">Barnes &amp; Noble</a>
+                            <p><strong>ISBN:</strong> 978-1-394-27926-5</p>
+
+                            <div class="buttons">
+                                <a href="https://www.wiley.com/en-us/Generative+AI%2C+Cybersecurity%2C+and+Ethics-p-9781394279265" target="_blank" rel="noopener noreferrer">Wiley</a>
+                                <a href="https://www.amazon.com/-/es/Mohammad-Rubyet-Islam/dp/1394279264" target="_blank" rel="noopener noreferrer">Amazon</a>
+                                <a href="https://www.barnesandnoble.com/w/generative-ai-cybersecurity-and-ethics-mohammad-rubyet-islam/1145560161" target="_blank" rel="noopener noreferrer">Barnes &amp; Noble</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
