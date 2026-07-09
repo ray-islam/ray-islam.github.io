@@ -389,16 +389,42 @@ h2 {
 .publications-page .page-hero,
 .conference-page .page-hero,
 .awards-page .page-hero {
+    position: relative;
+    overflow: hidden;
     max-width: 1180px;
     margin: 0 auto;
     padding: 48px 20px 24px;
     text-align: center;
+    background:
+        radial-gradient(circle at 20% 20%, rgba(103, 232, 249, .08), transparent 28%),
+        radial-gradient(circle at 80% 35%, rgba(56, 189, 248, .06), transparent 30%),
+        linear-gradient(180deg, #071018 0%, #05070b 100%);
+    border-radius: 24px;
+}
+
+.book-page .ai-background,
+.publications-page .ai-background,
+.conference-page .ai-background,
+.awards-page .ai-background {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    background-image:
+        linear-gradient(rgba(103, 232, 249, .08) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(103, 232, 249, .08) 1px, transparent 1px);
+    background-size: 44px 44px;
+    mask-image: radial-gradient(circle at center, black 35%, transparent 85%);
+    -webkit-mask-image: radial-gradient(circle at center, black 35%, transparent 85%);
+    opacity: .5;
 }
 
 .book-page .page-hero-content,
 .publications-page .page-hero-content,
 .conference-page .page-hero-content,
 .awards-page .page-hero-content {
+    position: relative;
+    z-index: 1;
     max-width: 760px;
     margin: 0 auto 28px;
 }
@@ -426,6 +452,8 @@ h2 {
 .publications-page .page-media-panel,
 .conference-page .page-media-panel,
 .awards-page .page-media-panel {
+    position: relative;
+    z-index: 1;
     max-width: 980px;
     margin: 0 auto;
     border-radius: 20px;
@@ -940,6 +968,7 @@ h2 {
     .conference-page .page-hero,
     .awards-page .page-hero {
         padding: 30px 16px 20px;
+        border-radius: 18px;
     }
 
     .book-page .page-hero-content h1,
@@ -981,7 +1010,8 @@ h2 {
     }
 
     .placeholder-box,
-    .conference-photo {
+    .conference-photo,
+    .photo-frame {
         height: 220px;
     }
 }
