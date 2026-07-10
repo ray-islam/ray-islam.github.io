@@ -448,53 +448,53 @@
     <!-- Existing website JavaScript -->
     <script src="js/script.js"></script>
 
-    <!-- Homepage page-view counter -->
+        <!-- Homepage page-view counter -->
     <script>
         document.addEventListener('DOMContentLoaded', function () {
-            const viewCountElement =
-                document.getElementById('view-count');
+            const viewCountElement = document.getElementById('view-count');
 
             if (!viewCountElement) {
                 return;
             }
 
             if (typeof Counter === 'undefined') {
-                console.error(
-                    'CounterAPI library could not be loaded.'
-                );
-
+                console.error('CounterAPI library could not be loaded.');
                 viewCountElement.textContent = 'Unavailable';
                 return;
             }
 
             const pageCounter = new Counter({
-                workspace: 'ray-islam-website'
+                workspace: 'ray-islam-website',
+                debug: true
             });
 
             pageCounter
                 .up('ray-islam-homepage')
                 .then(function (result) {
-                    const count = Number(result.value);
+                    console.log('CounterAPI result:', result);
 
-                    if (Number.isFinite(count)) {
+                    if (
+                        result &&
+                        result.value !== undefined &&
+                        result.value !== null
+                    ) {
                         viewCountElement.textContent =
-                            count.toLocaleString();
+                            String(result.value);
                     } else {
-                        viewCountElement.textContent =
-                            result.value;
+                        console.error(
+                            'CounterAPI returned no value:',
+                            result
+                        );
+
+                        viewCountElement.textContent = 'Unavailable';
                     }
                 })
                 .catch(function (error) {
-                    console.error(
-                        'Homepage counter error:',
-                        error
-                    );
-
-                    viewCountElement.textContent =
-                        'Unavailable';
+                    console.error('Homepage counter error:', error);
+                    viewCountElement.textContent = 'Unavailable';
                 });
         });
-    </script>
+        </script>
 
 </body>
 </html>
