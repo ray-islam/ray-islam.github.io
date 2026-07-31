@@ -19,35 +19,40 @@
 
 <body class="book-page">
 
-    <section class="page-hero">
-        <div class="page-hero-content">
-            
-            <h1>Books</h1>
-            <p class="page-subtitle">
-                Books, eBooks, and professional writing on generative AI, cybersecurity, ethics, enterprise AI, and emerging technologies.
-            </p>
-
-            <div class="buttons">
+    <header class="site-header">
+        <nav class="navbar">
+            <div class="nav-links">
                 <a href="index.html">Home</a>
                 <a href="publications.html">Publications</a>
-                <a href="conference.html">Conferences &amp; Talks</a>
-                <a href="awardsnrecognitions.html">Awards</a>
+                <a href="book.html" class="active">Books</a>
+                <a href="conference.html">Talks</a>
+                <a href="index.html#profiles">Profiles</a>
+                <a href="mailto:your-email@example.com">Contact</a>
             </div>
-        </div>
+        </nav>
+    </header>
 
-        <div class="page-media-panel">
-            <video class="page-media" autoplay muted loop playsinline preload="auto">
-                <source src="assets/videos/driving_milky_way.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-        </div>
-    </section>
+    <main class="homepage-shell">
+        <section class="hero-card">
+            <div class="page-hero-content">
+                <h1>Books</h1>
+                <p class="hero-subtitle">
+                    Books, eBooks, and professional writing on generative AI, cybersecurity, ethics, enterprise AI, and emerging technologies.
+                </p>
 
-    <section class="book-page-section">
-        <div class="compact-container">
-            <div class="book-gallery">
+                <div class="hero-actions">
+                    <a href="index.html" class="secondary-btn">Home</a>
+                    <a href="publications.html" class="outline-btn">Publications</a>
+                    <a href="conference.html" class="outline-btn">Talks</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="content-card">
+            <div class="compact-container">
+                <div class="book-gallery">
                 <a href="#genai-book" class="book-tile featured">
-                    <img src="assets/genai.png" alt="Generative AI, Cybersecurity, and Ethics">
+                    <img src="assets/genai.png" alt="Generative AI, Cybersecurity, and Ethics" class="book-tile-genai">
                     <h3>Generative AI, Cybersecurity, and Ethics</h3>
                     <p>Wiley Book</p>
                 </a>
@@ -73,7 +78,7 @@
         </div>
     </section>
 
-    <section id="genai-book" class="book-page-section">
+    <section id="genai-book" class="content-card">
         <div class="compact-container">
             <div class="two-column">
 
@@ -115,13 +120,10 @@
                     <h3>Book Introduction</h3>
 
                     <div class="video-wrap">
-                        <iframe
-                            src="https://www.youtube.com/embed/ZTrtQ_AAdrA"
-                            title="Book Introduction"
-                            frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen>
-                        </iframe>
+                        <a href="https://www.youtube.com/watch?v=ZTrtQ_AAdrA" target="_blank" rel="noopener noreferrer" class="video-link">
+                            <img src="https://img.youtube.com/vi/ZTrtQ_AAdrA/maxresdefault.jpg" alt="Book Introduction video thumbnail" class="video-thumbnail">
+                            <span class="video-link-text">Watch the book introduction on YouTube</span>
+                        </a>
                     </div>
                 </div>
 
@@ -129,7 +131,7 @@
         </div>
     </section>
 
-    <section class="book-page-section">
+    <section class="content-card">
         <div class="compact-container">
             <div class="two-column">
 
@@ -182,9 +184,9 @@
         </div>
     </section>
 
-    <section class="book-page-section">
+    <section class="content-card">
         <div class="compact-container">
-            <h2 class="section-title">Other Books &amp; eBooks</h2>
+            <h2 class="centered-heading">Other Books &amp; eBooks</h2>
 
             <div class="mini-grid">
 
@@ -244,14 +246,17 @@
         </div>
     </section>
 
-    <footer class="footer">
-        <p>Connect with Ray Islam</p>
-
-        <div class="footer-links">
-            <a href="index.html">Home</a>
-            <a href="publications.html">Publications</a>
-            <a href="conference.html">Conferences &amp; Talks</a>
-            <a href="awardsnrecognitions.html">Awards</a>
+    <footer class="content-card footer-profiles-card">
+        <div class="footer-grid">
+            <div>
+                <h3>Connect</h3>
+                <div class="profile-links">
+                    <a href="index.html">Home</a>
+                    <a href="publications.html">Publications</a>
+                    <a href="conference.html">Talks</a>
+                    <a href="awardsnrecognitions.html">Awards</a>
+                </div>
+            </div>
         </div>
     </footer>
 

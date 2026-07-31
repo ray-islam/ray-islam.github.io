@@ -16,144 +16,77 @@
     <title>Publications | Ray Islam, PhD</title>
     <link rel="stylesheet" href="css/style.css">
 
-    <style>
-        .pub-section {
-            background:
-                radial-gradient(circle at 20% 20%, rgba(103,232,249,.08), transparent 28%),
-                radial-gradient(circle at 80% 60%, rgba(56,189,248,.06), transparent 30%),
-                #05070b;
-            padding: 48px 20px;
-        }
-
-        .pub-container {
-            max-width: 1100px;
-            margin: 0 auto;
-        }
-
-        .pub-grid {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 18px;
-        }
-
-        .pub-card {
-            border: 1px solid rgba(255,255,255,.12);
-            border-radius: 16px;
-            padding: 22px;
-            background: rgba(255,255,255,.045);
-            color: #dbe6ee;
-            line-height: 1.65;
-        }
-
-        .pub-card strong {
-            color: #f8fbff;
-        }
-
-        .pub-list {
-            max-width: 1050px;
-            margin: 0 auto;
-            text-align: left;
-        }
-
-        .pub-item {
-            border-bottom: 1px solid rgba(255,255,255,.10);
-            padding: 18px 0;
-            color: #c7d3dc;
-            line-height: 1.65;
-        }
-
-        .pub-item strong {
-            color: #67e8f9;
-        }
-
-        .pub-item a {
-            color: #67e8f9;
-            text-decoration: none;
-        }
-
-        .pub-item a:hover {
-            color: #ffffff;
-        }
-
-        .compact-list {
-            max-width: 950px;
-            margin: 0 auto;
-            text-align: left;
-            color: #c7d3dc;
-            line-height: 1.8;
-        }
-
-        .compact-list p {
-            border-bottom: 1px solid rgba(255,255,255,.08);
-            padding: 12px 0;
-        }
-
-        @media (max-width: 900px) {
-            .pub-grid {
-                grid-template-columns: 1fr;
-            }
-        }
-    </style>
 </head>
 
 <body class="publications-page">
 
-    <section class="page-hero">
-        <div class="ai-background"></div>
-
-        <div class="page-hero-content">
-            <h1>Publications</h1>
-
-            <div class="buttons">
+    <header class="site-header">
+        <nav class="navbar">
+            <div class="nav-links">
                 <a href="index.html">Home</a>
+                <a href="publications.html" class="active">Publications</a>
                 <a href="book.html">Books</a>
-                <a href="conference.html">Conferences &amp; Talks</a>
-                <a href="awardsnrecognitions.html">Awards</a>
+                <a href="conference.html">Talks</a>
+                <a href="index.html#profiles">Profiles</a>
+                <a href="mailto:your-email@example.com">Contact</a>
             </div>
-        </div>
-    </section>
+        </nav>
+    </header>
 
-    <section class="pub-section">
-        <div class="pub-container">
-            <h2 class="section-title">Highlights</h2>
-
-            <div class="pub-grid">
-                <div class="pub-card">
-                    <strong>22+ Publications</strong><br><br>
-                    Peer-reviewed journals, conferences, posters, and applied AI research.
-                </div>
-
-                <div class="pub-card">
-                    <strong>4 Books</strong><br><br>
-                    Including <em>Generative AI, Cybersecurity, and Ethics</em>, published by Wiley.
-                </div>
-
-                <div class="pub-card">
-                    <strong>AI, PHM &amp; Materials Research</strong><br><br>
-                    Research spanning generative AI, software prognostics, cybersecurity, and composite materials.
+    <main class="homepage-shell">
+        <section class="hero-card">
+            <div class="page-hero-content">
+                <h1>Publications</h1>
+                <p class="hero-subtitle">Selected research, books, and professional contributions spanning AI, cybersecurity, prognostics, and education.</p>
+                <div class="hero-actions">
+                    <a href="index.html" class="secondary-btn">Home</a>
+                    <a href="book.html" class="outline-btn">Books</a>
+                    <a href="conference.html" class="outline-btn">Talks</a>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <section class="pub-section">
-        <div class="pub-container">
-            <h2 class="section-title">Text &amp; Reference Book</h2>
+        <section class="content-card">
+            <div class="pub-container">
+                <h2 class="centered-heading">Highlights</h2>
 
-            <div class="pub-card">
-                <strong>Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics.</strong>
-                Wiley, USA. ISBN: 978-1-394-27926-5.
-                <br><br>
-                <a href="book.html" class="section-button">View Book Details</a>
+                <div class="pub-grid">
+                    <div class="pub-card">
+                        <strong>22+ Publications</strong><br><br>
+                        Peer-reviewed journals, conferences, posters, and applied AI research.
+                    </div>
+
+                    <div class="pub-card">
+                        <strong>4 Books</strong><br><br>
+                        Including <em>Generative AI, Cybersecurity, and Ethics</em>, published by Wiley.
+                    </div>
+
+                    <div class="pub-card">
+                        <strong>AI, PHM &amp; Materials Research</strong><br><br>
+                        Research spanning generative AI, software prognostics, cybersecurity, and composite materials.
+                    </div>
+                </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <section class="pub-section">
-        <div class="pub-container">
-            <h2 class="section-title">Peer-Reviewed Research</h2>
+        <section class="content-card">
+            <div class="pub-container">
+                <h2 class="centered-heading">Text &amp; Reference Book</h2>
 
-            <div class="pub-list">
+                <div class="pub-card">
+                    <strong>Islam, M. R. (2025). Generative AI, Cybersecurity, and Ethics.</strong>
+                    Wiley, USA. ISBN: 978-1-394-27926-5.
+                    <br><br>
+                    <a href="book.html" class="outline-btn">View Book Details</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="content-card">
+            <div class="pub-container">
+                <h2 class="centered-heading">Peer-Reviewed Research</h2>
+
+                <div class="pub-list">
 
                 <div class="pub-item"><strong>[22.J]</strong> Islam, M. R. (2025). The evolution of alpha in finance: Harnessing human insight and LLM agents. <em>arXiv</em>. <a href="https://doi.org/10.48550/arXiv.2505.14727" target="_blank" rel="noopener noreferrer">DOI</a></div>
 
@@ -203,9 +136,9 @@
         </div>
     </section>
 
-    <section class="pub-section">
+    <section class="content-card">
         <div class="pub-container">
-            <h2 class="section-title">White Papers</h2>
+            <h2 class="centered-heading">White Papers</h2>
 
             <div class="compact-list">
                 <p>Islam, R. (2025). ML-Powered Proactive Anomaly Diagnosis for Optimized Resource Management.</p>
@@ -219,9 +152,9 @@
         </div>
     </section>
 
-    <section class="pub-section">
+    <section class="content-card">
         <div class="pub-container">
-            <h2 class="section-title">Editorial Services &amp; Membership</h2>
+            <h2 class="centered-heading">Editorial Services &amp; Membership</h2>
 
             <div class="pub-grid">
                 <div class="pub-card">
@@ -247,14 +180,17 @@
         </div>
     </section>
 
-    <footer class="footer">
-        <p>Connect with Ray Islam</p>
-
-        <div class="footer-links">
-            <a href="index.html">Home</a>
-            <a href="book.html">Books</a>
-            <a href="conference.html">Conferences &amp; Talks</a>
-            <a href="awardsnrecognitions.html">Awards</a>
+    <footer class="content-card footer-profiles-card">
+        <div class="footer-grid">
+            <div>
+                <h3>Connect</h3>
+                <div class="profile-links">
+                    <a href="index.html">Home</a>
+                    <a href="book.html">Books</a>
+                    <a href="conference.html">Talks</a>
+                    <a href="awardsnrecognitions.html">Awards</a>
+                </div>
+            </div>
         </div>
     </footer>
 
