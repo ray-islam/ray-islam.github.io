@@ -17,7 +17,6 @@
     <title>Ray Islam, PhD</title>
     <link rel="stylesheet" href="css/style.css">
 
-    <!-- CounterAPI browser library -->
     <script
         src="https://cdn.jsdelivr.net/npm/counterapi/dist/counter.browser.min.js"
         defer>
@@ -30,70 +29,70 @@
             <a href="index.html" class="brand">Ray Islam, PhD</a>
 
             <div class="nav-links">
-                <a href="#about">About</a>
+                <a href="index.html" class="active">Home</a>
+                <a href="#about-preview">About</a>
                 <a href="#research">Research</a>
                 <a href="publications.html">Publications</a>
                 <a href="book.html">Books</a>
-                <a href="conference.html">Speaking</a>
-                <a href="awardsnrecognitions.html">Awards</a>
+                <a href="conference.html">Talks</a>
+                <a href="#profiles">Profiles</a>
+                <a href="mailto:your-email@example.com">Contact</a>
             </div>
         </nav>
     </header>
 
-    <main>
-        <section class="hero">
-            <div class="split-hero">
+    <main class="homepage-shell">
 
-                <div class="hero-text">
-                    <p class="eyebrow">AI Scientist | Professor | Author</p>
-
-                    <h1>Ray Islam, PhD</h1>
-
-                    <h2>
-                        Advancing responsible AI for enterprise, finance, and society
-                    </h2>
-
-                    <p class="hero-summary">
-                        Dr. Ray Islam is an AI scientist, author, educator, and technology strategist
-                        whose work spans responsible AI, generative AI, enterprise transformation,
-                        and AI for finance.
-                    </p>
-
-                    <div class="buttons">
-                        <a href="publications.html">View Publications</a>
-                        <a href="book.html">View Book</a>
-                        <a href="conference.html">Speaking</a>
-                        <a href="awardsnrecognitions.html">Recognition</a>
+        <section class="hero-card">
+            <div class="hero-grid">
+                <div class="hero-copy">
+                    <div class="role-row">
+                        <span>AI Scientist</span>
+                        <span>Author</span>
+                        <span>Educator</span>
+                        <span>Speaker</span>
                     </div>
 
-                    <div class="metrics-grid hero-metrics">
-                        <div class="metric-card">
-                            <h3>22+</h3>
-                            <p>Publications</p>
+                    <h1>AI for a Better Future</h1>
+
+                    <p class="hero-subtitle">
+                        Advancing trustworthy, human-centered AI through research,
+                        education, and real-world impact.
+                    </p>
+
+                    <div class="hero-actions">
+                        <a href="#about-preview" class="primary-btn">Learn More About Ray</a>
+                        <a href="conference.html" class="secondary-btn">View Latest Talk</a>
+                    </div>
+
+                    <div class="hero-metrics">
+                        <div class="stat-card">
+                            <div class="stat-value">22+</div>
+                            <div class="stat-label">Publications</div>
                         </div>
 
-                        <div class="metric-card">
-                            <h3>4</h3>
-                            <p>Books</p>
+                        <div class="stat-card">
+                            <div class="stat-value">4</div>
+                            <div class="stat-label">Books</div>
                         </div>
 
-                        <div class="metric-card">
-                            <h3>Global</h3>
-                            <p>Recognition</p>
+                        <div class="stat-card">
+                            <div class="stat-value">Global</div>
+                            <div class="stat-label">Recognition</div>
                         </div>
 
-                        <div class="metric-card">
-                            <h3>20+</h3>
-                            <p>Talks</p>
+                        <div class="stat-card">
+                            <div class="stat-value">20+</div>
+                            <div class="stat-label">Talks</div>
                         </div>
                     </div>
                 </div>
 
-                <div class="hero-video-panel">
-                    <p class="video-label">Featured Talk / Welcome Video</p>
+                <div class="hero-media">
+                    <div class="panel-label">Intro Video</div>
 
                     <video
-                        class="side-video"
+                        class="hero-video"
                         controls
                         autoplay
                         muted
@@ -109,25 +108,161 @@
                         Your browser does not support the video tag.
                     </video>
 
-                    <p class="video-note">
-                        A short introduction and featured media highlight.
-                    </p>
+                    <p class="panel-caption">Featured Talk / Welcome Video</p>
                 </div>
-
             </div>
         </section>
 
-        <section id="about" class="about-section">
-            <h2 class="section-title">About</h2>
+        <section id="about-preview" class="content-card about-preview-card">
+            <div class="about-preview-grid">
+                <div class="about-preview-avatar">
+                    <img
+                        src="assets/ray-photo.jpg"
+                        alt="Portrait of Ray Islam"
+                        class="about-avatar-image"
+                    >
+                </div>
 
-            <div class="about-layout">
+                <div class="about-preview-content">
+                    <h2>About Preview</h2>
+                    <p>
+                        Ray Islam, PhD, is an AI scientist, author, educator, and
+                        technology strategist whose work sits at the intersection of
+                        artificial intelligence, data science, and human well-being.
+                        His research focuses on building intelligent systems that are
+                        trustworthy, explainable, and impactful across industries and society.
+                    </p>
+                </div>
+
+                <div class="about-preview-action">
+                    <a href="#full-about" class="outline-btn">More About Ray</a>
+                </div>
+            </div>
+        </section>
+
+        <section id="research" class="content-card research-card">
+            <h2 class="centered-heading">Research Focus</h2>
+
+            <div class="research-grid">
+                <div class="research-item">
+                    <h3>Trustworthy AI</h3>
+                    <p>Building reliable, safe, and interpretable AI systems.</p>
+                </div>
+
+                <div class="research-item">
+                    <h3>Data &amp; Knowledge</h3>
+                    <p>Extracting value from data through advanced modeling and reasoning.</p>
+                </div>
+
+                <div class="research-item">
+                    <h3>Human-Centered AI</h3>
+                    <p>Designing AI that augments human capabilities and improves well-being.</p>
+                </div>
+
+                <div class="research-item">
+                    <h3>AI in the Real World</h3>
+                    <p>Deploying AI solutions that create measurable impact across domains.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="split-section">
+            <div class="content-card feature-panel">
+                <h2>Featured Book</h2>
+
+                <div class="feature-book-layout">
+                    <div class="book-cover-box">
+                        <span>BOOK COVER</span>
+                    </div>
+
+                    <div class="feature-book-content">
+                        <h3>Generative AI, Cybersecurity, and Ethics</h3>
+                        <p class="book-subtitle">
+                            A practical exploration of AI systems, governance,
+                            cybersecurity, and ethical innovation.
+                        </p>
+
+                        <p>
+                            A timely guide to how generative AI, governance, and
+                            cybersecurity intersect in modern organizations, with
+                            practical insight for research and industry.
+                        </p>
+
+                        <a href="book.html" class="outline-btn">Learn More</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="content-card publications-panel">
+                <h2>Selected Publications</h2>
+
+                <div class="publication-list">
+                    <div class="publication-row">
+                        <div class="pub-index">1</div>
+                        <div class="pub-content">
+                            <h3>The Evolution of Alpha in Finance: Harnessing Human Insight and LLM Agents</h3>
+                            <p>Research article on AI for finance and alpha generation.</p>
+                        </div>
+                        <a href="publications.html" class="mini-link">View</a>
+                    </div>
+
+                    <div class="publication-row">
+                        <div class="pub-index">2</div>
+                        <div class="pub-content">
+                            <h3>Multimodal Generative AI for Story Point Estimation</h3>
+                            <p>Applied AI research in software engineering and estimation.</p>
+                        </div>
+                        <a href="publications.html" class="mini-link">View</a>
+                    </div>
+
+                    <div class="publication-row">
+                        <div class="pub-index">3</div>
+                        <div class="pub-content">
+                            <h3>Response Time Based Remaining Useful Life Prediction for Software Systems</h3>
+                            <p>Predictive intelligence for software systems and reliability.</p>
+                        </div>
+                        <a href="publications.html" class="mini-link">View</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="split-section">
+            <div class="content-card recognition-panel">
+                <h2>Recognition</h2>
+
+                <ul class="icon-list">
+                    <li>Marquis Who's Who Honored Listee for Excellence in Education and Technology</li>
+                    <li>1st Prize – NSERC Highly Qualified Personnel Poster Competition</li>
+                    <li>US Department of Energy Research Fellowship</li>
+                    <li>Nathan &amp; Marvin Goldman/Durham Homes Graduate Award Recipient</li>
+                    <li>Post Graduate Merit Award, Heriot-Watt University</li>
+                </ul>
+            </div>
+
+            <div class="content-card speaking-panel">
+                <h2>Speaking</h2>
+
+                <ul class="icon-list">
+                    <li>Invited Guest Speaker, TechFest: Ethical Challenges of AI/ML in Cyber Threats, University of Maryland</li>
+                    <li>Invited Guest Speaker: Applications of AI in Manufacturing, Green University</li>
+                    <li>Hackathon Judge: AI-Based Models for Cryptocurrency, Deloitte at the University of Maryland</li>
+                </ul>
+
+                <a href="conference.html" class="outline-btn">View All Talks</a>
+            </div>
+        </section>
+
+        <section id="full-about" class="content-card full-about-card">
+            <h2>About</h2>
+
+            <div class="full-about-layout">
                 <div class="photo-container">
                     <img
                         src="assets/ray-photo.jpg"
                         class="profile-photo"
                         alt="Portrait of Ray Islam"
                     >
-
                     <img
                         src="assets/honored-listee.png"
                         class="badge"
@@ -168,221 +303,51 @@
             </div>
         </section>
 
-        <section class="metrics-section">
-            <h2 class="section-title">Impact &amp; Contributions</h2>
-
-            <div class="metrics-grid">
-                <div class="metric-card">
-                    <h3>22+</h3>
-                    <p>Publications</p>
+        <section id="profiles" class="content-card footer-profiles-card">
+            <div class="footer-grid">
+                <div>
+                    <h3>Profiles</h3>
+                    <div class="profile-links">
+                        <a href="#" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+                        <a href="#" target="_blank" rel="noopener noreferrer">ORCID</a>
+                        <a href="#" target="_blank" rel="noopener noreferrer">ResearchGate</a>
+                        <a href="https://github.com/ray-islam" target="_blank" rel="noopener noreferrer">GitHub</a>
+                        <a href="#" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    </div>
                 </div>
 
-                <div class="metric-card">
-                    <h3>4</h3>
-                    <p>Books</p>
+                <div>
+                    <h3>Explore</h3>
+                    <ul class="footer-list">
+                        <li><a href="#about-preview">About</a></li>
+                        <li><a href="#research">Research</a></li>
+                        <li><a href="publications.html">Publications</a></li>
+                        <li><a href="book.html">Books</a></li>
+                    </ul>
                 </div>
 
-                <div class="metric-card">
-                    <h3>Global</h3>
-                    <p>Research Recognition</p>
+                <div>
+                    <h3>Resources</h3>
+                    <ul class="footer-list">
+                        <li><a href="conference.html">Talks</a></li>
+                        <li><a href="awardsnrecognitions.html">Recognition</a></li>
+                        <li><a href="mailto:your-email@example.com">Email</a></li>
+                    </ul>
                 </div>
 
-                <div class="metric-card">
-                    <h3>20+</h3>
-                    <p>Talks &amp; Presentations</p>
+                <div>
+                    <h3>Contact</h3>
+                    <ul class="footer-list">
+                        <li><a href="mailto:your-email@example.com">your-email@example.com</a></li>
+                        <li><span>Worldwide</span></li>
+                    </ul>
                 </div>
-            </div>
-        </section>
-
-        <section id="research" class="focus-section">
-            <h2 class="section-title">Current Research &amp; Interests</h2>
-
-            <div class="focus-list">
-                <div class="focus-item">
-                    <span>Agentic AI &amp; Autonomous Systems</span>
-                </div>
-
-                <div class="focus-item">
-                    <span>AI for Finance &amp; Alpha Generation</span>
-                </div>
-
-                <div class="focus-item">
-                    <span>
-                        Generative AI, Cybersecurity &amp; Quantitative Intelligence
-                    </span>
-                </div>
-
-                <div class="focus-item">
-                    <span>Responsible AI &amp; Enterprise AI Strategy</span>
-                </div>
-            </div>
-        </section>
-
-        <section class="book-section">
-            <h2 class="section-title">Featured Book</h2>
-
-            <div class="book-card">
-                <div class="book-info">
-                    <p class="eyebrow">Published by Wiley</p>
-
-                    <h3>Generative AI, Cybersecurity, and Ethics</h3>
-
-                    <p>
-                        A practical and timely exploration of how generative AI,
-                        cybersecurity, governance, and ethical innovation
-                        intersect in modern organizations.
-                    </p>
-
-                    <p>
-                        Available in approximately 500 universities and
-                        libraries worldwide.
-                    </p>
-
-                    <a href="book.html" class="section-button">View Books</a>
-                </div>
-            </div>
-        </section>
-
-        <section class="recognition-section">
-            <h2 class="section-title">Selected Publications</h2>
-
-            <div class="recognition-list">
-                <p>
-                    The Evolution of Alpha in Finance: Harnessing Human Insight
-                    and LLM Agents
-                </p>
-
-                <p>
-                    Multimodal Generative AI for Story Point Estimation
-                </p>
-
-                <p>
-                    Response Time Based Remaining Useful Life Prediction for
-                    Software Systems
-                </p>
-            </div>
-
-            <a href="publications.html" class="section-button">
-                View All Publications
-            </a>
-        </section>
-
-        <section class="recognition-section">
-            <h2 class="section-title">Selected Recognition</h2>
-
-            <div class="recognition-list">
-                <p>
-                    Marquis Who's Who Honored Listee for Excellence in
-                    Education and Technology
-                </p>
-
-                <p>
-                    1st Prize – NSERC Highly Qualified Personnel Poster Competition
-                </p>
-
-                <p>
-                    US Department of Energy Research Fellowship
-                </p>
-
-                <p>
-                    Nathan &amp; Marvin Goldman/Durham Homes Graduate Award Recipient
-                </p>
-
-                <p>
-                    Post Graduate Merit Award, Heriot-Watt University
-                </p>
-            </div>
-        </section>
-
-        <section class="focus-section">
-            <h2 class="section-title">Speaking &amp; Public Engagement</h2>
-
-            <div class="focus-list">
-                <div class="focus-item">
-                    <span>
-                        Invited Guest Speaker, TechFest: Ethical Challenges of
-                        AI/ML in Cyber Threats, University of Maryland
-                    </span>
-                </div>
-
-                <div class="focus-item">
-                    <span>
-                        Invited Guest Speaker: Applications of AI in
-                        Manufacturing, Green University
-                    </span>
-                </div>
-
-                <div class="focus-item">
-                    <span>
-                        Hackathon Judge: AI-Based Models for Cryptocurrency,
-                        Deloitte at the University of Maryland
-                    </span>
-                </div>
-            </div>
-
-            <a href="conference.html" class="section-button">
-                View Speaking Engagements
-            </a>
-        </section>
-
-        <section class="book-section">
-            <h2 class="section-title">Research &amp; Professional Profiles</h2>
-
-            <div class="buttons">
-                <a
-                    href="#"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    Google Scholar
-                </a>
-
-                <a
-                    href="#"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    ORCID
-                </a>
-
-                <a
-                    href="#"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    ResearchGate
-                </a>
-
-                <a
-                    href="https://github.com/ray-islam"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    GitHub
-                </a>
-
-                <a
-                    href="#"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    LinkedIn
-                </a>
-
-                <a href="mailto:your-email@example.com">Email</a>
             </div>
         </section>
     </main>
 
     <footer class="footer">
-        <p>Connect with Ray Islam</p>
-
-        <div class="footer-links">
-            <a href="book.html">Books</a>
-            <a href="publications.html">Publications</a>
-            <a href="conference.html">Conferences &amp; Talks</a>
-            <a href="awardsnrecognitions.html">Awards</a>
-        </div>
+        <p>© 2026 Ray Islam, PhD. All Rights Reserved.</p>
 
         <p class="page-view-counter">
             Page views: <strong id="view-count">Loading...</strong>
@@ -400,7 +365,6 @@
             }
 
             if (typeof Counter === 'undefined') {
-                console.error('CounterAPI library could not be loaded.');
                 viewCountElement.textContent = 'Unavailable';
                 return;
             }
@@ -423,8 +387,7 @@
                         viewCountElement.textContent = 'Unavailable';
                     }
                 })
-                .catch(function (error) {
-                    console.error('Homepage counter error:', error);
+                .catch(function () {
                     viewCountElement.textContent = 'Unavailable';
                 });
         });
