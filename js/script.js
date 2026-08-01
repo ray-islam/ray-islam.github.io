@@ -11,6 +11,7 @@ const roleElement = document.getElementById("rotating-role");
 const viewCountElement = document.getElementById("view-count");
 const visitorCountStorageKey = "ray-islam-homepage-visitor-count";
 const visitorSeenStorageKey = "ray-islam-homepage-visited";
+const counterEndpoint = "https://api.countapi.xyz/hit/ray-islam-website/home-page-visitors";
 let counterInitialized = false;
 
 function rotateRole() {
@@ -48,7 +49,7 @@ function setStoredVisitorCount(value) {
     }
 }
 
-function initializeViewCounter() {
+async function initializeViewCounter() {
     if (!viewCountElement || counterInitialized) return;
 
     counterInitialized = true;
@@ -56,18 +57,35 @@ function initializeViewCounter() {
     try {
         const hasVisitedBefore = localStorage.getItem(visitorSeenStorageKey);
 
-        if (!hasVisitedBefore) {
-            localStorage.setItem(visitorSeenStorageKey, "true");
-            const nextCount = getStoredVisitorCount() + 1;
-            setStoredVisitorCount(nextCount);
-            viewCountElement.textContent = String(nextCount);
+        if (hasVisitedBefore) {
+            viewCountElement.textContent = String(getStoredVisitorCount());
+            return;
+        }
+
+        const response = await fetch(counterEndpoint);
+
+        if (!response.ok) {
+            throw new Error(`Counter request failed with ${response.status}`);
+        }
+
+        const data = await response.json();
+        const totalVisitors = Number.parseInt(data?.value, 10);
+
+        localStorage.setItem(visitorSeenStorageKey, "true");
+
+        if (Number.isFinite(totalVisitors) && totalVisitors >= 0) {
+            setStoredVisitorCount(totalVisitors);
+            viewCountElement.textContent = String(totalVisitors);
             return;
         }
     } catch (error) {
         console.warn("Unable to track unique visitors.", error);
     }
 
-    viewCountElement.textContent = String(getStoredVisitorCount());
+    localStorage.setItem(visitorSeenStorageKey, "true");
+    const fallbackCount = getStoredVisitorCount() + 1;
+    setStoredVisitorCount(fallbackCount);
+    viewCountElement.textContent = String(fallbackCount);
 }
 
 setInterval(rotateRole, 3000);
