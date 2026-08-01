@@ -17,10 +17,6 @@
     <title>Ray Islam, PhD</title>
     <link rel="stylesheet" href="css/style.css">
 
-    <script
-        src="https://cdn.jsdelivr.net/npm/counterapi/dist/counter.browser.min.js"
-        defer>
-    </script>
 </head>
 <body class="home-page">
 
@@ -300,47 +296,10 @@
         <p>© 2026 Ray Islam, PhD. All Rights Reserved.</p>
 
         <p class="page-view-counter">
-            Page views: <strong id="view-count">Loading...</strong>
+            Unique visitors: <strong id="view-count">0</strong>
         </p>
     </footer>
 
     <script src="js/script.js"></script>
-
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            const viewCountElement = document.getElementById('view-count');
-
-            if (!viewCountElement) {
-                return;
-            }
-
-            if (typeof Counter === 'undefined') {
-                viewCountElement.textContent = 'Unavailable';
-                return;
-            }
-
-            const pageCounter = new Counter({
-                workspace: 'ray-islam-website',
-                debug: true
-            });
-
-            pageCounter
-                .up('ray-islam-homepage')
-                .then(function (result) {
-                    if (
-                        result &&
-                        result.value !== undefined &&
-                        result.value !== null
-                    ) {
-                        viewCountElement.textContent = String(result.value);
-                    } else {
-                        viewCountElement.textContent = 'Unavailable';
-                    }
-                })
-                .catch(function () {
-                    viewCountElement.textContent = 'Unavailable';
-                });
-        });
-    </script>
 </body>
 </html>
