@@ -95,6 +95,7 @@
     <a href="https://ray-islam.github.io/book.html">Books</a>
     <a href="https://ray-islam.github.io/conference.html">Conferences</a>
     <a href="https://ray-islam.github.io/awardsnrecognitions.html">Awards & Recognitions</a>
+    <a href="https://ray-islam.github.io/gallery.html">Gallery</a>
 </div>
      <p> </p>
      <p> </p>
