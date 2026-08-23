@@ -570,6 +570,7 @@ p {
 }
 
 .gallery-item {
+    width: 100%;
     margin: 0;
     overflow: hidden;
     border: 1px solid var(--border);
@@ -614,7 +615,7 @@ p {
 }
 
 .gallery-trio img {
-    height: 260px;
+    height: 320px;
 }
 
 .gallery-item:hover img {
@@ -938,6 +939,11 @@ p {
 
     .gallery-item img,
     .gallery-item-wide img {
+        height: 240px;
+    }
+
+    .gallery-pair img,
+    .gallery-trio img {
         height: 240px;
     }
 
