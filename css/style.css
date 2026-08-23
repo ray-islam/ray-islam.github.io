@@ -601,6 +601,7 @@ p {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 16px;
     align-items: stretch;
+    grid-auto-flow: column;
 }
 
 .gallery-pair img {
@@ -612,10 +613,17 @@ p {
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 16px;
     align-items: stretch;
+    grid-auto-flow: column;
 }
 
 .gallery-trio img {
     height: 320px;
+}
+
+.gallery-pair img,
+.gallery-trio img {
+    min-width: 0;
+    object-fit: contain;
 }
 
 .gallery-item:hover img {
