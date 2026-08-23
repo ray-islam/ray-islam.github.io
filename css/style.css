@@ -597,26 +597,28 @@ p {
 }
 
 .gallery-pair {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    display: flex;
+    flex-flow: row nowrap;
     gap: 16px;
     align-items: stretch;
-    grid-auto-flow: column;
 }
 
 .gallery-pair img {
+    flex: 1 1 0;
+    width: 0;
     height: 320px;
 }
 
 .gallery-trio {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    display: flex;
+    flex-flow: row nowrap;
     gap: 16px;
     align-items: stretch;
-    grid-auto-flow: column;
 }
 
 .gallery-trio img {
+    flex: 1 1 0;
+    width: 0;
     height: 320px;
 }
 
@@ -956,11 +958,11 @@ p {
     }
 
     .gallery-pair {
-        grid-template-columns: 1fr;
+        flex-direction: column;
     }
 
     .gallery-trio {
-        grid-template-columns: 1fr;
+        flex-direction: column;
     }
 
     .publication-row {
