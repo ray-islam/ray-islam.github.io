@@ -584,7 +584,8 @@ p {
 .gallery-item img {
     width: 100%;
     height: 260px;
-    object-fit: cover;
+    object-fit: contain;
+    background: #0b1118;
     border-radius: 8px;
     transition: transform 0.35s ease;
 }
