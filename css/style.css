@@ -652,8 +652,8 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 200px;
-    padding: 12px;
+    min-height: 240px;
+    padding: 14px;
     border-radius: 12px;
     border: 1px solid rgba(103, 232, 249, 0.18);
     background: rgba(103, 232, 249, 0.04);
@@ -661,7 +661,7 @@ p {
 
 .featured-book-image img {
     width: 100%;
-    max-width: 175px;
+    max-width: 220px;
     height: auto;
     object-fit: contain;
     border-radius: 8px;
@@ -696,6 +696,23 @@ p {
     border: 1px solid var(--border);
     background: rgba(255, 255, 255, 0.03);
     padding: 18px;
+}
+
+.feature-book-panel {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 20px;
+}
+
+.feature-book-panel-content {
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background: rgba(255, 255, 255, 0.03);
+    padding: 18px;
+}
+
+.feature-book-panel-header {
+    margin-bottom: 12px;
 }
 
 .mini-grid {
