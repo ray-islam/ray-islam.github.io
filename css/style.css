@@ -792,8 +792,8 @@ p {
 
 .book-gallery {
     display: grid;
-    grid-template-columns: 1.1fr 1fr 1fr 1fr;
-    gap: 12px;
+    grid-template-columns: 1.25fr 1fr 1fr 1fr;
+    gap: 14px;
     align-items: stretch;
 }
 
@@ -813,7 +813,7 @@ p {
 }
 
 .book-tile.featured {
-    padding: 14px 12px;
+    padding: 16px 12px 12px;
 }
 
 .book-tile:hover {
@@ -832,7 +832,8 @@ p {
 }
 
 .book-tile.featured img {
-    max-width: 170px;
+    max-width: 182px;
+    max-height: 250px;
 }
 
 .book-tile p {
