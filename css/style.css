@@ -792,7 +792,7 @@ p {
 
 .book-gallery {
     display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: 1.1fr 1fr 1fr 1fr;
     gap: 12px;
     align-items: stretch;
 }
@@ -812,6 +812,10 @@ p {
     transition: transform 0.2s ease, border-color 0.2s ease;
 }
 
+.book-tile.featured {
+    padding: 14px 12px;
+}
+
 .book-tile:hover {
     transform: translateY(-2px);
     border-color: rgba(103, 232, 249, 0.45);
@@ -825,6 +829,10 @@ p {
     border-radius: 10px;
     box-shadow: 0 12px 26px rgba(0, 0, 0, 0.28);
     background: #ffffff;
+}
+
+.book-tile.featured img {
+    max-width: 170px;
 }
 
 .book-tile p {
